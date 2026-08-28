@@ -188,7 +188,7 @@ This work combines distributed representations of article text and bibliographic
 
 Chandra Bhagavatula, Sergey Feldman, Russell Power, Waleed Ammar, 2018, *Proceedings of NAACL-HLT 2018*.
 
-[Paper / DOI](https://doi.org/10.18653/v1/N18-1022)
+[Paper / arXiv](https://arxiv.org/abs/1802.08301)
 
 This paper proposes a content-based citation recommendation method using document representations and candidate reranking.
 
@@ -260,13 +260,6 @@ Chaker Jebari, Enrique Herrera-Viedma, Manuel Jesus Cobo, 2023, *Scientometrics*
 
 This study compares context-aware citation recommendation approaches and identifies gaps involving citation context, temporal aspects, and benchmarking datasets.
 
-#### 26. Review of Citation Recommendation Research
-
-Xie Ruixia, Ding Jingda, Liu Chao, Liu Jing, 2023, *Library and Information Service*.
-
-[Paper / DOI](https://doi.org/10.13266/j.issn.0252-3116.2023.12.013)
-
-This review summarizes citation recommendation research based on different data types, recommendation methods, and deep-learning approaches.
 
 ## Datasets
 
