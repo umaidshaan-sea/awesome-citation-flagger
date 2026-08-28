@@ -1,63 +1,77 @@
-
 # Datasets
 
-Relevant datasets for research on scholarly literature, citation analysis, citation contexts, and scientific paper recommendation are collected below. These datasets can support the development and evaluation of an automated pipeline for flagging potentially outdated citations in AI-recommended literature.
-
-## 1. OpenAlex
-
-**Source:** OpenAlex
-
-**Description:**  
-OpenAlex is an open catalog of scholarly works, authors, institutions, sources, topics, and citation relationships. It provides bibliographic metadata and information about relationships between scholarly publications.
-
-**Application:**  
-OpenAlex can be used to retrieve publication dates, citation counts, references, authors, and related scholarly works. For this project, these data can help compare the age of a cited paper with newer research and identify citations that may require further review.
-
-**Link:**  
-[OpenAlex](https://openalex.org/)
-
-[OpenAlex Documentation](https://docs.openalex.org/)
+This section contains datasets relevant to scholarly literature analysis, citation relationships, scientific-paper processing, and citation-context analysis. These datasets can support the development of an automated pipeline for identifying and flagging potentially outdated citations in AI-recommended literature.
 
 ---
 
-## 2. Semantic Scholar Open Research Corpus (S2ORC)
+## 1. S2ORC — Semantic Scholar Open Research Corpus
 
-**Source:** Allen Institute for AI / Semantic Scholar
+**GitHub Dataset:**  
+https://github.com/allenai/s2orc
 
 **Description:**  
-The Semantic Scholar Open Research Corpus (S2ORC) is a general-purpose corpus for natural language processing and text-mining research over scientific papers. It provides machine-readable scientific-paper information and is now available through the Semantic Scholar data platform. :contentReference[oaicite:0]{index=0}
+S2ORC (Semantic Scholar Open Research Corpus) is a large-scale corpus of scientific papers designed for natural language processing and text-mining research. It contains machine-readable scholarly literature and information related to scientific documents and citations. The original dataset has since been integrated into the Semantic Scholar dataset infrastructure. :contentReference[oaicite:0]{index=0}
 
-**Application:**  
-S2ORC can be used to analyze scientific text, references, and citation information. For this project, it can support citation-context analysis and help determine whether newer research provides updated information related to an older cited source.
+**Why it is related to this topic:**  
+S2ORC is highly relevant to **An Automated Pipeline for Flagging Outdated Citations in AI-Recommended Literature** because the project requires scholarly papers and citation information to identify older references and compare them with related research. It can support citation analysis, scientific-paper retrieval, and identification of newer literature that may supersede or provide updated information compared with an older citation.
 
-**Link:**  
-[S2ORC Dataset](https://github.com/allenai/s2orc)
-
-[Semantic Scholar Datasets](https://www.semanticscholar.org/product/api)
+**Use in the project:**
+- Analyze scientific papers and bibliographic information.
+- Examine citation relationships.
+- Retrieve related scholarly literature.
+- Compare older cited papers with newer research.
+- Support automated citation-age and relevance analysis.
 
 ---
 
-## 3. SciCite
+## 2. PeerRead
 
-**Source:** Allen Institute for AI
+**GitHub Dataset:**  
+https://github.com/allenai/PeerRead
 
 **Description:**  
-SciCite is a dataset developed for citation-intent prediction in scientific publications. It provides examples for classifying the purpose or intent of citations within scientific text. The dataset was released with the research work on structural scaffolds for citation-intent classification. :contentReference[oaicite:1]{index=1}
+PeerRead is a dataset of scientific paper drafts and peer reviews. The dataset contains more than 14,000 paper drafts and more than 10,000 textual peer reviews from research venues including ACL, NIPS, and ICLR. Its structured data also includes paper metadata, references, and reference mentions with citation contexts. :contentReference[oaicite:1]{index=1}
 
-**Application:**  
-SciCite can be used to analyze how citations function within scientific writing. For this project, citation-intent information can help distinguish different uses of references and provide contextual evidence when evaluating whether an older citation is still appropriate for a particular claim.
+**Why it is related to this topic:**  
+PeerRead is relevant because an automated citation-auditing pipeline needs to understand **how references are used within scientific papers**. Its reference and reference-mention information can support analysis of citation contexts and the relationship between a citation and the surrounding research claim.
 
-**Link:**  
-[SciCite Dataset and Project](https://github.com/allenai/scicite)
+**Use in the project:**
+- Analyze scientific-paper text.
+- Extract and examine references.
+- Study citation contexts.
+- Analyze reference mentions within papers.
+- Support research-paper and citation analysis.
 
 ---
 
-## Dataset Relevance
+## 3. CiteSeer Dataset
 
-| Dataset | Main Information | Application in This Project |
+**GitHub Dataset:**  
+https://github.com/ZPowerZ/citeseer-dataset
+
+**Description:**  
+The CiteSeer dataset repository contains a collection of 3,312 scientific papers together with their citation relationships. It provides two main files: `citeseer.content`, containing paper descriptions and class labels, and `citeseer.cites`, containing the citation graph between papers. :contentReference[oaicite:2]{index=2}
+
+**Why it is related to this topic:**  
+CiteSeer is directly useful for **citation-network analysis**, which is an important component of identifying potentially outdated citations. The citation graph can be used to examine which papers cite other papers and to study relationships between older and newer publications.
+
+**Use in the project:**
+- Analyze citation networks.
+- Examine citing and cited papers.
+- Study relationships between scientific publications.
+- Support citation-ranking and graph-based analysis.
+- Identify citation patterns that may indicate outdated references.
+
+---
+
+## Dataset Comparison
+
+| Dataset | Main Data | Relevance to Project |
 |---|---|---|
-| **OpenAlex** | Scholarly metadata and citation relationships | Analyze citation age, publication dates, citation activity, and newer related research |
-| **S2ORC** | Machine-readable scientific papers and text | Analyze scientific text, references, and citation contexts |
-| **SciCite** | Citation-intent information | Analyze the purpose and context of citations |
+| **S2ORC** | Scientific papers and citation-related information | Finding and comparing scholarly literature and citations |
+| **PeerRead** | Paper text, references, and citation contexts | Understanding how citations are used in research papers |
+| **CiteSeer** | Papers and citation graph | Analyzing relationships between cited and citing papers |
 
-These datasets provide complementary information for an automated citation-auditing pipeline. OpenAlex can support bibliographic and temporal analysis, S2ORC can support scientific-text and reference analysis, and SciCite can support citation-context and citation-intent analysis.
+## Most Relevant Dataset
+
+Among these datasets, **S2ORC is the most relevant** to this project because the proposed pipeline needs a large collection of scholarly papers and citation information to compare existing citations with newer research. **PeerRead** is particularly useful for citation-context analysis, while **CiteSeer** is useful for studying citation-network relationships.
