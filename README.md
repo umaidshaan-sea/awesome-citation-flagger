@@ -1,4 +1,6 @@
-# Awesome An Automated Pipeline for Flagging Outdated Citations in AI-Recommended Literature
+# Awesome Citation Flagger
+
+## An Automated Pipeline for Flagging Outdated Citations in AI-Recommended Literature
 
 A curated research repository on **An Automated Pipeline for Flagging Outdated Citations in AI-Recommended Literature**. It brings together verified scholarly papers, relevant datasets, useful tools and libraries, existing GitHub implementations, and authoritative learning resources related to identifying and flagging outdated citations in AI-recommended literature.
 
@@ -291,15 +293,109 @@ Each implementation includes a brief description and its relevance to the resear
 [View GitHub Implementations](implementations/github-repositories.md)
 
 ## Tutorials and Learning Resources
+# Tutorials and Learning Resources
 
-Authoritative tutorials, documentation, lectures, educational materials, and benchmark resources related to scholarly information retrieval, citation analysis, literature recommendation, and AI-assisted research.
+This section contains authoritative tutorials, documentation, research resources, and learning materials related to scholarly literature retrieval, citation analysis, citation recommendation, scientific document processing, and AI-assisted research.
 
-- [ACL Anthology](https://aclanthology.org/) — Research papers and resources in computational linguistics and natural language processing.
-- [Semantic Scholar](https://www.semanticscholar.org/) — AI-powered scholarly literature search and discovery.
-- [Crossref](https://www.crossref.org/) — Scholarly metadata and DOI registration resources.
-- [Google Scholar](https://scholar.google.com/) — Scholarly literature search and citation discovery.
-- [OpenAlex](https://openalex.org/) — Open catalog of scholarly works, authors, institutions, and citation relationships.
+---
 
+## 1. Semantic Scholar API Tutorial
+
+**Resource:**  
+https://www.semanticscholar.org/product/api
+
+**Description:**  
+The Semantic Scholar API provides guidance for searching scientific papers, retrieving paper information, obtaining recommendations, and working with scholarly data.
+
+**Useful for:**
+- Paper search
+- Paper metadata
+- Related-paper discovery
+- Recommendations
+
+---
+
+## 2. OpenAlex API Documentation
+
+**Resource:**  
+https://docs.openalex.org/
+
+**Description:**  
+OpenAlex provides an API for accessing scholarly works, authors, sources, institutions, topics, and citation relationships.
+
+**Useful for:**
+- Scholarly metadata
+- Citation relationships
+- Publication dates
+- Literature search
+
+---
+
+## 3. GROBID Documentation
+
+**Resource:**  
+https://grobid.readthedocs.io/
+
+**GitHub:**  
+https://github.com/grobidOrg/grobid
+
+**Description:**  
+GROBID is a machine-learning tool for extracting and restructuring information from scientific documents, including bibliographic metadata and references.
+
+**Useful for:**
+- Scientific PDF processing
+- Reference extraction
+- Metadata extraction
+
+---
+
+## 4. SPECTER: Scientific Document Representation Learning
+
+**Resource:**  
+https://aclanthology.org/2020.acl-main.207/
+
+**GitHub:**  
+https://github.com/allenai/specter
+
+**Description:**  
+SPECTER is a scientific-document representation model that uses citation relationships to learn representations of research papers and identify related scientific documents.
+
+**Useful for:**
+- Paper embeddings
+- Paper similarity
+- Related-paper retrieval
+
+---
+
+## 5. Content-Based Citation Recommendation
+
+**Resource:**  
+https://aclanthology.org/N18-1022/
+
+**Description:**  
+This research resource presents a content-based approach for recommending citations in academic papers using document representations, candidate retrieval, and citation ranking.
+
+**Useful for:**
+- Citation recommendation
+- Candidate retrieval
+- Citation ranking
+
+---
+
+## 6. Context-Based Citation Recommendation
+
+**Resource:**  
+https://aclanthology.org/L16-1274/
+
+**Description:**  
+This research resource studies context-based citation recommendation and the use of scientific concepts and contextual information to improve citation recommendations.
+
+**Useful for:**
+- Citation context
+- Citation recommendation
+- Relevance analysis
+
+---
 ## License
 
 This repository's original content is provided under the selected repository license. External papers, datasets, software, documentation, and other resources linked in this repository remain subject to their respective licenses and copyright terms.
