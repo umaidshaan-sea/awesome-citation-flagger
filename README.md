@@ -36,7 +36,7 @@ The repository organizes relevant scholarly research and supporting resources in
 
 This paper presents research on an automated pipeline for identifying and flagging potentially outdated citations in literature recommended by artificial intelligence systems. It discusses the problem of citation outdatedness and explores approaches for analyzing scholarly references and identifying citations that may require further verification.
 
-[View AI-Assisted Research Paper](paper/AI_Assisted_Research_Paper.pdf)
+[View AI-Assisted Research Paper](paper/AI_Assisted_research_paper.pdf)
 
 ## Citation Integrity Audit
 
