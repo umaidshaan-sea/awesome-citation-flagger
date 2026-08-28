@@ -1,105 +1,140 @@
-
 # GitHub Implementations
 
-This section contains existing GitHub implementations related to scientific paper recommendation, citation recommendation, citation analysis, and automated scholarly literature discovery. These implementations provide practical examples of technologies and approaches relevant to developing an automated pipeline for flagging potentially outdated citations in AI-recommended literature.
+This section contains existing GitHub implementations related to citation recommendation, citation-context analysis, scientific-paper representation, and scholarly literature recommendation. These projects provide practical approaches that are relevant to developing an automated pipeline for flagging potentially outdated citations in AI-recommended literature.
 
-## 1. Citeomatic
+---
 
-**Repository:** AllenAI Citeomatic
+## 1. BERT-GCN for Paper Citation
 
-**What it implements:**  
-Citeomatic is an open-source citation recommendation system designed to help users find relevant citations for research-paper drafts. The repository contains code for training and evaluating citation recommendation models and includes trained models and instructions for reproducing the associated research. It is backed by the Semantic Scholar OpenCorpus dataset. :contentReference[oaicite:1]{index=1}
+**GitHub:**  
+https://github.com/TeamLab/bert-gcn-for-paper-citation
 
-**Why it is relevant:**  
-Citeomatic is directly related to citation recommendation. Its approach provides a useful reference point for the recommendation stage of an automated pipeline. A citation-auditing system could build on similar recommendation techniques and add a temporal verification stage to identify potentially outdated citations.
+**Description:**  
+This project implements a context-aware citation recommendation model that combines BERT with Graph Convolutional Networks (GCN). The repository provides code for citation recommendation and includes the **FullTextPeerRead** dataset, which was created by processing the original PeerRead dataset. The dataset contains citing and cited paper IDs, citation-context text, and publication years. :contentReference[oaicite:1]{index=1}
+
+**Dataset Used:**  
+PeerRead / FullTextPeerRead
+
+**Relevance to the Topic:**  
+This is one of the most directly relevant implementations for the project because it combines **citation context, paper metadata, publication years, and citation relationships**. These features can be adapted to compare an existing citation with newer research and identify citations that may be outdated.
+
+**GitHub Repository:**  
+https://github.com/TeamLab/bert-gcn-for-paper-citation
+
+---
+
+## 2. SCINCL — Scientific Document Representations with Citation Embeddings
+
+**GitHub:**  
+https://github.com/malteos/scincl
+
+**Description:**  
+SCINCL is an implementation for learning scientific document representations using citation embeddings and neighborhood contrastive learning. The project uses **S2ORC** data and includes experiments involving citation graphs, scientific-paper representations, and the SciDocs benchmark. :contentReference[oaicite:2]{index=2}
+
+**Dataset Used:**  
+S2ORC
+
+**Relevance to the Topic:**  
+The project is relevant because an automated outdated-citation pipeline needs to compare scientific papers and determine relationships between older and newer research. Citation-based document representations can help retrieve papers that are semantically or bibliographically related to an existing citation.
+
+**GitHub Repository:**  
+https://github.com/malteos/scincl
+
+---
+
+## 3. Citeomatic
 
 **GitHub:**  
 https://github.com/allenai/citeomatic
 
+**Description:**  
+Citeomatic is an open-source citation recommendation system developed for recommending relevant citations for scientific documents. It provides implementation components for training and evaluating citation recommendation models.
+
+**Dataset Used:**  
+Scientific-paper and citation data used for citation recommendation experiments.
+
+**Relevance to the Topic:**  
+Citation recommendation is an important component of the proposed pipeline. Citeomatic provides a useful starting point for generating **alternative or newer candidate citations** that can subsequently be checked against the age and relevance of an existing citation.
+
+**GitHub Repository:**  
+https://github.com/allenai/citeomatic
+
 ---
 
-## 2. Citation Recommendation based on Citation Contexts
-
-**Repository:** Citation Recommendation based on Citation Contexts
-
-**What it implements:**  
-This project implements a scientific article recommendation system that recommends relevant citations based on citation contexts. It uses information-retrieval approaches including query expansion, spelling correction, BM25, TF-IDF, and latent semantic indexing. :contentReference[oaicite:2]{index=2}
-
-**Why it is relevant:**  
-Citation context is important when determining whether a reference actually supports a particular claim. This implementation provides a practical example of using citation context for citation recommendation and can inform the citation-context analysis component of an outdated-citation detection pipeline.
+## 4. SPECTER — Scientific Document Embeddings
 
 **GitHub:**  
-https://github.com/prabhat1081/Citation-Recommendation-based-on-citation-contexts
+https://github.com/allenai/specter
+
+**Description:**  
+SPECTER is an implementation of a document-level representation model designed specifically for scientific papers. It learns scientific document representations using citation-informed training, allowing papers to be represented in a space where related scientific documents can be identified.
+
+**Dataset Used:**  
+Semantic Scholar scientific-paper data and citation relationships.
+
+**Relevance to the Topic:**  
+SPECTER is highly relevant to the **literature-retrieval stage** of an outdated-citation pipeline. Given an older cited paper, scientific document embeddings can be used to retrieve semantically related papers, including newer publications that may provide more current evidence.
+
+**GitHub Repository:**  
+https://github.com/allenai/specter
 
 ---
 
-## 3. Citation Recommendation for Research Papers via Knowledge Graphs
-
-**Repository:** Citation Recommendation for Research Papers via Knowledge Graphs
-
-**What it implements:**  
-This implementation provides source code for a citation recommendation approach based on knowledge graphs. It uses citation information and scientific-paper representations and includes code for constructing citation graphs and performing citation-recommendation ranking. The repository also uses SPECTER embeddings and other scientific-text representations. :contentReference[oaicite:3]{index=3}
-
-**Why it is relevant:**  
-Citation networks and knowledge graphs can help identify relationships between papers. These relationships can be useful for finding newer papers connected to an older citation and determining whether a cited work may have been superseded by later research.
-
-**GitHub:**  
-https://github.com/arthurbrack/citation-recommendation-kg
-
----
-
-## 4. PaperFlow
-
-**Repository:** OpenRaiser PaperFlow
-
-**What it implements:**  
-PaperFlow is a scientific-paper recommendation and research workflow system. It supports personalized paper discovery, paper ranking, reading, feedback, and adaptive recommendations. It provides command-line and local browser interfaces for discovering and managing research papers. :contentReference[oaicite:4]{index=4}
-
-**Why it is relevant:**  
-PaperFlow demonstrates how automated scientific-paper recommendation can be incorporated into a complete research workflow. Its recommendation and feedback mechanisms are relevant to the AI-recommended-literature component of this project. An outdated-citation pipeline could operate as an additional verification layer after papers are recommended.
-
-**GitHub:**  
-https://github.com/OpenRaiser/PaperFlow
-
----
-
-## 5. NLP-based Scientific Article Suggestion System
-
-**Repository:** SWE-599 NLP-based Scientific Article Suggestion System
-
-**What it implements:**  
-This project implements an NLP-based academic paper recommendation system. It monitors publications using the OpenAlex API and matches newly published papers against researcher profiles using a two-stage retrieval-augmented generation (RAG) pipeline. :contentReference[oaicite:5]{index=5}
-
-**Why it is relevant:**  
-The project demonstrates the use of OpenAlex, NLP, retrieval, and RAG for scientific-paper recommendation. These technologies are relevant to identifying newer research that could be compared with citations produced by an AI recommendation system.
-
-**GitHub:**  
-https://github.com/senaoz/SWE-599
-
----
-
-## 6. S2ORC
-
-**Repository:** Semantic Scholar Open Research Corpus
-
-**What it implements:**  
-S2ORC is an open research corpus and associated software for machine-readable scientific papers. The repository provides resources for working with scientific-paper metadata and full text and includes tools such as `s2orc-doc2json` for converting scientific documents into structured JSON. :contentReference[oaicite:6]{index=6}
-
-**Why it is relevant:**  
-S2ORC is highly relevant to automated citation analysis because scientific papers contain references and citation mentions that can be processed computationally. Structured paper information can be used as input for extracting citations, analyzing citation contexts, and comparing cited papers with newer literature.
+## 5. S2ORC — Scientific Paper Processing
 
 **GitHub:**  
 https://github.com/allenai/s2orc
 
+**Description:**  
+The S2ORC repository provides the original code and documentation associated with the Semantic Scholar Open Research Corpus. S2ORC was designed for NLP and text-mining research over scientific papers and includes machine-readable scientific-paper information. The current S2ORC data is maintained through the Semantic Scholar dataset infrastructure. :contentReference[oaicite:3]{index=3}
+
+**Dataset Used:**  
+S2ORC
+
+**Relevance to the Topic:**  
+S2ORC is relevant because the proposed system requires large-scale scholarly documents and citation information. It can support **citation extraction, paper comparison, literature retrieval, and identification of newer research** related to an older citation.
+
+**GitHub Repository:**  
+https://github.com/allenai/s2orc
+
 ---
 
-## Summary
+## 6. PeerRead
 
-| Implementation | Main Function | Relevance |
-|---|---|---|
-| **Citeomatic** | Citation recommendation | Provides a foundation for recommending relevant citations |
-| **Citation Recommendation based on Citation Contexts** | Context-based citation recommendation | Supports citation-context analysis |
-| **Citation Recommendation via Knowledge Graphs** | Knowledge-graph citation recommendation | Supports citation-network and related-paper analysis |
-| **PaperFlow** | Personalized scientific-paper recommendation | Demonstrates automated literature discovery and recommendation |
-| **NLP-based Scientific Article Suggestion System** | NLP/RAG paper recommendation | Demonstrates finding newer and relevant research |
-| **S2ORC** | Scientific-paper processing and corpus resources | Supports automated paper, reference, and citation analysis |
+**GitHub:**  
+https://github.com/allenai/PeerRead
+
+**Description:**  
+PeerRead provides both data and code for analyzing scientific papers and peer reviews. The repository contains more than 14,000 paper drafts, review information, and code for processing and predicting aspects of scientific papers. :contentReference[oaicite:4]{index=4}
+
+**Dataset Used:**  
+PeerRead
+
+**Relevance to the Topic:**  
+PeerRead is relevant because it provides scientific-paper text and structured research-paper information. It is particularly useful for studying how citations and references occur within scientific documents and forms the basis for the **FullTextPeerRead** dataset used by the BERT-GCN citation-recommendation implementation.
+
+**GitHub Repository:**  
+https://github.com/allenai/PeerRead
+
+---
+
+## Implementation Summary
+
+| Implementation | Dataset / Data | Main Purpose | Relevance |
+|---|---|---|---|
+| **BERT-GCN for Paper Citation** | PeerRead / FullTextPeerRead | Context-aware citation recommendation | Citation context, publication years, and citation relationships |
+| **SCINCL** | S2ORC | Scientific document representation | Finding related and newer research |
+| **Citeomatic** | Citation recommendation data | Citation recommendation | Generating alternative candidate citations |
+| **SPECTER** | Semantic Scholar data | Scientific document embeddings | Retrieving semantically related papers |
+| **S2ORC** | S2ORC | Scientific-paper processing | Citation and literature analysis |
+| **PeerRead** | PeerRead | Scientific-paper analysis | Paper and citation-context research |
+
+## Most Relevant Implementations for This Project
+
+The three implementations most closely related to **An Automated Pipeline for Flagging Outdated Citations in AI-Recommended Literature** are:
+
+1. **BERT-GCN for Paper Citation** — useful for citation-context and citation-year analysis.
+2. **SCINCL** — useful for finding related scientific papers using citation-based representations.
+3. **SPECTER** — useful for retrieving semantically related scientific papers that can serve as newer alternatives.
+
+Together, these approaches can support several stages of the proposed pipeline: **citation-context analysis → related-paper retrieval → comparison with newer literature → outdated-citation flagging**.
