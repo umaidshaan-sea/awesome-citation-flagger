@@ -19,7 +19,6 @@ COL={'blue':'#1e497b','cyan':'#168ba0','orange':'#c66b30','green':'#2c7961','gra
 def save(fig,name):
     fig.savefig(F/f'{name}.png',dpi=230,bbox_inches='tight',facecolor='white')
     fig.savefig(F/f'{name}.pdf',bbox_inches='tight',facecolor='white')
-    fig.savefig(ROOT/'paper/figures'/f'{name}.pdf',bbox_inches='tight',facecolor='white')
     plt.close(fig)
 
 def diagram():
@@ -114,7 +113,6 @@ def write_table(s,name):
     if name == 'comparative_metrics_table':
         s = s.replace(r'\begin{tabular}{lrrrrrrrr}', r'\resizebox{\textwidth}{!}{\begin{tabular}{lrrrrrrrr}').replace(r'\end{tabular}', r'\end{tabular}}')
     (T/f'{name}.tex').write_text(s,encoding='utf-8')
-    (ROOT/'paper/tables'/f'{name}.tex').write_text(s,encoding='utf-8')
 
 def tables():
     table=r'''\begin{table*}[t]

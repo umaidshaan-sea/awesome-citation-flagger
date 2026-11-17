@@ -1,19 +1,16 @@
 """Re-analyze the 2026-11-04 archived API JSON, without network calls.
 
 Use from repository root: python3 scripts/reanalyze_cached.py
-The frozen benchmark is not modified. Original computed results are retained in audit/.
+The frozen benchmark is not modified. The previous classifier is retained only for the diagnostic comparison.
 """
 from pathlib import Path
-import json, hashlib, sys, difflib, re, importlib.util
+import json, hashlib, sys, difflib, re
 import pandas as pd
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
 from src.core import doi, openalex, crossref, combine
 from src.metrics import evaluate
-legacy_path=ROOT/'audit/original_scripts/core_legacy.py'
-legacy_spec=importlib.util.spec_from_file_location('legacy_core',legacy_path)
-legacy_module=importlib.util.module_from_spec(legacy_spec)
-legacy_spec.loader.exec_module(legacy_module)
+from src import legacy_core as legacy_module
 
 
 def read_cache(provider, identifier):

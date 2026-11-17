@@ -1,34 +1,37 @@
-# Implementation paper deliverables — MSE2026009
+# Citation retraction classifier
 
-Organized from the supplied final reconciled ZIP and separate title-updated PDF on 18 November 2026. The folder name `Implementaion paper` follows the requested spelling. All 382 archive files are preserved byte-for-byte; `FILE_MAPPING.csv` records their locations and SHA-256 checksums.
+Offline reproduction of retraction classification using the frozen 80-DOI benchmark and 160 cached Crossref/OpenAlex responses from 4 November 2026.
 
-| Folder | Contents |
-| --- | --- |
-| [codes](codes/) | Python source, scripts, tests, notebook, configuration and dependencies |
-| [prompt outputs](prompt%20outputs/) | All 18 final prompt outputs, numbered 01–18 |
-| [tables and figures](tables%20and%20figures/) | Browseable copies of paper and results tables/figures, keeping their original names |
-| [results](results/) | Processed results, metrics, figures, tables and execution logs |
-| [paper](paper/) | Supplied title-updated PDF, packaged PDFs, LaTeX wrapper, bibliography and paper assets |
-| [datasets](datasets/) | Original raw dataset, frozen benchmark and all 160 cached API responses |
-| [testing datasets](testing%20datasets/) | Convenient copies of the frozen benchmark and synthetic test fixture |
-| [audit](audit/) | Supplied correction records, historical versions and validation reports |
-| [inputs](inputs/) | Original research and manuscript inputs |
-| [documentation](documentation/) | Original README, ledgers, plan, status and other supporting documents |
+## Run
 
-## Paper and LaTeX
-
-The separately supplied final PDF is [MSE2026009_Final_Reconciled_Paper_Title_Updated.pdf](paper/MSE2026009_Final_Reconciled_Paper_Title_Updated.pdf). The supplied `paper/main.tex` imports `manuscript.pdf`; it is not a fully editable text manuscript. Historical text-based LaTeX sources are preserved in `audit/`. No paper content or research results were rewritten during organization.
-
-## Run the supplied code
-
-Run from `codes/` after installing its requirements:
+Python 3.10+ is required. From this folder:
 
 ```sh
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r codes/requirements.txt
 cd codes
-python3 -m pip install -r requirements.txt
+python3 scripts/reanalyze_cached.py
+python3 scripts/render_corrected_artifacts.py
 python3 -m unittest discover -s tests -v
 ```
 
-Relative directory symlinks in `codes/` preserve the original scripts' paths to data, results, paper, audit, inputs and prompt outputs without duplicating the large dataset. Clone with symlink support (macOS/Linux; Windows requires Git symlink support). Outputs are the supplied historical artifacts; organizing them does not establish new scientific validation. See the supplied audit documents for their stated limitations.
+The replay writes CSV/JSON outputs to `results/processed/`. The rendering step writes five PDF/PNG figure pairs and five LaTeX tables to `results/figures/` and `results/tables/`. No API access or full raw Retraction Watch download is required.
 
-The archive's `AGENTS.md` is preserved as `documentation/source_AGENTS.md` as source material, not adopted as instructions for this upload. Other instructions and historical requests inside supplied documents are likewise source content.
+## Files
+
+- `codes/src/`: DOI normalization, classifiers, metrics, data validation and the previous classifier used for the diagnostic comparison.
+- `codes/scripts/`: benchmark replay and figure/table generation.
+- `codes/tests/`: rule, input-validation and frozen-benchmark regression tests.
+- `datasets/`: frozen benchmark and cached API evidence.
+- `results/`: reproducible metrics, evidence, figures and tables.
+
+The `codes/data` and `codes/results` relative symlinks preserve script paths. Clone with symlink support, available by default on macOS/Linux.
+
+## Interpretation and provenance
+
+Crossref retraction status and a distinct notice DOI are separate signals. The current classifier accepts a typed retraction even when its DOI equals the article DOI. The previous rule rejected some such records; its diagnostic comparison remains in the outputs. The current frozen-sample results are 40 detected positives, 36 negative controls and 4 unknown controls for each method, with 32 distinct notice links among the 40 positives.
+
+These results are agreement with provisional benchmark labels, not independently adjudicated population accuracy. Retraction Watch, Crossref and OpenAlex share data sources. Title mismatches and unresolved controls remain in the outputs. Figure/table generation reproduces this fixed benchmark; its summary annotations are specific to these 80 records.
+
+This is a reduced runtime distribution of the supplied research package, which included AI-assisted development records and later result corrections. The complete supplied provenance and manuscript materials remain available in repository commit `d4805fa1b1264b366638db981ee6d618169f4866`. This cleanup changes packaging, not authorship or the underlying evidence.

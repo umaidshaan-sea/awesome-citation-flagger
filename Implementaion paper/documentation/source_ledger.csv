@@ -1,9 +1,0 @@
-source_id,title,authors_or_organization,year,doi_or_url,verification_basis,study_use
-S01,Structural Scaffolds for Citation Intent Classification in Scientific Publications,"Arman Cohan; Waleed Ammar; Madeleine van Zuylen; Field Cady",2019,https://doi.org/10.18653/v1/N19-1361,ACL Anthology official article page,background on citation intent
-S02,Inconsistent and incomplete retraction of published research: A cross-sectional study on Covid-19 retractions and recommendations to mitigate risks for research policy and practice,"Geoff Frampton; Lois Woods; David Alexander Scott",2021,https://doi.org/10.1371/journal.pone.0258935,PLOS official article page,background on retraction visibility
-S03,OpenAlex: A fully-open index of scholarly works authors venues institutions and concepts,"Jason Priem; Heather Piwowar; Richard Orr",2022,https://arxiv.org/abs/2205.01833,arXiv article page,provider background
-S04,Retraction Watch retractions now in the Crossref API,Crossref,2025,https://www.crossref.org/blog/retraction-watch-retractions-now-in-the-crossref-api/,Crossref official announcement,Retraction Watch integration and source field
-S05,Retraction Watch documentation,Crossref,2026,https://www.crossref.org/documentation/retrieve-metadata/retraction-watch/,Crossref official documentation,data access and provenance
-S06,Works attributes is_retracted,OpenAlex,2026,https://help.openalex.org/data/works/attributes/,OpenAlex official documentation,describes source overlap and status field
-S07,Registering updates,Crossref,2026,https://www.crossref.org/documentation/register-maintain-records/maintaining-your-metadata/registering-updates/,Crossref official documentation,notice relationship semantics
-S08,Retraction Watch public CSV repository,Crossref,2026,https://gitlab.com/crossref/retraction-watch-data,Archived CSV SHA-256 independently recalculated but commit not independently proven,positive benchmark source

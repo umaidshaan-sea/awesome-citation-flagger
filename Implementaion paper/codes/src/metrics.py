@@ -2,7 +2,6 @@ import pandas as pd
 
 def evaluate(rows):
     # Benchmark-label agreement only. These input labels are NOT independently adjudicated.
-    # See scripts/score_verified.py for the additional independent-adjudication gate.
     df = pd.DataFrame(rows)
     if df.empty or 'gold_label' not in df:
         raise ValueError('No labeled records')
