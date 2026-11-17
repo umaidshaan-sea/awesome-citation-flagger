@@ -1,0 +1,756 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.nucmedbio.2020.06.003",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.nucmedbio.2020.06.003",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:02.902107+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T14:27:28Z",
+      "timestamp": 1777645648162,
+      "version": "3.51.4"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1016/j.nucmedbio.2020.06.003",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        }
+      }
+    ],
+    "reference-count": 28,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100010096",
+        "name": "Southern Medical University",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2015C004"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2015C004"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010096",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100012245",
+        "name": "Science and Technology Planning Project of Guangdong Province",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2014A020212175"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2014A020212175"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100012245",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010096",
+        "name": "Southern Medical University",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2018Z003"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2018Z003"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010096",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Nuclear Medicine and Biology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.nucmedbio.2020.06.003",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2020-06-15T02:01:19Z",
+      "timestamp": 1592186479000
+    },
+    "page": "1-9",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "special_numbering": "C",
+    "title": [
+      "RETRACTED: Radiosynthesis and biological evaluation of fluorine-18 labeled N-acetylgalactosamine derivative [18F]FPGalNAc for PET imaging of asialoglycoprotein receptor-positive tumors"
+    ],
+    "prefix": "10.1016",
+    "volume": "88-89",
+    "author": [
+      {
+        "given": "Penghui",
+        "family": "Sun",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yanjiang",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yun",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kongzhen",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shun",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jianer",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Meng",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hubing",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ganghua",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1016/S0021-9258(18)99337-3",
+        "article-title": "Physical and chemical studies on ceruloplasmin. V. Metabolic studies on sialic acid-free ceruloplasmin in vivo",
+        "volume": "243",
+        "author": "Morell",
+        "year": "1968",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "7254",
+        "DOI": "10.1016/j.bmc.2009.08.049",
+        "article-title": "Design, synthesis and evaluation of monovalent ligands for the asialoglycoprotein receptor (ASGP-R)",
+        "volume": "17",
+        "author": "Stokmaier",
+        "year": "2009",
+        "journal-title": "Bioorg Med Chem"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "6325",
+        "DOI": "10.1039/C6SC02366E",
+        "article-title": "Foldable glycoprobes capable of fluorogenic crosslinking of biomacromolecules",
+        "volume": "7",
+        "author": "Li",
+        "year": "2016",
+        "journal-title": "Chem Sci"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "658",
+        "DOI": "10.7150/jca.11647",
+        "article-title": "Galactose as broad ligand for multiple tumor imaging and therapy",
+        "volume": "6",
+        "author": "Ma",
+        "year": "2015",
+        "journal-title": "J Cancer"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1016/S0304-4165(02)00318-5",
+        "article-title": "Glycans as endocytosis signals: the cases of the asialo-glycoprotein and hyaluronan/chondroitin sulfate receptors",
+        "volume": "1572",
+        "author": "Weigel",
+        "year": "2002",
+        "journal-title": "Biochim Biophys Acta"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1978",
+        "DOI": "10.1021/ja2104679",
+        "article-title": "Glycomimetic ligands for the human asialoglycoprotein receptor",
+        "volume": "134",
+        "author": "Mamidyala",
+        "year": "2012",
+        "journal-title": "J Am Chem Soc"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0035",
+        "first-page": "1157",
+        "article-title": "Technetium-99m galactosyl-neoglyco-albumin: preparation and preclinical studies",
+        "volume": "26",
+        "author": "Vera",
+        "year": "1985",
+        "journal-title": "J Nucl Med"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1016/S0969-8051(01)00219-0",
+        "article-title": "The evolution of 99mTc-NGA as a clinically useful receptor-binding radiopharmaceutical",
+        "volume": "28",
+        "author": "Stadalnik",
+        "year": "2001",
+        "journal-title": "Nucl Med Biol"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0045",
+        "first-page": "899",
+        "article-title": "A new liver function test using the asialoglycoprotein receptor system on the liver cell membrane: I. Evaluation of liver imaging using Tc-99m-neo-glycoprotein",
+        "volume": "23",
+        "author": "Kubota",
+        "year": "1986",
+        "journal-title": "Jpn J Nucl Med"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "593",
+        "DOI": "10.1007/s12149-011-0520-0",
+        "article-title": "Usefulness of Tc-99m-GSA scintigraphy for liver surgery",
+        "volume": "25",
+        "author": "Kaibori",
+        "year": "2011",
+        "journal-title": "Ann Nucl Med"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "7510",
+        "DOI": "10.1016/j.bmc.2009.09.017",
+        "article-title": "Fluorine-18 labeled galactosyl-neoglycoalbumin for imaging the hepatic asialoglycoprotein receptor",
+        "volume": "17",
+        "author": "Yang",
+        "year": "2009",
+        "journal-title": "Bioorg Med Chem"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "4840",
+        "DOI": "10.1016/j.bmcl.2010.06.106",
+        "article-title": "Fluorine-18 labeled galactosylated chitosan for asialoglycoprotein-receptor-mediated hepatocyte imaging",
+        "volume": "20",
+        "author": "Yang",
+        "year": "2010",
+        "journal-title": "Bioorg Med Chem Lett"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.1016/j.bmc.2012.12.022",
+        "article-title": "[18F]-FBHGal for asialoglycoprotein receptor imaging in a hepatic fibrosis mouse model",
+        "volume": "21",
+        "author": "Kao",
+        "year": "2013",
+        "journal-title": "Bioorg Med Chem"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1007/s00259-013-2397-8",
+        "article-title": "Development of 68Ga-labelled DTPA galactosyl human serum albumin for liver function imaging",
+        "volume": "40",
+        "author": "Haubner",
+        "year": "2013",
+        "journal-title": "Eur J Nucl Med Mol Imaging"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "1081",
+        "DOI": "10.1016/j.carres.2006.04.011",
+        "article-title": "N-glycoside neoglycotrimers from 2,3,4,6-tetra-O-acetyl-b-d-glucopyranosyl azide",
+        "volume": "341",
+        "author": "David",
+        "year": "2006",
+        "journal-title": "Carbohydr Res"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1016/j.carres.2017.07.011",
+        "article-title": "Glycoconjugate probes containing a core-fucosylated N-glycan trisaccharide for fucose lectin identification and purification",
+        "volume": "449",
+        "author": "Cai",
+        "year": "2017",
+        "journal-title": "Carbohydr Res"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "15156",
+        "DOI": "10.1021/ja072999x",
+        "article-title": "Site-directed conjugation of \u201cclicked\u201d glyco-poly-mers to form glycoprotein mimics: binding to mammalian lectin and induction of immunological function",
+        "volume": "129",
+        "author": "Geng",
+        "year": "2007",
+        "journal-title": "J Am Chem"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "1143",
+        "DOI": "10.1016/j.bmcl.2017.08.066",
+        "article-title": "Radiosynthesis and biological evaluation of (18)F-labeled 4-anilinoquinazoline derivative ((18)F-FEA-Erlotinib) as a potential EGFR PET agent",
+        "volume": "28",
+        "author": "Huang",
+        "year": "2018",
+        "journal-title": "Bioorg Med Chem Lett"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "721",
+        "DOI": "10.2967/jnumed.107.049213",
+        "article-title": "Metabolic imaging of cerebral gliomas: spatial correlation of changes in O-(2-[18F] fluoroethyl)-l-tyrosine PET and proton magnetic resonance spectroscopic imaging",
+        "volume": "49",
+        "author": "Stadlbauer",
+        "year": "2008",
+        "journal-title": "J Nucl Med"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "389",
+        "DOI": "10.1097/MNM.0b013e3283369654",
+        "article-title": "Detection of bronchioloalveolar cancer by means of PET/CT and [18F]fluorocholine, and comparison with [18F]fluorodeoxyglucose",
+        "volume": "31",
+        "author": "Balogova",
+        "year": "2010",
+        "journal-title": "Nucl Med Commun"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.2174/157019309787316148",
+        "article-title": "Recent applications of click chemistry for the synthesis of radiotracers for molecular imaging",
+        "volume": "6",
+        "author": "Mamat",
+        "year": "2009",
+        "journal-title": "Mini-Rev Org Chem"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "1284",
+        "DOI": "10.2967/jnumed.118.221671",
+        "article-title": "Preclinical evaluation and pilot clinical study of Al[18F]PSMA-BCH for prostate cancer imaging",
+        "volume": "60",
+        "author": "Liu",
+        "year": "2019",
+        "journal-title": "J Nucl Med"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0115",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bmcl.2020.127187",
+        "article-title": "Radiosynthesis and biological evaluation of an fluorine-18 labeled galactose derivative [18F]FPGal for imaging the hepatic asialoglycoprotein receptor",
+        "volume": "30",
+        "author": "Sun",
+        "year": "2020",
+        "journal-title": "Bioorg Med Chem Lett"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0120",
+        "first-page": "1",
+        "article-title": "Synthesis and evaluation of 18F-labeled peptide for gonadotropin-releasing hormone receptor imaging",
+        "volume": "2019",
+        "author": "Huang",
+        "year": "2019",
+        "journal-title": "Contrast Media Mol Imaging"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0125",
+        "article-title": "Use of Labelled tLyP-1 as a novel ligand targeting the NRP receptor to image glioma",
+        "volume": "10",
+        "author": "Wu",
+        "year": "2015",
+        "journal-title": "Plos One"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1007/s12350-011-9490-9",
+        "article-title": "Advantages and disadvantages of PET and SPECT in a busy clinical practice",
+        "volume": "19",
+        "author": "Bateman",
+        "year": "2012",
+        "journal-title": "J Nucl Cardiol"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "3785",
+        "DOI": "10.3892/ol.2016.5203",
+        "article-title": "Advantages and disadvantages of F-18 fluorodeoxyglucose positron emission tomography/computed tomography in carcinoma of unknown primary",
+        "volume": "12",
+        "author": "Yu",
+        "year": "2016",
+        "journal-title": "Oncol Lett"
+      },
+      {
+        "key": "10.1016/j.nucmedbio.2020.06.003_bb0140",
+        "first-page": "871",
+        "article-title": "Dual time point 18F-FDG PET for the evaluation of pulmonary nodules",
+        "volume": "43",
+        "author": "Matthies",
+        "year": "2002",
+        "journal-title": "J Nucl Med"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.nucmedbio.2023.108365",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              8,
+              10
+            ]
+          ],
+          "date-time": "2023-08-10T00:00:00Z",
+          "timestamp": 1691625600000
+        },
+        "record-id": "46947"
+      },
+      {
+        "DOI": "10.1016/j.nucmedbio.2020.06.003",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        }
+      },
+      {
+        "DOI": "10.1016/j.nucmedbio.2023.108365",
+        "type": "erratum",
+        "label": "Erratum",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        }
+      }
+    ],
+    "container-title": [
+      "Nuclear Medicine and Biology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0969805120300573?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0969805120300573?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2025-10-19T04:28:32Z",
+      "timestamp": 1760848112000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0969805120300573"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "references-count": 28,
+    "alternative-id": [
+      "S0969805120300573"
+    ],
+    "URL": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+    "relation": {},
+    "ISSN": [
+      "0969-8051"
+    ],
+    "issn-type": [
+      {
+        "value": "0969-8051",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "RETRACTED: Radiosynthesis and biological evaluation of fluorine-18 labeled N-acetylgalactosamine derivative [18F]FPGalNAc for PET imaging of asialoglycoprotein receptor-positive tumors",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Nuclear Medicine and Biology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2020 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s10994-015-5488-z",
+  "url": "https://api.crossref.org/works/10.1007%2Fs10994-015-5488-z",
+  "status": "NOT_FOUND",
+  "http_status": 404,
+  "fetched_at_utc": "2026-11-04T16:56:01.168074+00:00",
+  "record": null
+}

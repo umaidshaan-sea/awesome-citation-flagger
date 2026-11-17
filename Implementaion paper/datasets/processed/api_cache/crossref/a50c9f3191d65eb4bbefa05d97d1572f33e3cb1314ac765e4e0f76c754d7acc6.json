@@ -1,0 +1,727 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.arabjc.2021.102998",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.arabjc.2021.102998",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:58.716573+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T01:39:53Z",
+      "timestamp": 1767145193169,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1016/j.arabjc.2021.102998",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2021-03-01T00:00:00Z",
+          "timestamp": 1614556800000
+        }
+      }
+    ],
+    "reference-count": 27,
+    "publisher": "Scientific Scholar",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2021-03-01T00:00:00Z",
+          "timestamp": 1614556800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2021-03-01T00:00:00Z",
+          "timestamp": 1614556800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              10
+            ]
+          ],
+          "date-time": "2021-01-10T00:00:00Z",
+          "timestamp": 1610236800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "81360338"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "81360338"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008868",
+        "name": "Jiangsu Science and Technology Department",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "20192BBG70036"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "20192BBG70036"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008868",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010857",
+        "name": "Jiangxi Provincial Department of Science and Technology",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100010857",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Arabian Journal of Chemistry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.arabjc.2021.102998",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2021-01-14T00:20:34Z",
+      "timestamp": 1610583634000
+    },
+    "page": "102998",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "RETRACTED: Two Zn(II) coordination polymers: Selective detection Fe3+ ion and inhibitory activity on the liver cancer viability by regulating the prolyl hydroxylase-3"
+    ],
+    "prefix": "10.25259",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Xin",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tao",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fei",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Zhi-Jian",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wang-Xun",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "10894",
+    "reference": [
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "2654",
+        "DOI": "10.1021/acs.cgd.7b00171",
+        "article-title": "CO2 and iodine uptake properties of Co(II)-coordination polymer constructed from tetracarboxylic acid and flexible bis(imidazole) linker",
+        "volume": "17",
+        "author": "Arici",
+        "year": "2017",
+        "journal-title": "Cryst. Growth Des."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.1007/s11864-016-0403-7",
+        "article-title": "Optimal imaging strategies for liver cancer staging and ongoing management",
+        "volume": "17",
+        "author": "Balyasnikova",
+        "year": "2016",
+        "journal-title": "Curr. Treat. Options Oncol."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "2650",
+        "DOI": "10.1021/cg400426m",
+        "article-title": "Chiral coordination polymers with SHG-active and luminescence: an unusual homochiral 3D MOF constructed from achiral components",
+        "volume": "13",
+        "author": "Chen",
+        "year": "2013",
+        "journal-title": "Cryst. Growth Des."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1021/acs.cgd.6b01197",
+        "article-title": "Two new luminescent Cd(II)-metal\u2013organic frameworks as bifunctional chemosensors for detection of cations Fe3+, anions CrO42\u2013, and Cr2O72\u2013 in aqueous solution",
+        "volume": "17",
+        "author": "Chen",
+        "year": "2017",
+        "journal-title": "Cryst. Growth Des."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "573",
+        "DOI": "10.3390/ijms18030573",
+        "article-title": "Predictive and prognostic molecular biomarkers for response to neoadjuvant chemoradiation in liver cancer",
+        "volume": "18",
+        "author": "Dayde",
+        "year": "2017",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "18857",
+        "DOI": "10.1021/acs.iecr.0c02437",
+        "article-title": "Room-temperature rapid synthesis of two-dimensional metal-organic framework nanosheets with tunable hierarchical porosity for enhanced adsorption desulfurization performance",
+        "volume": "59",
+        "author": "Duan",
+        "year": "2020",
+        "journal-title": "Ind. Eng. Chem. Res."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0035",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.saa.2020.118467",
+        "article-title": "Two cadmium(II) coordination polymers as multi-functional luminescent sensors for the detection of Cr(VI) anions, dichloronitroaniline pesticide, and nitrofuran antibiotic in aqueous media",
+        "volume": "239",
+        "author": "Fan",
+        "year": "2020",
+        "journal-title": "Spectrochim. Acta A"
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "579",
+        "DOI": "10.1007/s11243-012-9624-1",
+        "article-title": "Synthesis, crystal structures and catalytic properties of copper(II) and cobalt(II) coordination polymers based on a flexible benzimidazole ligand",
+        "volume": "37",
+        "author": "Geng",
+        "year": "2012",
+        "journal-title": "Transit. Met. Chem."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.5152/dir.2019.18189",
+        "article-title": "Multiparametric MRI in liver cancer",
+        "volume": "25",
+        "author": "G\u00fcrses",
+        "year": "2019",
+        "journal-title": "Diagn. Interv. Radiol."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "5520",
+        "DOI": "10.20964/2020.06.50",
+        "article-title": "Corrosion resistance of nickel-phosphorus/nano-ZnO composite multilayer coating electrodeposited on carbon steel in acidic chloride environments",
+        "volume": "15",
+        "author": "Jiang",
+        "year": "2020",
+        "journal-title": "Int. J. Electrochem. Sci."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "833",
+        "DOI": "10.1515/znb-2019-0128",
+        "article-title": "A new binuclear Ni(II) complex with tetrafluorophthalate and 2,2\u2032-bipyridine ligands: synthesis, crystal structure and magnetic properties",
+        "volume": "74",
+        "author": "Li",
+        "year": "2019",
+        "journal-title": "Z. Naturforsch."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0060",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ica.2020.119890",
+        "article-title": "Doubly mononuclear cocrystal and oxalato-bridged binuclear copper compounds containing flexible 2-((3,5,6-trichloropyridin-2-yl)oxy)acetate tectons: Synthesis, crystal analysis and magnetic properties",
+        "volume": "512",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "Inorg. Chim. Acta"
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1007/s10876-019-01666-w",
+        "article-title": "A binuclear cadmium(II) cluster based on \u03c0\u00b7\u00b7\u00b7\u03c0 stacking and halogen\u00b7\u00b7\u00b7halogen interactions: synthesis, crystal analysis and fluorescent properties",
+        "volume": "31",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "J. Clust. Sci."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0070",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ica.2020.119677",
+        "article-title": "The first 3,5,6-trichloropyridine-2-oxyacetate bridged manganese coordination polymer with features of \u03c0\u00b7\u00b7\u00b7\u03c0 stacking and halogen\u00b7\u00b7\u00b7halogen interactions: Synthesis, crystal analysis and magnetic properties",
+        "volume": "509",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "Inorg. Chim. Acta"
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "3952",
+        "DOI": "10.1021/acs.inorgchem.6b00217",
+        "article-title": "Uncommon pyrazoyl-carboxyl bifunctional ligand-based microporous lanthanide systems: sorption and luminescent sensing properties",
+        "volume": "55",
+        "author": "Li",
+        "year": "2016",
+        "journal-title": "Inorg. Chem."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "1022",
+        "DOI": "10.7150/ijbs.15438",
+        "article-title": "A review of neoadjuvant chemoradiotherapy for locally advanced liver cancer",
+        "volume": "12",
+        "author": "Li",
+        "year": "2016",
+        "journal-title": "Int. J. Biol. Sci."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "15399",
+        "DOI": "10.1002/aoc.4988",
+        "article-title": "A highly selective multifunctional Zn-coordination polymer sensor for detection of Cr (III), Cr (VI) ion, and TNP molecule",
+        "volume": "33",
+        "author": "Liang",
+        "year": "2019",
+        "journal-title": "Appl. Organomet. Chem."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "4107",
+        "DOI": "10.1039/b708479j",
+        "article-title": "A 3D chiral Zn(ii) coordination polymer with triple Zn\u2013oba\u2013Zn helical chains (oba = 4,4\u2032-oxybis(benzoate))",
+        "volume": "73",
+        "author": "Ma",
+        "year": "2007",
+        "journal-title": "Chem. Commun."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0095",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.apsusc.2020.147682",
+        "article-title": "Step-scheme WO3/CdIn2S4 hybrid system with high visible light activity for tetracycline hydrochloride photodegradation",
+        "volume": "535",
+        "author": "Pei",
+        "year": "2021",
+        "journal-title": "Appl. Surf. Sci."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0100",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.molstruc.2019.127218",
+        "article-title": "Synthesis, crystal structures, and luminescence sensing properties of two metal complexes containing bis(thiabendazole) moieties",
+        "volume": "1201",
+        "author": "Shi",
+        "year": "2020",
+        "journal-title": "J. Mol. Struct."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1016/j.poly.2018.03.020",
+        "article-title": "A porous Zn(II)-based metal\u2013organic framework for highly selective and sensitive Fe3+ ion detection in water",
+        "volume": "147",
+        "author": "Sun",
+        "year": "2018",
+        "journal-title": "Polyhedron"
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0110",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.dyepig.2019.107993",
+        "article-title": "A thermal stable pincer-MOF with high selective and sensitive nitro explosive TNP, metal ion Fe3+ and pH sensing in aqueous solution",
+        "volume": "173",
+        "author": "Wu",
+        "year": "2020",
+        "journal-title": "Dye. Pigment."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "15696",
+        "DOI": "10.1021/acs.inorgchem.9b02534",
+        "article-title": "Cobalt(II)-based 3D coordination polymer with unusual 4,4,4-connected topology as a dual-responsive fluorescent chemosensor for acetylacetone and Cr2O72\u2013",
+        "volume": "58",
+        "author": "Xiao",
+        "year": "2019",
+        "journal-title": "Inorg. Chem."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "10900",
+        "DOI": "10.1039/C6TA03065C",
+        "article-title": "Metal\u2013organic framework nanosheets for fast-response and highly sensitive luminescent sensing of Fe3+",
+        "volume": "4",
+        "author": "Xu",
+        "year": "2016",
+        "journal-title": "J. Mater. Chem. A"
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0125",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.poly.2019.114216",
+        "article-title": "A multifunctional Eu-based coordination polymer luminescent sensor for highly sensitive and selective detection of Fe3+ and acetone",
+        "volume": "175",
+        "author": "Yang",
+        "year": "2020",
+        "journal-title": "Polyhedron"
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "2307",
+        "DOI": "10.1021/cg500003u",
+        "article-title": "Ten coordination polymers constructed using an unprecedented azamacrocyclic octacarboxylate ligand 1,4,8,11-tetrazacyclododecane- N, N\u2032, N\u2033, N\u2034-tetra-methylene-isophthalic acid: syntheses, structures, and photoluminescent properties",
+        "volume": "14",
+        "author": "Zhang",
+        "year": "2014",
+        "journal-title": "Cryst. Growth Des."
+      },
+      {
+        "key": "10.1016/j.arabjc.2021.102998_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/j.poly.2018.12.030",
+        "article-title": "Lanthanide coordination polymers constructed from the asymmetrical N-heterocyclic rigid carboxylate: synthesis, crystal structures, luminescence properties and magnetic properties",
+        "volume": "161",
+        "author": "Zheng",
+        "year": "2019",
+        "journal-title": "Polyhedron"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.arabjc.2023.104661",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2023-02-21T00:00:00Z",
+          "timestamp": 1676937600000
+        },
+        "record-id": "53391"
+      },
+      {
+        "DOI": "10.1016/j.arabjc.2023.104661",
+        "type": "erratum",
+        "label": "Erratum",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2023-04-01T00:00:00Z",
+          "timestamp": 1680307200000
+        }
+      },
+      {
+        "DOI": "10.1016/j.arabjc.2021.102998",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2021-03-01T00:00:00Z",
+          "timestamp": 1614556800000
+        }
+      }
+    ],
+    "container-title": [
+      "Arabian Journal of Chemistry"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1878535221000137?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1878535221000137?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          27
+        ]
+      ],
+      "date-time": "2025-06-27T17:05:09Z",
+      "timestamp": 1751043909000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://arabjchem.org/retracted-two-znii-coordination-polymers-selective-detection-fe3-ion-and-inhibitory-activity-on-the-liver-cancer-viability-by-regulating-the-prolyl-hydroxylase-3/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1878535221000137"
+    ],
+    "URL": "https://doi.org/10.1016/j.arabjc.2021.102998",
+    "relation": {},
+    "ISSN": [
+      "1878-5352"
+    ],
+    "issn-type": [
+      {
+        "value": "1878-5352",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "RETRACTED: Two Zn(II) coordination polymers: Selective detection Fe3+ ion and inhibitory activity on the liver cancer viability by regulating the prolyl hydroxylase-3",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Arabian Journal of Chemistry",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.arabjc.2021.102998",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2021 The Authors. Published by Elsevier B.V. on behalf of King Saud University.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "102998"
+  }
+}

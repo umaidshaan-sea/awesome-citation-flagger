@@ -1,0 +1,759 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s44196-025-00747-1",
+  "url": "https://api.crossref.org/works/10.1007%2Fs44196-025-00747-1",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:48.473323+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ],
+      "date-time": "2026-11-02T01:37:35Z",
+      "timestamp": 1793583455344,
+      "version": "4.5.0"
+    },
+    "reference-count": 41,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              5
+            ]
+          ],
+          "date-time": "2025-02-05T00:00:00Z",
+          "timestamp": 1738713600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              5
+            ]
+          ],
+          "date-time": "2025-02-05T00:00:00Z",
+          "timestamp": 1738713600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int J Comput Intell Syst"
+    ],
+    "DOI": "10.1007/s44196-025-00747-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2025-02-05T15:05:52Z",
+      "timestamp": 1738767952000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": [
+      "RETRACTED ARTICLE: BERT-BiGRU-Senti-GCN: An Advanced NLP Framework for Analyzing Customer Sentiments in E-Commerce"
+    ],
+    "prefix": "10.1007",
+    "volume": "18",
+    "author": [
+      {
+        "given": "Muhammad Rizwan Rashid",
+        "family": "Rana",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Asif",
+        "family": "Nawaz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saif Ur",
+        "family": "Rehman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad Ali",
+        "family": "Abid",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mubariz",
+        "family": "Garayevi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jana",
+        "family": "Kajanov\u00e1",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "747_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "11256",
+        "DOI": "10.3390/app122111256",
+        "volume": "12",
+        "author": "RJK Almahmood",
+        "year": "2022",
+        "unstructured": "Almahmood, R.J.K., Tekerek, A.: Issues and solutions in deep learning-enabled recommendation systems within the E-commerce field. Appl. Sci. 12, 11256 (2022)",
+        "journal-title": "Appl. Sci."
+      },
+      {
+        "key": "747_CR2",
+        "first-page": "173",
+        "volume": "17",
+        "author": "I Hafeez",
+        "year": "2019",
+        "unstructured": "Hafeez, I., Yingjun, Z., Hafeez, S., Mansoor, R., Rehman, K.U.: Impact of workplace environment on employee performance: mediating role of employee health. Bus. Manag. Econ. Eng. 17, 173\u2013193 (2019)",
+        "journal-title": "Bus. Manag. Econ. Eng."
+      },
+      {
+        "key": "747_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "3986",
+        "DOI": "10.3390/app11093986",
+        "volume": "11",
+        "author": "Z Kastrati",
+        "year": "2021",
+        "unstructured": "Kastrati, Z., Dalipi, F., Imran, A.S., Pireva Nuci, K., Wani, M.A.: Sentiment analysis of students\u2019 feedback with NLP and deep learning: a systematic mapping study. Appl. Sci. 11, 3986 (2021)",
+        "journal-title": "Appl. Sci."
+      },
+      {
+        "issue": "2",
+        "key": "747_CR4",
+        "first-page": "61",
+        "volume": "59",
+        "author": "M Iram",
+        "year": "2022",
+        "unstructured": "Iram, M., Rehman, S.U., Shahid, S., Mehmood, S.A.: Anatomy of sentiment analysis of tweets using machine learning approach: anatomy of sentiment analysis of tweets. Proc. Pak. Acad. Sci. A Phys. Comput. Sci. 59(2), 61\u201373 (2022)",
+        "journal-title": "Proc. Pak. Acad. Sci. A Phys. Comput. Sci."
+      },
+      {
+        "key": "747_CR5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32604/csse.2023.035149",
+        "author": "MRR Rana",
+        "year": "2023",
+        "unstructured": "Rana, M.R.R., Rehman, S.U., Nawaz, A., Ali, T., Imran, A., Alzahrani, A., Almuhaimeed, A.: Aspect-based sentiment analysis for social multimedia: a hybrid computational framework. Comput. Syst. Sci. Eng. (2023). https://doi.org/10.32604/csse.2023.035149",
+        "journal-title": "Comput. Syst. Sci. Eng."
+      },
+      {
+        "key": "747_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "235",
+        "DOI": "10.3390/fi15070235",
+        "volume": "15",
+        "author": "I Karabila",
+        "year": "2023",
+        "unstructured": "Karabila, I., Darraz, N., El-Ansari, A., Alami, N., El Mallahi, M.: Enhancing collaborative filtering-based recommender system using sentiment analysis. Future Internet 15, 235 (2023)",
+        "journal-title": "Future Internet"
+      },
+      {
+        "key": "747_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "11739",
+        "DOI": "10.48084/etasr.6278",
+        "volume": "13",
+        "author": "MRR Rana",
+        "year": "2023",
+        "unstructured": "Rana, M.R.R., Nawaz, A., Ali, T., El-Sherbeeny, A.M., Ali, W.: A BiLSTM-CF and BiGRU-based deep sentiment analysis model to explore customer reviews for effective recommendations. Eng. Technol. Appl. Sci. Res. 13, 11739\u201311746 (2023)",
+        "journal-title": "Eng. Technol. Appl. Sci. Res."
+      },
+      {
+        "key": "747_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "2949",
+        "DOI": "10.3390/electronics12132949",
+        "volume": "12",
+        "author": "J Xue",
+        "year": "2023",
+        "unstructured": "Xue, J., Li, Y., Li, Z., Cui, Y., Zhang, S., Wang, S.: A cross-domain generative data augmentation framework for aspect-based sentiment analysis. Electronics 12, 2949 (2023)",
+        "journal-title": "Electronics"
+      },
+      {
+        "key": "747_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "711",
+        "DOI": "10.1108/LHT-12-2020-0323",
+        "volume": "41",
+        "author": "M Deori",
+        "year": "2023",
+        "unstructured": "Deori, M., Kumar, V., Verma, M.K.: Analysis of YouTube video contents on Koha and DSpace, and sentiment analysis of viewers\u2019 comments. Libr. Hi Tech. 41, 711\u2013728 (2023)",
+        "journal-title": "Libr. Hi Tech."
+      },
+      {
+        "key": "747_CR10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kaur, A., Singh, A.P., Dhillon, G.S., Bisht, D.: Emotion mining and sentiment analysis in software engineering domain. In: 2018 Second International Conference on Electronics, Communication and Aerospace Technology (ICECA), pp. 1170\u20131173 (2018)",
+        "DOI": "10.1109/ICECA.2018.8474619"
+      },
+      {
+        "key": "747_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "2910",
+        "DOI": "10.3390/electronics12132910",
+        "volume": "12",
+        "author": "L Deng",
+        "year": "2023",
+        "unstructured": "Deng, L., Yin, T., Li, Z., Ge, Q.: Sentiment analysis of comment data based on BERT-ETextCNN-ELSTM. Electronics 12, 2910 (2023)",
+        "journal-title": "Electronics"
+      },
+      {
+        "key": "747_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "135152",
+        "DOI": "10.1109/ACCESS.2020.2967095",
+        "volume": "8",
+        "author": "Y Diao",
+        "year": "2020",
+        "unstructured": "Diao, Y., Lin, H., Yang, L., Fan, X., Chu, Y., Xu, K., Wu, D.: A multi-dimension question answering network for sarcasm detection. IEEE Access 8, 135152\u2013135161 (2020)",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "747_CR13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12559-021-09832-x",
+        "author": "Y Du",
+        "year": "2022",
+        "unstructured": "Du, Y., Li, T., Pathan, M.S., Teklehaimanot, H.K., Yang, Z.: An effective sarcasm detection approach based on sentimental context and individual expression habits. Cogn. Comput. (2022). https://doi.org/10.1007/s12559-021-09832-x",
+        "journal-title": "Cogn. Comput."
+      },
+      {
+        "key": "747_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "235",
+        "DOI": "10.1007/s10844-022-00755-z",
+        "volume": "60",
+        "author": "R Pandey",
+        "year": "2023",
+        "unstructured": "Pandey, R., Singh, J.P.: BERT-LSTM model for sarcasm detection in code-mixed social media post. J. Intell. Inform. Syst. 60, 235\u2013254 (2023)",
+        "journal-title": "J. Intell. Inform. Syst."
+      },
+      {
+        "key": "747_CR15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.asoc.2021.107348",
+        "volume": "106",
+        "author": "R Pandey",
+        "year": "2021",
+        "unstructured": "Pandey, R., Kumar, A., Singh, J.P., Tripathi, S.: Hybrid attention-based long short-term memory network for sarcasm identification. Appl. Soft Comput. 106, 107348 (2021)",
+        "journal-title": "Appl. Soft Comput."
+      },
+      {
+        "key": "747_CR16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.techsoc.2020.101489",
+        "volume": "64",
+        "author": "M Shrivastava",
+        "year": "2021",
+        "unstructured": "Shrivastava, M., Kumar, S.: A pragmatic and intelligent model for sarcasm detection in social media text. Technol. Soc. 64, 101489 (2021)",
+        "journal-title": "Technol. Soc."
+      },
+      {
+        "key": "747_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "343",
+        "DOI": "10.1007/s13042-020-01175-7",
+        "volume": "12",
+        "author": "J Liu",
+        "year": "2021",
+        "unstructured": "Liu, J., Zheng, S., Xu, G., Lin, M.: Cross-domain sentiment aware word embeddings for review sentiment analysis. Int. J. Mach. Learn. Cybern. 12, 343\u2013354 (2021)",
+        "journal-title": "Int. J. Mach. Learn. Cybern."
+      },
+      {
+        "key": "747_CR18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.knosys.2021.107643",
+        "volume": "235",
+        "author": "B Liang",
+        "year": "2022",
+        "unstructured": "Liang, B., Su, H., Gui, L., Cambria, E., Xu, R.: Aspect-based sentiment analysis via affective knowledge enhanced graph convolutional networks. Knowl. Based Syst. 235, 107643 (2022)",
+        "journal-title": "Knowl. Based Syst."
+      },
+      {
+        "key": "747_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1267",
+        "DOI": "10.1007/s10586-019-02995-1",
+        "volume": "23",
+        "author": "A Nawaz",
+        "year": "2020",
+        "unstructured": "Nawaz, A., Awan, A.A., Ali, T., Rana, M.R.R.: Product\u2019s behaviour recommendations using free text: an aspect based sentiment analysis approach. Clust. Comput. 23, 1267\u20131279 (2020)",
+        "journal-title": "Clust. Comput."
+      },
+      {
+        "key": "747_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "126",
+        "DOI": "10.3390/computers12060126",
+        "volume": "12",
+        "author": "N Elhassan",
+        "year": "2023",
+        "unstructured": "Elhassan, N., Varone, G., Ahmed, R., Gogate, M., Dashtipour, K., Almoamari, H., Hussain, A.: Arabic sentiment analysis based on word embeddings and deep learning. Computers 12, 126 (2023)",
+        "journal-title": "Computers"
+      },
+      {
+        "key": "747_CR21",
+        "unstructured": "Hoang, M., Bihorac, O.A., Rouces, J.: Aspect-based sentiment analysis using bert. In: Proceedings of the 22nd Nordic Conference on Computational Linguistics, pp. 187\u2013196 (2019)"
+      },
+      {
+        "key": "747_CR22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/electronics11030374",
+        "author": "R Catelli",
+        "year": "2022",
+        "unstructured": "Catelli, R., Pelosi, S., Esposito, M.: Lexicon-based vs. Bert-based sentiment analysis: a comparative study in Italian. Electronics (2022). https://doi.org/10.3390/electronics11030374",
+        "journal-title": "Electronics"
+      },
+      {
+        "key": "747_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "23522",
+        "DOI": "10.1109/ACCESS.2020.2969854",
+        "volume": "8",
+        "author": "L Yang",
+        "year": "2020",
+        "unstructured": "Yang, L., Li, Y., Wang, J., Sherratt, R.S.: Sentiment analysis for E-commerce product reviews in Chinese based on sentiment lexicon and deep learning. IEEE Access 8, 23522\u201323530 (2020)",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "747_CR24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yin, X., Liu, C., Fang, X.: Sentiment analysis based on BiGRU information enhancement. In: Journal of Physics: Conference Series, vol. 1748, pp. 032054 (2021)",
+        "DOI": "10.1088/1742-6596/1748/3/032054"
+      },
+      {
+        "key": "747_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "2707",
+        "DOI": "10.3390/app12052707",
+        "volume": "12",
+        "author": "Z Gao",
+        "year": "2022",
+        "unstructured": "Gao, Z., Li, Z., Luo, J., Li, X.: Short text aspect-based sentiment analysis based on CNN+ BiGRU. Appl. Sci. 12, 2707 (2022)",
+        "journal-title": "Appl. Sci."
+      },
+      {
+        "key": "747_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "73",
+        "DOI": "10.1016/j.ins.2022.03.082",
+        "volume": "600",
+        "author": "M Zhao",
+        "year": "2022",
+        "unstructured": "Zhao, M., Yang, J., Zhang, J., Wang, S.: Aggregated graph convolutional networks for aspect-based sentiment classification. Inf. Sci. 600, 73\u201393 (2022)",
+        "journal-title": "Inf. Sci."
+      },
+      {
+        "key": "747_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "139346",
+        "DOI": "10.1109/ACCESS.2020.3012637",
+        "volume": "8",
+        "author": "K Xu",
+        "year": "2020",
+        "unstructured": "Xu, K., Zhao, H., Liu, T.: Aspect-specific heterogeneous graph convolutional network for aspect-based sentiment classification. IEEE Access 8, 139346\u2013139355 (2020)",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "747_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "149",
+        "DOI": "10.1016/j.inffus.2022.10.004",
+        "volume": "91",
+        "author": "HT Phan",
+        "year": "2023",
+        "unstructured": "Phan, H.T., Nguyen, N.T., Hwang, D.: Aspect-level sentiment analysis: a survey of graph convolutional network methods. Inf. Fusion 91, 149\u2013172 (2023)",
+        "journal-title": "Inf. Fusion"
+      },
+      {
+        "key": "747_CR29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Baccianella, S., Esuli, A., Sebastiani, F.: Sentiwordnet 3.0: an enhanced lexical resource for sentiment analysis and opinion mining. In: Lrec. vol. 10, pp. 2200\u20132204 (2010)",
+        "DOI": "10.63317/2jktnrykui9s"
+      },
+      {
+        "key": "747_CR30",
+        "volume": "4",
+        "author": "S Yang",
+        "year": "2022",
+        "unstructured": "Yang, S., Xing, L., Li, Y., Chang, Z.: Implicit sentiment analysis based on graph attention neural network. Eng. Rep. 4, e12452 (2022)",
+        "journal-title": "Eng. Rep."
+      },
+      {
+        "key": "747_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "11184",
+        "DOI": "10.1007/s10489-021-02936-9",
+        "volume": "52",
+        "author": "W Liao",
+        "year": "2022",
+        "unstructured": "Liao, W., Zeng, B., Liu, J., Wei, P., Fang, J.: Image-text interaction graph neural network for image-text sentiment analysis. Appl. Intell. 52, 11184\u201311198 (2022)",
+        "journal-title": "Appl. Intell."
+      },
+      {
+        "key": "747_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "749",
+        "DOI": "10.1007/s10462-022-10183-8",
+        "volume": "56",
+        "author": "JYL Chan",
+        "year": "2023",
+        "unstructured": "Chan, J.Y.L., Bea, K.T., Leow, S.M.H., Phoong, S.W., Cheng, W.K.: State of the art: a review of sentiment analysis based on sequential transfer learning. Artif. Intell. Rev. 56, 749\u2013780 (2023)",
+        "journal-title": "Artif. Intell. Rev."
+      },
+      {
+        "key": "747_CR33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Athish, V.P., Rajeswari, D., SS, S.N.: Movie reviews using sentiment analysis with natural language API. In: 2023 Eighth International Conference on Science Technology Engineering and Mathematics (ICONSTEM), pp. 1\u20135 (2023)",
+        "DOI": "10.1109/ICONSTEM56934.2023.10142803"
+      },
+      {
+        "key": "747_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.4018/978-1-4666-8513-0.ch012",
+        "volume-title": "Improving Knowledge Discovery Through the Integration of Data Mining Techniques",
+        "author": "M Iqbal",
+        "year": "2015",
+        "unstructured": "Iqbal, M., Rehman, S.U., Gillani, S., Asghar, S.: An empirical evaluation of feature selection methods. In: Improving Knowledge Discovery Through the Integration of Data Mining Techniques, pp. 233\u2013258. IGI Global (2015)"
+      },
+      {
+        "issue": "2",
+        "key": "747_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "143",
+        "DOI": "10.4038/jnsfsr.v46i2.8414",
+        "volume": "46",
+        "author": "S Jameel",
+        "year": "2018",
+        "unstructured": "Jameel, S., Rehman, S.U.: An optimal feature selection method using a modified wrapper-based ant colony optimisation. J. Natl. Sci. Foundation Sri Lanka 46(2), 143\u2013151 (2018)",
+        "journal-title": "J. Natl. Sci. Foundation Sri Lanka"
+      },
+      {
+        "issue": "2",
+        "key": "747_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "75",
+        "DOI": "10.22581/muet1982.2302.09",
+        "volume": "42",
+        "author": "M Akhtar",
+        "year": "2023",
+        "unstructured": "Akhtar, M., Shoukat, R.S., Rehman, S.U.: A machine learning approach for Urdu text sentiment analysis. Mehran Univ. Res. J. Eng. Technol. 42(2), 75\u201387 (2023)",
+        "journal-title": "Mehran Univ. Res. J. Eng. Technol."
+      },
+      {
+        "key": "747_CR37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tang, H., Ji, D., Li, C., Zhou, Q.: Dependency graph enhanced dual-transformer structure for aspect-based sentiment classification. In: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 6578\u20136588 (2020)",
+        "DOI": "10.18653/v1/2020.acl-main.588"
+      },
+      {
+        "key": "747_CR38",
+        "unstructured": "Hou, X., Huang, J., Wang, G., He, X., Zhou, B.: Selective attention based graph convolutional networks for aspect-level sentiment classification. arXiv preprint arXiv:1910.10857 (2019)"
+      },
+      {
+        "key": "747_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "301",
+        "DOI": "10.1007/s10489-022-03389-4",
+        "volume": "53",
+        "author": "W Jiang",
+        "year": "2023",
+        "unstructured": "Jiang, W., Zhou, K., Xiong, C., Du, G., Ou, C., Zhang, J.: KSCB: a novel unsupervised method for text sentiment analysis. Appl. Intell. 53, 301\u2013311 (2023)",
+        "journal-title": "Appl. Intell."
+      },
+      {
+        "key": "747_CR40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, X., Bing, L., Lam, W., Shi, B.: Transformation networks for target-oriented sentiment classification. arXiv preprint arXiv:1805.01086 (2018)",
+        "DOI": "10.18653/v1/P18-1087"
+      },
+      {
+        "issue": "4",
+        "key": "747_CR41",
+        "first-page": "381",
+        "volume": "22",
+        "author": "MRR Rana",
+        "year": "2021",
+        "unstructured": "Rana, M.R.R., Rehman, S.U., Nawaz, A., Ali, T., Ahmed, M.: A conceptual model for decision support systems using aspect based sentiment analysis. Proc. Rom. Acad. Ser A Math. Phys. Tech. Sci. Inf. Sci. 22(4), 381\u2013390 (2021)",
+        "journal-title": "Proc. Rom. Acad. Ser A Math. Phys. Tech. Sci. Inf. Sci."
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1007/s44196-026-01522-6",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2026-08-06T00:00:00Z",
+          "timestamp": 1785974400000
+        }
+      }
+    ],
+    "container-title": [
+      "International Journal of Computational Intelligence Systems"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44196-025-00747-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s44196-025-00747-1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44196-025-00747-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ],
+      "date-time": "2026-08-06T12:51:30Z",
+      "timestamp": 1786020690000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s44196-025-00747-1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "747"
+    ],
+    "URL": "https://doi.org/10.1007/s44196-025-00747-1",
+    "relation": {},
+    "ISSN": [
+      "1875-6883"
+    ],
+    "issn-type": [
+      {
+        "value": "1875-6883",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "20 January 2025",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "21 January 2025",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "5 February 2025",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "6 August 2026",
+        "order": 5,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 6,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This article has been retracted. Please see the Retraction Notice for more detail:",
+        "order": 7,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s44196-026-01522-6",
+        "URL": "https://doi.org/10.1007/s44196-026-01522-6",
+        "order": 8,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Conflict of Interest",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ],
+    "article-number": "21"
+  }
+}

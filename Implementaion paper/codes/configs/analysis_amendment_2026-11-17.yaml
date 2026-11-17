@@ -1,0 +1,16 @@
+amendment_date: '2026-11-17'
+status: 'POST_HOC_CORRECTION_NOT_PREREGISTERED'
+original_protocol: 'configs/protocol_v1.yaml'
+original_results: 'audit/original_results/benchmark_results_legacy.csv'
+reason: 'Legacy Crossref rule mistakenly treated typed self-DOI retraction relations as UNKNOWN and rejected mixed self+notice relations.'
+changed_rule: 'Any valid typed retraction relation is a positive status signal; only a different DOI is a distinct notice DOI.'
+unchanged:
+  - '80 original frozen DOI strings'
+  - '40 positive / 40 negative nominal labels'
+  - 'all archived API response JSON files captured on 2026-11-04'
+  - 'snapshot Retraction Watch CSV SHA-256'
+claim_limits:
+  - 'Reanalysis is benchmark-label agreement, not independently validated accuracy.'
+  - 'Original frozen protocol was not followed for this corrected post-hoc rule.'
+  - 'No live API requests or fresh manual publisher notice verifications were performed.'
+  - 'No provider superiority claim is justified by equal outcomes.'

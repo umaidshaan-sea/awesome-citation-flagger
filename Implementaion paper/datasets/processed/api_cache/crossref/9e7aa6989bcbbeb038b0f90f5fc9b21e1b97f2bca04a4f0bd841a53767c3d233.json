@@ -1,0 +1,1419 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pone.0302034",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0302034",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:41.023486+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2026-09-09T16:04:23Z",
+      "timestamp": 1788969863622,
+      "version": "build-2803163510"
+    },
+    "reference-count": 118,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              18
+            ]
+          ],
+          "date-time": "2024-04-18T00:00:00Z",
+          "timestamp": 1713398400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "abstract": "<jats:p>Most South Asian countries\u2019 economies have grown dramatically during the past few decades. However, in light of their environmental sustainability goals, the quality of such growth performances by South Asian nations is called into doubt by the concurrent degradation in environmental quality. Consequently, reducing the environmental challenges these nations encounter is prioritized on the agendas of the relevant authorities. This study aimed to analyze the effect of the top 11 most polluted countries\u2019 levels of financial inclusion, technological innovation, consumption of renewable energy, and adoption of climate technology on environmental deterioration from 2000 to 2022. Therefore, this research aims to use cutting-edge panel data econometric techniques to investigate the factors contributing to high carbon footprints in the world\u2019s most polluted nations. The results support an inverted U-shaped relationship between economic growth and carbon footprints, crediting the environmental Kuznets curve concept. In addition, it has been shown that TECH, REC, and CT can reduce carbon footprints in both the short and long term, while GDP and financial inclusion only affect carbon footprints in the long term. The results further endorsed the pollution haven hypothesis by showing that GDP positively affects carbon footprint. As a result, leading polluting economies need to strengthen their financial sectors, create green technology, migrate to renewable energy, and limit financial inclusion to improve environmental quality.</jats:p>",
+    "DOI": "10.1371/journal.pone.0302034",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2024-04-18T13:33:29Z",
+      "timestamp": 1713447209000
+    },
+    "page": "e0302034",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Exploring the impact of climate technology, financial inclusion and renewable energy on ecological footprint: Evidence from top polluted economies"
+    ],
+    "prefix": "10.1371",
+    "volume": "19",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-9965-0623",
+        "authenticated-orcid": true,
+        "given": "Lu",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fanyuan",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jianlin",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Natasha",
+        "family": "Bibi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "pone.0302034.ref001",
+        "first-page": "1",
+        "article-title": "Financial Inclusion and Green Economic Performance for Energy Efficiency Finance",
+        "author": "Z. Liu",
+        "year": "2022",
+        "journal-title": "Econ. Chang. Restruct"
+      },
+      {
+        "key": "pone.0302034.ref002",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1016/j.bir.2020.06.003",
+        "article-title": "Financial Inclusion and Stability in the Asian Region Using Bank-Level Data",
+        "volume": "21",
+        "author": "D.H. Vo",
+        "year": "2021",
+        "journal-title": "Borsa Istanbul Rev"
+      },
+      {
+        "key": "pone.0302034.ref003",
+        "doi-asserted-by": "crossref",
+        "first-page": "101961",
+        "DOI": "10.1016/j.techsoc.2022.101961",
+        "article-title": "Financial Inclusion and the Environmental Deterioration in Eurozone: The Moderating Role of Innovation Activity",
+        "volume": "69",
+        "author": "Z. Fareed",
+        "year": "2022",
+        "journal-title": "Technol. Soc"
+      },
+      {
+        "key": "pone.0302034.ref004",
+        "article-title": "Examining the Role of Financial Inclusion towards CO2 Emissions: Presenting the Role of Renewable Energy and Globalization in the Context of EKC",
+        "author": "U. Mehmood",
+        "year": "2021",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref005",
+        "doi-asserted-by": "crossref",
+        "first-page": "101725",
+        "DOI": "10.1016/j.frl.2020.101725",
+        "article-title": "Can Financial Inclusion Be an Effective Mitigation Measure? Evidence from Panel Data Analysis of the Environmental Kuznets Curve",
+        "volume": "37",
+        "author": "N. Renzhi",
+        "year": "2020",
+        "journal-title": "Financ. Res. Lett"
+      },
+      {
+        "key": "pone.0302034.ref006",
+        "doi-asserted-by": "crossref",
+        "first-page": "123063",
+        "DOI": "10.1016/j.energy.2021.123063",
+        "article-title": "Energy Efficiency a Source of Low Carbon Energy Sources? Evidence from 16 High-Income OECD Economies",
+        "volume": "243",
+        "author": "T. Hassan",
+        "year": "2022",
+        "journal-title": "Energy"
+      },
+      {
+        "key": "pone.0302034.ref007",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1016/j.ecolecon.2017.10.007",
+        "article-title": "Less than 2\u00b0C? An Economic-Environmental Evaluation of the Paris Agreement",
+        "volume": "146",
+        "author": "J. Nieto",
+        "year": "2018",
+        "journal-title": "Ecol. Econ"
+      },
+      {
+        "key": "pone.0302034.ref008",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.worlddev.2018.06.020",
+        "article-title": "Does Financial Literacy Improve Financial Inclusion? Cross Country Evidence",
+        "volume": "111",
+        "author": "A. Grohmann",
+        "year": "2018",
+        "journal-title": "World Dev"
+      },
+      {
+        "key": "pone.0302034.ref009",
+        "doi-asserted-by": "crossref",
+        "first-page": "814439",
+        "DOI": "10.3389/fenvs.2022.814439",
+        "article-title": "Mitigating Carbon Emissions in China: The Role of Clean Energy, Technological Innovation, and Political-Institutional Quality",
+        "volume": "10",
+        "author": "A. Azam",
+        "year": "2022",
+        "journal-title": "Front. Environ. Sci"
+      },
+      {
+        "key": "pone.0302034.ref010",
+        "doi-asserted-by": "crossref",
+        "first-page": "102461",
+        "DOI": "10.1016/j.eti.2022.102461",
+        "article-title": "Nexus between Government Spending\u2019s and Green Economic Performance: Role of Green Finance and Structure Effect",
+        "volume": "27",
+        "author": "H. Feng",
+        "year": "2022",
+        "journal-title": "Environ. Technol. Innov"
+      },
+      {
+        "key": "pone.0302034.ref011",
+        "doi-asserted-by": "crossref",
+        "first-page": "7224",
+        "DOI": "10.1016/j.enpol.2011.08.043",
+        "article-title": "The Role of Energy-Service Demand Reduction in Global Climate Change Mitigation: Combining Energy Modelling and Decomposition Analysis",
+        "volume": "39",
+        "author": "F. Kesicki",
+        "year": "2011",
+        "journal-title": "Energy Policy"
+      },
+      {
+        "key": "pone.0302034.ref012",
+        "first-page": "15",
+        "article-title": "Importance of Financial Literacy For Sustainable Future Environment: A Research Among People In Rural Areas With Special Reference To Mandi District,Himachal Pradesh",
+        "volume": "1",
+        "author": "S. Kumari",
+        "year": "2021",
+        "journal-title": "Int. J. Eng. Sci. Inf. Technol"
+      },
+      {
+        "key": "pone.0302034.ref013",
+        "article-title": "Energy Transition and Environmental Quality Prospects in Leading Emerging Economies: The Role of Environmental\u2010related Technological Innovation",
+        "author": "S.T. Onifade",
+        "year": "2022",
+        "journal-title": "Sustain. Dev"
+      },
+      {
+        "key": "pone.0302034.ref014",
+        "doi-asserted-by": "crossref",
+        "first-page": "101583",
+        "DOI": "10.1016/j.erss.2020.101583",
+        "article-title": "The Politics of Climate Finance: Consensus and Partisanship in Designing Green State Investment Banks in the United Kingdom and Australia",
+        "volume": "69",
+        "author": "A. Geddes",
+        "year": "2020",
+        "journal-title": "Energy Res. Soc. Sci"
+      },
+      {
+        "key": "pone.0302034.ref015",
+        "doi-asserted-by": "crossref",
+        "first-page": "11810",
+        "DOI": "10.1016/j.egyr.2022.08.231",
+        "article-title": "The Key Role of Renewable Energy Consumption, Technological Innovation and Institutional Quality in Formulating the SDG Policies for Emerging Economies: Evidence from Quantile Regression",
+        "volume": "8",
+        "author": "H. Liu",
+        "year": "2022",
+        "journal-title": "Energy Reports"
+      },
+      {
+        "key": "pone.0302034.ref016",
+        "doi-asserted-by": "crossref",
+        "first-page": "100467",
+        "DOI": "10.1016/j.envc.2022.100467",
+        "article-title": "Determinants of Ecological Footprint and PM2.5: Role of Urbanization, Natural Resources and Technological Innovation",
+        "volume": "7",
+        "author": "M. Gupta",
+        "year": "2022",
+        "journal-title": "Environ. Challenges"
+      },
+      {
+        "key": "pone.0302034.ref017",
+        "first-page": "1262",
+        "article-title": "Investigating the Role of Environmental Taxes and Regulations for Renewable Energy Consumption: Evidence from Developed Economies",
+        "volume": "35",
+        "author": "M.F. Bashir",
+        "year": "2022",
+        "journal-title": "Econ. Res. Istraz"
+      },
+      {
+        "key": "pone.0302034.ref018",
+        "doi-asserted-by": "crossref",
+        "first-page": "103084",
+        "DOI": "10.1016/j.seta.2023.103084",
+        "article-title": "Do Technology and Renewable Energy Contribute to Energy Efficiency and Carbon Neutrality? Evidence from Top Ten Manufacturing Countries",
+        "volume": "56",
+        "author": "A. Jahanger",
+        "year": "2023",
+        "journal-title": "Sustain. Energy Technol. Assessments"
+      },
+      {
+        "key": "pone.0302034.ref019",
+        "doi-asserted-by": "crossref",
+        "first-page": "3299",
+        "DOI": "10.1016/j.net.2022.03.024",
+        "article-title": "Linking Nuclear Energy, Human Development and Carbon Emission in BRICS Region: Do External Debt and Financial Globalization Protect the Environment?",
+        "volume": "54",
+        "author": "M. Sadiq",
+        "year": "2022",
+        "journal-title": "Nucl. Eng. Technol"
+      },
+      {
+        "key": "pone.0302034.ref020",
+        "article-title": "BEYOND 2020-STRATEGIES and COSTS for TRANSFORMING the EUROPEAN ENERGY SYSTEM",
+        "author": "B. Knopf",
+        "journal-title": "Clim. Chang. Econ2013"
+      },
+      {
+        "key": "pone.0302034.ref021",
+        "first-page": "1",
+        "article-title": "Environmental Concerns of Financial Inclusion and Economic Policy Uncertainty in the Era of Globalization: Evidence from Low & High Globalized OECD Economies",
+        "volume": "1",
+        "author": "S. Ullah",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref022",
+        "first-page": "100022",
+        "article-title": "Dynamic Linkages between Financial Inclusion and Carbon Emissions: Evidence from Selected OECD Countries",
+        "volume": "4",
+        "author": "S.A.H. Zaidi",
+        "year": "2021",
+        "journal-title": "Resour. Environ. Sustain"
+      },
+      {
+        "key": "pone.0302034.ref023",
+        "first-page": "5",
+        "article-title": "The Impact of Financial Inclusion on Agricultural Development in Ngoketunjia Division, North West Cameroon",
+        "author": "I.M. Muafueshiangha",
+        "year": "2021",
+        "journal-title": "Swiss Sch. Bus. Manag. Geneva"
+      },
+      {
+        "key": "pone.0302034.ref024",
+        "author": "N. Li",
+        "year": "2021",
+        "journal-title": "Impact of Financial Inclusion and Green Bond Financing for Renewable Energy Mix: Implications for Financial Development in OECD Economies"
+      },
+      {
+        "key": "pone.0302034.ref025",
+        "doi-asserted-by": "crossref",
+        "first-page": "105085",
+        "DOI": "10.1016/j.eneco.2020.105085",
+        "article-title": "Financial Inclusion and Energy Poverty: Empirical Evidence from Ghana",
+        "volume": "94",
+        "author": "I. Koomson",
+        "year": "2021",
+        "journal-title": "Energy Econ"
+      },
+      {
+        "key": "pone.0302034.ref026",
+        "doi-asserted-by": "crossref",
+        "first-page": "1331",
+        "DOI": "10.1108/IJSE-08-2020-0527",
+        "article-title": "Exploring the Impact of Socio-Demographic Characteristics on Financial Inclusion: Empirical Evidence from Tunisia",
+        "volume": "48",
+        "author": "M. Amari",
+        "year": "2021",
+        "journal-title": "Int. J. Soc. Econ"
+      },
+      {
+        "key": "pone.0302034.ref027",
+        "doi-asserted-by": "crossref",
+        "first-page": "101833",
+        "DOI": "10.1016/j.irfa.2021.101833",
+        "article-title": "Achieving the United Nations\u2019 Sustainable Development Goals through Financial Inclusion: A Systematic Literature Review of Access to Finance across the Globe",
+        "volume": "77",
+        "author": "A. Kara",
+        "year": "2021",
+        "journal-title": "Int. Rev. Financ. Anal"
+      },
+      {
+        "key": "pone.0302034.ref028",
+        "doi-asserted-by": "crossref",
+        "first-page": "18955",
+        "DOI": "10.1007/s11356-021-16949-x",
+        "article-title": "Impact of Green Financing, FinTech, and Financial Inclusion on Energy Efficiency",
+        "volume": "29",
+        "author": "H. Liu",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref029",
+        "doi-asserted-by": "crossref",
+        "first-page": "105572",
+        "DOI": "10.1016/j.econmod.2021.105572",
+        "article-title": "Foreign Bank Presence, Institutional Quality, and Financial Inclusion: Evidence from Africa",
+        "volume": "102",
+        "author": "J. Kebede",
+        "year": "2021",
+        "journal-title": "Econ. Model"
+      },
+      {
+        "key": "pone.0302034.ref030",
+        "doi-asserted-by": "crossref",
+        "first-page": "240",
+        "DOI": "10.1080/09640568.2021.1881459",
+        "article-title": "Financial Inclusion and Green Economic Efficiency: Evidence from China",
+        "volume": "65",
+        "author": "L. Wang",
+        "year": "2022",
+        "journal-title": "J. Environ. Plan. Manag"
+      },
+      {
+        "key": "pone.0302034.ref031",
+        "first-page": "13",
+        "article-title": "The Effects of Financial Literacy on Sustainable Entrepreneurship",
+        "author": "A. Burchi",
+        "year": "2021",
+        "journal-title": "Sustain"
+      },
+      {
+        "key": "pone.0302034.ref032",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.1016/j.renene.2023.04.009",
+        "article-title": "Does Financial Inclusion and Renewable Energy Impede Environmental Quality: Empirical Evidence from BRI Countries",
+        "volume": "209",
+        "author": "X. Cai",
+        "year": "2023",
+        "journal-title": "Renew. Energy"
+      },
+      {
+        "key": "pone.0302034.ref033",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1016/j.iref.2021.05.010",
+        "article-title": "Digital Financial Capability and Entrepreneurial Performance",
+        "volume": "76",
+        "author": "Y. Luo",
+        "year": "2021",
+        "journal-title": "Int. Rev. Econ. Financ"
+      },
+      {
+        "key": "pone.0302034.ref034",
+        "doi-asserted-by": "crossref",
+        "first-page": "102",
+        "DOI": "10.3390/educsci12020102",
+        "article-title": "Inclusion of Ultra-Orthodox Students in Higher Education: A Case Study about Women Seminary in the Engineering College of Jerusalem",
+        "volume": "12",
+        "author": "M. Naor",
+        "year": "2022",
+        "journal-title": "Educ. Sci"
+      },
+      {
+        "key": "pone.0302034.ref035",
+        "doi-asserted-by": "crossref",
+        "first-page": "101447",
+        "DOI": "10.1016/j.intfin.2021.101447",
+        "article-title": "Fintech-Based Financial Inclusion and Bank Risk-Taking: Evidence from OIC Countries",
+        "volume": "75",
+        "author": "H. Banna",
+        "year": "2021",
+        "journal-title": "J. Int. Financ. Mark. Institutions Money"
+      },
+      {
+        "key": "pone.0302034.ref036",
+        "article-title": "The Necessity of Financial Inclusion for Enhancing the Economic Impacts of Remittances",
+        "author": "A.T. Chuc",
+        "year": "2021",
+        "journal-title": "Borsa Istanbul Rev"
+      },
+      {
+        "key": "pone.0302034.ref037",
+        "first-page": "1",
+        "article-title": "Impact of Financial Inclusion and Human Capital on Environmental Quality: Evidence from Emerging Economies",
+        "volume": "1",
+        "author": "Q. Du",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref038",
+        "first-page": "175",
+        "article-title": "Financial Inclusion and Women Empowerment in BRICS Countries: Perspectives on India and South Africa",
+        "author": "T.A. Ojo",
+        "year": "2022",
+        "journal-title": "Int. Polit. Econ. Ser"
+      },
+      {
+        "key": "pone.0302034.ref039",
+        "article-title": "The Pillars Determining Financial Inclusion among SMEs in Egypt: Service Awareness, Access and Usage Metrics and Macroeconomic Policies",
+        "author": "M.S. Eldeeb",
+        "year": "2021",
+        "journal-title": "Futur. Bus. J"
+      },
+      {
+        "key": "pone.0302034.ref040",
+        "author": "M.I. Menkeh",
+        "year": "2021",
+        "journal-title": "THE IMPACT OF FINANCIAL INCLUSION ON AGRICULTURAL DEVELOPMENT IN NGOKETUNJIA DIVISION, NORTH WEST CAMEROON"
+      },
+      {
+        "key": "pone.0302034.ref041",
+        "doi-asserted-by": "crossref",
+        "first-page": "6534",
+        "DOI": "10.3390/su15086534",
+        "article-title": "Impact of Financial Inclusion, Globalization, Renewable Energy, ICT, and Economic Growth on CO2 Emission in OBOR Countries",
+        "volume": "15",
+        "author": "R.S.M. Tsimisaraka",
+        "year": "2023",
+        "journal-title": "Sustain"
+      },
+      {
+        "key": "pone.0302034.ref042",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.3389/fenvs.2022.851263",
+        "article-title": "Financial Inclusion, Technological Innovations, and Environmental Quality: Analyzing the Role of Green Openness",
+        "volume": "10",
+        "author": "M. Ahmad",
+        "year": "2022",
+        "journal-title": "Front. Environ. Sci"
+      },
+      {
+        "key": "pone.0302034.ref043",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1007/s11205-019-02263-0",
+        "article-title": "Effect of Financial Inclusion on Poverty and Vulnerability to Poverty: Evidence Using a Multidimensional Measure of Financial Inclusion",
+        "volume": "149",
+        "author": "I. Koomson",
+        "year": "2020",
+        "journal-title": "Soc. Indic. Res"
+      },
+      {
+        "key": "pone.0302034.ref044",
+        "author": "M.M. Baskaya",
+        "year": "2022",
+        "journal-title": "THE FINANCIAL INCLUSION, RENEWABLE ENERGY AND CO2 EMISSIONS NEXUS IN THE BRICS NATIONS: NEW EVIDENCE BASED ON THE METHOD OF MOMENTS QUANTILE REGRESSION"
+      },
+      {
+        "key": "pone.0302034.ref045",
+        "doi-asserted-by": "crossref",
+        "first-page": "101451",
+        "DOI": "10.1016/j.frl.2020.101451",
+        "article-title": "Does Financial Inclusion Impact CO2 Emissions? Evidence from Asia",
+        "volume": "34",
+        "author": "T.H. Le",
+        "year": "2020",
+        "journal-title": "Financ. Res. Lett"
+      },
+      {
+        "key": "pone.0302034.ref046",
+        "first-page": "11",
+        "article-title": "Sustainable Development Goals, Financial Inclusion, and Grain Security Efficiency",
+        "author": "S. Jia",
+        "year": "2021",
+        "journal-title": "Agronomy"
+      },
+      {
+        "key": "pone.0302034.ref047",
+        "first-page": "1",
+        "author": "M. Eton",
+        "year": "2022",
+        "journal-title": "The Effect of COVID-19 on Financial Inclusion in the Kigezi and Lango Subregions in Uganda"
+      },
+      {
+        "key": "pone.0302034.ref048",
+        "doi-asserted-by": "crossref",
+        "first-page": "59974",
+        "DOI": "10.1007/s11356-022-20192-3",
+        "article-title": "Globalization toward Environmental Sustainability and Electricity Consumption to Environmental Degradation: Does EKC Inverted U-Shaped Hypothesis Exist between Squared Economic Growth and CO2 Emissions in Top Globalized Economies",
+        "volume": "29",
+        "author": "Z. Weimin",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref049",
+        "first-page": "1",
+        "article-title": "Nexus between Green Financing, Economic Risk, Political Risk and Environment: Evidence from China",
+        "author": "Q.Q. Ning",
+        "year": "2021",
+        "journal-title": "Econ. Res. Istraz"
+      },
+      {
+        "key": "pone.0302034.ref050",
+        "doi-asserted-by": "crossref",
+        "first-page": "2374",
+        "DOI": "10.1007/s11356-019-06905-1",
+        "article-title": "Dynamic Causality among Urban Agglomeration, Electricity Consumption, Construction Industry, and Economic Performance: Generalized Method of Moments Approach",
+        "volume": "27",
+        "author": "M. Ahmad",
+        "year": "2020",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref051",
+        "doi-asserted-by": "crossref",
+        "first-page": "424",
+        "DOI": "10.1016/j.scitotenv.2019.06.065",
+        "article-title": "Impact of Globalization, Economic Factors and Energy Consumption on CO2 Emissions in Pakistan",
+        "volume": "688",
+        "author": "M.K. Khan",
+        "year": "2019",
+        "journal-title": "Sci. Total Environ"
+      },
+      {
+        "key": "pone.0302034.ref052",
+        "doi-asserted-by": "crossref",
+        "first-page": "128585",
+        "DOI": "10.1016/j.jclepro.2021.128585",
+        "article-title": "Ecological Footprint, Economic Complexity and Natural Resources Rents in Latin America: Empirical Evidence Using Quantile Regressions",
+        "volume": "318",
+        "author": "R. Alvarado",
+        "year": "2021",
+        "journal-title": "J. Clean. Prod"
+      },
+      {
+        "key": "pone.0302034.ref053",
+        "doi-asserted-by": "crossref",
+        "first-page": "112115",
+        "DOI": "10.1016/j.enpol.2020.112115",
+        "article-title": "The Implications of Renewable and Non-Renewable Energy Generating in Sub-Saharan Africa: The Role of Economic Policy Uncertainties",
+        "volume": "150",
+        "author": "F.F. Adedoyin",
+        "year": "2021",
+        "journal-title": "Energy Policy"
+      },
+      {
+        "key": "pone.0302034.ref054",
+        "doi-asserted-by": "crossref",
+        "first-page": "126265",
+        "DOI": "10.1016/j.jclepro.2021.126265",
+        "article-title": "What Does the China\u2019s Economic Recovery after COVID-19 Pandemic Mean for the Economic Growth and Energy Consumption of Other Countries?",
+        "volume": "295",
+        "author": "Q. Wang",
+        "year": "2021",
+        "journal-title": "J. Clean. Prod"
+      },
+      {
+        "key": "pone.0302034.ref055",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1111/saje.12270",
+        "article-title": "Covid-19, Economic Growth and South African Fiscal Policy",
+        "volume": "89",
+        "author": "P. Burger",
+        "year": "2021",
+        "journal-title": "South African J. Econ"
+      },
+      {
+        "key": "pone.0302034.ref056",
+        "doi-asserted-by": "crossref",
+        "first-page": "48053",
+        "DOI": "10.1007/s11356-021-13828-3",
+        "article-title": "Impact of Financial Development and Technological Innovation on the Volatility of Green Growth\u2014Evidence from China",
+        "volume": "28",
+        "author": "J. Cao",
+        "year": "2021",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref057",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.1016/j.gr.2022.01.013",
+        "article-title": "Green Economic Growth and Its Inherent Driving Factors in Chinese Cities: Based on the Metafrontier-Global-SBM Super-Efficiency DEA Model",
+        "volume": "106",
+        "author": "X. Zhao",
+        "year": "2022",
+        "journal-title": "Gondwana Res"
+      },
+      {
+        "key": "pone.0302034.ref058",
+        "doi-asserted-by": "crossref",
+        "first-page": "36692",
+        "DOI": "10.1007/s11356-022-24193-0",
+        "article-title": "The Nexus between Natural Resources, Renewable Energy Consumption, Economic Growth, and Carbon Dioxide Emission in BRI Countries",
+        "volume": "30",
+        "author": "H. Khan",
+        "year": "2023",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref059",
+        "doi-asserted-by": "crossref",
+        "first-page": "1056",
+        "DOI": "10.1016/j.eneco.2019.05.022",
+        "article-title": "Economic Growth, Energy Intensity and the Energy Mix",
+        "volume": "81",
+        "author": "A. D\u00edaz",
+        "year": "2019",
+        "journal-title": "Energy Econ"
+      },
+      {
+        "key": "pone.0302034.ref060",
+        "doi-asserted-by": "crossref",
+        "first-page": "701",
+        "DOI": "10.1080/13504851.2020.1771266",
+        "article-title": "The Non-Banking Financial Institutions in Perspective of Economic Growth of Pakistan",
+        "volume": "28",
+        "author": "I.A. Khowaja",
+        "year": "2021",
+        "journal-title": "Appl. Econ. Lett"
+      },
+      {
+        "key": "pone.0302034.ref061",
+        "doi-asserted-by": "crossref",
+        "first-page": "117618",
+        "DOI": "10.1016/j.jenvman.2023.117618",
+        "article-title": "Assessing the Impact of Economic Growth Target Constraints on Environmental Pollution: Does Environmental Decentralization Matter?",
+        "volume": "336",
+        "author": "S. Ren",
+        "year": "2023",
+        "journal-title": "J. Environ. Manage"
+      },
+      {
+        "key": "pone.0302034.ref062",
+        "first-page": "64",
+        "article-title": "Fostering Inclusive, Sustainable Economic Growth and \u2018\u201cGreen\u201d\u2018 Skills Development in Learning Cities through Partnerships",
+        "author": "M. Pavlova",
+        "year": "2018",
+        "journal-title": "Int. Rev. Educ"
+      },
+      {
+        "key": "pone.0302034.ref063",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1016/j.scitotenv.2018.08.229",
+        "article-title": "Carbon Dioxide (CO2) Emissions and Economic Growth: A Systematic Review of Two Decades of Research from 1995 to 2017",
+        "volume": "649",
+        "author": "A. Mardani",
+        "year": "2019",
+        "journal-title": "Sci. Total Environ"
+      },
+      {
+        "key": "pone.0302034.ref064",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1016/j.rser.2015.06.005",
+        "article-title": "Is the Long-Run Relationship between Economic Growth, Electricity Consumption, Carbon Dioxide Emissions and Financial Development in Gulf Cooperation Council Countries Robust? Renew",
+        "volume": "51",
+        "author": "M. Salahuddin",
+        "year": "2015",
+        "journal-title": "Sustain. Energy Rev"
+      },
+      {
+        "key": "pone.0302034.ref065",
+        "doi-asserted-by": "crossref",
+        "first-page": "4089",
+        "DOI": "10.3390/su15054089",
+        "article-title": "How Renewable Energy and CO2 Emissions Contribute to Economic Growth, and Sustainability\u2014An Extensive Analysis",
+        "volume": "15",
+        "author": "J.A. Fuinhas",
+        "year": "2023",
+        "journal-title": "Sustain"
+      },
+      {
+        "key": "pone.0302034.ref066",
+        "doi-asserted-by": "crossref",
+        "first-page": "105372",
+        "DOI": "10.1016/j.resconrec.2020.105372",
+        "article-title": "Dynamic and Causality Interrelationships from Municipal Solid Waste Recycling to Economic Growth, Carbon Emissions and Energy Efficiency Using a Novel Bootstrapping Autoregressive Distributed Lag. Resour",
+        "volume": "166",
+        "author": "A. Razzaq",
+        "year": "2021",
+        "journal-title": "Conserv. Recycl"
+      },
+      {
+        "key": "pone.0302034.ref067",
+        "doi-asserted-by": "crossref",
+        "first-page": "2003",
+        "DOI": "10.1007/s10644-023-09502-y",
+        "article-title": "Role of the E-Exhibition Industry in the Green Growth of Businesses and Recovery. Econ",
+        "volume": "56",
+        "author": "Y. Shang",
+        "year": "2023",
+        "journal-title": "Chang. Restruct"
+      },
+      {
+        "key": "pone.0302034.ref068",
+        "first-page": "33",
+        "article-title": "Does Electricity Production from Different Sources in Pakistan Have Dominant Contribution to Economic Growth? Empirical Evidence from Long-Run and Short-Run Analysis",
+        "author": "A. Rehman",
+        "year": "2020",
+        "journal-title": "Electr. J"
+      },
+      {
+        "key": "pone.0302034.ref069",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1002/sd.2125",
+        "article-title": "The Mitigating Effects of Economic Complexity and Renewable Energy on Carbon Emissions in Developed Countries",
+        "volume": "29",
+        "author": "B. Do\u011fan",
+        "year": "2021",
+        "journal-title": "Sustain. Dev"
+      },
+      {
+        "key": "pone.0302034.ref070",
+        "doi-asserted-by": "crossref",
+        "first-page": "120573",
+        "DOI": "10.1016/j.techfore.2021.120573",
+        "article-title": "A Clean Technological Innovation and Eco-Efficiency Enhancement: A Multi-Index Assessment of Sustainable Economic and Environmental Management",
+        "volume": "166",
+        "author": "S.A. Ali",
+        "year": "2021",
+        "journal-title": "Technol. Forecast. Soc. Change"
+      },
+      {
+        "key": "pone.0302034.ref071",
+        "first-page": "29",
+        "article-title": "Economic Growth, Social Inclusion, and Environmental Protection: Assessing the Existence of Green Growth in Pakistan",
+        "author": "A. Jabeen",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref072",
+        "article-title": "Fostering Economic Growth, Social Inclusion & Sustainability in Industry 4.0: A Systemic Approach",
+        "volume": "51",
+        "author": "L. Mendoza-Del Villar",
+        "year": "2020",
+        "journal-title": "In Proceedings of the Procedia Manufacturing"
+      },
+      {
+        "key": "pone.0302034.ref073",
+        "doi-asserted-by": "crossref",
+        "first-page": "594",
+        "DOI": "10.3390/en15020594",
+        "article-title": "The Development and Issues of Energy-ICT: A Review of Literature with Economic and Managerial Viewpoints",
+        "volume": "15",
+        "author": "J.L. Hu",
+        "year": "2022",
+        "journal-title": "Energies"
+      },
+      {
+        "key": "pone.0302034.ref074",
+        "article-title": "Energy Consumption and Economic Growth in Vietnam",
+        "author": "C.F. Tang",
+        "year": "2016",
+        "journal-title": "Renew. Sustain. Energy Rev"
+      },
+      {
+        "key": "pone.0302034.ref075",
+        "first-page": "51",
+        "article-title": "Equity Market and Money Supply Spillovers and Economic Growth in BRICS Economies: A Global Vector Autoregressive Approach",
+        "author": "N. Samargandi",
+        "year": "2020",
+        "journal-title": "North Am. J. Econ. Financ"
+      },
+      {
+        "key": "pone.0302034.ref076",
+        "article-title": "The Impact of the Banking Sector on Economic Structure and Growth",
+        "author": "J. Tongurai",
+        "year": "2018",
+        "journal-title": "Int. Rev. Financ. Anal"
+      },
+      {
+        "key": "pone.0302034.ref077",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1016/j.eap.2020.12.007",
+        "article-title": "The Nexus between CO2 Emissions, Energy Consumption, and Economic Growth in the U.S",
+        "volume": "69",
+        "author": "M. Salari",
+        "year": "2021",
+        "journal-title": "Econ. Anal. Policy"
+      },
+      {
+        "key": "pone.0302034.ref078",
+        "doi-asserted-by": "crossref",
+        "first-page": "2405",
+        "DOI": "10.1016/j.heliyon.2023.e14635",
+        "article-title": "Effects of Globalization, Foreign Direct Investment and Economic Growth on Renewable Electricity Consumption",
+        "volume": "9",
+        "author": "G. Tariq",
+        "year": "2023",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "pone.0302034.ref079",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1002/jtr.2151",
+        "article-title": "A Nexus of Linear and Non-Linear Relationships between Tourism Demand, Renewable Energy Consumption, and Economic Growth: Theory and Evidence",
+        "volume": "20",
+        "author": "C. Isik",
+        "year": "2018",
+        "journal-title": "Int. J. Tour. Res"
+      },
+      {
+        "key": "pone.0302034.ref080",
+        "doi-asserted-by": "crossref",
+        "first-page": "1112",
+        "DOI": "10.3390/su14031112",
+        "article-title": "Al Economic Anxiety and the Performance of SMEs during COVID-19: A Cross-National Study in Kuwait",
+        "volume": "14",
+        "author": "M. Zainal",
+        "year": "2022",
+        "journal-title": "Sustain"
+      },
+      {
+        "key": "pone.0302034.ref081",
+        "first-page": "435",
+        "article-title": "A. Sustainable Finance for Promoting Inclusive Growth",
+        "volume": "6",
+        "author": "I.G. Purnamawati",
+        "year": "2022",
+        "journal-title": "J. Ilm. Akunt"
+      },
+      {
+        "key": "pone.0302034.ref082",
+        "doi-asserted-by": "crossref",
+        "first-page": "488",
+        "DOI": "10.1016/j.eap.2022.08.019",
+        "article-title": "Enhancing Green Economic Recovery through Green Bonds Financing and Energy Efficiency Investments",
+        "volume": "76",
+        "author": "L. Zhao",
+        "year": "2022",
+        "journal-title": "Econ. Anal. Policy"
+      },
+      {
+        "key": "pone.0302034.ref083",
+        "first-page": "12",
+        "article-title": "How Does Institutional Quality Moderates the Impact of Public Debt on Economic Growth? Startling Evidence from OIC Countries",
+        "author": "Aurangzaib",
+        "year": "2022",
+        "journal-title": "Int. J. Manag. Res. Emerg. Sci"
+      },
+      {
+        "key": "pone.0302034.ref084",
+        "first-page": "15",
+        "article-title": "Dynamic Modelling of Renewable Energy Consumption and Production on African Economic Growth and the Environment Using Vector Error Correction Models",
+        "volume": "39",
+        "author": "A.A. Gwani",
+        "year": "2023",
+        "journal-title": "Mat. Malaysian J. Ind. Appl. Math"
+      },
+      {
+        "key": "pone.0302034.ref085",
+        "doi-asserted-by": "crossref",
+        "first-page": "43579",
+        "DOI": "10.1007/s11356-021-13341-7",
+        "article-title": "Income Inequality, Economic Growth and Carbon Dioxide Emissions Nexus: Empirical Evidence from Ethiopia",
+        "volume": "28",
+        "author": "S.K. Hundie",
+        "year": "2021",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref086",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1016/0304-4076(94)01627-C",
+        "article-title": "The Role of Theory in Econometrics",
+        "volume": "67",
+        "author": "M.H. Pesaran",
+        "year": "1995",
+        "journal-title": "J. Econom"
+      },
+      {
+        "key": "pone.0302034.ref087",
+        "first-page": "72",
+        "article-title": "The Competing Role of Natural Gas and Oil as Fossil Fuel and the Non-Linear Dynamics of Resource Curse in Russia",
+        "author": "J. Yang",
+        "year": "2021",
+        "journal-title": "Resour. Policy"
+      },
+      {
+        "key": "pone.0302034.ref088",
+        "article-title": "The Trade \u2011 off between Economic Performance and Environmental Quality: Does Financial Inclusion Matter for Emerging Asian Economies?",
+        "author": "D. Liu",
+        "year": "2021",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref089",
+        "doi-asserted-by": "crossref",
+        "first-page": "120758",
+        "DOI": "10.1016/j.techfore.2021.120758",
+        "article-title": "Sustainable Economic Development in India: The Dynamics between Financial Inclusion, ICT Development, and Economic Growth",
+        "volume": "169",
+        "author": "R.P. Pradhan",
+        "year": "2021",
+        "journal-title": "Technol. Forecast. Soc. Change"
+      },
+      {
+        "key": "pone.0302034.ref090",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eap.2020.10.007",
+        "article-title": "The Nexus between Financial Inclusion and Economic Development: Comparison of Old and New EU Member Countries",
+        "volume": "69",
+        "author": "R. Huang",
+        "year": "2021",
+        "journal-title": "Econ. Anal. Policy"
+      },
+      {
+        "key": "pone.0302034.ref091",
+        "doi-asserted-by": "crossref",
+        "first-page": "101714",
+        "DOI": "10.1016/j.intfin.2022.101714",
+        "article-title": "Underdog Mentality, Identity Discrimination and Access to Peer-to-Peer Lending Market: Exploring Effects of Digital Authentication",
+        "volume": "83",
+        "author": "B. Wu",
+        "year": "2023",
+        "journal-title": "J. Int. Financ. Mark. Institutions Money"
+      },
+      {
+        "key": "pone.0302034.ref092",
+        "article-title": "Role of Islamic Microfinance Institutions for Sustainable Development Goals in Bangladesh",
+        "author": "M.N. Uddin",
+        "year": "2020",
+        "journal-title": "J. Int. Bus. Manag"
+      },
+      {
+        "key": "pone.0302034.ref093",
+        "doi-asserted-by": "crossref",
+        "first-page": "12152",
+        "DOI": "10.1007/s11356-020-07716-5",
+        "article-title": "Does Governance Quality Moderate the Finance-Renewable Energy-Growth Nexus? Evidence from Five Major Regions in the World",
+        "volume": "27",
+        "author": "D.F. Kassi",
+        "year": "2020",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref094",
+        "first-page": "8",
+        "article-title": "Access to Microfinance as a Resilience Policy to Address Sustainable Development Goals: A Content Analysis",
+        "author": "A. Gatto",
+        "year": "2022",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "pone.0302034.ref095",
+        "doi-asserted-by": "crossref",
+        "first-page": "101652",
+        "DOI": "10.1016/j.gsf.2023.101652",
+        "article-title": "Does Green Growth in E-7 Countries Depend on Economic Policy Uncertainty, Institutional Quality, and Renewable Energy? Evidence from Quantile-Based Regression",
+        "volume": "14",
+        "author": "Y. Jiang",
+        "year": "2023",
+        "journal-title": "Geosci. Front"
+      },
+      {
+        "key": "pone.0302034.ref096",
+        "first-page": "5360",
+        "author": "I.S. Chaudhry",
+        "year": "2022",
+        "journal-title": "Financial Inclusion-Environmental Degradation Nexus in OIC Countries: New Evidence from Environmental Kuznets Curve Using DCCE Approach"
+      },
+      {
+        "key": "pone.0302034.ref097",
+        "first-page": "44",
+        "article-title": "Does Globalization Change the Renewable Energy Consumption and CO2 Emissions Nexus for OECD Countries? New Evidence Based on the Nonlinear PSTR Model",
+        "author": "S. Nan",
+        "year": "2022",
+        "journal-title": "Energy Strateg. Rev"
+      },
+      {
+        "key": "pone.0302034.ref098",
+        "first-page": "3609",
+        "article-title": "Dynamic and Casual Association between Green Investment, Clean Energy and Environmental Sustainability Using Advance Quantile A.R.D.L. Framework",
+        "volume": "35",
+        "author": "Y. Sun",
+        "year": "2022",
+        "journal-title": "Econ. Res. Istraz"
+      },
+      {
+        "key": "pone.0302034.ref099",
+        "doi-asserted-by": "crossref",
+        "first-page": "101828",
+        "DOI": "10.1016/j.techsoc.2021.101828",
+        "article-title": "Do the Shocks in Technological and Financial Innovation Influence the Environmental Quality? Evidence from BRICS Economies",
+        "volume": "68",
+        "author": "M.Z. Chishti",
+        "year": "2022",
+        "journal-title": "Technol. Soc"
+      },
+      {
+        "key": "pone.0302034.ref100",
+        "first-page": "1138",
+        "article-title": "Does Financial Inclusion Limit Carbon Dioxide Emissions?",
+        "author": "L. Qin",
+        "year": "2021",
+        "journal-title": "Analyzing the Role of Globalization and Renewable Electricity Output"
+      },
+      {
+        "key": "pone.0302034.ref101",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1016/j.net.2022.10.027",
+        "article-title": "Impact of Nuclear and Renewable Energy Sources on Environment Quality: Testing the EKC and LCC Hypotheses for South Korea",
+        "volume": "55",
+        "author": "U.K. Pata",
+        "year": "2023",
+        "journal-title": "Nucl. Eng. Technol"
+      },
+      {
+        "key": "pone.0302034.ref102",
+        "doi-asserted-by": "crossref",
+        "first-page": "423",
+        "DOI": "10.1016/j.enpol.2018.03.067",
+        "article-title": "The Role of a Low Carbon Fuel Standard in Achieving Long-Term GHG Reduction Targets",
+        "volume": "119",
+        "author": "J. Lepitzki",
+        "year": "2018",
+        "journal-title": "Energy Policy"
+      },
+      {
+        "key": "pone.0302034.ref103",
+        "doi-asserted-by": "crossref",
+        "first-page": "15732",
+        "DOI": "10.3390/su142315732",
+        "article-title": "Innovation-Led FDI Sustainability: Clarifying the Nexus between Financial Innovation, Technological Innovation, Environmental Innovation, and FDI in the BRIC Nations",
+        "volume": "14",
+        "author": "Y. Huan",
+        "year": "2022",
+        "journal-title": "Sustain"
+      },
+      {
+        "key": "pone.0302034.ref104",
+        "article-title": "The Impact of Financial Development on CO2 Emissions: New Evidence from Developed and Emerging Countries",
+        "author": "U. Habiba",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref105",
+        "doi-asserted-by": "crossref",
+        "first-page": "103179",
+        "DOI": "10.1016/j.jnca.2021.103179",
+        "article-title": "Internet of Healthcare Things: A Contemporary Survey",
+        "volume": "192",
+        "author": "S. Ketu",
+        "year": "2021",
+        "journal-title": "J. Netw. Comput. Appl"
+      },
+      {
+        "key": "pone.0302034.ref106",
+        "doi-asserted-by": "crossref",
+        "first-page": "118245",
+        "DOI": "10.1016/j.jclepro.2019.118245",
+        "article-title": "Reducing Carbon Emissions: The Role of Renewable Energy and Democracy",
+        "volume": "240",
+        "author": "S. Adams",
+        "year": "2019",
+        "journal-title": "J. Clean. Prod"
+      },
+      {
+        "key": "pone.0302034.ref107",
+        "doi-asserted-by": "crossref",
+        "first-page": "101942",
+        "DOI": "10.1016/j.resourpol.2020.101942",
+        "article-title": "No Silver Bullet for De-Carbonization: Preparing for Tomorrow, Today",
+        "volume": "71",
+        "author": "S.A.R. Khan",
+        "year": "2021",
+        "journal-title": "Resour. Policy"
+      },
+      {
+        "key": "pone.0302034.ref108",
+        "doi-asserted-by": "crossref",
+        "first-page": "135853",
+        "DOI": "10.1016/j.jclepro.2023.135853",
+        "article-title": "Achieving Carbon Neutrality in Post COP26 in BRICS, MINT, and G7 Economies: The Role of Financial Development and Governance Indicators",
+        "volume": "387",
+        "author": "E.K. Ofori",
+        "year": "2023",
+        "journal-title": "J. Clean. Prod"
+      },
+      {
+        "key": "pone.0302034.ref109",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1007/s11625-023-01314-3",
+        "article-title": "International collaboration in climate technology innovation: the Italian experience in Mission Innovation",
+        "volume": "19",
+        "author": "M. Capra",
+        "year": "2024",
+        "journal-title": "Sustain Sci"
+      },
+      {
+        "key": "pone.0302034.ref110",
+        "author": "M. Abbas",
+        "year": "2021",
+        "journal-title": "Lecture Notes in Mechanical Engineering Proceedings of the 3rd International Conference on Separation Technology"
+      },
+      {
+        "key": "pone.0302034.ref111",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.apmrv.2021.03.001",
+        "article-title": "Determinants of Financial Literacy: Empirical Evidence from Micro and Small Enterprises in India",
+        "author": "Anshika",
+        "year": "2021",
+        "journal-title": "Asia Pacific Manag. Rev"
+      },
+      {
+        "key": "pone.0302034.ref112",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1007/s40812-020-00169-4",
+        "article-title": "European SMEs amidst the COVID-19 Crisis: Assessing Impact and Policy Responses",
+        "volume": "47",
+        "author": "J. Juergensen",
+        "year": "2020",
+        "journal-title": "J. Ind. Bus. Econ"
+      },
+      {
+        "key": "pone.0302034.ref113",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.35313/jrbi.v7i2.2592",
+        "article-title": "Pengaruh Net Profit Margin, Return On Asset, Return On Equity, Dan Earning Per Share Terhadap Harga Saham Di Masa Pandemi Covid-19 (Studi Empiris Pada Perusahaan Publik Sektor Pertambangan Di Bursa Efek Indonesia)",
+        "volume": "7",
+        "author": "N.D. Kartiko",
+        "year": "2021",
+        "journal-title": "J. Ris. Bisnis dan Investasi"
+      },
+      {
+        "key": "pone.0302034.ref114",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mendon\u00e7a, A.K. de S.; de Andrade Conradi Barni, G.; Moro, M.F.; Bornia, A.C.; Kupek, E.; Fernandes, L. Hierarchical Modeling of the 50 Largest Economies to Verify the Impact of GDP, Population and Renewable Energy Generation in CO2 Emissions. Sustain. Prod. Consum. 2020, 22, 58\u201367, 10.1016/j.spc.2020.02.001.",
+        "DOI": "10.1016/j.spc.2020.02.001"
+      },
+      {
+        "key": "pone.0302034.ref115",
+        "doi-asserted-by": "crossref",
+        "first-page": "58179",
+        "DOI": "10.1007/s11356-022-19763-1",
+        "article-title": "The Nexus of Financial Development, Technological Innovation, Institutional Quality, and Environmental Quality: Evidence from OECD Economies",
+        "volume": "29",
+        "author": "D. Jianguo",
+        "year": "2022",
+        "journal-title": "Environ. Sci. Pollut. Res"
+      },
+      {
+        "key": "pone.0302034.ref116",
+        "doi-asserted-by": "crossref",
+        "first-page": "100676",
+        "DOI": "10.1016/j.ememar.2020.100676",
+        "article-title": "SME Lending and Banking System Stability: Some Mechanisms at Work",
+        "volume": "43",
+        "author": "M. Brei",
+        "year": "2020",
+        "journal-title": "Emerg. Mark. Rev"
+      },
+      {
+        "key": "pone.0302034.ref117",
+        "article-title": "Invesitigation of Finance Industry on Risk Awareness Model and Digital Economic Growth",
+        "author": "Y. Chen",
+        "year": "2021",
+        "journal-title": "Ann. Oper. Res"
+      },
+      {
+        "key": "pone.0302034.ref118",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0264647",
+        "DOI": "10.1371/journal.pone.0264647",
+        "article-title": "Can Digital Finance Boost SME Innovation by Easing Financing Constraints?: Evidence from Chinese GEM-Listed Companies",
+        "volume": "17",
+        "author": "L. Yao",
+        "year": "2022",
+        "journal-title": "PLoS One"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1371/journal.pone.0323472",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2025-05-07T00:00:00Z",
+          "timestamp": 1746576000000
+        }
+      },
+      {
+        "DOI": "10.1371/journal.pone.0323472",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2025-05-07T00:00:00Z",
+          "timestamp": 1746576000000
+        },
+        "record-id": "69694"
+      }
+    ],
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0302034",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2024-04-18T13:34:13Z",
+      "timestamp": 1713447253000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0302034"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Magdalena",
+        "family": "Radulescu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          18
+        ]
+      ]
+    },
+    "references-count": 118,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            18
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0302034",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          18
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,735 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pone.0100270",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0100270",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:11.811244+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2026-01-21T20:03:13Z",
+      "timestamp": 1769025793418,
+      "version": "3.49.0"
+    },
+    "reference-count": 47,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              6,
+              13
+            ]
+          ],
+          "date-time": "2014-06-13T00:00:00Z",
+          "timestamp": 1402617600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "DOI": "10.1371/journal.pone.0100270",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          13
+        ]
+      ],
+      "date-time": "2014-06-13T20:35:34Z",
+      "timestamp": 1402691734000
+    },
+    "page": "e100270",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Evaluation of the Humoral Immune Response to Human Leukocyte Antigens in Brazilian Renal Transplant Candidates"
+    ],
+    "prefix": "10.1371",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Patricia Keiko",
+        "family": "Saito",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Roger Haruki",
+        "family": "Yamakawa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Erica Pereira",
+        "family": "Aparecida",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Waldir Verissimo da",
+        "family": "Silva J\u00fanior",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sueli Donizete",
+        "family": "Borelli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "662",
+        "DOI": "10.1016/S0140-6736(66)92829-7",
+        "article-title": "Hyperacute rejection of kidney allografts, associated with pre-existing humoral antibodies against donor cells",
+        "volume": "2",
+        "author": "F Kissmeyer-Nielsen",
+        "year": "1966",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "735",
+        "DOI": "10.1056/NEJM196904032801401",
+        "article-title": "Significance of the positive crossmatch test in kidney transplantation",
+        "volume": "280",
+        "author": "R Patel",
+        "year": "1969",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1097/00007890-199001000-00019",
+        "article-title": "The significance of the anti-class I antibody response. I. Clinical and pathologic features of anti-class I-mediated rejection",
+        "volume": "49",
+        "author": "PF Halloran",
+        "year": "1990",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1735",
+        "DOI": "10.1038/1811735a0",
+        "article-title": "Leucocyte antibodies in sera from pregnant women",
+        "volume": "181",
+        "author": "JJ Van Rood",
+        "year": "1958",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1756",
+        "DOI": "10.1172/JCI103768",
+        "article-title": "Fetomaternal leukocyte incompatibility",
+        "volume": "37",
+        "author": "R Payne",
+        "year": "1958",
+        "journal-title": "J Clin Invest"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1046/j.1600-065X.2003.00093.x",
+        "article-title": "The role of B cells and alloantibody in the host response to human organ allografts",
+        "volume": "196",
+        "author": "A Vongwiwatana",
+        "year": "2003",
+        "journal-title": "Immunol Rev"
+      },
+      {
+        "key": "ref7",
+        "first-page": "190",
+        "article-title": "Leuco agglutinins IV. Leuco-agglutinins and blood transfusion",
+        "volume": "4",
+        "author": "J Dausset",
+        "year": "1954",
+        "journal-title": "Vox Sang"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "525",
+        "DOI": "10.1097/00007890-198405000-00023",
+        "article-title": "Sensitization following kidney graft failure and blood transfusion",
+        "volume": "37",
+        "author": "M Thick",
+        "year": "1984",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1269",
+        "DOI": "10.1097/00007890-200204270-00014",
+        "article-title": "Kidney graft failure and presensitization against HLA class I and class II antigens",
+        "volume": "73",
+        "author": "C Susal",
+        "year": "2002",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1616",
+        "DOI": "10.1097/00007890-199706150-00014",
+        "article-title": "Postoperative production of anti-donor antibody and chronic rejection in renal transplantation",
+        "volume": "63",
+        "author": "M Abe",
+        "year": "1997",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1034/j.1399-0012.2000.140306.x",
+        "article-title": "Effect of recipient sensitization (peak PRA) on graft outcome in haploidentical living related kidney transplants",
+        "volume": "14",
+        "author": "A Barama",
+        "year": "2000",
+        "journal-title": "Clin Transplant"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1034/j.1399-0012.2000.140117.x",
+        "article-title": "Should I accept this kidney?",
+        "volume": "14",
+        "author": "AJ Matas",
+        "year": "2000",
+        "journal-title": "Clin Transplant"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "362",
+        "DOI": "10.1046/j.1365-3083.2003.01203.x",
+        "article-title": "No impact of cross-reactive group human leucocyte antigen class I matching on long-term kidney graft survival",
+        "volume": "57",
+        "author": "M Egfjord",
+        "year": "2003",
+        "journal-title": "Scand J Immunol"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1034/j.1399-0012.2001.00004.x",
+        "article-title": "HLA phenotypes of ESRD patients are risk factors in the panel-reactive antibody (PRA) response",
+        "volume": "15",
+        "author": "E Heise",
+        "year": "2001",
+        "journal-title": "Clin Transplant"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "185",
+        "DOI": "10.1016/j.trim.2003.11.003",
+        "article-title": "Panel reactive antibody positivity and associated HLA antibodies in Turkish renal transplant candidates",
+        "volume": "12",
+        "author": "FN Ozdemir",
+        "year": "2004",
+        "journal-title": "Transpl Immunol"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "3651",
+        "DOI": "10.1016/j.transproceed.2009.04.007",
+        "article-title": "Anti-HLA antibody profile of Turkish patients with end-stage renal disease",
+        "volume": "41",
+        "author": "GE Karahan",
+        "year": "2009",
+        "journal-title": "Transplant Proc"
+      },
+      {
+        "key": "ref17",
+        "first-page": "185",
+        "article-title": "Red blood cell and leukocyte alloimmunization in patients awaiting kidney transplantation",
+        "volume": "35",
+        "author": "SF da Silva",
+        "year": "2013",
+        "journal-title": "Rev Bras Hematol Hemoter"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "409",
+        "DOI": "10.4103/0971-4065.106029",
+        "article-title": "Human leukocyte antigen antibody incompatible renal transplantation",
+        "volume": "22",
+        "author": "NS Krishnan",
+        "year": "2012",
+        "journal-title": "Indian J Nephrol"
+      },
+      {
+        "key": "ref19",
+        "first-page": "160",
+        "article-title": "Red cell and human leukocyte antigen alloimmunization in candidates for renal transplantation: a reality",
+        "volume": "35",
+        "author": "MA Mota",
+        "year": "2013",
+        "journal-title": "Rev Bras Hematol Hemoter"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "879",
+        "DOI": "10.1016/j.humimm.2012.07.320",
+        "article-title": "Pretransplant anti-HLA-Cw and anti-HLA-DP antibodies in sensitized patients",
+        "volume": "73",
+        "author": "M Ling",
+        "year": "2012",
+        "journal-title": "Hum Immunol"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.2215/CJN.11961111",
+        "article-title": "Erythropoietic stimulating agents and quality of a patient\u2019s life: individualizing anemia treatment",
+        "volume": "7",
+        "author": "AS Kliger",
+        "year": "2012",
+        "journal-title": "Clin J Am Soc Nephrol"
+      },
+      {
+        "key": "ref22",
+        "first-page": "303",
+        "article-title": "Has recombinant human erythropoietin therapy minimized red-cell transfusions in hemodialysis patients?",
+        "volume": "41",
+        "author": "LT Goodnough",
+        "year": "1994",
+        "journal-title": "Clin Nephrol"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.1111/j.1525-139X.2012.01089.x",
+        "article-title": "Red blood cell transfusion risks in patients with end-stage renal disease",
+        "volume": "25",
+        "author": "YC Tanhehco",
+        "year": "2012",
+        "journal-title": "Semin Dial"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "544",
+        "DOI": "10.1111/j.1399-0012.2011.01581.x",
+        "article-title": "Renal allograft loss in the first post-operative month: causes and consequences",
+        "volume": "26",
+        "author": "PJ Phelan",
+        "year": "2012",
+        "journal-title": "Clin Transplant"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "355",
+        "DOI": "10.1093/ndt/16.2.355",
+        "article-title": "The effect of HLA-C matching on acute renal transplant rejection",
+        "volume": "16",
+        "author": "C Frohn",
+        "year": "2001",
+        "journal-title": "Nephrol Dial Transplant"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1097/TP.0b013e318224c14e",
+        "article-title": "Deleterious impact of mismatching for human leukocyte antigen-C in presensitized recipients of kidney transplants",
+        "volume": "92",
+        "author": "TH Tran",
+        "year": "2011",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1097/00007890-198607000-00022",
+        "article-title": "Hyperacute rejection of a renal allograft in the presence of anti-HLA-Cw5 antibody",
+        "volume": "42",
+        "author": "JR Chapman",
+        "year": "1986",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "3412",
+        "DOI": "10.1016/j.transproceed.2011.09.023",
+        "article-title": "Impact of pretransplant human leukocyte antigen-C and -DP antibodies on kidney graft outcome",
+        "volume": "43",
+        "author": "M Gilbert",
+        "year": "2011",
+        "journal-title": "Transplant Proc"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1543",
+        "DOI": "10.1111/j.1600-6143.2011.03584.x",
+        "article-title": "Anti-Cw donor-specific alloantibodies can lead to positive flow cytometry crossmatch and irreversible acute antibody-mediated rejection",
+        "volume": "11",
+        "author": "T Bachelet",
+        "year": "2011",
+        "journal-title": "Am J Transplant"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1016/j.trim.2010.12.003",
+        "article-title": "Detection of antibodies against HLA-C epitopes in patients with rejected kidney transplants",
+        "volume": "24",
+        "author": "RJ Duquesnoy",
+        "year": "2011",
+        "journal-title": "Transpl Immunol"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1511",
+        "DOI": "10.1097/01.tp.0000181384.49832.3a",
+        "article-title": "Detection of antibodies to HLA-DP in renal transplant recipients using single antigen beads",
+        "volume": "80",
+        "author": "J Qiu",
+        "year": "2005",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "390",
+        "DOI": "10.1093/ndt/gfm703",
+        "article-title": "Preformed donor-directed anti-HLA-DP antibodies may be an impediment to successful kidney transplantation",
+        "volume": "23",
+        "author": "S Goral",
+        "year": "2008",
+        "journal-title": "Nephrol Dial Transplant"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "220",
+        "DOI": "10.1097/TP.0b013e3181e1177d",
+        "article-title": "Acute humoral rejection in a zero mismatch deceased donor renal transplant due to an antibody to an HLA-DP alpha",
+        "volume": "90",
+        "author": "P Singh",
+        "year": "2010",
+        "journal-title": "Transplantation"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1016/j.trim.2008.12.006",
+        "article-title": "Chronic humoral rejection mediated by anti-HLA-DP alloantibodies: insights into the role of epitope sharing in donor-specific and non-donor specific alloantibodies generation",
+        "volume": "20",
+        "author": "O Thaunat",
+        "year": "2009",
+        "journal-title": "Transpl Immunol"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "2293",
+        "DOI": "10.1016/j.transproceed.2005.03.036",
+        "article-title": "Human leukocyte antigen allelic groups and haplotypes in a brazilian sample of volunteer donors for bone marrow transplant in Curitiba, Parana, Brazil",
+        "volume": "37",
+        "author": "TM Ruiz",
+        "year": "2005",
+        "journal-title": "Transplant Proc"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "180",
+        "DOI": "10.1016/j.humimm.2011.11.009",
+        "article-title": "HLA-A, -B, and -DRB1 allelic and haplotypic diversity in a sample of bone marrow volunteer donors from Rio Grande do Sul State, Brazil",
+        "volume": "73",
+        "author": "AS Bortolotto",
+        "year": "2012",
+        "journal-title": "Hum Immunol"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.5581/1516-8484.20120010",
+        "article-title": "HLA-A, B and DRB1 allele and haplotype frequencies in volunteer bone marrow donors from the north of Parana State",
+        "volume": "34",
+        "author": "MS Bardi",
+        "year": "2012",
+        "journal-title": "Rev Bras Hematol Hemoter"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1073/pnas.0126614100",
+        "article-title": "Color and genomic ancestry in Brazilians",
+        "volume": "100",
+        "author": "FC Parra",
+        "year": "2003",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "ref39",
+        "first-page": "597",
+        "article-title": "HLA polymorphism and evaluation of European, African, and Amerindian contribution to the white and mulatto populations from Parana, Brazil",
+        "volume": "72",
+        "author": "CM Probst",
+        "year": "2000",
+        "journal-title": "Hum Biol"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.1111/j.1399-0039.2004.00264.x",
+        "article-title": "Polymorphism of HLA class I genes in the Brazilian population from the Northeastern State of Pernambuco corroborates anthropological evidence of its origin",
+        "volume": "64",
+        "author": "P Nigam",
+        "year": "2004",
+        "journal-title": "Tissue Antigens"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1111/j.1399-0039.1983.tb00370.x",
+        "article-title": "HLA-A, B and C markers in the Portuguese population",
+        "volume": "21",
+        "author": "A Silva Carvalho",
+        "year": "1983",
+        "journal-title": "Tissue Antigens"
+      },
+      {
+        "key": "ref42",
+        "first-page": "141",
+        "article-title": "The distribution of HLA antigens in Italy",
+        "volume": "3",
+        "author": "A Piazza",
+        "year": "1989",
+        "journal-title": "Gene Geogr"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "crossref",
+        "first-page": "532",
+        "DOI": "10.1111/j.1399-0039.2008.01142.x",
+        "article-title": "Major histocompatibility complex class I chain-related gene A polymorphism and linkage disequilibrium with HLA-B alleles in Euro-Brazilians",
+        "volume": "72",
+        "author": "F Ribas",
+        "year": "2008",
+        "journal-title": "Tissue Antigens"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "crossref",
+        "first-page": "1027",
+        "DOI": "10.1016/j.humimm.2010.06.017",
+        "article-title": "Human leukocyte antigen-A, -B, and -DRB1 allele and haplotype frequencies in the Mozambican population: a blood donor-based population study",
+        "volume": "71",
+        "author": "AA Assane",
+        "year": "2010",
+        "journal-title": "Hum Immunol"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1016/j.humimm.2011.10.013",
+        "article-title": "Human leukocyte antigen class I (A, B, C) and II (DRB1) diversity in the black and Caucasian South African population",
+        "volume": "73",
+        "author": "M Paximadis",
+        "year": "2012",
+        "journal-title": "Hum Immunol"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.transproceed.2011.12.041",
+        "article-title": "The correlation of HLA allele frequencies and HLA antibodies in sensitized kidney transplantation candidates",
+        "volume": "44",
+        "author": "Q Fu",
+        "year": "2012",
+        "journal-title": "Transplant Proc"
+      },
+      {
+        "key": "ref47",
+        "unstructured": "Idica A, Sasaki N, Hardy S, Terasaki P (2006) Unexpected frequencies of HLA antibody specificities present in sera of multitransfused patients. Clin Transpl: 139\u2013159."
+      }
+    ],
+    "container-title": [
+      "PLoS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0100270",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          9
+        ]
+      ],
+      "date-time": "2020-05-09T12:27:09Z",
+      "timestamp": 1589027229000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0100270"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Emmanuel A.",
+        "family": "Burdmann",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          13
+        ]
+      ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            6,
+            13
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0100270",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          13
+        ]
+      ]
+    }
+  }
+}

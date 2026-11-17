@@ -1,0 +1,598 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s00500-024-09668-1",
+  "url": "https://api.crossref.org/works/10.1007%2Fs00500-024-09668-1",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:44.035113+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2026-04-24T16:13:35Z",
+      "timestamp": 1777047215329,
+      "version": "3.51.4"
+    },
+    "reference-count": 30,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              6
+            ]
+          ],
+          "date-time": "2024-02-06T00:00:00Z",
+          "timestamp": 1707177600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              6
+            ]
+          ],
+          "date-time": "2024-02-06T00:00:00Z",
+          "timestamp": 1707177600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Soft Comput"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00500-024-09668-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2024-02-06T04:02:07Z",
+      "timestamp": 1707192127000
+    },
+    "page": "4593-4606",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "RETRACTED ARTICLE: Modelling an efficient hybridized approach for facial emotion recognition using unconstraint videos and deep learning approaches"
+    ],
+    "prefix": "10.1007",
+    "volume": "28",
+    "author": [
+      {
+        "given": "P. Naga",
+        "family": "Bhushanam",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0269-198X",
+        "authenticated-orcid": false,
+        "given": "S. Selva",
+        "family": "Kumar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "9668_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "201",
+        "DOI": "10.1016/j.inffus.2019.02.003",
+        "volume": "51",
+        "author": "M Amin-Naji",
+        "year": "2019",
+        "unstructured": "Amin-Naji M, Aghagolzadeh A, Ezoji M (2019) Ensemble of CNN for multi-focus image fusion. Inf Fusion 51:201\u2013214",
+        "journal-title": "Inf Fusion"
+      },
+      {
+        "issue": "21",
+        "key": "9668_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "4678",
+        "DOI": "10.3390/app9214678",
+        "volume": "9",
+        "author": "D Canedo",
+        "year": "2019",
+        "unstructured": "Canedo D, Neves AJ (2019) Facial expression recognition using computer vision: a systematic review. Appl Sci 9(21):4678",
+        "journal-title": "Appl Sci"
+      },
+      {
+        "key": "9668_CR3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chollet F (2017) Xception: deep learning with depthwise separable convolutions. In: 2017 IEEE conference on computer vision and pattern recognition (CVPR), 21\u201326. pp 1800\u20131807",
+        "DOI": "10.1109/CVPR.2017.195"
+      },
+      {
+        "key": "9668_CR4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Dhall A, Goecke R, Joshi J, Hoey J, Gedeon T (2016) EmotiW 2016: video and group-level emotion recognition challenges. https://doi.org/10.1145/2993148.2997638",
+        "DOI": "10.1145/2993148.2997638"
+      },
+      {
+        "key": "9668_CR5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gan Y (2018) Facial expression recognition using convolutional neural network. In Proceedings of the 2nd international conference on vision, image and signal processing 1\u20135.",
+        "DOI": "10.1145/3271553.3271584"
+      },
+      {
+        "issue": "1",
+        "key": "9668_CR6",
+        "first-page": "11",
+        "volume": "7",
+        "author": "ASA Hans",
+        "year": "2021",
+        "unstructured": "Hans ASA, Smitha R (2021) A CNN-LSTM based deep neural networks for facial emotion detection in videos. Int J Adv Signal Image Sci 7(1):11\u201320",
+        "journal-title": "Int J Adv Signal Image Sci"
+      },
+      {
+        "key": "9668_CR7",
+        "unstructured": "He XZ, Ren S, Sun J Deep residual learning for image recognition, CoRR, abs/1512.03385, 2015."
+      },
+      {
+        "key": "9668_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "He K, Zhang X, Ren S, Sun J (2016) Deep residual learning for image recognition. In: 2016 IEEE Conference on computer vision and pattern recognition (CVPR), 27\u201330. pp 770\u2013778.",
+        "DOI": "10.1109/CVPR.2016.90"
+      },
+      {
+        "issue": "1",
+        "key": "9668_CR9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1742-6596/1432/1/012087",
+        "volume": "1432",
+        "author": "SA Hussain",
+        "year": "2020",
+        "unstructured": "Hussain SA, Ahlam SAAB (2020) A real time face emotion classifcation and recognition using deep learning model. J Phys Conf Ser 1432(1):012087",
+        "journal-title": "J Phys Conf Ser"
+      },
+      {
+        "key": "9668_CR10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jia ES, Donahue J, Karayev S, Long J, Girshick R, Guadarrama S, Darrell T Caffe: Convolutional architecture for fast feature embedding, in ACM MM, 2014",
+        "DOI": "10.1145/2647868.2654889"
+      },
+      {
+        "key": "9668_CR11",
+        "unstructured": "Jiang JL, Roshan Zamir A, Toderici G, Laptev I, Shah M, Sukthankar R Thumos challenge: Action recognition with a large number of classes. http://crcv.ucf.edu/THUMOS14, 2014."
+      },
+      {
+        "key": "9668_CR12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kaya H, G\u00fcrp\u0131nar F, Afshar S, Salah A (2015) Contrasting and combining least squares based learners for emotion recognition in the wild. In: 2015 ACM international conference on multimodal interaction, pp 459\u2013466",
+        "DOI": "10.1145/2818346.2830588"
+      },
+      {
+        "issue": "4",
+        "key": "9668_CR13",
+        "first-page": "693",
+        "volume": "20",
+        "author": "N Kumar",
+        "year": "2017",
+        "unstructured": "Kumar N, Bhargava D (2017) A scheme of features fusion for facial expression analysis: a facial action recognition. J Stat Manag Syst 20(4):693\u2013701",
+        "journal-title": "J Stat Manag Syst"
+      },
+      {
+        "key": "9668_CR14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Qiu LZ, Yao T, Mei T, Rui Y, Luo J Action recognition by learning deep multi-granular spatio-temporal video representation, in ICMR. ACM, 2016, pp. 159\u2013166.",
+        "DOI": "10.1145/2911996.2912001"
+      },
+      {
+        "key": "9668_CR15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu CS, van den Hengel A The treasure beneath convolutional layers: Cross-convolutional-layer pooling for image classification,\u201d in CVPR, 2015",
+        "DOI": "10.1109/CVPR.2015.7299107"
+      },
+      {
+        "key": "9668_CR16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mollahosseini A, Chan D, Mahoor MH (2016) Going deeper in facial expression recognition using deep neural networks. In: 2016 IEEE winter conference on applications of computer vision (WACV), 7\u201310. pp 1\u201310.",
+        "DOI": "10.1109/WACV.2016.7477450"
+      },
+      {
+        "key": "9668_CR17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mollahosseini, A., Chan, D., & Mahoor, M. H. Going deeper in facial expression recognition using deep neural networks. In 2016 IEEE winter conference on applications of computer vision (WACV) 1\u201310 (IEEE, 2016).",
+        "DOI": "10.1109/WACV.2016.7477450"
+      },
+      {
+        "key": "9668_CR18",
+        "unstructured": "Ng, Hausknecht MJ, Vijayanarasimhan S, Vinyals O, Monga R, Toderici G Beyond short snippets: Deep networks for video classification. in CVPR, 2015."
+      },
+      {
+        "key": "9668_CR19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compeleceng.2020.106656",
+        "volume": "84",
+        "author": "H Niu",
+        "year": "2020",
+        "unstructured": "Niu H et al (2020) Deep feature learnt by conventional deep neural network. Comput Electr Eng 84:106656",
+        "journal-title": "Comput Electr Eng"
+      },
+      {
+        "key": "9668_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1155/2021/8828245",
+        "volume": "2021",
+        "author": "B Niu",
+        "year": "2021",
+        "unstructured": "Niu B, Gao Z, Guo B (2021) Facial expression recognition with LBP and ORB features. Comput Intell Neurosci 2021:1\u201310",
+        "journal-title": "Comput Intell Neurosci"
+      },
+      {
+        "issue": "18",
+        "key": "9668_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "3904",
+        "DOI": "10.3390/app9183904",
+        "volume": "9",
+        "author": "F Nonis",
+        "year": "2019",
+        "unstructured": "Nonis F, Dagnes N, Marcolin F, Vezzetti E (2019) 3d approaches and challenges in facial expression recognition algorithms\u2014a literature review. Appl Sci 9(18):3904",
+        "journal-title": "Appl Sci"
+      },
+      {
+        "key": "9668_CR22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Patil MN, Iyer B, Arya R. Performance evaluation of PCA and ICA algorithm for facial expression recognition application. In Proceedings of fifh international conference on sof computing for problem solving 965\u2013976 (Springer, 2016).",
+        "DOI": "10.1007/978-981-10-0448-3_81"
+      },
+      {
+        "key": "9668_CR23",
+        "first-page": "125",
+        "volume": "10",
+        "author": "P Sarangi",
+        "year": "2017",
+        "unstructured": "Sarangi P, Mishra B, Dehuri S (2017) Pyramid histogram of oriented gradients based human ear identifcation. Int J Control Theory Appl 10:125\u2013133",
+        "journal-title": "Int J Control Theory Appl"
+      },
+      {
+        "key": "9668_CR24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Szegedy WL, Jia Y, Sermanet P, Reed S, Anguelov D, Erhan D, Vanhoucke V, Rabinovich A Going deeper with convolutions. in CVPR, 2015.",
+        "DOI": "10.1109/CVPR.2015.7298594"
+      },
+      {
+        "key": "9668_CR25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2020.107506",
+        "volume": "146",
+        "author": "F Wang",
+        "year": "2020",
+        "unstructured": "Wang F et al (2020) Emotion recognition with convolutional neural network and eeg-based efdms. Neuropsychologia 146:107506",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "9668_CR26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu YY, Hauptmann AG A discriminative CNN video representation for event detection, in CVPR, 2015",
+        "DOI": "10.1109/CVPR.2015.7298789"
+      },
+      {
+        "issue": "14",
+        "key": "9668_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "15357",
+        "DOI": "10.1007/s11042-016-3832-1",
+        "volume": "76",
+        "author": "B Yang",
+        "year": "2017",
+        "unstructured": "Yang B, Xiang X, Xu D, Wang X, Yang X (2017a) 3d palm print recognition using shape index representation and fragile bits. Multimed Tools Appl 76(14):15357\u201315375",
+        "journal-title": "Multimed Tools Appl"
+      },
+      {
+        "key": "9668_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "4630",
+        "DOI": "10.1109/ACCESS.2017.2784096",
+        "volume": "6",
+        "author": "B Yang",
+        "year": "2017",
+        "unstructured": "Yang B, Cao J, Ni R, Zhang Y (2017b) Facial expression recognition using weighted mixture deep neural network based on doublechannel facial images. IEEE Access 6:4630\u20134640",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "9668_CR29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yao A, Cai D, Hu P, Wang S, Sha L, Chen Y (2016) HoloNet: towards robust emotion recognition in the wild. In: Paper presented at the Proceedings of the 18th ACM International Conference on Multimodal Interaction, Tokyo, Japan",
+        "DOI": "10.1145/2993148.2997639"
+      },
+      {
+        "key": "9668_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao X, Liang X, Liu L, Li T, Han, Y., Vasconcelos, N., Yan, S. Peak-piloted deep network for facial expression recognition. In European Conference on Computer Vision 425\u2013442 (Springer, 2016).",
+        "DOI": "10.1007/978-3-319-46475-6_27"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1007/s00500-026-11251-9",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2026-03-04T00:00:00Z",
+          "timestamp": 1772582400000
+        }
+      },
+      {
+        "DOI": "10.1007/s00500-026-11251-9",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2026-03-04T00:00:00Z",
+          "timestamp": 1772582400000
+        },
+        "record-id": "70233"
+      }
+    ],
+    "container-title": [
+      "Soft Computing"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00500-024-09668-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s00500-024-09668-1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00500-024-09668-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2026-03-04T02:46:07Z",
+      "timestamp": 1772592367000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s00500-024-09668-1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "9668"
+    ],
+    "URL": "https://doi.org/10.1007/s00500-024-09668-1",
+    "relation": {},
+    "ISSN": [
+      "1432-7643",
+      "1433-7479"
+    ],
+    "issn-type": [
+      {
+        "value": "1432-7643",
+        "type": "print"
+      },
+      {
+        "value": "1433-7479",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "10 January 2024",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "6 February 2024",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 March 2026",
+        "order": 4,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 5,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This article has been retracted. Please see the Retraction Notice for more detail:",
+        "order": 6,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s00500-026-11251-9",
+        "URL": "https://doi.org/10.1007/s00500-026-11251-9",
+        "order": 7,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare that they have no conflict of interest.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "The article does not contain any studies with human participants or animals performed by any of the authors.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethical approval"
+        }
+      },
+      {
+        "value": "Informed consent was obtained from all individual participants included in the study.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1109/icebeg.2011.5885332",
+  "url": "https://api.crossref.org/works/10.1109%2Ficebeg.2011.5885332",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:57.967283+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T07:11:26Z",
+      "timestamp": 1767165086390,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1109/icebeg.2011.5885332",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2011,
+              6,
+              16
+            ]
+          ],
+          "date-time": "2011-06-16T00:00:00Z",
+          "timestamp": 1308182400000
+        },
+        "record-id": "9716"
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1109/icebeg.2011.5885332",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2011-06-20T17:05:08Z",
+      "timestamp": 1308589508000
+    },
+    "page": "1-4",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Notice of Retraction: The explanation of family constitution based on theory of knowlege: A sample of Lee Kum Kee family"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Zhu Jian",
+        "family": "An",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "updated-by": [
+      {
+        "DOI": "10.1109/icebeg.2011.5885332",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2011,
+              6,
+              16
+            ]
+          ],
+          "date-time": "2011-06-16T00:00:00Z",
+          "timestamp": 1308182400000
+        },
+        "record-id": "9716"
+      }
+    ],
+    "event": {
+      "name": "2011 International Conference on E-Business and E-Government (ICEE)",
+      "location": "Shanghai, China",
+      "start": {
+        "date-parts": [
+          [
+            2011,
+            5,
+            6
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2011,
+            5,
+            8
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2011 International Conference on E-Business and E-Government (ICEE)"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/5779818/5876649/05885332.pdf?arnumber=5885332",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2019-06-10T22:28:16Z",
+      "timestamp": 1560205696000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/5885332/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1109/icebeg.2011.5885332",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    }
+  }
+}

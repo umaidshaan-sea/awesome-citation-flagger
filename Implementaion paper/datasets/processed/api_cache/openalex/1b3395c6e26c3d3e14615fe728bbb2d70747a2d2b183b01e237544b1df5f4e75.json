@@ -1,0 +1,1193 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.nucmedbio.2020.06.003",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.nucmedbio.2020.06.003",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:02.071107+00:00",
+  "record": {
+    "id": "https://openalex.org/W3034335471",
+    "doi": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+    "title": "RETRACTED: Radiosynthesis and biological evaluation of fluorine-18 labeled N-acetylgalactosamine derivative [18F]FPGalNAc for PET imaging of asialoglycoprotein receptor-positive tumors",
+    "display_name": "RETRACTED: Radiosynthesis and biological evaluation of fluorine-18 labeled N-acetylgalactosamine derivative [18F]FPGalNAc for PET imaging of asialoglycoprotein receptor-positive tumors",
+    "publication_year": 2020,
+    "publication_date": "2020-06-15",
+    "ids": {
+      "openalex": "https://openalex.org/W3034335471",
+      "doi": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+      "mag": "3034335471",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/32580089"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.nucmedbio.2020.06.003",
+      "doi": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S24354371",
+        "display_name": "Nuclear Medicine and Biology",
+        "issn_l": "0969-8051",
+        "issn": [
+          "0969-8051",
+          "1872-9614"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-c",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nuclear Medicine and Biology",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5066974112",
+          "display_name": "Penghui Sun",
+          "orcid": "https://orcid.org/0000-0002-7247-6185",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7247-6185"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Penghui Sun",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China. Electronic address: sunsam2014@163.com",
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China. Electronic address: sunsam2014@163.com",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5010107132",
+          "display_name": "Yanjiang Han",
+          "orcid": "https://orcid.org/0000-0002-1987-503X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1987-503X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yanjiang Han",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5052231565",
+          "display_name": "Yun Zhu",
+          "orcid": "https://orcid.org/0000-0002-9500-5415",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9500-5415",
+            "https://orcid.org/0000-0002-0421-8643"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yun Zhu",
+        "raw_affiliation_strings": [
+          "Liver Tumor Center, Department of Infectious Diseases and Hepatology Unit, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Liver Tumor Center, Department of Infectious Diseases and Hepatology Unit, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5083910565",
+          "display_name": "Kongzhen Hu",
+          "orcid": "https://orcid.org/0000-0002-7889-9576",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7889-9576"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kongzhen Hu",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5021057440",
+          "display_name": "Shun Huang",
+          "orcid": "https://orcid.org/0000-0002-0576-9308",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0576-9308"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shun Huang",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5061601739",
+          "display_name": "Jian-er Tan",
+          "orcid": "https://orcid.org/0000-0003-4074-5261",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4074-5261"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jianer Tan",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100377132",
+          "display_name": "Meng Wang",
+          "orcid": "https://orcid.org/0000-0002-1573-0255",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1573-0255"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Meng Wang",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5029635712",
+          "display_name": "Hubing Wu",
+          "orcid": "https://orcid.org/0000-0002-7546-5430",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7546-5430",
+            "https://orcid.org/0009-0005-5837-7147"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hubing Wu",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5047603220",
+          "display_name": "Ganghua Tang",
+          "orcid": "https://orcid.org/0000-0002-2712-253X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2712-253X",
+            "https://orcid.org/0000-0001-6288-5578"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210103346",
+            "display_name": "Nanfang Hospital",
+            "ror": "https://ror.org/01eq10738",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210103346"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I58200834",
+            "display_name": "Southern Medical University",
+            "ror": "https://ror.org/01vjw4z39",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ganghua Tang",
+        "raw_affiliation_strings": [
+          "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Nanfang PET Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China",
+            "institution_ids": [
+              "https://openalex.org/I4210103346",
+              "https://openalex.org/I58200834"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5066974112"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210103346",
+      "https://openalex.org/I58200834"
+    ],
+    "apc_list": {
+      "value": 3270,
+      "currency": "USD",
+      "value_usd": 3270
+    },
+    "apc_paid": null,
+    "fwci": 0.6082,
+    "has_fulltext": false,
+    "cited_by_count": 6,
+    "citation_normalized_percentile": {
+      "value": 0.66567714,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 95
+    },
+    "biblio": {
+      "volume": "88-89",
+      "issue": null,
+      "first_page": "1",
+      "last_page": "9"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11395",
+      "display_name": "Radiopharmaceutical Chemistry and Applications",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2741",
+        "display_name": "Radiology, Nuclear Medicine and Imaging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11395",
+        "display_name": "Radiopharmaceutical Chemistry and Applications",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2741",
+          "display_name": "Radiology, Nuclear Medicine and Imaging"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10522",
+        "display_name": "Medical Imaging Techniques and Applications",
+        "score": 0.0005000000237487257,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2741",
+          "display_name": "Radiology, Nuclear Medicine and Imaging"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10835",
+        "display_name": "Carbohydrate Chemistry and Synthesis",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1605",
+          "display_name": "Organic Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/16",
+          "display_name": "Chemistry"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/n-acetylgalactosamine",
+        "display_name": "N-acetylgalactosamine",
+        "score": 0.8880000114440918
+      },
+      {
+        "id": "https://openalex.org/keywords/asialoglycoprotein-receptor",
+        "display_name": "asialoglycoprotein receptor",
+        "score": 0.9760000109672546
+      },
+      {
+        "id": "https://openalex.org/keywords/radioligand-synthesis",
+        "display_name": "radioligand synthesis",
+        "score": 0.578000009059906
+      },
+      {
+        "id": "https://openalex.org/keywords/click-chemistry",
+        "display_name": "click chemistry",
+        "score": 0.5630000233650208
+      },
+      {
+        "id": "https://openalex.org/keywords/tumor-targeting",
+        "display_name": "tumor targeting",
+        "score": 0.4790000021457672
+      },
+      {
+        "id": "https://openalex.org/keywords/tissue-distribution",
+        "display_name": "tissue distribution",
+        "score": 0.734000027179718
+      },
+      {
+        "id": "https://openalex.org/keywords/tumor-to-muscle-ratio",
+        "display_name": "tumor-to-muscle ratio",
+        "score": 0.7620000243186951
+      },
+      {
+        "id": "https://openalex.org/keywords/hepatocellular-carcinoma",
+        "display_name": "hepatocellular carcinoma",
+        "score": 0.5950000286102295
+      },
+      {
+        "id": "https://openalex.org/keywords/colorectal-cancer",
+        "display_name": "colorectal cancer",
+        "score": 0.6600000262260437
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776970183",
+        "wikidata": "https://www.wikidata.org/wiki/Q20155580",
+        "display_name": "Radiosynthesis",
+        "level": 3,
+        "score": 0.9450428485870361
+      },
+      {
+        "id": "https://openalex.org/C11569505",
+        "wikidata": "https://www.wikidata.org/wiki/Q727265",
+        "display_name": "Asialoglycoprotein receptor",
+        "level": 4,
+        "score": 0.9040778875350952
+      },
+      {
+        "id": "https://openalex.org/C2777807558",
+        "wikidata": "https://www.wikidata.org/wiki/Q4914764",
+        "display_name": "Biodistribution",
+        "level": 3,
+        "score": 0.8986424207687378
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.7498219013214111
+      },
+      {
+        "id": "https://openalex.org/C2775842073",
+        "wikidata": "https://www.wikidata.org/wiki/Q208376",
+        "display_name": "Positron emission tomography",
+        "level": 2,
+        "score": 0.6999346613883972
+      },
+      {
+        "id": "https://openalex.org/C207001950",
+        "wikidata": "https://www.wikidata.org/wiki/Q141124",
+        "display_name": "In vivo",
+        "level": 2,
+        "score": 0.6392050385475159
+      },
+      {
+        "id": "https://openalex.org/C116569031",
+        "wikidata": "https://www.wikidata.org/wiki/Q899107",
+        "display_name": "Ligand (biochemistry)",
+        "level": 3,
+        "score": 0.5038713812828064
+      },
+      {
+        "id": "https://openalex.org/C2778172261",
+        "wikidata": "https://www.wikidata.org/wiki/Q3796563",
+        "display_name": "Imaging agent",
+        "level": 3,
+        "score": 0.47306597232818604
+      },
+      {
+        "id": "https://openalex.org/C177322064",
+        "wikidata": "https://www.wikidata.org/wiki/Q750955",
+        "display_name": "Radiochemistry",
+        "level": 1,
+        "score": 0.45456862449645996
+      },
+      {
+        "id": "https://openalex.org/C29331040",
+        "wikidata": "https://www.wikidata.org/wiki/Q7239554",
+        "display_name": "Preclinical imaging",
+        "level": 3,
+        "score": 0.4225509464740753
+      },
+      {
+        "id": "https://openalex.org/C202751555",
+        "wikidata": "https://www.wikidata.org/wiki/Q221681",
+        "display_name": "In vitro",
+        "level": 2,
+        "score": 0.3835946321487427
+      },
+      {
+        "id": "https://openalex.org/C170493617",
+        "wikidata": "https://www.wikidata.org/wiki/Q208467",
+        "display_name": "Receptor",
+        "level": 2,
+        "score": 0.3061833679676056
+      },
+      {
+        "id": "https://openalex.org/C2989005",
+        "wikidata": "https://www.wikidata.org/wiki/Q214963",
+        "display_name": "Nuclear medicine",
+        "level": 1,
+        "score": 0.2738811671733856
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.2504420280456543
+      },
+      {
+        "id": "https://openalex.org/C2776200302",
+        "wikidata": "https://www.wikidata.org/wiki/Q827450",
+        "display_name": "Hepatocyte",
+        "level": 3,
+        "score": 0.22246944904327393
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.10038232803344727
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.07449525594711304
+      },
+      {
+        "id": "https://openalex.org/C150903083",
+        "wikidata": "https://www.wikidata.org/wiki/Q7108",
+        "display_name": "Biotechnology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000116",
+        "descriptor_name": "Acetylgalactosamine",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003110",
+        "descriptor_name": "Colonic Neoplasms",
+        "qualifier_ui": "Q000000981",
+        "qualifier_name": "diagnostic imaging",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003110",
+        "descriptor_name": "Colonic Neoplasms",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003110",
+        "descriptor_name": "Colonic Neoplasms",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D005462",
+        "descriptor_name": "Fluorine Radioisotopes",
+        "qualifier_ui": "Q000493",
+        "qualifier_name": "pharmacokinetics",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D005462",
+        "descriptor_name": "Fluorine Radioisotopes",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008113",
+        "descriptor_name": "Liver Neoplasms",
+        "qualifier_ui": "Q000000981",
+        "qualifier_name": "diagnostic imaging",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008113",
+        "descriptor_name": "Liver Neoplasms",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008113",
+        "descriptor_name": "Liver Neoplasms",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008819",
+        "descriptor_name": "Mice, Nude",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011854",
+        "descriptor_name": "Radiochemistry",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D014018",
+        "descriptor_name": "Tissue Distribution",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019275",
+        "descriptor_name": "Radiopharmaceuticals",
+        "qualifier_ui": "Q000138",
+        "qualifier_name": "chemical synthesis",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D019275",
+        "descriptor_name": "Radiopharmaceuticals",
+        "qualifier_ui": "Q000493",
+        "qualifier_name": "pharmacokinetics",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D023041",
+        "descriptor_name": "Xenograft Model Antitumor Assays",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D037263",
+        "descriptor_name": "Asialoglycoprotein Receptor",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D045325",
+        "descriptor_name": "HCT116 Cells",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D049268",
+        "descriptor_name": "Positron-Emission Tomography",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D051379",
+        "descriptor_name": "Mice",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D056945",
+        "descriptor_name": "Hep G2 Cells",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.nucmedbio.2020.06.003",
+        "doi": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.nucmedbio.2020.06.003",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S24354371",
+          "display_name": "Nuclear Medicine and Biology",
+          "issn_l": "0969-8051",
+          "issn": [
+            "0969-8051",
+            "1872-9614"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nuclear Medicine and Biology",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:32580089",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32580089",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nuclear medicine and biology",
+        "raw_type": "Evaluation Study"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "display_name": "Good health and well-being",
+        "score": 0.9391000270843506
+      }
+    ],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G4218619417",
+        "display_name": null,
+        "funder_award_id": "2014A020212175",
+        "funder_id": "https://openalex.org/F4320335795",
+        "funder_display_name": "Science and Technology Planning Project of Guangdong Province"
+      },
+      {
+        "id": "https://openalex.org/G57171386",
+        "display_name": null,
+        "funder_award_id": "2015C004",
+        "funder_id": "https://openalex.org/F4320326228",
+        "funder_display_name": "Southern Medical University"
+      },
+      {
+        "id": "https://openalex.org/G8411283993",
+        "display_name": null,
+        "funder_award_id": "2018Z003",
+        "funder_id": "https://openalex.org/F4320326228",
+        "funder_display_name": "Southern Medical University"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320326228",
+        "display_name": "Southern Medical University",
+        "ror": "https://ror.org/01vjw4z39"
+      },
+      {
+        "id": "https://openalex.org/F4320335795",
+        "display_name": "Science and Technology Planning Project of Guangdong Province",
+        "ror": null
+      }
+    ],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 33,
+    "referenced_works": [
+      "https://openalex.org/W1551383822",
+      "https://openalex.org/W1764649939",
+      "https://openalex.org/W1902253552",
+      "https://openalex.org/W1966673928",
+      "https://openalex.org/W1971312149",
+      "https://openalex.org/W1976928913",
+      "https://openalex.org/W1977919695",
+      "https://openalex.org/W1985045436",
+      "https://openalex.org/W2016189788",
+      "https://openalex.org/W2019140380",
+      "https://openalex.org/W2032272026",
+      "https://openalex.org/W2038575282",
+      "https://openalex.org/W2051546995",
+      "https://openalex.org/W2054411549",
+      "https://openalex.org/W2084561356",
+      "https://openalex.org/W2088462970",
+      "https://openalex.org/W2151951341",
+      "https://openalex.org/W2187654161",
+      "https://openalex.org/W2288508180",
+      "https://openalex.org/W2437755074",
+      "https://openalex.org/W2465309934",
+      "https://openalex.org/W2525615772",
+      "https://openalex.org/W2744233496",
+      "https://openalex.org/W2753276548",
+      "https://openalex.org/W2907814391",
+      "https://openalex.org/W2917270564",
+      "https://openalex.org/W2921732683",
+      "https://openalex.org/W2949295397",
+      "https://openalex.org/W3016685804",
+      "https://openalex.org/W6637935826",
+      "https://openalex.org/W6639738218",
+      "https://openalex.org/W6696246053",
+      "https://openalex.org/W6717869038"
+    ],
+    "related_works": [
+      "https://openalex.org/W3016685804",
+      "https://openalex.org/W1976928913",
+      "https://openalex.org/W4395697149",
+      "https://openalex.org/W3143418744",
+      "https://openalex.org/W7149576986",
+      "https://openalex.org/W2016189788",
+      "https://openalex.org/W2359933138",
+      "https://openalex.org/W2592662637",
+      "https://openalex.org/W4392203760",
+      "https://openalex.org/W2346639870"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2020-06-19T00:00:00"
+  }
+}

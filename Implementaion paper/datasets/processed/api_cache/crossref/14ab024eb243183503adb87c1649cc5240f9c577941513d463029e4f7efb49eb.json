@@ -1,0 +1,468 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.artint.2004.05.004",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.artint.2004.05.004",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:46.437004+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          8
+        ]
+      ],
+      "date-time": "2026-10-08T01:12:47Z",
+      "timestamp": 1791421967344,
+      "version": "4.3.3"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "1-2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2004,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2004-11-01T00:00:00Z",
+          "timestamp": 1099267200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              25
+            ]
+          ],
+          "date-time": "2013-07-25T00:00:00Z",
+          "timestamp": 1374710400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 3188,
+        "URL": "https://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Artificial Intelligence"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2004,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.artint.2004.05.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2004-07-30T05:36:44Z",
+      "timestamp": 1091165804000
+    },
+    "page": "1-26",
+    "source": "Crossref",
+    "is-referenced-by-count": 95,
+    "title": [
+      "Solving weighted CSP by maintaining arc consistency"
+    ],
+    "prefix": "10.1016",
+    "volume": "159",
+    "author": [
+      {
+        "given": "Javier",
+        "family": "Larrosa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Schiex",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB001",
+        "series-title": "Proc. of the 13th ECAI, Brighton, UK",
+        "first-page": "209",
+        "article-title": "A weighted arc consistency technique for Max-CSP",
+        "author": "Affane",
+        "year": "1998"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB002",
+        "series-title": "Proc. IJCAI-97, Nagoya, Japan",
+        "first-page": "398",
+        "article-title": "Arc consistency for general constraint networks: Preliminary results",
+        "author": "Bessiere",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB003",
+        "series-title": "Proc. IJCAI-2001, Seattle, WA",
+        "first-page": "309",
+        "article-title": "Refining the basic constraint propagation algorithm",
+        "author": "Bessiere",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB004",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1023/A:1026441215081",
+        "article-title": "Semiring-based CSPs and valued CSPs: Frameworks, properties and comparison",
+        "volume": "4",
+        "author": "Bistarelli",
+        "year": "1999",
+        "journal-title": "Constraints"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.artint.2004.05.004_BIB005",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1145/256303.256306",
+        "article-title": "Semiring-based constraint satisfaction and optimization",
+        "volume": "44",
+        "author": "Bistarelli",
+        "year": "1997",
+        "journal-title": "J. ACM"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB006",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1023/A:1009725216438",
+        "article-title": "A two-phase exact algorithm for MAX-SAT and weighted MAX-SAT problems",
+        "volume": "2",
+        "author": "Borchers",
+        "year": "1999",
+        "journal-title": "J. Combin. Optim"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB007",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1023/A:1009812409930",
+        "article-title": "Radio link frequency assignment",
+        "volume": "4",
+        "author": "Cabon",
+        "year": "1999",
+        "journal-title": "Constraints"
+      },
+      {
+        "issue": "1\u20132",
+        "key": "10.1016/j.artint.2004.05.004_BIB008",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1016/j.artint.2003.09.002",
+        "article-title": "Arc consistency for soft constraints",
+        "volume": "154",
+        "author": "Cooper",
+        "year": "2004",
+        "journal-title": "Artificial Intelligence"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB009",
+        "series-title": "Constraint Processing",
+        "author": "Dechter",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB010",
+        "series-title": "Proc. CP-2001",
+        "first-page": "346",
+        "article-title": "A general scheme for multiple lower bound computation in constraint optimization",
+        "author": "Dechter",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB011",
+        "series-title": "Proc. ECSQARU-93, Granada, Spain",
+        "article-title": "Uncertainty in constraint satisfaction problems: A probabilistic approach",
+        "author": "Fargier",
+        "year": "1993"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB012",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1016/0004-3702(92)90004-H",
+        "article-title": "Partial constraint satisfaction",
+        "volume": "58",
+        "author": "Freuder",
+        "year": "1992",
+        "journal-title": "Artificial Intelligence"
+      },
+      {
+        "issue": "2\u20133",
+        "key": "10.1016/j.artint.2004.05.004_BIB013",
+        "volume": "6",
+        "year": "2001",
+        "journal-title": "Constraints: An International Journal (Special Issue on Bioinformatics)"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB014",
+        "series-title": "Proc. 18th AAAI-02, Edmonton, AB",
+        "first-page": "48",
+        "article-title": "Node and arc consistency in weighted csp",
+        "author": "Larrosa",
+        "year": "2002"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.artint.2004.05.004_BIB015",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1016/S0004-3702(98)00108-8",
+        "article-title": "Maintaining reversible DAC for Max-CSP",
+        "volume": "107",
+        "author": "Larrosa",
+        "year": "1999",
+        "journal-title": "Artificial Intelligence"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB016",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Mackworth, Consistency in networks of constraints, Artificial Intelligence 8",
+        "DOI": "10.1016/0004-3702(77)90007-8"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB017",
+        "series-title": "Proc. CP-01, Paphos, Cyprus",
+        "first-page": "464",
+        "article-title": "Specializing Russian doll search",
+        "author": "Meseguer",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB018",
+        "series-title": "Proc. ECAI-88, Munich, Germany",
+        "first-page": "651",
+        "article-title": "Good old discrete relaxation",
+        "author": "Mohr",
+        "year": "1988"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB019",
+        "series-title": "Probabilistic Inference in Intelligent Systems. Networks of Plausible Inference",
+        "author": "Pearl",
+        "year": "1988"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.artint.2004.05.004_BIB020",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1109/TSMC.1976.4309519",
+        "article-title": "Scene labeling by relaxation operations",
+        "volume": "6",
+        "author": "Rosenfeld",
+        "year": "1976",
+        "journal-title": "IEEE Trans. Systems Man Cybernet"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB021",
+        "series-title": "Proceedings of the 4th International Workshop on Soft Constraints, Soft 02, Ithaca, NY",
+        "first-page": "73",
+        "article-title": "CP networks: semantics, complexity, approximations and extensions",
+        "author": "Rossi",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB022",
+        "series-title": "Proc. IJCAI-99, Stockholm, Sweden",
+        "first-page": "542",
+        "article-title": "An algorithm for optimal winner determination in combinatorial auctions",
+        "author": "Sandholm",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB023",
+        "series-title": "Proc. UAI, Stanford, CA",
+        "first-page": "268",
+        "article-title": "Possibilistic constraint satisfaction problems or \u201cHow to handle soft constraints?\u201d",
+        "author": "Schiex",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB024",
+        "series-title": "Proc. CP-2000, Singapore",
+        "first-page": "411",
+        "article-title": "Arc consistency for soft constraints",
+        "author": "Schiex",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB025",
+        "series-title": "Proc. IJCAI-95, Montr\u00e9al, Quebec",
+        "first-page": "631",
+        "article-title": "Valued constraint satisfaction problems: hard and easy problems",
+        "author": "Schiex",
+        "year": "1995"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB026",
+        "doi-asserted-by": "crossref",
+        "first-page": "504",
+        "DOI": "10.1109/TPAMI.1981.4767144",
+        "article-title": "Structural descriptions and inexact matching",
+        "volume": "3",
+        "author": "Shapiro",
+        "year": "1981",
+        "journal-title": "IEEE Trans. Pattern Anal. Machine Intelligence"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB027",
+        "series-title": "Proc. ECAI-94, Amsterdam",
+        "first-page": "100",
+        "article-title": "Phase transition and the mushy region in constraint satisfaction",
+        "author": "Smith",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB028",
+        "series-title": "Proc. of the 8th Biennial Conference of the Canadian Society for Computational Studies of Intelligence, Ottawa, ON",
+        "first-page": "227",
+        "article-title": "Improved relaxation and search methods for approximate constraint satisfaction with a maximin criterion",
+        "author": "Snow",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB029",
+        "series-title": "Proc. AAAI-96, Portland, OR",
+        "first-page": "181",
+        "article-title": "Russian doll search",
+        "author": "Verfaillie",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/j.artint.2004.05.004_BIB030",
+        "series-title": "Proc. AAAI-96, Portland, OR",
+        "first-page": "188",
+        "article-title": "Enhancements of branch and bound methods for the maximal constraint satisfaction problem",
+        "author": "Wallace",
+        "year": "1996"
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0004370204000815?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0004370204000815?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2020-04-02T22:03:03Z",
+      "timestamp": 1585864983000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0004370204000815"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          11
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "1-2",
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0004370204000815"
+    ],
+    "URL": "https://doi.org/10.1016/j.artint.2004.05.004",
+    "relation": {},
+    "ISSN": [
+      "0004-3702"
+    ],
+    "issn-type": [
+      {
+        "value": "0004-3702",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          11
+        ]
+      ]
+    }
+  }
+}

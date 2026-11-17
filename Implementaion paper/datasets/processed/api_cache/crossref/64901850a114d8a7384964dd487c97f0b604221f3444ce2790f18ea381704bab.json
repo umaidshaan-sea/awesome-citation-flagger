@@ -1,0 +1,657 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1038/nature01400",
+  "url": "https://api.crossref.org/works/10.1038%2Fnature01400",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:16.711000+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2026-05-29T23:25:29Z",
+      "timestamp": 1780097129558,
+      "version": "3.54.0"
+    },
+    "reference-count": 42,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6921",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              23
+            ]
+          ],
+          "date-time": "2003-01-23T00:00:00Z",
+          "timestamp": 1043280000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              23
+            ]
+          ],
+          "date-time": "2003-01-23T00:00:00Z",
+          "timestamp": 1043280000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nature"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          1,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.1038/nature01400",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2003-01-22T22:14:05Z",
+      "timestamp": 1043273645000
+    },
+    "page": "409-412",
+    "source": "Crossref",
+    "is-referenced-by-count": 120,
+    "title": [
+      "The mosaic that is our genome"
+    ],
+    "prefix": "10.1038",
+    "volume": "421",
+    "author": [
+      {
+        "given": "Svante",
+        "family": "P\u00e4\u00e4bo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "BFnature01400_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "737",
+        "DOI": "10.1038/171737a0",
+        "volume": "171",
+        "author": "JD Watson",
+        "year": "1953",
+        "unstructured": "Watson, J. D. & Crick, F. H. C. A structure for deoxyribose nucleic acid. Nature 171, 737\u2013738 (1953).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature01400_CR2",
+        "first-page": "314",
+        "volume": "32",
+        "author": "D Botstein",
+        "year": "1980",
+        "unstructured": "Botstein, D., White, R. L., Skolnick, M. & Davis, R. W. Construction of a genetic linkage map in man using restriction fragment length polymorphisms. Am. J. Hum. Genet. 32, 314\u2013331 (1980).",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "BFnature01400_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1350",
+        "DOI": "10.1126/science.2999980",
+        "volume": "230",
+        "author": "RK Saiki",
+        "year": "1985",
+        "unstructured": "Saiki, R. K. et al. Enzymatic amplification of \u03b2-globin genomic sequences and restriction site analysis for diagnosis of sickle cell anemia. Science 230, 1350\u20131354 (1985).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature01400_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.1126/science.3116671",
+        "volume": "238",
+        "author": "MM Miyamoto",
+        "year": "1987",
+        "unstructured": "Miyamoto, M. M., Slightom, J. L. & Goodman, M. Phylogenetic relations of humans and African apes from DNA sequences in the \u03c8\u03b7-globin region. Science 238, 369\u2013373 (1987).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature01400_CR5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4159/harvard.9780674865327",
+        "volume-title": "Animal Species and Evolution",
+        "author": "E Mayr",
+        "year": "1963",
+        "unstructured": "Mayr, E. Animal Species and Evolution (Harvard Univ. Press, Cambridge, MA, 1963)."
+      },
+      {
+        "key": "BFnature01400_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1088",
+        "DOI": "10.1073/pnas.63.4.1088",
+        "volume": "63",
+        "author": "AC Wilson",
+        "year": "1969",
+        "unstructured": "Wilson, A. C. & Sarich, V. M. A molecular time scale for human evolution. Proc. Natl Acad. Sci. USA 63, 1088\u20131093 (1969).",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "BFnature01400_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "481",
+        "DOI": "10.1093/jhered/92.6.481",
+        "volume": "92",
+        "author": "FC Chen",
+        "year": "2001",
+        "unstructured": "Chen, F. C., Vallender, E. J., Wang, H., Tzeng, C. S. & Li, W. H. Genomic divergence between human and chimpanzee estimated from large-scale alignments of genomic sequences. J. Hered. 92, 481\u2013489 (2001).",
+        "journal-title": "J. Hered."
+      },
+      {
+        "key": "BFnature01400_CR8",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7312/nei-92038",
+        "volume-title": "Molecular Evolutionary Genetics",
+        "author": "M Nei",
+        "year": "1987",
+        "unstructured": "Nei, M. Molecular Evolutionary Genetics (Columbia Univ. Press, New York, 1987)."
+      },
+      {
+        "key": "BFnature01400_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "229",
+        "DOI": "10.1038/ng1001-229",
+        "volume": "29",
+        "author": "MJ Daly",
+        "year": "2001",
+        "unstructured": "Daly, M. J., Rioux, J. D., Schaffner, S. F., Hudson, T. J. & Lander, E. S. High-resolution haplotype structure in the human genome. Nature Genet. 29, 229\u2013232 (2001).",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature01400_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "217",
+        "DOI": "10.1038/ng1001-217",
+        "volume": "29",
+        "author": "AJ Jeffreys",
+        "year": "2001",
+        "unstructured": "Jeffreys, A. J., Kauppi, L. & Neumann, R. Intensely punctated meiotic recombination in the class II region of the major histocompatibility complex. Nature Genet. 29, 217\u2013222 (2001).",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature01400_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1719",
+        "DOI": "10.1126/science.1065573",
+        "volume": "294",
+        "author": "N Patil",
+        "year": "2001",
+        "unstructured": "Patil, N. et al. Blocks of limited haplotype diversity revealed by high-resolution scanning of human chromosome 21. Science 294, 1719\u20131723 (2001).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature01400_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "2225",
+        "DOI": "10.1126/science.1069424",
+        "volume": "296",
+        "author": "SB Gabriel",
+        "year": "2002",
+        "unstructured": "Gabriel, S. B. et al. The structure of haplotype blocks in the human genome. Science 296, 2225\u20132229 (2002).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature01400_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1093/genetics/161.1.269",
+        "volume": "161",
+        "author": "N Yu",
+        "year": "2002",
+        "unstructured": "Yu, N. et al. Larger genetic differences within Africans than between Africans and Eurasians. Genetics 161, 269\u2013274 (2002).",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "BFnature01400_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.1038/325031a0",
+        "volume": "325",
+        "author": "RL Cann",
+        "year": "1987",
+        "unstructured": "Cann, R. L., Stoneking, M. & Wilson, A. C. Mitochondrial DNA and human evolution. Nature 325, 31\u201336 (1987).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature01400_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1503",
+        "DOI": "10.1126/science.1840702",
+        "volume": "253",
+        "author": "L Vigilant",
+        "year": "1991",
+        "unstructured": "Vigilant, L., Stoneking, M., Harpending, H., Hawkes, K. & Wilson, A. C. African populations and the evolution of human mitochondrial DNA. Science 253, 1503\u20131507 (1991).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature01400_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "708",
+        "DOI": "10.1038/35047064",
+        "volume": "408",
+        "author": "M Ingman",
+        "year": "2000",
+        "unstructured": "Ingman, M., Kaessmann, H., P\u00e4\u00e4bo, S. & Gyllensten, U. Mitochondrial genome variation and the origin of modern humans. Nature 408, 708\u2013713 (2000).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature01400_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "358",
+        "DOI": "10.1038/81685",
+        "volume": "26",
+        "author": "PA Underhill",
+        "year": "2000",
+        "unstructured": "Underhill, P. A. et al. Y chromosome sequence variation and the history of human populations. Nature Genet. 26, 358\u2013361 (2000).",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature01400_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1061",
+        "DOI": "10.1101/gr.7.11.1061",
+        "volume": "7",
+        "author": "M Stoneking",
+        "year": "1997",
+        "unstructured": "Stoneking, M. et al. Alu insertion polymorphisms and human evolution: evidence for a larger population size in Africa. Genome Res. 7, 1061\u20131071 (1997).",
+        "journal-title": "Genome Res."
+      },
+      {
+        "key": "BFnature01400_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1380",
+        "DOI": "10.1126/science.271.5254.1380",
+        "volume": "271",
+        "author": "SA Tishkoff",
+        "year": "1996",
+        "unstructured": "Tishkoff, S. A. et al. Global patterns of linkage disequilibrium at the CD4 locus and modern human origins. Science 271, 1380\u20131387 (1996).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature01400_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "172",
+        "DOI": "10.1093/oxfordjournals.molbev.a003791",
+        "volume": "18",
+        "author": "N Takahata",
+        "year": "2001",
+        "unstructured": "Takahata, N., Lee, S. H. & Satta, Y. Testing multiregionality of modern human origins. Mol. Biol. Evol. 18, 172\u2013183 (2001).",
+        "journal-title": "Mol. Biol. Evol."
+      },
+      {
+        "key": "BFnature01400_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "361",
+        "DOI": "10.1146/annurev.genom.1.1.361",
+        "volume": "1",
+        "author": "H Harpending",
+        "year": "2000",
+        "unstructured": "Harpending, H. & Rogers, A. Genetic perspectives on human origins and differentiation. Annu. Rev. Genomics Hum. Genet. 1, 361\u2013385 (2000).",
+        "journal-title": "Annu. Rev. Genomics Hum. Genet."
+      },
+      {
+        "key": "BFnature01400_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1016/S0092-8674(00)80310-4",
+        "volume": "90",
+        "author": "M Krings",
+        "year": "1997",
+        "unstructured": "Krings, M. et al. Neandertal DNA sequences and the origin of modern humans. Cell 90, 19\u201330 (1997).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "BFnature01400_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "490",
+        "DOI": "10.1038/35006625",
+        "volume": "404",
+        "author": "IV Ovchinnikov",
+        "year": "2000",
+        "unstructured": "Ovchinnikov, I. V. et al. Molecular analysis of Neanderthal DNA from the northern Caucasus. Nature 404, 490\u2013493 (2000).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature01400_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "5581",
+        "DOI": "10.1073/pnas.96.10.5581",
+        "volume": "96",
+        "author": "M Krings",
+        "year": "1999",
+        "unstructured": "Krings, M., Geisert, H., Schmitz, R. W., Krainitzki, H. & P\u00e4\u00e4bo, S. DNA sequence of the mitochondrial hypervariable region II from the Neandertal type specimen. Proc. Natl Acad. Sci. USA 96, 5581\u20135585 (1999).",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "BFnature01400_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "144",
+        "DOI": "10.1038/79855",
+        "volume": "26",
+        "author": "M Krings",
+        "year": "2000",
+        "unstructured": "Krings, M. et al. A view of Neandertal genetic diversity. Nature Genet. 26, 144\u2013146 (2000).",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature01400_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1237",
+        "DOI": "10.1086/302052",
+        "volume": "63",
+        "author": "M Nordborg",
+        "year": "1998",
+        "unstructured": "Nordborg, M. On the probability of Neanderthal ancestry. Am. J. Hum. Genet. 63, 1237\u20131240 (1998).",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "BFnature01400_CR27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P\u00e4\u00e4bo, S. Human evolution. Trends Cell Biol. 9, M13\u2013M16 (1999).",
+        "DOI": "10.1016/S0962-8924(99)01688-8"
+      },
+      {
+        "key": "BFnature01400_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "563",
+        "DOI": "10.1098/rstb.2001.1057",
+        "volume": "357",
+        "author": "C Stringer",
+        "year": "2002",
+        "unstructured": "Stringer, C. Modern human origins: progress and prospects. Phil. Trans. R. Soc. Lond. B 357, 563\u2013579 (2002).",
+        "journal-title": "Phil. Trans. R. Soc. Lond. B"
+      },
+      {
+        "key": "BFnature01400_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "687",
+        "DOI": "10.1006/jhev.1999.0298",
+        "volume": "36",
+        "author": "A Deinard",
+        "year": "1999",
+        "unstructured": "Deinard, A. & Kidd, K. Evolution of a HOXB6 intergenic region within the great apes and humans. J. Hum. Evol. 36, 687\u2013703 (1999).",
+        "journal-title": "J. Hum. Evol."
+      },
+      {
+        "key": "BFnature01400_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.1038/84773",
+        "volume": "27",
+        "author": "H Kaessmann",
+        "year": "2001",
+        "unstructured": "Kaessmann, H., Wiebe, V., Weiss, G. & P\u00e4\u00e4bo, S. Great ape DNA sequences reveal a reduced diversity and an expansion in humans. Nature Genet. 27, 155\u2013156 (2001).",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature01400_CR31",
+        "first-page": "381",
+        "volume": "6",
+        "author": "RC Lewontin",
+        "year": "1972",
+        "unstructured": "Lewontin, R. C. The problem of genetic diversity. Evol. Biol. 6, 381\u2013398 (1972).",
+        "journal-title": "Evol. Biol."
+      },
+      {
+        "key": "BFnature01400_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "78",
+        "DOI": "10.1038/8785",
+        "volume": "22",
+        "author": "H Kaessmann",
+        "year": "1999",
+        "unstructured": "Kaessmann, H., Heissig, F., von Haesler, A. & P\u00e4\u00e4bo, S. DNA sequence variation in a non-coding region of low recombination on the human X chromosome. Nature Genet. 22, 78\u201381 (1999).",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature01400_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "3320",
+        "DOI": "10.1073/pnas.96.6.3320",
+        "volume": "96",
+        "author": "EE Harris",
+        "year": "1999",
+        "unstructured": "Harris, E. E. & Hey, J. X chromosome evidence for ancient human histories. Proc. Natl Acad. Sci. USA 96, 3320\u20133324 (1999).",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "BFnature01400_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1481",
+        "DOI": "10.1093/genetics/155.3.1481",
+        "volume": "155",
+        "author": "N Yua",
+        "year": "2000",
+        "unstructured": "Yua, N. & Li, W.-H No fixed nucleotide difference between Africans and non-Africans at the pyruvate dehydrogenase E1 \u03b1-subunit locus. Genetics 155, 1481\u20131483 (2000).",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "BFnature01400_CR35",
+        "volume-title": "The History and Geography of Human Genes",
+        "author": "LL Cavalli-Sforza",
+        "year": "1993",
+        "unstructured": "Cavalli-Sforza, L. L., Menozzi, P. & Piazza, A. The History and Geography of Human Genes (Princeton Univ. Press, Princeton, NJ, 1993)."
+      },
+      {
+        "key": "BFnature01400_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "2007.1",
+        "DOI": "10.1186/gb-2002-3-7-comment2007",
+        "volume": "3",
+        "author": "N Risch",
+        "year": "2002",
+        "unstructured": "Risch, N., Burchard, E., Ziv, E. & Tang, H. Categorization of humans in biological research: genes, race and disease. Genome Biol. 3, 2007.1\u20132007.12 (2002).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "BFnature01400_CR37",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195106237.001.0001",
+        "volume-title": "Primate Cognition",
+        "author": "M Tomasello",
+        "year": "1997",
+        "unstructured": "Tomasello, M. & Call, J. Primate Cognition (Oxford Univ. Press, New York, 1997)."
+      },
+      {
+        "key": "BFnature01400_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "682",
+        "DOI": "10.1038/21415",
+        "volume": "399",
+        "author": "A Whiten",
+        "year": "1999",
+        "unstructured": "Whiten, A. et al. Cultures in chimpanzees. Nature 399, 682\u2013685 (1999).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature01400_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "661",
+        "DOI": "10.1016/S0168-9525(01)02492-1",
+        "volume": "17",
+        "author": "EE Eichler",
+        "year": "2001",
+        "unstructured": "Eichler, E. E. Recent duplication, domain accretion and the dynamic mutation of the human genome. Trends Genet. 17, 661\u2013669 (2001).",
+        "journal-title": "Trends Genet."
+      },
+      {
+        "key": "BFnature01400_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "340",
+        "DOI": "10.1126/science.1068996",
+        "volume": "296",
+        "author": "W Enard",
+        "year": "2002",
+        "unstructured": "Enard, W. et al. Intra- and interspecific variation in primate gene expression patterns. Science 296, 340\u2013343 (2002).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature01400_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "869",
+        "DOI": "10.1038/nature01025",
+        "volume": "418",
+        "author": "W Enard",
+        "year": "2002",
+        "unstructured": "Enard, W. et al. Molecular evolution of FOXP2, a gene involved in speech and language. Nature 418, 869\u2013872 (2002).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature01400_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "136",
+        "DOI": "10.1086/341283",
+        "volume": "71",
+        "author": "AP Jackson",
+        "year": "2002",
+        "unstructured": "Jackson, A. P. et al. Identification of microcephalin, a protein implicated in determining the size of the human brain. Am. J. Hum. Genet. 71, 136\u2013142 (2002).",
+        "journal-title": "Am. J. Hum. Genet."
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/nature01400.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/nature01400",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/doifinder/10.1038/nature01400",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://www.nature.com/articles/nature01400.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2025-04-04T21:26:13Z",
+      "timestamp": 1743801973000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/nature01400"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          1,
+          23
+        ]
+      ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+      "issue": "6921",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            1,
+            23
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BFnature01400"
+    ],
+    "URL": "https://doi.org/10.1038/nature01400",
+    "relation": {},
+    "ISSN": [
+      "0028-0836",
+      "1476-4687"
+    ],
+    "issn-type": [
+      {
+        "value": "0028-0836",
+        "type": "print"
+      },
+      {
+        "value": "1476-4687",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          1,
+          23
+        ]
+      ]
+    }
+  }
+}

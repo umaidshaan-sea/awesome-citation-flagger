@@ -1,0 +1,2183 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1109/5.784219",
+  "url": "https://api.crossref.org/works/10.1109%2F5.784219",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:39.107764+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ],
+      "date-time": "2026-11-01T10:53:35Z",
+      "timestamp": 1793530415823,
+      "version": "4.5.0"
+    },
+    "reference-count": 319,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1999,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1999-01-01T00:00:00Z",
+          "timestamp": 915148800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Proc. IEEE"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "DOI": "10.1109/5.784219",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          8,
+          24
+        ]
+      ],
+      "date-time": "2002-08-24T16:26:37Z",
+      "timestamp": 1030206397000
+    },
+    "page": "1423-1447",
+    "source": "Crossref",
+    "is-referenced-by-count": 1980,
+    "title": [
+      "Evolving artificial neural networks"
+    ],
+    "prefix": "10.1109",
+    "volume": "87",
+    "author": [
+      {
+        "family": "Xin Yao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref275",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0954-898X_1_2_003"
+      },
+      {
+        "key": "ref274",
+        "first-page": "96",
+        "article-title": "adaptive switching circuits",
+        "author": "widrow",
+        "year": "1960",
+        "journal-title": "1960 IRE WESTCON Convention Rec"
+      },
+      {
+        "key": "ref277",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COGANN.1992.273937"
+      },
+      {
+        "key": "ref276",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1055/s-0038-1634888",
+        "article-title": "a genetic algorithm to improve a neural network to predict a patient's response to warfarin",
+        "volume": "32",
+        "author": "narayanan",
+        "year": "1993",
+        "journal-title": "Methods Inform Med"
+      },
+      {
+        "key": "ref271",
+        "first-page": "213",
+        "volume": "4",
+        "author": "turney",
+        "year": "1996",
+        "journal-title": "Evolutionary Computation (Special Issue on the Baldwin Effect)"
+      },
+      {
+        "key": "ref270",
+        "first-page": "18",
+        "article-title": "the artificial evolution of a generalized class of adaptive processes",
+        "author": "crosher",
+        "year": "1993",
+        "journal-title": "Preprints AI 93 Workshop Evolutionary Computation"
+      },
+      {
+        "key": "ref170",
+        "first-page": "399",
+        "article-title": "fully automatic ann design: a genetic approach",
+        "volume": "686",
+        "author": "alba",
+        "year": "1993",
+        "journal-title": "Proc Int Workshop Artificial Neural Networks (IWANN 93)"
+      },
+      {
+        "key": "ref273",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(88)90003-2"
+      },
+      {
+        "key": "ref272",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0925-2312(96)00009-4"
+      },
+      {
+        "key": "ref172",
+        "author": "andersen",
+        "year": "1993",
+        "journal-title": "A constructive algorithm for a multilayer perceptron based on co-operative population concepts in genetic algorithms"
+      },
+      {
+        "key": "ref171",
+        "first-page": "322",
+        "article-title": "gannet: a genetic algorithm for optimizing topology and weights in neural network design",
+        "volume": "686",
+        "author": "white",
+        "year": "1993",
+        "journal-title": "Proc Int Workshop Artificial Neural Networks (IWANN 93)"
+      },
+      {
+        "key": "ref174",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/41.564161"
+      },
+      {
+        "key": "ref173",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/003754979406300605"
+      },
+      {
+        "key": "ref176",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/scj.4690270507"
+      },
+      {
+        "key": "ref175",
+        "first-page": "41",
+        "article-title": "evolutionary design of application-specific neural networks: a genetic approach",
+        "volume": "5",
+        "author": "dobnikar",
+        "year": "1995",
+        "journal-title": "Neural Network World"
+      },
+      {
+        "key": "ref178",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0165-0114(94)00283-D"
+      },
+      {
+        "key": "ref177",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0921-8890(96)81008-6"
+      },
+      {
+        "key": "ref168",
+        "author": "voigt",
+        "year": "1993",
+        "journal-title": "Evolutionary structuring of artificial neural networks"
+      },
+      {
+        "key": "ref169",
+        "first-page": "179",
+        "article-title": "genetic synthesis of discrete-time recurrent neural network",
+        "volume": "686",
+        "author": "mari\u00b4n",
+        "year": "1993",
+        "journal-title": "Proc Int Workshop Artificial Neural Networks (IWANN 93)"
+      },
+      {
+        "key": "ref39",
+        "first-page": "74",
+        "article-title": "training weights of neural networks by genetic algorithms and messy genetic algorithms",
+        "author": "homaifar",
+        "year": "1990",
+        "journal-title": "Proc 2nd IASTED Int Symp Expert Systems and Neural Networks"
+      },
+      {
+        "key": "ref38",
+        "first-page": "1391",
+        "article-title": "gennets: genetically programmed neural nets&mdash;using the genetic algorithm to train neural nets whose inputs and/or outputs vary in time",
+        "volume": "2",
+        "author": "de garis",
+        "year": "0",
+        "journal-title": "Proc 1991 IEEE Int Joint Conf Neural Networks (IJCNN 91 Singapore)"
+      },
+      {
+        "key": "ref33",
+        "author": "radcliffe",
+        "year": "1990",
+        "journal-title": "Genetic neural networks on MIMD computers (compressed edition)"
+      },
+      {
+        "key": "ref32",
+        "author": "belew",
+        "year": "1991",
+        "journal-title": "Evolving networks Using genetic algorithm with connectionist learning"
+      },
+      {
+        "key": "ref31",
+        "first-page": "275",
+        "article-title": "parallel algorithms for learning in neural networks with evolution strategy",
+        "author": "heistermann",
+        "year": "1989",
+        "journal-title": "Proc Parallel Computing 89"
+      },
+      {
+        "key": "ref30",
+        "author": "bartlett",
+        "year": "1990",
+        "journal-title": "Training a neural network with a genetic algorithm"
+      },
+      {
+        "key": "ref267",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0954-898X/2/4/002"
+      },
+      {
+        "key": "ref37",
+        "first-page": "2331",
+        "article-title": "learning neural network weights using genetic algorithms&mdash;improving performance by search-space reduction",
+        "volume": "3",
+        "author": "srinivas",
+        "year": "0",
+        "journal-title": "Proc 1991 IEEE Int Joint Conf Neural Networks (IJCNN 91 Singapore)"
+      },
+      {
+        "key": "ref268",
+        "first-page": "487",
+        "article-title": "interactions between learning and evolution",
+        "author": "ackley",
+        "year": "1991",
+        "journal-title": "Artificial Life II SFI Studies in the Sciences of Complexity Vol X"
+      },
+      {
+        "key": "ref36",
+        "first-page": "273",
+        "article-title": "using the genetic algorithm to train time dependent behaviors in neural networks",
+        "author": "de garis",
+        "year": "1991",
+        "journal-title": "Proc 1st Int Workshop Multistrategy Learning (MSL-91)"
+      },
+      {
+        "key": "ref35",
+        "first-page": "272",
+        "article-title": "steerable gennets: the genetic programming of steerable behaviors in gennets",
+        "author": "de garis",
+        "year": "1991",
+        "journal-title": "Toward a Practice of Autonomous Systems Proc 1st Europ Conf Artificial Life"
+      },
+      {
+        "key": "ref269",
+        "first-page": "313",
+        "article-title": "the evolution of learning algorithms for artificial neural networks",
+        "author": "baxter",
+        "year": "1992",
+        "journal-title": "Complex Systems"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/SECON.1992.202273"
+      },
+      {
+        "key": "ref288",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IJCNN.1991.170480"
+      },
+      {
+        "key": "ref287",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CCECE.1997.614852"
+      },
+      {
+        "key": "ref286",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.614543"
+      },
+      {
+        "key": "ref285",
+        "first-page": "256",
+        "article-title": "using a genetic algorithm to evolve an optimum input set for a predictive neural network",
+        "author": "weller",
+        "year": "1995",
+        "journal-title": "Proceedings of 1st International Conference on Genetic Algorithms in Engineering Systems Innovations and Applications"
+      },
+      {
+        "key": "ref284",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CNNA.1994.381681"
+      },
+      {
+        "key": "ref181",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0921-8890(97)00017-1"
+      },
+      {
+        "key": "ref283",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0957-4174(96)00055-3"
+      },
+      {
+        "key": "ref180",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1111/j.1468-0394.1994.tb00332.x",
+        "article-title": "hybrid expert system for investment advising",
+        "volume": "11",
+        "author": "nikolopoulos",
+        "year": "1994",
+        "journal-title": "Expert Syst"
+      },
+      {
+        "key": "ref282",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0167-8655(97)00140-2"
+      },
+      {
+        "key": "ref281",
+        "first-page": "543",
+        "article-title": "feature extraction technique for ann-based financial forecasting",
+        "volume": "7",
+        "author": "hornyak",
+        "year": "1997",
+        "journal-title": "Neural Network World"
+      },
+      {
+        "key": "ref280",
+        "first-page": "797",
+        "article-title": "using genetic algorithms to improve pattern classification performance",
+        "author": "chang",
+        "year": "1991",
+        "journal-title": "Advances in Neural Information Processing Systems (3)"
+      },
+      {
+        "key": "ref185",
+        "first-page": "146",
+        "article-title": "epnet for chaotic time-series prediction",
+        "volume": "1285",
+        "author": "yao",
+        "year": "1997",
+        "journal-title": "Select Papers 1st Asia-Pacific Conf Simulated Evolution and Learning (SEAL 96)"
+      },
+      {
+        "key": "ref184",
+        "first-page": "149",
+        "article-title": "a preliminary study on designing artificial neural networks using co-evolution",
+        "author": "yao",
+        "year": "1995",
+        "journal-title": "Proc IEEE Singapore Int Conf Intelligent Control and Instrumentation"
+      },
+      {
+        "key": "ref183",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1142/S0218001496000360",
+        "article-title": "genetic selection and neural modeling of piecewise linear classifiers",
+        "volume": "10",
+        "author": "sklansky",
+        "year": "1996",
+        "journal-title": "Int J Pattern Recognition Artificial Intell"
+      },
+      {
+        "key": "ref182",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.265959"
+      },
+      {
+        "key": "ref189",
+        "first-page": "1",
+        "article-title": "evolving artificial neural networks for medical applications",
+        "author": "yao",
+        "year": "1995",
+        "journal-title": "Proc 1995 Australia-Korea Joint Workshop Evolutionary Computation"
+      },
+      {
+        "key": "ref188",
+        "first-page": "159",
+        "article-title": "evolutionary artificial neural networks that learn and generalize well",
+        "author": "yao",
+        "year": "1996",
+        "journal-title": "Proc 1996 IEEE Int Conf Neural Networks"
+      },
+      {
+        "key": "ref187",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0096-3003(97)10005-4"
+      },
+      {
+        "key": "ref186",
+        "first-page": "54",
+        "article-title": "a population-based learning algorithm which learns both architectures and weights of neural networks",
+        "volume": "3",
+        "author": "liu",
+        "year": "1996",
+        "journal-title": "Chinese J Advanced Software Res"
+      },
+      {
+        "key": "ref28",
+        "first-page": "370",
+        "article-title": "parametric connectivity: training of constrained networks using genetic algorithms",
+        "author": "caudell",
+        "year": "1989",
+        "journal-title": "Proc 3rd Int Conf Genetic Algorithms and Their Applications"
+      },
+      {
+        "key": "ref27",
+        "first-page": "762",
+        "article-title": "training feedforward neural networks using genetic algorithms",
+        "author": "montana",
+        "year": "1989",
+        "journal-title": "Proc 11th Int Joint Conf Artificial Intelligence"
+      },
+      {
+        "key": "ref179",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0954-1810(96)00025-8"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00199581"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(90)90044-L"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.165597"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.182690"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0167-8191(90)90086-O"
+      },
+      {
+        "key": "ref23",
+        "first-page": "823",
+        "article-title": "two problems with backpropagation and other steepest-descent learning procedures for networks",
+        "author": "sutton",
+        "year": "1986",
+        "journal-title": "Proc 8th Annual Conf Cognitive Science Society"
+      },
+      {
+        "key": "ref278",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.125874"
+      },
+      {
+        "key": "ref26",
+        "first-page": "116",
+        "article-title": "the genitor algorithm and selective pressure: why rank-based allocation of reproductive trials is best",
+        "author": "whitley",
+        "year": "1989",
+        "journal-title": "Proc 3rd Int Conf Genetic Algorithms and Their Applications"
+      },
+      {
+        "key": "ref279",
+        "first-page": "235",
+        "article-title": "input pattern encoding through generalized adaptive search",
+        "author": "hsu",
+        "year": "1992",
+        "journal-title": "Proc Int Workshop on the Combinations of Genetic Algorithms and Neural Networks (COGANN-92)"
+      },
+      {
+        "key": "ref25",
+        "author": "chauvin",
+        "year": "1995",
+        "journal-title": "Backpropagation Theory Architectures and Applications"
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1049/el:19920029"
+      },
+      {
+        "key": "ref293",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-1699(97)00030-6"
+      },
+      {
+        "key": "ref292",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1997.592331"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CMPEUR.1992.218440"
+      },
+      {
+        "key": "ref295",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-1699(97)00029-X"
+      },
+      {
+        "key": "ref294",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0952-1976(97)00047-X"
+      },
+      {
+        "key": "ref297",
+        "first-page": "572",
+        "article-title": "parameter adjustment using neural-network-based genetic algorithms for guaranteed qos in atm networks",
+        "volume": "e78 b",
+        "author": "chou",
+        "year": "1995",
+        "journal-title": "IEICE Trans Commun"
+      },
+      {
+        "key": "ref296",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1049/ip-com:19981662",
+        "article-title": "bandwidth allocation of virtual paths using neural-network-based genetic algorithms",
+        "volume": "145",
+        "author": "chou",
+        "year": "1998",
+        "journal-title": "Communications IEE Proceedings-"
+      },
+      {
+        "key": "ref299",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0005-1098(78)90005-5"
+      },
+      {
+        "key": "ref298",
+        "first-page": "151",
+        "article-title": "a mathematical theory of generalization",
+        "volume": "4",
+        "author": "wolpert",
+        "year": "1990",
+        "journal-title": "Complex Syst"
+      },
+      {
+        "key": "ref154",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1016/0167-2789(90)90079-5",
+        "article-title": "perceptron redux: emergence of structure",
+        "volume": "42",
+        "author": "wilson",
+        "year": "1990",
+        "journal-title": "Phys D"
+      },
+      {
+        "key": "ref153",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0167-2789(90)90078-4"
+      },
+      {
+        "key": "ref156",
+        "first-page": "447",
+        "article-title": "designing application-specific neural networks using the genetic algorithm",
+        "author": "harp",
+        "year": "1990",
+        "journal-title": "Advances in Neural Information Processing Systems 2"
+      },
+      {
+        "key": "ref155",
+        "first-page": "687",
+        "article-title": "optimization of artificial neural network structure using genetic techniques implemented on multiple transputers",
+        "author": "dodd",
+        "year": "1991",
+        "journal-title": "Proc Transputing 91"
+      },
+      {
+        "key": "ref150",
+        "first-page": "379",
+        "article-title": "designing neural networks using genetic algorithms",
+        "author": "miller",
+        "year": "1989",
+        "journal-title": "Proc 3rd Int Conf Genetic Algorithms and Their Applications"
+      },
+      {
+        "key": "ref291",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0898-1221(94)90100-7"
+      },
+      {
+        "key": "ref152",
+        "first-page": "360",
+        "article-title": "toward the genetic synthesis of neural networks",
+        "author": "harp",
+        "year": "1989",
+        "journal-title": "Proc 3rd Int Conf Genetic Algorithms and Their Applications"
+      },
+      {
+        "key": "ref290",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0898-1221(92)90094-X"
+      },
+      {
+        "key": "ref151",
+        "first-page": "461",
+        "article-title": "designing neural networks using genetic algorithms with graph generation system",
+        "volume": "4",
+        "author": "kitano",
+        "year": "1990",
+        "journal-title": "Complex Syst"
+      },
+      {
+        "key": "ref146",
+        "first-page": "598",
+        "article-title": "optimal brain damage",
+        "author": "lecun",
+        "year": "1990",
+        "journal-title": "Advances in Neural Information Processing Systems 2"
+      },
+      {
+        "key": "ref147",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0893-6080(05)80057-7"
+      },
+      {
+        "key": "ref148",
+        "author": "hwang",
+        "year": "1993",
+        "journal-title": "What s wrong with a cascaded correlation learning network A projection pursuit learning perspective"
+      },
+      {
+        "key": "ref149",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.265960"
+      },
+      {
+        "key": "ref289",
+        "first-page": "685",
+        "article-title": "evolution of neural network training set through addition of virtual samples",
+        "author": "cho",
+        "year": "0",
+        "journal-title": "Proc 1996 IEEE Int Conf Evolutionary Computation ICEC 96"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COGANN.1992.273949"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/AIAWS.1991.236592"
+      },
+      {
+        "key": "ref57",
+        "first-page": "293",
+        "article-title": "a genetic breeding algorithm which exhibits self-organizing in neural networks",
+        "author": "penfold",
+        "year": "1990",
+        "journal-title": "Proc IASTED Int Symp Artificial Intelligence Application and Neural Networks&#x2014 AINN 90"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.1992.220047"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1117/12.140114"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1117/12.140134"
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/64.236478"
+      },
+      {
+        "key": "ref52",
+        "first-page": "272",
+        "article-title": "application of genetic algorithms to the training of higher order neural networks",
+        "volume": "2",
+        "author": "janson",
+        "year": "1992",
+        "journal-title": "J Syst Eng"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1049/el:19920990"
+      },
+      {
+        "key": "ref167",
+        "author": "schiffmann",
+        "year": "1992",
+        "journal-title": "Synthesis and performance analysis of multilayer neural network architectures"
+      },
+      {
+        "key": "ref166",
+        "first-page": "537",
+        "article-title": "genetically generated neural networks i: representational effects",
+        "volume": "iv",
+        "author": "marti\u00b4",
+        "year": "0",
+        "journal-title": "Proc Int Joint Conf Neural Networks (IJCNN 92 Baltimore)"
+      },
+      {
+        "key": "ref165",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1993.298556"
+      },
+      {
+        "key": "ref164",
+        "first-page": "39",
+        "article-title": "optimization and training of feedforward neural networks by genetic algorithms",
+        "author": "marshall",
+        "year": "1991",
+        "journal-title": "Artificial Neural Networks 1991 Second International Conference on"
+      },
+      {
+        "key": "ref163",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-011-3648-8_62"
+      },
+      {
+        "key": "ref162",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-444-89178-5.50043-9"
+      },
+      {
+        "key": "ref161",
+        "first-page": "255",
+        "article-title": "using marker-based genetic encoding of neural networks to evolve finite-state behavior",
+        "author": "fullmer",
+        "year": "1991",
+        "journal-title": "Toward a Practice of Autonomous Systems Proc 1st Europ Conf Artificial Life"
+      },
+      {
+        "key": "ref160",
+        "first-page": "123",
+        "article-title": "toward the evolution of symbols",
+        "author": "dolan",
+        "year": "1987",
+        "journal-title": "Proc 2nd Int Conf Genetic Algorithms and Their Applications"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-017-0793-0_16"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/S0129065793000171"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0004-3702(89)90049-0"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/int.4550080406"
+      },
+      {
+        "key": "ref159",
+        "author": "hancock",
+        "year": "1990",
+        "journal-title": "GANNET Design of a neural net for face recognition by genetic algorithm"
+      },
+      {
+        "key": "ref8",
+        "author": "schwefel",
+        "year": "1981",
+        "journal-title": "Numerical Optimization of Computer Models"
+      },
+      {
+        "key": "ref7",
+        "author": "hertz",
+        "year": "1991",
+        "journal-title": "Introduction to the Theory of Neural Computation"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.125863"
+      },
+      {
+        "key": "ref157",
+        "first-page": "769",
+        "article-title": "darwinian optimization of synthetic neural systems",
+        "volume": "3",
+        "author": "dress",
+        "year": "1987",
+        "journal-title": "Proc 1st IEEE Int Conf Neural Networks"
+      },
+      {
+        "key": "ref9",
+        "author": "schwefel",
+        "year": "1995",
+        "journal-title": "Evolution and Optimum Seeking"
+      },
+      {
+        "key": "ref158",
+        "first-page": "63",
+        "article-title": "breeding intelligent automata",
+        "volume": "3",
+        "author": "bergman",
+        "year": "1987",
+        "journal-title": "Proc of the 1st IEEE Int Conf Neural Networks"
+      },
+      {
+        "key": "ref46",
+        "first-page": "1273",
+        "article-title": "genetically programmed neural network for solving pole-balancing problem",
+        "volume": "2",
+        "author": "maricic",
+        "year": "1991",
+        "journal-title": "Artificial Neural Networks Proc Int Conf Artificial Neural Networks&#x2014 ICANN-91"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0893-6080(05)80030-9"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00198482"
+      },
+      {
+        "key": "ref47",
+        "first-page": "973",
+        "article-title": "evolving sequential machines in amorphous neural networks",
+        "volume": "1",
+        "author": "spofford",
+        "year": "1991",
+        "journal-title": "Artificial Neural Networks Proc Int Conf Artificial Neural Networks&#x2014 ICANN-91"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IJCNN.1991.155366"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IJCNN.1991.155416"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/NAECON.1991.165898"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IJCNN.1991.155315"
+      },
+      {
+        "key": "ref73",
+        "doi-asserted-by": "crossref",
+        "first-page": "528",
+        "DOI": "10.1002/srin.199401206",
+        "article-title": "optimization of back propagation algorithm and gas-assisted ann models for hot metal desulphurization",
+        "volume": "65",
+        "author": "deo",
+        "year": "1994",
+        "journal-title": "Steel Res"
+      },
+      {
+        "key": "ref72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0378-7796(94)90074-4"
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.329686"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0925-2312(94)90008-6"
+      },
+      {
+        "key": "ref318",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.616215"
+      },
+      {
+        "key": "ref76",
+        "first-page": "91",
+        "article-title": "pattern recognition based on the fuzzy neural networks and their learning by modified genetic algorithms",
+        "volume": "5",
+        "author": "lehotsky",
+        "year": "1995",
+        "journal-title": "Neural Network World"
+      },
+      {
+        "key": "ref317",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/66.572083"
+      },
+      {
+        "key": "ref77",
+        "first-page": "49",
+        "article-title": "genetic-based fuzzy net controller and its application",
+        "volume": "38",
+        "author": "wang",
+        "year": "1997",
+        "journal-title": "Advances in Modeling and Anal B"
+      },
+      {
+        "key": "ref316",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1177/004051759706700203",
+        "article-title": "optimizing the fiber-to-yarn production process with a combined neural network/genetic algorithm approach",
+        "volume": "67",
+        "author": "sette",
+        "year": "1997",
+        "journal-title": "Textile Res J"
+      },
+      {
+        "key": "ref74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0965-0393/3/3/006"
+      },
+      {
+        "key": "ref75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/eej.4391150508"
+      },
+      {
+        "key": "ref315",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0925-5273(97)00073-X"
+      },
+      {
+        "key": "ref314",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1018517106992"
+      },
+      {
+        "key": "ref313",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00126629"
+      },
+      {
+        "key": "ref78",
+        "first-page": "965",
+        "article-title": "optimization of neural networks by genetic algorithms",
+        "volume": "5",
+        "author": "osmera",
+        "year": "1995",
+        "journal-title": "Neural Network World"
+      },
+      {
+        "key": "ref312",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0957-4174(97)00024-9"
+      },
+      {
+        "key": "ref79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00125490"
+      },
+      {
+        "key": "ref311",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/es00005a003"
+      },
+      {
+        "key": "ref319",
+        "author": "weiss",
+        "year": "1990",
+        "journal-title": "Combining neural and evolutionary learning Aspects and approaches"
+      },
+      {
+        "key": "ref310",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/27.510019"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/105971239200100105"
+      },
+      {
+        "key": "ref62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/3477.499795"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/3477.499797"
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/64.393138"
+      },
+      {
+        "key": "ref305",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1997.633202"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1049/el:19960229"
+      },
+      {
+        "key": "ref304",
+        "doi-asserted-by": "crossref",
+        "first-page": "623",
+        "DOI": "10.1007/BFb0056904",
+        "article-title": "toward designing neural network ensembles by evolution",
+        "volume": "1498",
+        "author": "liu",
+        "year": "1998",
+        "journal-title": "Parallel Problem Solving from Nature (PPSN) V"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/89.554781"
+      },
+      {
+        "key": "ref307",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1997.592402"
+      },
+      {
+        "key": "ref66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-9002(97)00134-4"
+      },
+      {
+        "key": "ref306",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.392249"
+      },
+      {
+        "key": "ref67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-9002(97)00139-3"
+      },
+      {
+        "key": "ref301",
+        "author": "wallace",
+        "year": "1991",
+        "journal-title": "Coding decision trees"
+      },
+      {
+        "key": "ref68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-9002(97)00085-5"
+      },
+      {
+        "key": "ref300",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TAC.1974.1100705"
+      },
+      {
+        "key": "ref69",
+        "first-page": "731",
+        "article-title": "application of an improved genetic algorithm to the learning of neural networks",
+        "volume": "91",
+        "author": "ikuno",
+        "year": "1994",
+        "journal-title": "Solid State Commun"
+      },
+      {
+        "key": "ref303",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/4235.585891"
+      },
+      {
+        "key": "ref302",
+        "first-page": "229",
+        "article-title": "how to make best use of evolutionary learning",
+        "author": "yao",
+        "year": "1996",
+        "journal-title": "Complex Systems From Local Interactions to Global Phenomena"
+      },
+      {
+        "key": "ref309",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0305-0548(95)00056-9"
+      },
+      {
+        "key": "ref308",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.363466"
+      },
+      {
+        "key": "ref197",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.265958"
+      },
+      {
+        "key": "ref198",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1008272615525"
+      },
+      {
+        "key": "ref199",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1008224732364"
+      },
+      {
+        "key": "ref193",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1109/3477.678637",
+        "article-title": "making use of population information in evolutionary artificial neural networks",
+        "volume": "28",
+        "author": "yao",
+        "year": "1998",
+        "journal-title": "IEEE Trans Syst Man Cyber B"
+      },
+      {
+        "key": "ref194",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.572107"
+      },
+      {
+        "key": "ref195",
+        "first-page": "257",
+        "article-title": "evolving artificial neural networks through evolutionary programming",
+        "author": "yao",
+        "year": "1996",
+        "journal-title": "Evolutionary Programming V Proc 5th Annu Conf Evolutionary Programming"
+      },
+      {
+        "key": "ref196",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/S0218213094000169"
+      },
+      {
+        "key": "ref95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0304-3835(97)00259-0"
+      },
+      {
+        "key": "ref94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.410379"
+      },
+      {
+        "key": "ref190",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1997.592388"
+      },
+      {
+        "key": "ref93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/S0129065795000226"
+      },
+      {
+        "key": "ref191",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1996.542681"
+      },
+      {
+        "key": "ref92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0020-0255(94)90068-X"
+      },
+      {
+        "key": "ref192",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1996.542679"
+      },
+      {
+        "key": "ref91",
+        "first-page": "1287",
+        "article-title": "using genetic learning neural networks for spatial decision making in gis",
+        "volume": "62",
+        "author": "zhou",
+        "year": "1996",
+        "journal-title": "PE &amp RS Photogrammetric Eng Remote Sensing"
+      },
+      {
+        "key": "ref90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.1998.0218"
+      },
+      {
+        "key": "ref98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0165-0114(94)90017-5"
+      },
+      {
+        "key": "ref99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-007X(199605/06)24:3<381::AID-CTA923>3.0.CO;2-8"
+      },
+      {
+        "key": "ref96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0304-3835(95)03916-K"
+      },
+      {
+        "key": "ref97",
+        "doi-asserted-by": "crossref",
+        "first-page": "1561",
+        "DOI": "10.1049/el:19971019",
+        "article-title": "classification of ecg waveforms by using rce neural network and genetic algorithms",
+        "volume": "33",
+        "author": "olmez",
+        "year": "1997",
+        "journal-title": "Electronics Letters"
+      },
+      {
+        "key": "ref82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0360-8352(96)00020-4"
+      },
+      {
+        "key": "ref81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/34.506415"
+      },
+      {
+        "key": "ref84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0378-7796(96)01065-6"
+      },
+      {
+        "key": "ref83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0167-9236(96)80007-8"
+      },
+      {
+        "key": "ref80",
+        "first-page": "70",
+        "article-title": "evolutionary neural network model for the selection of pavement maintenance strategy",
+        "volume": "1497",
+        "author": "taha",
+        "year": "1995",
+        "journal-title": "Transportation Res Rec"
+      },
+      {
+        "key": "ref89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0167-9236(97)00040-7"
+      },
+      {
+        "key": "ref85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/59.589634"
+      },
+      {
+        "key": "ref86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/28.605758"
+      },
+      {
+        "key": "ref87",
+        "first-page": "267",
+        "article-title": "concurrent training algorithm for supervised learning in artificial neural networks",
+        "volume": "13",
+        "author": "chen",
+        "year": "1997",
+        "journal-title": "J Inform Sci Eng"
+      },
+      {
+        "key": "ref88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-1699(97)00027-6"
+      },
+      {
+        "key": "ref200",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09540099550039228"
+      },
+      {
+        "key": "ref101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1996.542662"
+      },
+      {
+        "key": "ref100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1996.542358"
+      },
+      {
+        "key": "ref209",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/EUMA.1997.337837"
+      },
+      {
+        "key": "ref203",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MWSCAS.1994.519294"
+      },
+      {
+        "key": "ref204",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1995.487452"
+      },
+      {
+        "key": "ref201",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(94)90028-0"
+      },
+      {
+        "key": "ref202",
+        "first-page": "205",
+        "article-title": "machinery fault diagnostics using direct encoding graph syntax for optimizing artificial neural network structure",
+        "author": "kothari",
+        "year": "1996",
+        "journal-title": "Proc 1996 3rd Biennial Joint Conf Engineering Systems Design and Analysis ESDA Part 7 (of 9)"
+      },
+      {
+        "key": "ref207",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.614233"
+      },
+      {
+        "key": "ref208",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1997.638199"
+      },
+      {
+        "key": "ref205",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1995.488965"
+      },
+      {
+        "key": "ref206",
+        "first-page": "681",
+        "article-title": "modular neural networks evolved by genetic programming",
+        "author": "cho",
+        "year": "0",
+        "journal-title": "Proc 1996 IEEE Int Conf Evolutionary Computation ICEC 96"
+      },
+      {
+        "key": "ref211",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/EURMIC.1997.617372"
+      },
+      {
+        "key": "ref210",
+        "first-page": "578",
+        "article-title": "monster&mdash;the ghost in the connection machine: modularity of neural systems in theoretical evolutionary research",
+        "author": "snoad",
+        "year": "1995",
+        "journal-title": "Proc 1995 ACM/IEEE Supercomputing Conf"
+      },
+      {
+        "key": "ref212",
+        "first-page": "157",
+        "article-title": "optimizing the structure of neural networks using evolution techniques",
+        "author": "likothanassis",
+        "year": "1997",
+        "journal-title": "Proc 5th Int Conf Application of High-Performance Computers in Engineering"
+      },
+      {
+        "key": "ref213",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1117/12.234258"
+      },
+      {
+        "key": "ref214",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1994.349900"
+      },
+      {
+        "key": "ref215",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1994.349961"
+      },
+      {
+        "key": "ref216",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1994.374413"
+      },
+      {
+        "key": "ref217",
+        "first-page": "665",
+        "article-title": "evolutionary ordered neural network with a linked-list encoding scheme",
+        "author": "lee",
+        "year": "0",
+        "journal-title": "Proc 1996 IEEE Int Conf Evolutionary Computation ICEC 96"
+      },
+      {
+        "key": "ref218",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/NNSP.1996.548344"
+      },
+      {
+        "key": "ref219",
+        "first-page": "291",
+        "article-title": "noncommunication protection of transmission line based on genetic evolved neural network",
+        "author": "bo",
+        "year": "1997",
+        "journal-title": "Proceedings of 6th International Conference on Developments in Power Systems Protection (The Design Applications Performance and Asset Management of Power System Protection Systems Used in Electricity Generation)"
+      },
+      {
+        "key": "ref220",
+        "first-page": "959",
+        "article-title": "current transients based faulted phase selection technique using a genetic algorithm evolved neural network",
+        "author": "bo",
+        "year": "1997",
+        "journal-title": "Proc 1997 32nd Universities Power Engineering Conf UPEC 97 Part 2 (of 2)"
+      },
+      {
+        "key": "ref222",
+        "first-page": "641",
+        "article-title": "editer: a combination of iea and cea",
+        "author": "zhao",
+        "year": "0",
+        "journal-title": "Proc 1997 IEEE Int Conf Evolutionary Computation ICEC 97"
+      },
+      {
+        "key": "ref221",
+        "first-page": "278",
+        "article-title": "genetic algorithm based neural networks applied to fault classification for ehv transmission lines with a upfc",
+        "author": "song",
+        "year": "1997",
+        "journal-title": "Proceedings of 6th International Conference on Developments in Power Systems Protection (The Design Applications Performance and Asset Management of Power System Protection Systems Used in Electricity Generation)"
+      },
+      {
+        "key": "ref229",
+        "doi-asserted-by": "crossref",
+        "first-page": "409",
+        "DOI": "10.1007/3-540-54563-8_104",
+        "article-title": "a study of crossover operators in genetic programming",
+        "author": "spears",
+        "year": "1991",
+        "journal-title": "Proc 6th Int Symp Methodologies for Intelligent Systems (ISMIS 91)"
+      },
+      {
+        "key": "ref228",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/AIAWS.1991.236576"
+      },
+      {
+        "key": "ref227",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.134286"
+      },
+      {
+        "key": "ref226",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(89)90030-0"
+      },
+      {
+        "key": "ref225",
+        "first-page": "667",
+        "article-title": "evolutionary projection neural networks",
+        "author": "hwang",
+        "year": "0",
+        "journal-title": "Proc 1997 IEEE Int Conf Evolutionary Computation ICEC 97"
+      },
+      {
+        "key": "ref224",
+        "first-page": "647",
+        "article-title": "combining modular neural networks developed by evolutionary algorithm",
+        "author": "cho",
+        "year": "0",
+        "journal-title": "Proc 1997 IEEE Int Conf Evolutionary Computation ICEC 97"
+      },
+      {
+        "key": "ref223",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.611708"
+      },
+      {
+        "key": "ref127",
+        "first-page": "584",
+        "article-title": "evolving recurrent neural networks with nonbinary encoding",
+        "author": "mandischer",
+        "year": "0",
+        "journal-title": "Proc 1995 IEEE Int Conf Evolutionary Computation Part 2 (of 2)"
+      },
+      {
+        "key": "ref126",
+        "first-page": "555",
+        "article-title": "temporal processing with recurrent networks: an evolutionary approach",
+        "author": "torreele",
+        "year": "1991",
+        "journal-title": "Proc 4th Int Conf Genetic Algorithms"
+      },
+      {
+        "key": "ref125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0165-6074(93)90215-7"
+      },
+      {
+        "key": "ref124",
+        "first-page": "467",
+        "article-title": "fast evolution strategies",
+        "volume": "26",
+        "author": "yao",
+        "year": "1997",
+        "journal-title": "Control Cybern"
+      },
+      {
+        "key": "ref129",
+        "first-page": "3089",
+        "article-title": "cache-genetic-based modular fuzzy neural network for robot path planning",
+        "author": "wu",
+        "year": "1996",
+        "journal-title": "Proc 1996 IEEE Int Conf Systems Man and Cybernetics Part 4 (of 4)"
+      },
+      {
+        "key": "ref128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1997.635144"
+      },
+      {
+        "key": "ref130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1995.487283"
+      },
+      {
+        "key": "ref133",
+        "first-page": "789",
+        "article-title": "empirical studies on the speed of convergence of neural network training using genetic algorithms",
+        "author": "kitano",
+        "year": "1990",
+        "journal-title": "Proc 8th Nat Conf AI (AAAI-90)"
+      },
+      {
+        "key": "ref134",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/4235.585893"
+      },
+      {
+        "key": "ref131",
+        "first-page": "38",
+        "article-title": "faster-learning variations on back-propagation: an empirical study",
+        "author": "fahlman",
+        "year": "1988",
+        "journal-title": "Proc of the 1988 Connectionist Models Summer School"
+      },
+      {
+        "key": "ref132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/S0129065791000261"
+      },
+      {
+        "key": "ref232",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COGANN.1992.273948"
+      },
+      {
+        "key": "ref233",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1998.699787"
+      },
+      {
+        "key": "ref230",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0196-8858(89)90008-0"
+      },
+      {
+        "key": "ref231",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(91)90031-Y"
+      },
+      {
+        "key": "ref239",
+        "author": "lovell",
+        "year": "1992",
+        "journal-title": "The Performance of the Neocognitron with Various S-Cell and C-Cell Transfer Functions"
+      },
+      {
+        "key": "ref238",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1990.142101"
+      },
+      {
+        "key": "ref235",
+        "doi-asserted-by": "crossref",
+        "first-page": "1538",
+        "DOI": "10.1109/PROC.1987.13916",
+        "article-title": "nonconvex optimization by fast simulated annealing",
+        "volume": "75",
+        "author": "szu",
+        "year": "1987",
+        "journal-title": "Proceedings of the IEEE"
+      },
+      {
+        "key": "ref234",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/5.92048"
+      },
+      {
+        "key": "ref237",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1162/evco.1994.2.1.19",
+        "article-title": "is a learning classifier system a type of neural network",
+        "volume": "2",
+        "author": "smith",
+        "year": "1994",
+        "journal-title": "Evolutionary Computation"
+      },
+      {
+        "key": "ref236",
+        "first-page": "249",
+        "article-title": "a constructive algorithm for the training of a multilayer perceptron based on the genetic algorithm",
+        "volume": "7",
+        "author": "andersen",
+        "year": "1993",
+        "journal-title": "Complex Syst"
+      },
+      {
+        "key": "ref136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1996.542687"
+      },
+      {
+        "key": "ref135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEBEG.2011.5881259"
+      },
+      {
+        "key": "ref138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ISIC.1997.626422"
+      },
+      {
+        "key": "ref137",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1997.635139"
+      },
+      {
+        "key": "ref139",
+        "first-page": "185",
+        "article-title": "optimization of a competitive learning neural network by genetic algorithms",
+        "volume": "686",
+        "author": "merelo",
+        "year": "1993",
+        "journal-title": "Proc Int Workshop Artificial Neural Networks (IWANN 93)"
+      },
+      {
+        "key": "ref140",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1996.569776"
+      },
+      {
+        "key": "ref141",
+        "first-page": "524",
+        "article-title": "the cascade-correlation learning architecture",
+        "author": "fahlman",
+        "year": "1990",
+        "journal-title": "Advances in Neural Information Processing Systems 2"
+      },
+      {
+        "key": "ref142",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.1990.2.2.198"
+      },
+      {
+        "key": "ref143",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09540098908915626"
+      },
+      {
+        "key": "ref144",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(91)90033-2"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/int.4550080406"
+      },
+      {
+        "key": "ref145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(91)90032-Z"
+      },
+      {
+        "key": "ref1",
+        "first-page": "49",
+        "article-title": "evolution of connectionist networks",
+        "author": "yao",
+        "year": "1991",
+        "journal-title": "Preprints Int Symp AI Reasoning &amp Creativity"
+      },
+      {
+        "key": "ref241",
+        "first-page": "202",
+        "article-title": "preadaptation in neural circuits",
+        "volume": "i",
+        "author": "stork",
+        "year": "1990",
+        "journal-title": "Proc Int Joint Conf Neural Networks"
+      },
+      {
+        "key": "ref242",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1007/BFb0040780",
+        "article-title": "on making problems evolutionarily friendly, part i: evolving the most convenient representations",
+        "volume": "1447",
+        "author": "sebald",
+        "year": "1998",
+        "journal-title": "Evolutionary Programming VII Proc 7th Annu Conf Evolutionary Programming"
+      },
+      {
+        "key": "ref243",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1995.489143"
+      },
+      {
+        "key": "ref244",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7551/mitpress/5236.001.0001",
+        "author": "rumelhart",
+        "year": "1986",
+        "journal-title": "Parallel Distributed Processing Explorations in the Microstructures of Cognition"
+      },
+      {
+        "key": "ref240",
+        "author": "dasgupta",
+        "year": "1992",
+        "journal-title": "Efficient approximation with neural networks A comparison of gate functions"
+      },
+      {
+        "key": "ref248",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0925-2312(95)00088-7"
+      },
+      {
+        "key": "ref247",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.641460"
+      },
+      {
+        "key": "ref246",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.501733"
+      },
+      {
+        "key": "ref245",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(94)90004-3"
+      },
+      {
+        "key": "ref249",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.508930"
+      },
+      {
+        "key": "ref109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ISSRE.1997.630844"
+      },
+      {
+        "key": "ref108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.616168"
+      },
+      {
+        "key": "ref107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICEC.1997.592390"
+      },
+      {
+        "key": "ref106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1994.374718"
+      },
+      {
+        "key": "ref105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TAI.1997.632233"
+      },
+      {
+        "key": "ref104",
+        "first-page": "495",
+        "article-title": "retaining diversity of search point distribution through a breeder genetic algorithm for neural network learning",
+        "author": "popvic",
+        "year": "0",
+        "journal-title": "Proc 1997 IEEE Int Conf Neural Networks Part 1 (of 4)"
+      },
+      {
+        "key": "ref103",
+        "first-page": "779",
+        "article-title": "state estimation of the cstr system based on a recurrent neural network trained by hga's",
+        "author": "lei",
+        "year": "0",
+        "journal-title": "Proc 1997 IEEE Int Conf Neural Networks Part 2 (of 4)"
+      },
+      {
+        "key": "ref102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACSSC.1994.471588"
+      },
+      {
+        "key": "ref111",
+        "first-page": "162",
+        "article-title": "evolving neural induction regular language using combined evolutionary algorithms",
+        "author": "yang",
+        "year": "0",
+        "journal-title": "Proc 1996 1st Joint Conf Intelligent Systems/ISAI/IFIS"
+      },
+      {
+        "key": "ref112",
+        "first-page": "2744",
+        "article-title": "hybrid adaptive learning control of nonlinear system",
+        "author": "zhang",
+        "year": "0",
+        "journal-title": "Proc 1995 American Control Conf Part 4 (of 6)"
+      },
+      {
+        "key": "ref110",
+        "first-page": "981",
+        "article-title": "hybrid genetic/bp algorithm and its application for radar target classification",
+        "author": "yan",
+        "year": "0",
+        "journal-title": "Proc 1997 IEEE National Aerospace and Electronics Conf NAECON Part 2 (of 2)"
+      },
+      {
+        "key": "ref250",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.548182"
+      },
+      {
+        "key": "ref251",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0893-6080(95)00029-Y"
+      },
+      {
+        "key": "ref254",
+        "first-page": "29",
+        "article-title": "a population-based learning algorithm which learns both architectures and weights of neural networks",
+        "author": "liu",
+        "year": "1995",
+        "journal-title": "Proc ICYCS 95 Workshop Soft Computing"
+      },
+      {
+        "key": "ref255",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/347069a0"
+      },
+      {
+        "key": "ref252",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.265957"
+      },
+      {
+        "key": "ref253",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.614247"
+      },
+      {
+        "key": "ref257",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/329761a0"
+      },
+      {
+        "key": "ref256",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.1991.3.2.201"
+      },
+      {
+        "key": "ref259",
+        "author": "belew",
+        "year": "1989",
+        "journal-title": "Evolution learning and culture Computational metaphors for adaptive algorithms"
+      },
+      {
+        "key": "ref10",
+        "author": "fogel",
+        "year": "1966",
+        "journal-title": "Artificial Intelligence Through Simulated Evolution"
+      },
+      {
+        "key": "ref11",
+        "author": "fogel",
+        "year": "1991",
+        "journal-title": "System Identification Through Simulated Evolution A Machine Learning Approach to Modeling"
+      },
+      {
+        "key": "ref258",
+        "first-page": "495",
+        "article-title": "how learning can guide evolution",
+        "volume": "1",
+        "author": "hinton",
+        "year": "1987",
+        "journal-title": "Complex Syst"
+      },
+      {
+        "key": "ref12",
+        "author": "fogel",
+        "year": "1995",
+        "journal-title": "Evolutionary Computation Toward a New Philosophy of Machine Intelligence"
+      },
+      {
+        "key": "ref13",
+        "author": "holland",
+        "year": "1975",
+        "journal-title": "Adaptations in Natural and Artificial Systems"
+      },
+      {
+        "key": "ref14",
+        "author": "goldberg",
+        "year": "1989",
+        "journal-title": "Genetic Algorithms in Search Optimization and Machine Learning"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.265956"
+      },
+      {
+        "key": "ref118",
+        "first-page": "250",
+        "article-title": "genetic structure for nn topology and weights optimization",
+        "author": "tang",
+        "year": "1995",
+        "journal-title": "Proceedings of 1st International Conference on Genetic Algorithms in Engineering Systems Innovations and Applications"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/4235.585888"
+      },
+      {
+        "key": "ref117",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/64.393139"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/79.180705"
+      },
+      {
+        "key": "ref18",
+        "first-page": "318",
+        "article-title": "learning internal representations by error propagation",
+        "volume": "i",
+        "author": "rumelhart",
+        "year": "1986",
+        "journal-title": "Parallel Distributed Processing Explorations in the Microstructures of Cognition"
+      },
+      {
+        "key": "ref119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.611711"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0893-6080(05)80056-5"
+      },
+      {
+        "key": "ref114",
+        "first-page": "86",
+        "article-title": "a new interpretation of schema notation that overturns the binary encoding constraint",
+        "author": "antonisse",
+        "year": "1989",
+        "journal-title": "Proc 3rd Int Conf Genetic Algorithms and Their Applications"
+      },
+      {
+        "key": "ref113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COGANN.1992.273944"
+      },
+      {
+        "key": "ref116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/4235.687882"
+      },
+      {
+        "key": "ref115",
+        "first-page": "183",
+        "article-title": "equivalence class analysis of genetic algorithms",
+        "volume": "5",
+        "author": "radcliffe",
+        "year": "1991",
+        "journal-title": "Complex Syst"
+      },
+      {
+        "key": "ref120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1997.637340"
+      },
+      {
+        "key": "ref121",
+        "first-page": "451",
+        "article-title": "fast evolutionary programming",
+        "author": "yao",
+        "year": "1996",
+        "journal-title": "Evolutionary Programming V Proc 5th Annu Conf Evolutionary Programming"
+      },
+      {
+        "key": "ref122",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1007/BFb0014820",
+        "article-title": "an analysis of evolutionary algorithms based on neighborhood and step sizes",
+        "volume": "1213",
+        "author": "yao",
+        "year": "1997",
+        "journal-title": "Evolutionary Programming VI Proc 6th Annu Conf Evolutionary Programming"
+      },
+      {
+        "key": "ref123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/evco.1993.1.1.1"
+      },
+      {
+        "key": "ref260",
+        "author": "nolfi",
+        "year": "1990",
+        "journal-title": "Learning and evolution in neural networks"
+      },
+      {
+        "key": "ref261",
+        "first-page": "173",
+        "article-title": "the dynamics of evolution and learning&mdash;toward genetic neural networks",
+        "author": "mu\u00a8hlenbein",
+        "year": "1989",
+        "journal-title": "Connectionism in Perspective"
+      },
+      {
+        "key": "ref262",
+        "first-page": "122",
+        "article-title": "adaptation in open systems: learning and evolution",
+        "author": "mu\u00a8hlenbein",
+        "year": "1988",
+        "journal-title": "Workshop Konnektionismus"
+      },
+      {
+        "key": "ref263",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7551/mitpress/3115.003.0056",
+        "article-title": "the evolution of behavior: some experiments",
+        "author": "paredis",
+        "year": "1991",
+        "journal-title": "Proc 1st Int Conf Simulation of Adaptive Behavior From Animals to Animats"
+      },
+      {
+        "key": "ref264",
+        "first-page": "81",
+        "article-title": "the evolution of learning: an experiment in genetic connectionism",
+        "author": "chalmers",
+        "year": "1990",
+        "journal-title": "Proc 1990 Connectionist Models Summer School"
+      },
+      {
+        "key": "ref265",
+        "author": "bengio",
+        "year": "1990",
+        "journal-title": "Learning a synaptic learning rule"
+      },
+      {
+        "key": "ref266",
+        "article-title": "on the optimization of a synaptic learning rule",
+        "author": "bengio",
+        "year": "1992",
+        "journal-title": "Preprints Conf Optimality in Artificial and Biological Neural Networks"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/5/17008/00784219.pdf?arnumber=784219",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2024-01-05T13:53:49Z",
+      "timestamp": 1704462829000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://ieeexplore.ieee.org/document/784219/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "references-count": 319,
+    "journal-issue": {
+      "issue": "9"
+    },
+    "URL": "https://doi.org/10.1109/5.784219",
+    "relation": {},
+    "ISSN": [
+      "0018-9219"
+    ],
+    "issn-type": [
+      {
+        "value": "0018-9219",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
+  }
+}

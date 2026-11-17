@@ -1,0 +1,402 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.7759/cureus.18193",
+  "url": "https://api.crossref.org/works/10.7759%2Fcureus.18193",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:21.689496+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ],
+      "date-time": "2026-11-03T07:29:38Z",
+      "timestamp": 1793690978070,
+      "version": "4.5.1"
+    },
+    "update-to": [
+      {
+        "DOI": "10.7759/cureus.18193",
+        "type": "correction",
+        "label": "Correction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              24
+            ]
+          ],
+          "date-time": "2021-09-24T00:00:00Z",
+          "timestamp": 1632441600000
+        },
+        "record-id": "51305"
+      }
+    ],
+    "reference-count": 7,
+    "publisher": "Springer Science and Business Media LLC",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          22
+        ]
+      ]
+    },
+    "DOI": "10.7759/cureus.18193",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2021-09-22T13:09:18Z",
+      "timestamp": 1632316158000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Urachal Abscess: A Rare Etiology of Acute Abdominal Pain in Adults"
+    ],
+    "prefix": "10.7759",
+    "author": [
+      {
+        "given": "Bashayer F",
+        "family": "Al Furaikh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Naif A",
+        "family": "Alzahrani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alhassan A",
+        "family": "Alghamdi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mashael Z",
+        "family": "AlBalawi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fares G",
+        "family": "Alghamdi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Turki A",
+        "family": "Alzahrani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mohammed S",
+        "family": "Alghamdi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mohamad I",
+        "family": "Alkhatib",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Malak A",
+        "family": "Alshammari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0733-8627(02)00080-9",
+        "article-title": "Pearls and pitfalls in the emergency department evaluation of abdominal pain",
+        "volume": "21",
+        "author": "Kamin RA",
+        "year": "2003",
+        "unstructured": "Kamin RA, Nowicki TA, Courtney DS, Powers RD. Pearls and pitfalls in the emergency department evaluation of abdominal pain. Emerg Med Clin North Am. 2003, 21:61-72. 10.1016/s0733-8627(02)00080-9",
+        "journal-title": "Emerg Med Clin North Am"
+      },
+      {
+        "key": "ref2",
+        "article-title": "A case report of urachal abscess: a rare differential in adult abdominal pain",
+        "volume": "69",
+        "author": "Walker C",
+        "year": "2010",
+        "unstructured": "Walker C. A case report of urachal abscess: a rare differential in adult abdominal pain. Hawaii Med J. 2010, 69:35-6.",
+        "journal-title": "Hawaii Med J"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7759/cureus.8220",
+        "article-title": "Acute presentation of urachal cyst: a case report",
+        "volume": "12",
+        "author": "Jayakumar S",
+        "year": "2020",
+        "unstructured": "Jayakumar S, Darlington D. Acute presentation of urachal cyst: a case report. Cureus. 2020, 12:e8220. 10.7759/cureus.8220",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijscr.2019.03.041",
+        "article-title": "Surgical management for an infected urachal cyst in an adult: Case report and literature review",
+        "volume": "57",
+        "author": "Elkbuli A",
+        "year": "2019",
+        "unstructured": "Elkbuli A, Kinslow K, Ehrhardt JD Jr, Hai S, McKenney M, Boneva D. Surgical management for an infected urachal cyst in an adult: Case report and literature review. Int J Surg Case Rep. 2019, 57:130-3. 10.1016/j.ijscr.2019.03.041",
+        "journal-title": "Int J Surg Case Rep"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiographics.21.2.g01mr02451",
+        "article-title": "Urachal remnant diseases: spectrum of CT and US findings",
+        "volume": "21",
+        "author": "Yu JS",
+        "year": "2001",
+        "unstructured": "Yu JS, Kim KW, Lee HJ, Lee YJ, Yoon CS, Kim MJ. Urachal remnant diseases: spectrum of CT and US findings. Radiographics. 2001, 21:451-61. 10.1148/radiographics.21.2.g01mr02451",
+        "journal-title": "Radiographics"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1752-1947-6-226",
+        "article-title": "Abscess of urachal remnants presenting with acute abdomen: a case series",
+        "volume": "6",
+        "author": "Tazi F",
+        "year": "2012",
+        "unstructured": "Tazi F, Ahsaini M, Khalouk A, Mellas S, Stuurman-Wieringa RE, Elfassi MJ, Farih MH. Abscess of urachal remnants presenting with acute abdomen: a case series. J Med Case Rep. 2012, 6:226. 10.1186/1752-1947-6-226",
+        "journal-title": "J Med Case Rep"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/rg.2016160062",
+        "article-title": "Imaging of the urachus: anomalies, complications, and mimics",
+        "volume": "36",
+        "author": "Parada Villavicencio C",
+        "year": "2016",
+        "unstructured": "Parada Villavicencio C, Adam SZ, Nikolaidis P, Yaghmai V, Miller FH. Imaging of the urachus: anomalies, complications, and mimics. Radiographics. 2016, 36:2049-63. 10.1148/rg.2016160062",
+        "journal-title": "Radiographics"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.7759/cureus.r83",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              25
+            ]
+          ],
+          "date-time": "2024-01-25T00:00:00Z",
+          "timestamp": 1706140800000
+        },
+        "record-id": "51304"
+      },
+      {
+        "DOI": "10.7759/cureus.x3",
+        "type": "expression_of_concern",
+        "label": "Expression of concern",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2022-04-07T00:00:00Z",
+          "timestamp": 1649289600000
+        },
+        "record-id": "51306"
+      },
+      {
+        "DOI": "10.7759/cureus.18193",
+        "type": "correction",
+        "label": "Correction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              24
+            ]
+          ],
+          "date-time": "2021-09-24T00:00:00Z",
+          "timestamp": 1632441600000
+        },
+        "record-id": "51305"
+      },
+      {
+        "DOI": "10.7759/cureus.c49",
+        "type": "correction",
+        "label": "Correction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              24
+            ]
+          ],
+          "date-time": "2021-09-24T00:00:00Z",
+          "timestamp": 1632441600000
+        },
+        "record-id": "51305"
+      }
+    ],
+    "container-title": [
+      "Cureus"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cureus.com/articles/71988-urachal-abscess-a-rare-etiology-of-acute-abdominal-pain-in-adults",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ],
+      "date-time": "2026-11-03T07:04:33Z",
+      "timestamp": 1793689473000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cureus.com/articles/71988-urachal-abscess-a-rare-etiology-of-acute-abdominal-pain-in-adults"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          22
+        ]
+      ]
+    },
+    "references-count": 7,
+    "URL": "https://doi.org/10.7759/cureus.18193",
+    "relation": {},
+    "ISSN": [
+      "2168-8184"
+    ],
+    "issn-type": [
+      {
+        "value": "2168-8184",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          22
+        ]
+      ]
+    }
+  }
+}

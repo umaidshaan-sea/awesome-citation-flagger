@@ -1,0 +1,960 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.jchemneu.2023.102252",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.jchemneu.2023.102252",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:05.023417+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T02:03:28Z",
+      "timestamp": 1767146608601,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1016/j.jchemneu.2023.102252",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2023-04-01T00:00:00Z",
+          "timestamp": 1680307200000
+        }
+      }
+    ],
+    "reference-count": 65,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2023-04-01T00:00:00Z",
+          "timestamp": 1680307200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2023-04-01T00:00:00Z",
+          "timestamp": 1680307200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100012533",
+        "name": "Minia University",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100012533",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Chemical Neuroanatomy"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jchemneu.2023.102252",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2023-02-15T02:50:28Z",
+      "timestamp": 1676429428000
+    },
+    "page": "102252",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "RETRACTED: Exercise ameliorates hippocampal damage induced by Wi-Fi radiation; a biochemical, histological, and immunohistochemical study"
+    ],
+    "prefix": "10.1016",
+    "volume": "129",
+    "author": [
+      {
+        "given": "Amany Osama",
+        "family": "Mohamed",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sara Mohamed Naguib Abdel",
+        "family": "Hafez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Randa Ahmed",
+        "family": "Ibrahim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rehab Ahmed",
+        "family": "Rifaai",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0178900",
+        "article-title": "Effects of acute physical exercise on oxidative stress and inflammatory status in young, sedentary obese subjects",
+        "volume": "12",
+        "author": "Accattato",
+        "year": "2017",
+        "journal-title": "PloS One"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/21688370.2020.1848212",
+        "article-title": "Cell-cell junctions: structure and regulation in physiology and pathology",
+        "volume": "9",
+        "author": "Adil",
+        "year": "2021",
+        "journal-title": "Tissue Barriers"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "230",
+        "DOI": "10.1016/j.jmau.2017.05.006",
+        "article-title": "Protective effects of melatonin and omega-3 on the hippocampus and the cerebellum of adult Wistar albino rats exposed to electromagnetic fields",
+        "volume": "5",
+        "author": "Altun",
+        "year": "2017",
+        "journal-title": "J. Microsc. Ultrastruct."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib4",
+        "first-page": "2",
+        "article-title": "A histological and functional study on hippocampal formation of normal and diabetic rats",
+        "author": "Amin",
+        "year": "2013",
+        "journal-title": "F1000Research"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1024",
+        "DOI": "10.1177/0748233720973143",
+        "article-title": "Prenatal and early postnatal exposure to radiofrequency waves (900 MHz) adversely affects passive avoidance learning and memory",
+        "volume": "36",
+        "author": "Azimzadeh",
+        "year": "2020",
+        "journal-title": "Toxicol. Ind. Health"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib6",
+        "first-page": "929",
+        "article-title": "1800MHz Radiofrequency electromagnetic radiation: does it affect heat shock genes expression levels in the rat brain?",
+        "volume": "9",
+        "author": "Badel Arslan",
+        "year": "2020",
+        "journal-title": "Medicine"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib7",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.11134/btp.2.2020.1",
+        "article-title": "In vitro and in vivo effects of radio-frequency electromagnetic fields",
+        "author": "Begimbetova",
+        "year": "2020",
+        "journal-title": "Eurasia J. Appl. Biotechnol."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.5505/ejm.2018.20982",
+        "article-title": "1800 MHz radio-frequency electromagnetic radiation induces oxidative stress in rat liver, kidney and brain tissues",
+        "volume": "23",
+        "author": "Berk\u00f6z",
+        "year": "2018",
+        "journal-title": "East. J. Med."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "573",
+        "DOI": "10.1182/blood.V21.5.573.573",
+        "article-title": "Erythrocyte glutathione reductase",
+        "volume": "21",
+        "author": "Beutler",
+        "year": "1963",
+        "journal-title": "Blood"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bouten, R.M., Young, E.F., Selwyn, R., Iacono, D., Rittase, W.B. & Day, R.M. 2021. Effects of radiation on endothelial barrier and vascular integrity.",
+        "DOI": "10.1016/B978-0-12-818561-2.00007-2"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib11",
+        "article-title": "Neuropeptide Y system mRNA expression changes in the hippocampus of a type I diabetes rat model",
+        "volume": "227",
+        "author": "Campos",
+        "year": "2020",
+        "journal-title": "Ann. Anat. -Anat. Anz."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib12",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1111/cpr.12781",
+        "article-title": "The role of astrocytes in oxidative stress of central nervous system: A mixed blessing",
+        "volume": "53",
+        "author": "Chen",
+        "year": "2020",
+        "journal-title": "Cell Prolif."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib13",
+        "first-page": "59",
+        "article-title": "Modulation of synaptic plasticity by short-term aerobic exercise in adult mice",
+        "volume": "332",
+        "author": "D\u2019arcangelo",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1016/j.ijdevneu.2018.07.009",
+        "article-title": "Physical activity as an option to reduce adverse effect of EMF exposure during pregnancy",
+        "volume": "71",
+        "author": "Dastamooz",
+        "year": "2018",
+        "journal-title": "Int. J. Dev. Neurosci."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "166",
+        "DOI": "10.1080/15368378.2020.1737811",
+        "article-title": "The different sources of electromagnetic fields: dangers are not limited to physical health",
+        "volume": "39",
+        "author": "Deruelle",
+        "year": "2020",
+        "journal-title": "Electromagn. Biol. Med."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1007/s12192-019-00988-y",
+        "article-title": "Impact of chronic exercise on counteracting chronic stress-induced functional and morphological pancreatic changes in male albino rats",
+        "volume": "24",
+        "author": "Elbassuoni",
+        "year": "2019",
+        "journal-title": "Cell Stress Chaperon-.-."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1016/j.physbeh.2018.12.002",
+        "article-title": "How does physical activity and different models of exercise training affect oxidative parameters and memory?",
+        "volume": "201",
+        "author": "Feter",
+        "year": "2019",
+        "journal-title": "Physiol. Behav."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib18",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1152/ajpregu.00154.2020",
+        "article-title": "Transcytosis within PVN capillaries-a mechanism determining both hypertension-induced blood-brain barrier dysfunction and exercise-induced correction",
+        "author": "Fragas",
+        "year": "2021",
+        "journal-title": "Am. J. Physiol. -Regul., Integr. Comp. Physiol."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib19",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3791/3564-v",
+        "article-title": "Whole animal perfusion fixation for rodents",
+        "author": "Gage",
+        "year": "2012",
+        "journal-title": "JoVE (J. Vis. Exp. )"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.3390/nu11010046",
+        "article-title": "Omega-3 polyunsaturated fatty acids: benefits and endpoints in sport",
+        "volume": "11",
+        "author": "Gammone",
+        "year": "2019",
+        "journal-title": "Nutrients"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib21",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/wsbm.1526",
+        "article-title": "Immunohistochemical evidence for adult human neurogenesis in health and disease",
+        "author": "Gault",
+        "year": "2021",
+        "journal-title": "WIREs Mech. Dis."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib22",
+        "first-page": "665",
+        "article-title": "The effects of electromagnetic radiation (2450 MHz wireless devices) on the heart and blood tissue: role of melatonin",
+        "volume": "117",
+        "author": "Gumral",
+        "year": "2016",
+        "journal-title": "Bratisl. Lek. Listy"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "4977",
+        "DOI": "10.3390/ijms21144977",
+        "article-title": "Modulation of microRNAs as a potential molecular mechanism involved in the beneficial actions of physical exercise in Alzheimer disease",
+        "volume": "21",
+        "author": "Improta-Caria",
+        "year": "2020",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib24",
+        "first-page": "2014",
+        "article-title": "The impacts of swimming exercise on hippocampal expression of neurotrophic factors in rats exposed to chronic unpredictable mild stress",
+        "author": "Jiang",
+        "year": "2014",
+        "journal-title": "Evid. -Based Complement. Altern. Med."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.4062/biomolther.2018.152",
+        "article-title": "Possible effects of radiofrequency electromagnetic field exposure on central nerve system",
+        "volume": "27",
+        "author": "Kim",
+        "year": "2019",
+        "journal-title": "Biomol. Ther."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1177/0748233717740066",
+        "article-title": "Exposure to 835 MHz radiofrequency electromagnetic field induces autophagy in hippocampus but not in brain stem of mice",
+        "volume": "34",
+        "author": "Kim",
+        "year": "2018",
+        "journal-title": "Toxicol. Ind. Health"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib27",
+        "article-title": "Acute-stress induces the structural plasticity in hippocampal neurons of 15 and 30-day-old chick, Gallus gallus domesticus",
+        "author": "Kumar",
+        "year": "2022",
+        "journal-title": "Ann. Anat. -Anat. Anz."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib28",
+        "first-page": "1",
+        "article-title": "Establishment of injury models in studies of biological effects induced by microwave radiation",
+        "volume": "8",
+        "author": "Lai",
+        "year": "2021",
+        "journal-title": "Mil. Med. Res."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "370",
+        "DOI": "10.12965/jer.1938274.137",
+        "article-title": "Preischemic treadmill exercise improves short-term memory by inhibiting hypoperfusion-induced disruption of blood-brain barrier after bilateral common carotid arteries occlusion",
+        "volume": "15",
+        "author": "Lee",
+        "year": "2019",
+        "journal-title": "J. Exerc. Rehabil."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "667",
+        "DOI": "10.1016/j.stemcr.2019.02.009",
+        "article-title": "Exercise-induced activated platelets increase adult hippocampal precursor proliferation and promote neuronal differentiation",
+        "volume": "12",
+        "author": "Leiter",
+        "year": "2019",
+        "journal-title": "Stem Cell Rep."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib31",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1128/mBio.02031-20",
+        "article-title": "Toxoplasma gondii Extends the Life Span of Infected Human Neutrophils by Inducing Cytosolic PCNA and Blocking Activation of Apoptotic Caspases",
+        "volume": "12",
+        "author": "Lima",
+        "year": "2021",
+        "journal-title": "Mbio"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu, W., Xue, X., Xia, J., Liu, J. & Qi, Z.J.J.O.A.D. 2018. Swimming exercise reverses CUMS-induced changes in depression-like behaviors and hippocampal plasticity-related proteins. 227, 126\u2013135.",
+        "DOI": "10.1016/j.jad.2017.10.019"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "185",
+        "DOI": "10.31661/jbpe.v8i2.900",
+        "article-title": "Effect of microwave wi-fi radiation at frequency of 2.4 GHz on epileptic behavior of rats",
+        "volume": "8",
+        "author": "Mahmoudi",
+        "year": "2018",
+        "journal-title": "J. Biomed. Phys. Eng."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1016/j.aanat.2017.11.002",
+        "article-title": "Effect of different resistance-training protocols on the extracellular matrix of the calcaneal tendon of rats",
+        "volume": "216",
+        "author": "Mazon",
+        "year": "2018",
+        "journal-title": "Ann. Anat. -Anat. Anz."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib35",
+        "series-title": "Factors Affecting Neurological Aging",
+        "article-title": "Changes in brain synapse\u2013related molecules with age",
+        "author": "Mizutani",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib36",
+        "first-page": "414",
+        "article-title": "Nitric oxide assay",
+        "volume": "86",
+        "author": "Montgomery",
+        "year": "1961",
+        "journal-title": "Analyst"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "220",
+        "DOI": "10.1016/j.etap.2018.01.009",
+        "article-title": "Radiofrequency electromagnetic radiation exposure effects on amygdala morphology, place preference behavior and brain caspase-3 activity in rats",
+        "volume": "58",
+        "author": "Narayanan",
+        "year": "2018",
+        "journal-title": "Environ. Toxicol. Pharmacol."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nizhelska, O., Marynchenko, L. & Piasetskyi, V. 2020. Biological Risks of Using Non-Thermal Non-Ionizing Electromagnetic Fields.",
+        "DOI": "10.20535/ibb.2020.4.2.202452"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nugud, A., Sandeep, D. & El-Serafi, A.T.J.J.O.A.R. 2018. Two faces of the coin: Minireview for dissecting the role of reactive oxygen species in stem cell potency and lineage commitment. 14, 73\u201379.",
+        "DOI": "10.1016/j.jare.2018.05.012"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1016/j.etap.2017.04.016",
+        "article-title": "Postnatal development and behavior effects of in-utero exposure of rats to radiofrequency waves emitted from conventional WiFi devices",
+        "volume": "52",
+        "author": "Othman",
+        "year": "2017",
+        "journal-title": "Environ. Toxicol. Pharmacol."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib41",
+        "first-page": "1",
+        "article-title": "Evidences of the (400 MHz\u20133 GHz) radiofrequency electromagnetic field influence on brain tumor induction",
+        "author": "Pareja-Pe\u00f1a",
+        "year": "2020",
+        "journal-title": "Int. J. Environ. Health Res."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "498",
+        "DOI": "10.3389/fnins.2018.00498",
+        "article-title": "Immune and neuroprotective effects of physical activity on the brain in depression",
+        "volume": "12",
+        "author": "Phillips",
+        "year": "2018",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib43",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.bbamem.2020.183279",
+        "article-title": "Molecular architecture and assembly of the tight junction backbone",
+        "volume": "1862",
+        "author": "Piontek",
+        "year": "2020",
+        "journal-title": "Biochim. Et. Biophys. Acta (BBA)-Biomembr."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib44",
+        "first-page": "1",
+        "article-title": "Medicinal plants in mitigating electromagnetic radiation-induced neuronal damage: a concise review",
+        "author": "Raghu",
+        "year": "2021",
+        "journal-title": "Electromagn. Biol. Med."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ramirez-Vazquez, R., Gonzalez-Rubio, J., Escobar, I., Suarez Rodriguez, C.D.P., Arribas, E.J.I.J.O.E.R. & Health, P. 2021. Personal Exposure Assessment to Wi-Fi Radiofrequency Electromagnetic Fields in Mexican Microenvironments. 18, 1857.",
+        "DOI": "10.3390/ijerph18041857"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib46",
+        "first-page": "12",
+        "article-title": "The neuroprotective effects of exercise on cognitive decline: a preventive approach to Alzheimer disease",
+        "author": "Rashid",
+        "year": "2020",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "3772",
+        "DOI": "10.3390/ijms22073772",
+        "article-title": "Manmade electromagnetic fields and oxidative stress\u2014biological effects and consequences for health",
+        "volume": "22",
+        "author": "Schuermann",
+        "year": "2021",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "1217",
+        "DOI": "10.13005/bpj/1751",
+        "article-title": "Role of designed bio-geometrical forms in antagonizing neurobehavioral burden of wi-fi radiation: evidence-based experimental study",
+        "volume": "12",
+        "author": "Sharaf",
+        "year": "2019",
+        "journal-title": "Biomed. Pharmacol. J."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib49",
+        "first-page": "1",
+        "article-title": "Oxidative damage in the liver and brain of the rats exposed to frequency-dependent radiofrequency electromagnetic exposure: Biochemical and histopathological evidence",
+        "author": "Sharma",
+        "year": "2021",
+        "journal-title": "Free Radic. Res."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib50",
+        "first-page": "51",
+        "article-title": "The impact of 950MHz electromagnetic radiation on the brain and liver of rats and the role of garlic treatment",
+        "volume": "32",
+        "author": "Shedid",
+        "year": "2019",
+        "journal-title": "Egypt. J. Radiat. Sci. Appl."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1180",
+        "DOI": "10.2174/1570159X18666200429004242",
+        "article-title": "MicroRNAs in the blood-brain barrier in hypoxic-ischemic brain injury",
+        "volume": "18",
+        "author": "Shen",
+        "year": "2020",
+        "journal-title": "Curr. Neuropharmacol."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1093/jrr/rrw085",
+        "article-title": "No adverse effects detected for simultaneous whole-body exposure to multiple-frequency radiofrequency electromagnetic fields for rats in the intrauterine and pre-and post-weaning periods",
+        "volume": "58",
+        "author": "Shirai",
+        "year": "2017",
+        "journal-title": "J. Radiat. Res."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1002/ijc.30432",
+        "article-title": "The prognostic impact of COX-2 expression in breast cancer depends on oral contraceptive history, preoperative NSAID use, and tumor size",
+        "volume": "140",
+        "author": "Simonsson",
+        "year": "2017",
+        "journal-title": "Int J. Cancer"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "19340",
+        "DOI": "10.1007/s11356-020-07916-z",
+        "article-title": "Effect of mobile phone radiation on oxidative stress, inflammatory response, and contextual fear memory in Wistar rat",
+        "volume": "27",
+        "author": "Singh",
+        "year": "2020",
+        "journal-title": "Environ. Sci. Pollut. Res. Int."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "292",
+        "DOI": "10.1080/08990220.2019.1689116",
+        "article-title": "The effect of Wi-Fi electromagnetic waves on neuronal response properties in rat barrel cortex",
+        "volume": "36",
+        "author": "Sistani",
+        "year": "2019",
+        "journal-title": "Somatosens. Mot. Res."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib56",
+        "series-title": "Neuroproteomics",
+        "article-title": "Dissection of rodent brain regions",
+        "author": "Spijker",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "1656",
+        "DOI": "10.3390/biom10121656",
+        "article-title": "Cx43 and the actin cytoskeleton: novel roles and implications for cell-cell junction-based barrier function regulation",
+        "volume": "10",
+        "author": "Strauss",
+        "year": "2020",
+        "journal-title": "Biomolecules"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "18689",
+        "DOI": "10.18632/aging.203313",
+        "article-title": "Catalpol enhanced physical exercise-mediated brain functional improvement in post-traumatic stress disorder model via promoting adult hippocampal neurogenesis",
+        "volume": "13",
+        "author": "Sun",
+        "year": "2021",
+        "journal-title": "Aging (Albany NY)"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib59",
+        "series-title": "Bancroft's Theory and Practice of Histological Techniques E-Book",
+        "author": "Suvarna",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "13297",
+        "DOI": "10.18632/aging.103434",
+        "article-title": "Cytoplasmic PCNA is located in the actin belt and involved in osteoclast differentiation",
+        "volume": "12",
+        "author": "Tang",
+        "year": "2020",
+        "journal-title": "Aging (Albany NY)"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1249/JES.0000000000000161",
+        "article-title": "Protective effects of exercise on cognition and brain health in older adults",
+        "volume": "46",
+        "author": "Tyndall",
+        "year": "2018",
+        "journal-title": "Exerc. Sport Sci. Rev."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.3233/BPL-180069",
+        "article-title": "The neuroprotective effects of exercise: maintaining a healthy brain throughout aging",
+        "volume": "4",
+        "author": "Vecchio",
+        "year": "2018",
+        "journal-title": "Brain Plast."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib63",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Weil, M.-T., Ruhwedel, T., Meschkat, M., Sadowski, B. & M\u00f6bius, W. 2019. Transmission electron microscopy of oligodendrocytes and myelin. Oligodendrocytes: Methods and protocols.",
+        "DOI": "10.1007/978-1-4939-9072-6_20"
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib64",
+        "doi-asserted-by": "crossref",
+        "first-page": "470",
+        "DOI": "10.3389/fnins.2019.00470",
+        "article-title": "Effects of maternal voluntary wheel running during pregnancy on adult hippocampal neurogenesis, temporal order memory, and depression-like behavior in adult female and male offspring",
+        "volume": "13",
+        "author": "Yau",
+        "year": "2019",
+        "journal-title": "Front. Neurosci."
+      },
+      {
+        "key": "10.1016/j.jchemneu.2023.102252_bib65",
+        "first-page": "1",
+        "article-title": "Research progress of mechanisms for tight junction damage on blood\u2013brain barrier inflammation",
+        "author": "Zhao",
+        "year": "2020",
+        "journal-title": "Arch. Physiol. Biochem."
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.jchemneu.2024.102433",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              16
+            ]
+          ],
+          "date-time": "2024-05-16T00:00:00Z",
+          "timestamp": 1715817600000
+        },
+        "record-id": "53577"
+      },
+      {
+        "DOI": "10.1016/j.jchemneu.2024.102433",
+        "type": "erratum",
+        "label": "Erratum",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        }
+      },
+      {
+        "DOI": "10.1016/j.jchemneu.2023.102252",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2023-04-01T00:00:00Z",
+          "timestamp": 1680307200000
+        }
+      }
+    ],
+    "container-title": [
+      "Journal of Chemical Neuroanatomy"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0891061823000224?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0891061823000224?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2024-05-14T11:35:39Z",
+      "timestamp": 1715686539000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0891061823000224"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "references-count": 65,
+    "alternative-id": [
+      "S0891061823000224"
+    ],
+    "URL": "https://doi.org/10.1016/j.jchemneu.2023.102252",
+    "relation": {},
+    "ISSN": [
+      "0891-0618"
+    ],
+    "issn-type": [
+      {
+        "value": "0891-0618",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "RETRACTED: Exercise ameliorates hippocampal damage induced by Wi-Fi radiation; a biochemical, histological, and immunohistochemical study",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Chemical Neuroanatomy",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jchemneu.2023.102252",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2023 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "102252"
+  }
+}

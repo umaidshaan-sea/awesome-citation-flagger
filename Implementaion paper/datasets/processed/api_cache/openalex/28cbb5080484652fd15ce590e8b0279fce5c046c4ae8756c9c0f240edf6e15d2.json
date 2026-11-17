@@ -1,0 +1,739 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.jpain.2016.01.417",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.jpain.2016.01.417",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:59.781320+00:00",
+  "record": {
+    "id": "https://openalex.org/W2313978815",
+    "doi": "https://doi.org/10.1016/j.jpain.2016.01.417",
+    "title": "WITHDRAWN: (440) Opioid-Induced Nausea and Vomiting (OINV) in Post-Operative Patients: A Comparison of CL-108 to Hydrocodone 7.5 mg/Acetaminophen 325 mg",
+    "display_name": "WITHDRAWN: (440) Opioid-Induced Nausea and Vomiting (OINV) in Post-Operative Patients: A Comparison of CL-108 to Hydrocodone 7.5 mg/Acetaminophen 325 mg",
+    "publication_year": 2016,
+    "publication_date": "2016-03-24",
+    "ids": {
+      "openalex": "https://openalex.org/W2313978815",
+      "doi": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "mag": "2313978815",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/27105852"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.jpain.2016.01.417",
+      "doi": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "pdf_url": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "source": {
+        "id": "https://openalex.org/S194302669",
+        "display_name": "Journal of Pain",
+        "issn_l": "1526-5900",
+        "issn": [
+          "1526-5900",
+          "1528-8447"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-c",
+          "doyens",
+          "jufo-2",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Journal of Pain",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "retraction",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": null,
+          "display_name": "Stephen Richardson",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Stephen Richardson",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5017699571",
+          "display_name": "Kyle Patrick",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Kyle Patrick",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5111321215",
+          "display_name": "Stephen Daniels",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Stephen Daniels",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5088915594",
+          "display_name": "Steven Royall",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Steven Royall",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5108391604",
+          "display_name": "E. Schachtel",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79576946",
+            "display_name": "University of Pennsylvania",
+            "ror": "https://ror.org/00b30xv10",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79576946"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Emily Schachtel",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL",
+          "University of Pennsylvania School of Dental Medicine, Philadelphia, PA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "University of Pennsylvania School of Dental Medicine, Philadelphia, PA",
+            "institution_ids": [
+              "https://openalex.org/I79576946"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100389684",
+          "display_name": "Bing Zhang",
+          "orcid": "https://orcid.org/0000-0002-3377-0963",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-3377-0963"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Bing Zhang",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5022985917",
+          "display_name": "Mark Marino",
+          "orcid": "https://orcid.org/0009-0009-4618-3838",
+          "observed_orcids": [
+            "https://orcid.org/0009-0009-4618-3838"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79576946",
+            "display_name": "University of Pennsylvania",
+            "ror": "https://ror.org/00b30xv10",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79576946"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mark Marino",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL",
+          "University of Pennsylvania School of Dental Medicine, Philadelphia, PA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "University of Pennsylvania School of Dental Medicine, Philadelphia, PA",
+            "institution_ids": [
+              "https://openalex.org/I79576946"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5044680942",
+          "display_name": "Bernard P. Schachtel",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79576946",
+            "display_name": "University of Pennsylvania",
+            "ror": "https://ror.org/00b30xv10",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79576946"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bernard Schachtel",
+        "raw_affiliation_strings": [
+          "Charleston Laboratories, Jupiter, FL",
+          "University of Pennsylvania School of Dental Medicine, Philadelphia, PA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Charleston Laboratories, Jupiter, FL",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "University of Pennsylvania School of Dental Medicine, Philadelphia, PA",
+            "institution_ids": [
+              "https://openalex.org/I79576946"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": {
+      "value": 4180,
+      "currency": "USD",
+      "value_usd": 4180
+    },
+    "apc_paid": null,
+    "fwci": null,
+    "has_fulltext": true,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": null,
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "17",
+      "issue": "4",
+      "first_page": "S84",
+      "last_page": "S84"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11785",
+      "display_name": "Nausea and vomiting management",
+      "score": 0.9965999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11785",
+        "display_name": "Nausea and vomiting management",
+        "score": 0.9965999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2746",
+          "display_name": "Surgery"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10189",
+        "display_name": "Anesthesia and Pain Management",
+        "score": 0.002400000113993883,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2746",
+          "display_name": "Surgery"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11199",
+        "display_name": "Pain Management and Opioid Use",
+        "score": 0.0006000000284984708,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2703",
+          "display_name": "Anesthesiology and Pain Medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/opioid-induced-nausea-and-vomiting",
+        "display_name": "opioid-induced nausea and vomiting",
+        "score": 0.996999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/hydrocodone",
+        "display_name": "hydrocodone",
+        "score": 0.7080000042915344
+      },
+      {
+        "id": "https://openalex.org/keywords/paracetamol",
+        "display_name": "paracetamol",
+        "score": 0.8560000061988831
+      },
+      {
+        "id": "https://openalex.org/keywords/postoperative-nausea-and-vomiting",
+        "display_name": "postoperative nausea and vomiting",
+        "score": 0.7599999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/antiemetic-use",
+        "display_name": "antiemetic use",
+        "score": 0.7549999952316284
+      },
+      {
+        "id": "https://openalex.org/keywords/opioid-requirement",
+        "display_name": "opioid requirement",
+        "score": 0.6309999823570251
+      },
+      {
+        "id": "https://openalex.org/keywords/liver-resection",
+        "display_name": "hepatectomy",
+        "score": 0.9409999847412109
+      },
+      {
+        "id": "https://openalex.org/keywords/pancreaticoduodenectomy",
+        "display_name": "pancreaticoduodenectomy",
+        "score": 0.9380000233650208
+      },
+      {
+        "id": "https://openalex.org/keywords/neuraxial-anesthesia",
+        "display_name": "neuraxial anesthesia",
+        "score": 0.7720000147819519
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776389719",
+        "wikidata": "https://www.wikidata.org/wiki/Q411441",
+        "display_name": "Hydrocodone",
+        "level": 5,
+        "score": 0.9470670223236084
+      },
+      {
+        "id": "https://openalex.org/C2780580376",
+        "wikidata": "https://www.wikidata.org/wiki/Q186889",
+        "display_name": "Nausea",
+        "level": 2,
+        "score": 0.7467779517173767
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.708728015422821
+      },
+      {
+        "id": "https://openalex.org/C2780852908",
+        "wikidata": "https://www.wikidata.org/wiki/Q127076",
+        "display_name": "Vomiting",
+        "level": 2,
+        "score": 0.6065669655799866
+      },
+      {
+        "id": "https://openalex.org/C2778722691",
+        "wikidata": "https://www.wikidata.org/wiki/Q57055",
+        "display_name": "Acetaminophen",
+        "level": 2,
+        "score": 0.6056168079376221
+      },
+      {
+        "id": "https://openalex.org/C126965237",
+        "wikidata": "https://www.wikidata.org/wiki/Q816335",
+        "display_name": "Accidental",
+        "level": 2,
+        "score": 0.5854271054267883
+      },
+      {
+        "id": "https://openalex.org/C42219234",
+        "wikidata": "https://www.wikidata.org/wiki/Q131130",
+        "display_name": "Anesthesia",
+        "level": 1,
+        "score": 0.5251024961471558
+      },
+      {
+        "id": "https://openalex.org/C2781063702",
+        "wikidata": "https://www.wikidata.org/wiki/Q427523",
+        "display_name": "Opioid",
+        "level": 3,
+        "score": 0.45212626457214355
+      },
+      {
+        "id": "https://openalex.org/C61434518",
+        "wikidata": "https://www.wikidata.org/wiki/Q932510",
+        "display_name": "General surgery",
+        "level": 1,
+        "score": 0.32181936502456665
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.17435908317565918
+      },
+      {
+        "id": "https://openalex.org/C2776029756",
+        "wikidata": "https://www.wikidata.org/wiki/Q407535",
+        "display_name": "Oxycodone",
+        "level": 4,
+        "score": 0.0882091224193573
+      },
+      {
+        "id": "https://openalex.org/C170493617",
+        "wikidata": "https://www.wikidata.org/wiki/Q208467",
+        "display_name": "Receptor",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C24890656",
+        "wikidata": "https://www.wikidata.org/wiki/Q82811",
+        "display_name": "Acoustics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.jpain.2016.01.417",
+        "doi": "https://doi.org/10.1016/j.jpain.2016.01.417",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jpain.2016.01.417",
+        "pdf_url": "https://doi.org/10.1016/j.jpain.2016.01.417",
+        "source": {
+          "id": "https://openalex.org/S194302669",
+          "display_name": "Journal of Pain",
+          "issn_l": "1526-5900",
+          "issn": [
+            "1526-5900",
+            "1528-8447"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "doyens",
+            "jufo-2",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Journal of Pain",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:27105852",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/27105852",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The journal of pain",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.jpain.2016.01.417",
+      "doi": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "pdf_url": "https://doi.org/10.1016/j.jpain.2016.01.417",
+      "source": {
+        "id": "https://openalex.org/S194302669",
+        "display_name": "Journal of Pain",
+        "issn_l": "1526-5900",
+        "issn": [
+          "1526-5900",
+          "1528-8447"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-c",
+          "doyens",
+          "jufo-2",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Journal of Pain",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "display_name": "Good health and well-being",
+        "score": 1.0
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2313978815.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2313978815.grobid-xml"
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2330992375",
+      "https://openalex.org/W4255269616",
+      "https://openalex.org/W2508184462",
+      "https://openalex.org/W4249545435",
+      "https://openalex.org/W2910604982",
+      "https://openalex.org/W3205438168",
+      "https://openalex.org/W2080551366",
+      "https://openalex.org/W2886179772",
+      "https://openalex.org/W3208934745",
+      "https://openalex.org/W7029103321"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2026-10-02T10:15:12.560889",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pone.0272213",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0272213",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:45.670518+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T11:26:40Z",
+      "timestamp": 1767180400717,
+      "version": "build-2238731810"
+    },
+    "reference-count": 23,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "71872034"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "71872034"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "12026239"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "12026239"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Scientific Research Project of Liaoning Province",
+        "award": [
+          "LN2020J35"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "LN2020J35"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Project of Dongbei University of Finance and Economics",
+        "award": [
+          "DUFE2020Y22"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DUFE2020Y22"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "abstract": "<jats:p>In this paper, a novel early warning system that has usually been applied to predict the financial stress events is established to predict the likelihood of housing price crises in China. To achieve this goal, a signal extraction approach is used to monitor the evolution of a number of economic indicators that tend to exhibit the abnormal behaviors. 13 economic variables were selected as the individual indicators, and constructed as the four comprehensive indicators. Our empirical work shows that the early warning system for urban housing price crises is suitable for China\u2019s four province-level municipalities. The in-sample forecasting results indicate the reliability of the early warning system for urban housing price crises. By studying the out-of-sample forecasting results, the likelihood of housing price crises for the four cities can be effectively predicted. We construct a novel weighted average comprehensive indicator, which performs better than the three others in terms of overall performance across all of the criteria considered in. It is shown that the extended system is more flexible in decision making than the traditional early warning system.</jats:p>",
+    "DOI": "10.1371/journal.pone.0272213",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2022-08-01T14:05:53Z",
+      "timestamp": 1659362753000
+    },
+    "page": "e0272213",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Construct comprehensive indicators through a signal extraction approach for predicting housing price crises"
+    ],
+    "prefix": "10.1371",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Yan",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yuanting",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Zhengke",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tom",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "pone.0272213.ref001",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.jfs.2007.12.004",
+        "article-title": "Comparing early warning systems for banking crises",
+        "volume": "4",
+        "author": "E. P. Davis",
+        "year": "2008",
+        "journal-title": "Journal of Financial stability"
+      },
+      {
+        "key": "pone.0272213.ref002",
+        "first-page": "1",
+        "article-title": "Early warning indicators for asset price booms",
+        "volume": "3",
+        "author": "D. Gerdesmeier",
+        "year": "2011",
+        "journal-title": "Review of Economics and Finance"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0272213.ref003",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1080/10835547.1997.12090911",
+        "article-title": "The long cycle in real estate",
+        "volume": "14",
+        "author": "R. Kaiser",
+        "year": "1997",
+        "journal-title": "Journal of Real Estate Research"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0272213.ref004",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1016/j.autcon.2004.08.015",
+        "article-title": "A system for early-warning and forecasting of real estate development",
+        "volume": "14",
+        "author": "F. Huang",
+        "year": "2005",
+        "journal-title": "Automation in construction"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0272213.ref005",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1016/j.jhe.2011.04.001",
+        "article-title": "Booms and busts in housing markets: Determinants and implications",
+        "volume": "20",
+        "author": "L. Agnello",
+        "year": "2011",
+        "journal-title": "Journal of Housing Economics"
+      },
+      {
+        "key": "pone.0272213.ref006",
+        "unstructured": "Bauer, G. (2014). International house price cycles, monetary policy and risk premiums (No. 2014\u201354). Bank of Canada."
+      },
+      {
+        "issue": "1",
+        "key": "pone.0272213.ref007",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2307/3867328",
+        "article-title": "Leading indicators of currency crises",
+        "volume": "45",
+        "author": "G. Kaminsky",
+        "year": "1998",
+        "journal-title": "Staff Papers"
+      },
+      {
+        "key": "pone.0272213.ref008",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kaminsky, G. L. (1999). Currency and banking crises: the early warnings of distress. International Monetary Fund.",
+        "DOI": "10.2139/ssrn.880833"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0272213.ref009",
+        "first-page": "539",
+        "article-title": "Housing market early warning system: the case of Korea",
+        "volume": "56",
+        "author": "S. H. Suh",
+        "year": "2011",
+        "journal-title": "Eur. J. Sci. Res"
+      },
+      {
+        "key": "pone.0272213.ref010",
+        "doi-asserted-by": "crossref",
+        "first-page": "52",
+        "DOI": "10.1016/j.ribaf.2015.09.018",
+        "article-title": "How strong are the linkages between real estate and other sectors in China?",
+        "volume": "36",
+        "author": "S. Chan",
+        "year": "2016",
+        "journal-title": "Research in International Business and Finance"
+      },
+      {
+        "key": "pone.0272213.ref011",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1016/j.jfs.2014.08.005",
+        "article-title": "Predicting financial stress events: A signal extraction approach",
+        "volume": "14",
+        "author": "I. Christensen",
+        "year": "2014",
+        "journal-title": "Journal of Financial Stability"
+      },
+      {
+        "key": "pone.0272213.ref012",
+        "first-page": "19",
+        "article-title": "Construction of the early warning system for currency crises",
+        "volume": "5",
+        "author": "L. Liu",
+        "year": "2002",
+        "journal-title": "Economic Science"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0272213.ref013",
+        "first-page": "82",
+        "article-title": "Building an early warning system for China\u2019s currency crises: A study based on klr method",
+        "author": "T. Jiang",
+        "year": "2006",
+        "journal-title": "Taxation and Economy"
+      },
+      {
+        "issue": "11",
+        "key": "pone.0272213.ref014",
+        "first-page": "125",
+        "article-title": "Research based on an improved klr signal analysis method",
+        "author": "D Xu",
+        "year": "2007",
+        "journal-title": "The Journal of Quantitative & Technical Economics"
+      },
+      {
+        "issue": "5",
+        "key": "pone.0272213.ref015",
+        "first-page": "9",
+        "article-title": "An empirical research on the early warning for China\u2019s currency crises",
+        "author": "W Zhong",
+        "year": "2007",
+        "journal-title": "Wuhan Finance"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0272213.ref016",
+        "first-page": "16",
+        "article-title": "Capital market system risk assessment model and its empirical applications",
+        "author": "Y Wen",
+        "year": "2010",
+        "journal-title": "Financial Theory & Practice"
+      },
+      {
+        "issue": "005",
+        "key": "pone.0272213.ref017",
+        "first-page": "81",
+        "article-title": "Research on the early warning for systemic risks of China\u2019s stock market based on klr model",
+        "volume": "000",
+        "author": "J Xiao",
+        "year": "2013",
+        "journal-title": "Shanghai Finance"
+      },
+      {
+        "key": "pone.0272213.ref018",
+        "unstructured": "Hu J. (2004). Research on the early warning system for real estate markets. PhD thesis, Zhejiang University."
+      },
+      {
+        "issue": "8",
+        "key": "pone.0272213.ref019",
+        "first-page": "92",
+        "article-title": "The early warning mechanism of real estate crises: A study based on KLR signal method",
+        "author": "Y. Liu",
+        "year": "2009",
+        "journal-title": "Economic Research Guide"
+      },
+      {
+        "key": "pone.0272213.ref020",
+        "unstructured": "Li Q. (2012). Research on the early warning system for China\u2019s real estate market. PhD thesis, Chinese Academy of Social Sciences."
+      },
+      {
+        "key": "pone.0272213.ref021",
+        "unstructured": "Xie Z. (2012). Research on financial risks evaluation and early warning for China: based on an improved klr model. PhD thesis, Nanjing University of Finance and Economics."
+      },
+      {
+        "issue": "3",
+        "key": "pone.0272213.ref022",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.jfs.2006.06.002",
+        "article-title": "Measuring financial stress in a developed country: An application to Canada",
+        "volume": "2",
+        "author": "M. Illing",
+        "year": "2006",
+        "journal-title": "Journal of Financial Stability"
+      },
+      {
+        "key": "pone.0272213.ref023",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cardarelli, R., Elekdag, S. A., & Lall, S. (2009). Financial stress, downturns, and recoveries. Downturns, and Recoveries (May 2009).",
+        "DOI": "10.2139/ssrn.1405586"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1371/journal.pone.0282628",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2023-03-01T00:00:00Z",
+          "timestamp": 1677628800000
+        },
+        "record-id": "43039"
+      },
+      {
+        "DOI": "10.1371/journal.pone.0282628",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2023-03-01T00:00:00Z",
+          "timestamp": 1677628800000
+        }
+      }
+    ],
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0272213",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2022-08-01T14:06:38Z",
+      "timestamp": 1659362798000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0272213"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Steven",
+        "family": "Lee",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          1
+        ]
+      ]
+    },
+    "references-count": 23,
+    "journal-issue": {
+      "issue": "8",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0272213",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          1
+        ]
+      ]
+    }
+  }
+}

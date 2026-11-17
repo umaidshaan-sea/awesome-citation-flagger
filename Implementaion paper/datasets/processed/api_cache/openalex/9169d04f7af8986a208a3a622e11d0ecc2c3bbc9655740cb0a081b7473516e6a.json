@@ -1,0 +1,1147 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1073/pnas.0509351102",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1073%2Fpnas.0509351102",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:46.652753+00:00",
+  "record": {
+    "id": "https://openalex.org/W2111670885",
+    "doi": "https://doi.org/10.1073/pnas.0509351102",
+    "title": "RETRACTED: Packing defects as selectivity switches for drug-based protein inhibitors",
+    "display_name": "RETRACTED: Packing defects as selectivity switches for drug-based protein inhibitors",
+    "publication_year": 2005,
+    "publication_date": "2005-12-30",
+    "ids": {
+      "openalex": "https://openalex.org/W2111670885",
+      "doi": "https://doi.org/10.1073/pnas.0509351102",
+      "mag": "2111670885",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/16387853",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/1326172"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1073/pnas.0509351102",
+      "doi": "https://doi.org/10.1073/pnas.0509351102",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1073/pnas.0509351102",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S125754415",
+        "display_name": "Proceedings of the National Academy of Sciences",
+        "issn_l": "0027-8424",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "doyens",
+          "erih-plus",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320052",
+        "host_organization_name": "National Academy of Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320052"
+        ],
+        "host_organization_lineage_names": [
+          "National Academy of Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1326172",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5003210852",
+          "display_name": "Ariel Fern\u00e1ndez",
+          "orcid": "https://orcid.org/0000-0002-5102-4294",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-5102-4294"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I40347166",
+            "display_name": "University of Chicago",
+            "ror": "https://ror.org/024mw5h28",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I40347166"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4394709130",
+            "display_name": "Indiana University School of Medicine",
+            "ror": "https://ror.org/02ets8c94",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4394709130",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I74775410",
+            "display_name": "Rice University",
+            "ror": "https://ror.org/008zs3103",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74775410"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ariel Fern\u00e1ndez",
+        "raw_affiliation_strings": [
+          "Department of Bioengineering, Rice University, Houston, TX 77005; Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, Indianapolis, IN 46202; and Departments of Computer Science, Mathematics, and Chemistry and Institute for Biophysical Dynamics, University of Chicago, Chicago, IL 60637"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Bioengineering, Rice University, Houston, TX 77005; Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, Indianapolis, IN 46202; and Departments of Computer Science, Mathematics, and Chemistry and Institute for Biophysical Dynamics, University of Chicago, Chicago, IL 60637",
+            "institution_ids": [
+              "https://openalex.org/I40347166",
+              "https://openalex.org/I4394709130",
+              "https://openalex.org/I74775410"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5109162822",
+          "display_name": "Ridgway Scott",
+          "orcid": "https://orcid.org/0000-0002-7885-7106",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7885-7106"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I40347166",
+            "display_name": "University of Chicago",
+            "ror": "https://ror.org/024mw5h28",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I40347166"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4394709130",
+            "display_name": "Indiana University School of Medicine",
+            "ror": "https://ror.org/02ets8c94",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4394709130",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I74775410",
+            "display_name": "Rice University",
+            "ror": "https://ror.org/008zs3103",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74775410"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ridgway Scott",
+        "raw_affiliation_strings": [
+          "Department of Bioengineering, Rice University, Houston, TX 77005; Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, Indianapolis, IN 46202; and Departments of Computer Science, Mathematics, and Chemistry and Institute for Biophysical Dynamics, University of Chicago, Chicago, IL 60637"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Bioengineering, Rice University, Houston, TX 77005; Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, Indianapolis, IN 46202; and Departments of Computer Science, Mathematics, and Chemistry and Institute for Biophysical Dynamics, University of Chicago, Chicago, IL 60637",
+            "institution_ids": [
+              "https://openalex.org/I40347166",
+              "https://openalex.org/I4394709130",
+              "https://openalex.org/I74775410"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5064900925",
+          "display_name": "R. Stephen Berry",
+          "orcid": "https://orcid.org/0000-0002-4272-9858",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4272-9858",
+            "https://orcid.org/0000-0003-0739-0657"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I40347166",
+            "display_name": "University of Chicago",
+            "ror": "https://ror.org/024mw5h28",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I40347166"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4394709130",
+            "display_name": "Indiana University School of Medicine",
+            "ror": "https://ror.org/02ets8c94",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4394709130",
+              "https://openalex.org/I592451"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I74775410",
+            "display_name": "Rice University",
+            "ror": "https://ror.org/008zs3103",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74775410"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "R. Stephen Berry",
+        "raw_affiliation_strings": [
+          "Department of Bioengineering, Rice University, Houston, TX 77005; Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, Indianapolis, IN 46202; and Departments of Computer Science, Mathematics, and Chemistry and Institute for Biophysical Dynamics, University of Chicago, Chicago, IL 60637"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Bioengineering, Rice University, Houston, TX 77005; Department of Biochemistry and Molecular Biology, Indiana University School of Medicine, Indianapolis, IN 46202; and Departments of Computer Science, Mathematics, and Chemistry and Institute for Biophysical Dynamics, University of Chicago, Chicago, IL 60637",
+            "institution_ids": [
+              "https://openalex.org/I40347166",
+              "https://openalex.org/I4394709130",
+              "https://openalex.org/I74775410"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.3173,
+    "has_fulltext": false,
+    "cited_by_count": 5,
+    "citation_normalized_percentile": {
+      "value": 0.64506374,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "103",
+      "issue": "2",
+      "first_page": "323",
+      "last_page": "328"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10211",
+      "display_name": "Computational Drug Discovery Methods",
+      "score": 0.9063000082969666,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10211",
+        "display_name": "Computational Drug Discovery Methods",
+        "score": 0.9063000082969666,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1703",
+          "display_name": "Computational Theory and Mathematics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10044",
+        "display_name": "Protein Structure and Dynamics",
+        "score": 0.08169999718666077,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11162",
+        "display_name": "Enzyme Structure and Function",
+        "score": 0.006300000008195639,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/packing-defects",
+        "display_name": "packing defects",
+        "score": 0.8429999947547913
+      },
+      {
+        "id": "https://openalex.org/keywords/kinase-inhibitors",
+        "display_name": "kinase inhibitors",
+        "score": 0.7879999876022339
+      },
+      {
+        "id": "https://openalex.org/keywords/homologous-proteins",
+        "display_name": "homologous proteins",
+        "score": 0.5910000205039978
+      },
+      {
+        "id": "https://openalex.org/keywords/protein-structure-conservation",
+        "display_name": "protein structure conservation",
+        "score": 0.6349999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/kinase-inhibitor-selectivity",
+        "display_name": "kinase selectivity",
+        "score": 0.44200000166893005
+      },
+      {
+        "id": "https://openalex.org/keywords/retracted-article",
+        "display_name": "retracted article",
+        "score": 0.47699999809265137
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C54174078",
+        "wikidata": "https://www.wikidata.org/wiki/Q3197188",
+        "display_name": "Kinome",
+        "level": 3,
+        "score": 0.8375986814498901
+      },
+      {
+        "id": "https://openalex.org/C70721500",
+        "wikidata": "https://www.wikidata.org/wiki/Q177005",
+        "display_name": "Computational biology",
+        "level": 1,
+        "score": 0.5561373233795166
+      },
+      {
+        "id": "https://openalex.org/C2780035454",
+        "wikidata": "https://www.wikidata.org/wiki/Q8386",
+        "display_name": "Drug",
+        "level": 2,
+        "score": 0.5433836579322815
+      },
+      {
+        "id": "https://openalex.org/C118792377",
+        "wikidata": "https://www.wikidata.org/wiki/Q108584245",
+        "display_name": "Selectivity",
+        "level": 3,
+        "score": 0.5141094326972961
+      },
+      {
+        "id": "https://openalex.org/C74187038",
+        "wikidata": "https://www.wikidata.org/wiki/Q1418791",
+        "display_name": "Drug discovery",
+        "level": 2,
+        "score": 0.48040345311164856
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.43747544288635254
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.43156522512435913
+      },
+      {
+        "id": "https://openalex.org/C184235292",
+        "wikidata": "https://www.wikidata.org/wiki/Q421851",
+        "display_name": "Kinase",
+        "level": 2,
+        "score": 0.34956681728363037
+      },
+      {
+        "id": "https://openalex.org/C12554922",
+        "wikidata": "https://www.wikidata.org/wiki/Q7100",
+        "display_name": "Biophysics",
+        "level": 1,
+        "score": 0.3407416045665741
+      },
+      {
+        "id": "https://openalex.org/C54355233",
+        "wikidata": "https://www.wikidata.org/wiki/Q7162",
+        "display_name": "Genetics",
+        "level": 1,
+        "score": 0.3227277398109436
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.3037947416305542
+      },
+      {
+        "id": "https://openalex.org/C98274493",
+        "wikidata": "https://www.wikidata.org/wiki/Q128406",
+        "display_name": "Pharmacology",
+        "level": 1,
+        "score": 0.10458740592002869
+      },
+      {
+        "id": "https://openalex.org/C161790260",
+        "wikidata": "https://www.wikidata.org/wiki/Q82264",
+        "display_name": "Catalysis",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D008958",
+        "descriptor_name": "Models, Molecular",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011506",
+        "descriptor_name": "Proteins",
+        "qualifier_ui": "Q000037",
+        "qualifier_name": "antagonists & inhibitors",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D011506",
+        "descriptor_name": "Proteins",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D012680",
+        "descriptor_name": "Sensitivity and Specificity",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015195",
+        "descriptor_name": "Drug Design",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D017434",
+        "descriptor_name": "Protein Structure, Tertiary",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1073/pnas.0509351102",
+        "doi": "https://doi.org/10.1073/pnas.0509351102",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1073/pnas.0509351102",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S125754415",
+          "display_name": "Proceedings of the National Academy of Sciences",
+          "issn_l": "0027-8424",
+          "issn": [
+            "0027-8424",
+            "1091-6490"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "doyens",
+            "erih-plus",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320052",
+          "host_organization_name": "National Academy of Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320052"
+          ],
+          "host_organization_lineage_names": [
+            "National Academy of Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the National Academy of Sciences",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:1326172",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1326172",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proc Natl Acad Sci U S A",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:16387853",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/16387853",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:pubmedcentral.nih.gov:1326172",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1326172",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proc Natl Acad Sci U S A",
+      "raw_type": "Text"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G3438324361",
+        "display_name": null,
+        "funder_award_id": "R01-GM072614",
+        "funder_id": "https://openalex.org/F4320337354",
+        "funder_display_name": "National Institute of General Medical Sciences"
+      },
+      {
+        "id": "https://openalex.org/G3734373982",
+        "display_name": null,
+        "funder_award_id": "1R01 GM072614-01A1",
+        "funder_id": "https://openalex.org/F4320337354",
+        "funder_display_name": "National Institute of General Medical Sciences"
+      },
+      {
+        "id": "https://openalex.org/G3861298187",
+        "display_name": "Protein Packing Defects as Functional Markers and Drug Targets",
+        "funder_award_id": "5r01gm072614-04",
+        "funder_id": "https://openalex.org/F4320332161",
+        "funder_display_name": "National Institutes of Health"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320332161",
+        "display_name": "National Institutes of Health",
+        "ror": "https://ror.org/01cwqze88"
+      },
+      {
+        "id": "https://openalex.org/F4320337354",
+        "display_name": "National Institute of General Medical Sciences",
+        "ror": "https://ror.org/04q48ey07"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 44,
+    "referenced_works": [
+      "https://openalex.org/W583301826",
+      "https://openalex.org/W1481607975",
+      "https://openalex.org/W1486706966",
+      "https://openalex.org/W1983102499",
+      "https://openalex.org/W1991004291",
+      "https://openalex.org/W1996505651",
+      "https://openalex.org/W2002032242",
+      "https://openalex.org/W2004360551",
+      "https://openalex.org/W2010273719",
+      "https://openalex.org/W2014582878",
+      "https://openalex.org/W2015954194",
+      "https://openalex.org/W2018957987",
+      "https://openalex.org/W2027835235",
+      "https://openalex.org/W2028667883",
+      "https://openalex.org/W2030205108",
+      "https://openalex.org/W2031955391",
+      "https://openalex.org/W2036916735",
+      "https://openalex.org/W2041415161",
+      "https://openalex.org/W2045404315",
+      "https://openalex.org/W2047282326",
+      "https://openalex.org/W2079084106",
+      "https://openalex.org/W2080672527",
+      "https://openalex.org/W2081923769",
+      "https://openalex.org/W2089831930",
+      "https://openalex.org/W2105175831",
+      "https://openalex.org/W2105902442",
+      "https://openalex.org/W2106315897",
+      "https://openalex.org/W2113410382",
+      "https://openalex.org/W2122520819",
+      "https://openalex.org/W2131174104",
+      "https://openalex.org/W2134646385",
+      "https://openalex.org/W2134952459",
+      "https://openalex.org/W2142427933",
+      "https://openalex.org/W2146989813",
+      "https://openalex.org/W2150162161",
+      "https://openalex.org/W2154244855",
+      "https://openalex.org/W2154842994",
+      "https://openalex.org/W2155132842",
+      "https://openalex.org/W2160223331",
+      "https://openalex.org/W2163190642",
+      "https://openalex.org/W2164442984",
+      "https://openalex.org/W2167398093",
+      "https://openalex.org/W2480082468",
+      "https://openalex.org/W4254093784"
+    ],
+    "related_works": [
+      "https://openalex.org/W1985938791",
+      "https://openalex.org/W4055265",
+      "https://openalex.org/W2082411634",
+      "https://openalex.org/W2011368575",
+      "https://openalex.org/W560332141",
+      "https://openalex.org/W2798958030",
+      "https://openalex.org/W2233361891",
+      "https://openalex.org/W7213359781",
+      "https://openalex.org/W2038904176",
+      "https://openalex.org/W964603085"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        76
+      ],
+      "conservation": [
+        1
+      ],
+      "of": [
+        2,
+        11,
+        64,
+        78,
+        93,
+        130
+      ],
+      "structure": [
+        3
+      ],
+      "across": [
+        4,
+        34,
+        101,
+        124,
+        133
+      ],
+      "homolog": [
+        5,
+        125
+      ],
+      "proteins": [
+        6
+      ],
+      "often": [
+        7
+      ],
+      "diffuses": [
+        8
+      ],
+      "the": [
+        9,
+        62
+      ],
+      "impact": [
+        10,
+        109
+      ],
+      "drug-based": [
+        12
+      ],
+      "inhibition": [
+        13
+      ],
+      "by": [
+        14,
+        83,
+        98
+      ],
+      "promoting": [
+        15
+      ],
+      "alternative": [
+        16
+      ],
+      "protein-ligand": [
+        17
+      ],
+      "associations": [
+        18
+      ],
+      "that": [
+        19,
+        71
+      ],
+      "may": [
+        20,
+        118
+      ],
+      "lead": [
+        21
+      ],
+      "to": [
+        22,
+        42,
+        49
+      ],
+      "toxic": [
+        23
+      ],
+      "side": [
+        24
+      ],
+      "effects.": [
+        25
+      ],
+      "However,": [
+        26
+      ],
+      "sticky": [
+        27
+      ],
+      "packing": [
+        28,
+        51,
+        74,
+        116,
+        131
+      ],
+      "defects": [
+        29,
+        117,
+        132
+      ],
+      "are": [
+        30
+      ],
+      "typically": [
+        31
+      ],
+      "not": [
+        32
+      ],
+      "conserved": [
+        33
+      ],
+      "homologs,": [
+        35
+      ],
+      "making": [
+        36
+      ],
+      "them": [
+        37
+      ],
+      "valuable": [
+        38
+      ],
+      "a": [
+        39,
+        47,
+        57,
+        88,
+        94,
+        111
+      ],
+      "priori": [
+        40
+      ],
+      "targets": [
+        41
+      ],
+      "enhance": [
+        43
+      ],
+      "specificity.": [
+        44
+      ],
+      "By": [
+        45
+      ],
+      "introducing": [
+        46
+      ],
+      "homology": [
+        48
+      ],
+      "quantify": [
+        50
+      ],
+      "differences": [
+        52,
+        100
+      ],
+      "among": [
+        53
+      ],
+      "proteins,": [
+        54
+      ],
+      "we": [
+        55
+      ],
+      "enable": [
+        56
+      ],
+      "previously": [
+        58
+      ],
+      "undescribed": [
+        59
+      ],
+      "strategy": [
+        60
+      ],
+      "for": [
+        61
+      ],
+      "design": [
+        63
+      ],
+      "highly": [
+        65
+      ],
+      "selective": [
+        66
+      ],
+      "drug": [
+        67
+      ],
+      "inhibitors": [
+        68
+      ],
+      "involving": [
+        69
+      ],
+      "ligands": [
+        70,
+        80
+      ],
+      "wrap": [
+        72
+      ],
+      "nonconserved": [
+        73,
+        115
+      ],
+      "defects.": [
+        75
+      ],
+      "selectivity": [
+        77,
+        122
+      ],
+      "these": [
+        79
+      ],
+      "is": [
+        81
+      ],
+      "validated": [
+        82
+      ],
+      "performing": [
+        84
+      ],
+      "affinity": [
+        85
+      ],
+      "assays": [
+        86
+      ],
+      "on": [
+        87
+      ],
+      "cancer-related": [
+        89
+      ],
+      "pharmacokinome.": [
+        90
+      ],
+      "Minor": [
+        91
+      ],
+      "reengineering": [
+        92
+      ],
+      "powerful": [
+        95
+      ],
+      "inhibitor": [
+        96
+      ],
+      "guided": [
+        97
+      ],
+      "wrapping": [
+        99
+      ],
+      "its": [
+        102,
+        108
+      ],
+      "target": [
+        103
+      ],
+      "kinome": [
+        104
+      ],
+      "can": [
+        105
+      ],
+      "selectively": [
+        106
+      ],
+      "direct": [
+        107
+      ],
+      "toward": [
+        110
+      ],
+      "specific": [
+        112
+      ],
+      "kinase.": [
+        113
+      ],
+      "Thus,": [
+        114
+      ],
+      "be": [
+        119
+      ],
+      "used": [
+        120
+      ],
+      "as": [
+        121
+      ],
+      "switches": [
+        123
+      ],
+      "targets,": [
+        126
+      ],
+      "using": [
+        127
+      ],
+      "spatial": [
+        128
+      ],
+      "displacements": [
+        129
+      ],
+      "aligned": [
+        134
+      ],
+      "protein": [
+        135
+      ],
+      "structures.": [
+        136
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

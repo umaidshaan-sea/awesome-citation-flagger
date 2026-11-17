@@ -1,0 +1,3473 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1038/nature02168",
+  "url": "https://api.crossref.org/works/10.1038%2Fnature02168",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:14.139209+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2026-10-26T18:28:17Z",
+      "timestamp": 1793039297987,
+      "version": "4.5.0"
+    },
+    "reference-count": 68,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6968",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2003-12-18T00:00:00Z",
+          "timestamp": 1071705600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2003-12-18T00:00:00Z",
+          "timestamp": 1071705600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nature"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          12,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.1038/nature02168",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2003-12-18T14:47:45Z",
+      "timestamp": 1071758865000
+    },
+    "page": "789-796",
+    "source": "Crossref",
+    "is-referenced-by-count": 4944,
+    "title": [
+      "The International HapMap Project"
+    ],
+    "prefix": "10.1038",
+    "volume": "426",
+    "author": [
+      {
+        "name": "\u2020The International HapMap Consortium",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Genotyping centres: Baylor College of Medicine and ParAllele BioScience",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard A.",
+        "family": "Gibbs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John W.",
+        "family": "Belmont",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Hardenbol",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas D.",
+        "family": "Willis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fuli",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Chinese HapMap Consortium",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Huanming",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lan-Yang",
+        "family": "Ch'ang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wei",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bin",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yan",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul Kwong-Hang",
+        "family": "Tam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lap-Chee",
+        "family": "Tsui",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mary Miu Yee",
+        "family": "Waye",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey Tze-Fei",
+        "family": "Wong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Changqing",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qingrun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Illumina",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark S.",
+        "family": "Chee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luana M.",
+        "family": "Galver",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Semyon",
+        "family": "Kruglyak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah S.",
+        "family": "Murray",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arnold R.",
+        "family": "Oliphant",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "McGill University and G\u00e9nome Qu\u00e9bec Innovation Centre",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexandre",
+        "family": "Montpetit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas J.",
+        "family": "Hudson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fanny",
+        "family": "Chagnon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vincent",
+        "family": "Ferretti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martin",
+        "family": "Leboeuf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael S.",
+        "family": "Phillips",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrei",
+        "family": "Verner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "University of California at San Francisco and Washington University",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pui-Yan",
+        "family": "Kwok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shenghui",
+        "family": "Duan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Denise L.",
+        "family": "Lind",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Raymond D.",
+        "family": "Miller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John P.",
+        "family": "Rice",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nancy L.",
+        "family": "Saccone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia",
+        "family": "Taillon-Miller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "University of Tokyo and RIKEN",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yusuke",
+        "family": "Nakamura",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Akihiro",
+        "family": "Sekine",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Koki",
+        "family": "Sorimachi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Toshihiro",
+        "family": "Tanaka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yoichi",
+        "family": "Tanaka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tatsuhiko",
+        "family": "Tsunoda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eiji",
+        "family": "Yoshino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Wellcome Trust Sanger Institute",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David R.",
+        "family": "Bentley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Panos",
+        "family": "Deloukas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Hunt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Don",
+        "family": "Powell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Whitehead Institute/MIT Center for Genome Research",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Altshuler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stacey B.",
+        "family": "Gabriel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Community engagement/public consultation and sample-collection groups: Beijing Normal University and Beijing Genomics Institute",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Houcan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Changqing",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Health Sciences University of Hokkaido, Eubios Ethics Institute and Shinshu University",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ichiro",
+        "family": "Matsuda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yoshimitsu",
+        "family": "Fukushima",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Darryl R.",
+        "family": "Macer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eiko",
+        "family": "Suda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Howard University and University of Ibadan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charles N.",
+        "family": "Rotimi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Clement A.",
+        "family": "Adebamowo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Toyin",
+        "family": "Aniagwu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia A.",
+        "family": "Marshall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olayemi",
+        "family": "Matthew",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chibuzor",
+        "family": "Nkwodimmah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charmaine D. M.",
+        "family": "Royal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "University of Utah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark F.",
+        "family": "Leppert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Missy",
+        "family": "Dixon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Analysis Groups: Cold Spring Harbor Laboratory",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lincoln D.",
+        "family": "Stein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fiona",
+        "family": "Cunningham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ardavan",
+        "family": "Kanani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gudmundur A.",
+        "family": "Thorisson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Johns Hopkins University School of Medicine",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aravinda",
+        "family": "Chakravarti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter E.",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David J.",
+        "family": "Cutler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carl S.",
+        "family": "Kashuk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "University of Oxford",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Donnelly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Marchini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gilean A. T.",
+        "family": "McVean",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simon R.",
+        "family": "Myers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "University of Oxford, Wellcome Trust Centre for Human Genetics",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lon R.",
+        "family": "Cardon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gon\u00e7alo R.",
+        "family": "Abecasis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew",
+        "family": "Morris",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bruce S.",
+        "family": "Weir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "US National Institutes of Health",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James C.",
+        "family": "Mullikin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephen T.",
+        "family": "Sherry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Feolo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Whitehead Institute/MIT Center for Genome Research",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Altshuler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark J.",
+        "family": "Daly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephen F.",
+        "family": "Schaffner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Ethical, Legal and Social Issues: Chinese Academy of Social Sciences",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Renzong",
+        "family": "Qiu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Genetic Interest Group",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alastair",
+        "family": "Kent",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Howard University",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Georgia M.",
+        "family": "Dunston",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Kyoto University",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kazuto",
+        "family": "Kato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Nagasaki University",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Norio",
+        "family": "Niikawa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "University of Montr\u00e9al",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bartha M.",
+        "family": "Knoppers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "University of Oklahoma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Morris W.",
+        "family": "Foster",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Vanderbilt University",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ellen Wright",
+        "family": "Clayton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vivian Ota",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Wellcome Trust",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jessica",
+        "family": "Watkin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "SNP Discovery: Baylor College of Medicine",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard A.",
+        "family": "Gibbs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John W.",
+        "family": "Belmont",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erica",
+        "family": "Sodergren",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George M.",
+        "family": "Weinstock",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Washington University",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard K.",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lucinda L.",
+        "family": "Fulton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Wellcome Trust Sanger Institute",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jane",
+        "family": "Rogers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Whitehead Institute/MIT Center for Genome Research",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bruce W.",
+        "family": "Birren",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Scientific Management: Chinese Academy of Sciences",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hua",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Chinese Ministry of Science and Technology",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hongguang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Genome Canada",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martin",
+        "family": "Godbout",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John C.",
+        "family": "Wallenburg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "G\u00e9nome Qu\u00e9bec",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "L'Archev\u00eaque",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guy",
+        "family": "Bellemare",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Japanese Ministry of Education, Culture, Sports, Science and Technology",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kazuo",
+        "family": "Todani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Takashi",
+        "family": "Fujita",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Satoshi",
+        "family": "Tanaka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "The SNP Consortium",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arthur L.",
+        "family": "Holden",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eric H.",
+        "family": "Lai",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "US National Institutes of Health",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francis S.",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lisa D.",
+        "family": "Brooks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jean E.",
+        "family": "McEwen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark S.",
+        "family": "Guyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elke",
+        "family": "Jordan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jane L.",
+        "family": "Peterson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jack",
+        "family": "Spiegel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lawrence M.",
+        "family": "Sung",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lynn F.",
+        "family": "Zacharia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Wellcome Trust",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Karen",
+        "family": "Kennedy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael G.",
+        "family": "Dunn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Seabrook",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Shillito",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Barbara",
+        "family": "Skene",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John G.",
+        "family": "Stewart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Initial Planning Groups: Populations and Ethical, Legal and Social Issues Group",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David L.",
+        "family": "Valle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ellen Wright",
+        "family": "Clayton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lynn B.",
+        "family": "Jorde",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John W.",
+        "family": "Belmont",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aravinda",
+        "family": "Chakravarti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mildred K.",
+        "family": "Cho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Troy",
+        "family": "Duster",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Morris W.",
+        "family": "Foster",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marla",
+        "family": "Jasperse",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bartha M.",
+        "family": "Knoppers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pui-Yan",
+        "family": "Kwok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio",
+        "family": "Licinio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey C.",
+        "family": "Long",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia A.",
+        "family": "Marshall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pilar N.",
+        "family": "Ossorio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vivian Ota",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charles N.",
+        "family": "Rotimi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charmaine D. M.",
+        "family": "Royal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patricia",
+        "family": "Spallone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sharon F.",
+        "family": "Terry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Methods Group",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eric S.",
+        "family": "Lander",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eric H.",
+        "family": "Lai",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Deborah A.",
+        "family": "Nickerson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gon\u00e7alo R.",
+        "family": "Abecasis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Altshuler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David R.",
+        "family": "Bentley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Boehnke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lon R.",
+        "family": "Cardon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark J.",
+        "family": "Daly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Panos",
+        "family": "Deloukas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julie A.",
+        "family": "Douglas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stacey B.",
+        "family": "Gabriel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard R.",
+        "family": "Hudson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas J.",
+        "family": "Hudson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Leonid",
+        "family": "Kruglyak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pui-Yan",
+        "family": "Kwok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yusuke",
+        "family": "Nakamura",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert L.",
+        "family": "Nussbaum",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Charmaine D. M.",
+        "family": "Royal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephen F.",
+        "family": "Schaffner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephen T.",
+        "family": "Sherry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lincoln D.",
+        "family": "Stein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Toshihiro",
+        "family": "Tanaka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "BFnature02168_CR1",
+        "volume-title": "The Genetic Basis of Common Diseases",
+        "author": "RA King",
+        "year": "1992",
+        "unstructured": "King, R. A., Rotter, J. I. & Motulsky, A. G. The Genetic Basis of Common Diseases Vol. 20 (eds Motulsky, A. G., Harper, P. S., Scriver, C. & Bobrow, M.) (Oxford Univ. Press, Oxford, 1992)"
+      },
+      {
+        "key": "BFnature02168_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "847",
+        "DOI": "10.1038/35015718",
+        "volume": "405",
+        "author": "NJ Risch",
+        "year": "2000",
+        "unstructured": "Risch, N. J. Searching for genetic determinants in the new millennium. Nature 405, 847\u2013856 (2000)",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "Suppl.",
+        "key": "BFnature02168_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "228",
+        "DOI": "10.1038/ng1090",
+        "volume": "33",
+        "author": "D Botstein",
+        "year": "2003",
+        "unstructured": "Botstein, D. & Risch, N. Discovering genotypes underlying human phenotypes: past successes for mendelian disease, future approaches for complex disease. Nature Genet. 33 (Suppl.), 228\u2013237 (2003)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1516",
+        "DOI": "10.1126/science.273.5281.1516",
+        "volume": "273",
+        "author": "N Risch",
+        "year": "1996",
+        "unstructured": "Risch, N. & Merikangas, K. The future of genetic studies of complex human diseases. Science 273, 1516\u20131517 (1996)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "7370",
+        "DOI": "10.1073/pnas.87.19.7370",
+        "volume": "87",
+        "author": "JS Dorman",
+        "year": "1990",
+        "unstructured": "Dorman, J. S., LaPorte, R. E., Stone, R. A. & Trucco, M. Worldwide differences in the incidence of type I diabetes are associated with amino acid variation at position 57 of the HLA-DQ \u03b2 chain. Proc. Natl Acad. Sci. USA 87, 7370\u20137374 (1990)",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "BFnature02168_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "176",
+        "DOI": "10.2337/diab.33.2.176",
+        "volume": "33",
+        "author": "GI Bell",
+        "year": "1984",
+        "unstructured": "Bell, G. I., Horita, S. & Karam, J. H. A polymorphic locus near the human insulin gene is associated with insulin-dependent diabetes mellitus. Diabetes 33, 176\u2013183 (1984)",
+        "journal-title": "Diabetes"
+      },
+      {
+        "key": "BFnature02168_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1075",
+        "DOI": "10.1093/hmg/5.7.1075",
+        "volume": "5",
+        "author": "L Nistic\u00f2",
+        "year": "1996",
+        "unstructured": "Nistic\u00f2, L. et al. The CTLA-4 gene region of chromosome 2q33 is linked to, and associated with, type 1 diabetes. Hum. Mol. Genet. 5, 1075\u20131080 (1996)",
+        "journal-title": "Hum. Mol. Genet."
+      },
+      {
+        "key": "BFnature02168_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1146/annurev.ne.19.030196.000413",
+        "volume": "19",
+        "author": "WJ Strittmatter",
+        "year": "1996",
+        "unstructured": "Strittmatter, W. J. & Roses, A. D. Apolipoprotein E and Alzheimer's disease. Annu. Rev. Neurosci. 19, 53\u201377 (1996)",
+        "journal-title": "Annu. Rev. Neurosci."
+      },
+      {
+        "key": "BFnature02168_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "483",
+        "DOI": "10.1055/s-0038-1657574",
+        "volume": "78",
+        "author": "B Dahlb\u00e4ck",
+        "year": "1997",
+        "unstructured": "Dahlb\u00e4ck, B. Resistance to activated protein C caused by the factor V R506Q mutation is a common risk factor for venous thrombosis. Thromb. Haemost. 78, 483\u2013488 (1997)",
+        "journal-title": "Thromb. Haemost."
+      },
+      {
+        "key": "BFnature02168_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "599",
+        "DOI": "10.1038/35079107",
+        "volume": "411",
+        "author": "JP Hugot",
+        "year": "2001",
+        "unstructured": "Hugot, J. P. et al. Association of NOD2 leucine-rich repeat variants with susceptibility to Crohn's disease. Nature 411, 599\u2013603 (2001)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1038/35079114",
+        "volume": "411",
+        "author": "Y Ogura",
+        "year": "2001",
+        "unstructured": "Ogura, Y. et al. A frameshift mutation in NOD2 associated with susceptibility to Crohn's disease. Nature 411, 603\u2013606 (2001)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "223",
+        "DOI": "10.1038/ng1001-223",
+        "volume": "29",
+        "author": "JD Rioux",
+        "year": "2001",
+        "unstructured": "Rioux, J. D. et al. Genetic variation in the 5q31 cytokine gene cluster confers susceptibility to Crohn disease. Nature Genet. 29, 223\u2013228 (2001)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "169",
+        "DOI": "10.1126/science.1064852",
+        "volume": "294",
+        "author": "LA Pennacchio",
+        "year": "2001",
+        "unstructured": "Pennacchio, L. A. et al. An apolipoprotein influencing triglycerides in humans and mice revealed by comparative sequencing. Science 294, 169\u2013173 (2001)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "284",
+        "DOI": "10.1038/3099",
+        "volume": "20",
+        "author": "SS Deeb",
+        "year": "1998",
+        "unstructured": "Deeb, S. S. et al. A Pro12Ala substitution in PPAR\u03b32 associated with decreased receptor activity, lower body mass index and improved insulin sensitivity. Nature Genet. 20, 284\u2013287 (1998)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "76",
+        "DOI": "10.1038/79216",
+        "volume": "26",
+        "author": "D Altshuler",
+        "year": "2000",
+        "unstructured": "Altshuler, D. et al. The common PPAR\u03b3 Pro12Ala polymorphism is associated with decreased risk of type 2 diabetes. Nature Genet. 26, 76\u201380 (2000)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "877",
+        "DOI": "10.1086/342734",
+        "volume": "71",
+        "author": "H Stefansson",
+        "year": "2002",
+        "unstructured": "Stefansson, H. et al. Neuregulin 1 and susceptibility to schizophrenia. Am. J. Hum. Genet. 71, 877\u2013892 (2002)",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "BFnature02168_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "426",
+        "DOI": "10.1038/nature00878",
+        "volume": "418",
+        "author": "P Van Eerdewegh",
+        "year": "2002",
+        "unstructured": "Van Eerdewegh, P. et al. Association of the ADAM33 gene with asthma and bronchial hyperresponsiveness. Nature 418, 426\u2013430 (2002)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "131",
+        "DOI": "10.1038/ng1245",
+        "volume": "35",
+        "author": "S Gretarsdottir",
+        "year": "2003",
+        "unstructured": "Gretarsdottir, S. et al. The gene encoding phosphodiesterase 4D confers risk of ischemic stroke. Nature Genet. 35, 131\u2013138 (2003)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "650",
+        "DOI": "10.1038/ng1047",
+        "volume": "32",
+        "author": "K Ozaki",
+        "year": "2002",
+        "unstructured": "Ozaki, K. et al. Functional SNPs in the lymphotoxin-\u03b1 gene that are associated with susceptibility to myocardial infarction. Nature Genet. 32, 650\u2013654 (2002)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1580",
+        "DOI": "10.1126/science.278.5343.1580",
+        "volume": "278",
+        "author": "FS Collins",
+        "year": "1997",
+        "unstructured": "Collins, F. S., Guyer, M. S. & Chakravarti, A. Variations on a theme: cataloging human DNA sequence variation. Science 278, 1580\u20131581 (1997)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "234",
+        "DOI": "10.1038/85776",
+        "volume": "27",
+        "author": "L Kruglyak",
+        "year": "2001",
+        "unstructured": "Kruglyak, L. & Nickerson, D. A. Variation is the spice of life. Nature Genet. 27, 234\u2013236 (2001)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1073",
+        "DOI": "10.1126/science.2570460",
+        "volume": "245",
+        "author": "B Kerem",
+        "year": "1989",
+        "unstructured": "Kerem, B. et al. Identification of the cystic fibrosis gene: genetic analysis. Science 245, 1073\u20131080 (1989)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "204",
+        "DOI": "10.1038/ng1192-204",
+        "volume": "2",
+        "author": "J H\u00e4stbacka",
+        "year": "1992",
+        "unstructured": "H\u00e4stbacka, J. et al. Linkage disequilibrium mapping in isolated founder populations: diastrophic dysplasia in Finland. Nature Genet. 2, 204\u2013211 (1992)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1093/genetics/129.2.513",
+        "volume": "129",
+        "author": "WH Li",
+        "year": "1991",
+        "unstructured": "Li, W. H. & Sadler, L. A. Low nucleotide diversity in man. Genetics 129, 513\u2013523 (1991)",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "BFnature02168_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1077",
+        "DOI": "10.1126/science.280.5366.1077",
+        "volume": "280",
+        "author": "DG Wang",
+        "year": "1998",
+        "unstructured": "Wang, D. G. et al. Large-scale identification, mapping, and genotyping of single-nucleotide polymorphisms in the human genome. Science 280, 1077\u20131082 (1998)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "231",
+        "DOI": "10.1038/10290",
+        "volume": "22",
+        "author": "M Cargill",
+        "year": "1999",
+        "unstructured": "Cargill, M. et al. Characterization of single-nucleotide polymorphisms in coding regions of human genes. Nature Genet. 22, 231\u2013238 (1999)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "239",
+        "DOI": "10.1038/10297",
+        "volume": "22",
+        "author": "MK Halushka",
+        "year": "1999",
+        "unstructured": "Halushka, M. K. et al. Patterns of single-nucleotide polymorphisms in candidate genes for blood-pressure homeostasis. Nature Genet. 22, 239\u2013247 (1999)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "457",
+        "DOI": "10.1038/ng1133",
+        "volume": "33",
+        "author": "DE Reich",
+        "year": "2003",
+        "unstructured": "Reich, D. E., Gabriel, S. B. & Altshuler, D. Quality and completeness of SNP databases. Nature Genet. 33, 457\u2013458 (2003)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "409",
+        "DOI": "10.1038/nature01400",
+        "volume": "421",
+        "author": "S P\u00e4\u00e4bo",
+        "year": "2003",
+        "unstructured": "P\u00e4\u00e4bo, S. The mosaic that is our genome. Nature 421, 409\u2013412 (2003)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "217",
+        "DOI": "10.1038/ng1001-217",
+        "volume": "29",
+        "author": "AJ Jeffreys",
+        "year": "2001",
+        "unstructured": "Jeffreys, A. J., Kauppi, L. & Neumann, R. Intensely punctate meiotic recombination in the class II region of the major histocompatibility complex. Nature Genet. 29, 217\u2013222 (2001)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "2225",
+        "DOI": "10.1126/science.1069424",
+        "volume": "296",
+        "author": "SB Gabriel",
+        "year": "2002",
+        "unstructured": "Gabriel, S. B. et al. The structure of haplotype blocks in the human genome. Science 296, 2225\u20132229 (2002)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "199",
+        "DOI": "10.1038/35075590",
+        "volume": "411",
+        "author": "DE Reich",
+        "year": "2001",
+        "unstructured": "Reich, D. E. et al. Linkage disequilibrium in the human genome. Nature 411, 199\u2013204 (2001)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "191",
+        "DOI": "10.1086/316944",
+        "volume": "68",
+        "author": "GR Abecasis",
+        "year": "2001",
+        "unstructured": "Abecasis, G. R. et al. Extent and distribution of linkage disequilibrium in three genomic regions. Am. J. Hum. Genet. 68, 191\u2013197 (2001)",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "BFnature02168_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "544",
+        "DOI": "10.1038/nature00864",
+        "volume": "418",
+        "author": "E Dawson",
+        "year": "2002",
+        "unstructured": "Dawson, E. et al. A first-generation linkage disequilibrium map of human chromosome 22. Nature 418, 544\u2013548 (2002)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "229",
+        "DOI": "10.1038/ng1001-229",
+        "volume": "29",
+        "author": "MJ Daly",
+        "year": "2001",
+        "unstructured": "Daly, M. J., Rioux, J. D., Schaffner, S. F., Hudson, T. J. & Lander, E. S. High-resolution haplotype structure in the human genome. Nature Genet. 29, 229\u2013232 (2001)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "1719",
+        "DOI": "10.1126/science.1065573",
+        "volume": "294",
+        "author": "N Patil",
+        "year": "2001",
+        "unstructured": "Patil, N. et al. Blocks of limited haplotype diversity revealed by high-resolution scanning of human chromosome 21. Science 294, 1719\u20131723 (2001)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.1038/ng1001-233",
+        "volume": "29",
+        "author": "GCL Johnson",
+        "year": "2001",
+        "unstructured": "Johnson, G. C. L. et al. Haplotype tagging for the identification of common disease genes. Nature Genet. 29, 233\u2013237 (2001)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "518",
+        "DOI": "10.1038/ng1128",
+        "volume": "33",
+        "author": "CS Carlson",
+        "year": "2003",
+        "unstructured": "Carlson, C. S. et al. Additional SNPs and linkage-disequilibrium analyses are necessary for whole-genome association studies in humans. Nature Genet. 33, 518\u2013521 (2003)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "615",
+        "DOI": "10.1016/j.tig.2003.09.006",
+        "volume": "19",
+        "author": "DB Goldstein",
+        "year": "2003",
+        "unstructured": "Goldstein, D. B., Ahmadi, K. R., Weale, M. E. & Wood, N. W. Genome scans and candidate gene approaches in the study of common diseases and variable drug responses. Trends Genet. 19, 615\u2013622 (2003)",
+        "journal-title": "Trends Genet."
+      },
+      {
+        "key": "BFnature02168_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "324",
+        "DOI": "10.1038/77100",
+        "volume": "25",
+        "author": "P Taillon-Miller",
+        "year": "2000",
+        "unstructured": "Taillon-Miller, P. et al. Juxtaposed regions of extensive and minimal linkage disequilibrium in human Xq25 and Xq28. Nature Genet. 25, 324\u2013328 (2000)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "56",
+        "DOI": "10.1038/4482",
+        "volume": "21",
+        "author": "A Chakravarti",
+        "year": "1999",
+        "unstructured": "Chakravarti, A. Population genetics\u2014making sense out of sequence. Nature Genet. 21, 56\u201360 (1999)",
+        "journal-title": "Nature Genet."
+      },
+      {
+        "key": "BFnature02168_CR42",
+        "first-page": "1239",
+        "volume": "36",
+        "author": "A Chakravarti",
+        "year": "1984",
+        "unstructured": "Chakravarti, A. et al. Nonuniform recombination within the human \u03b2-globin gene cluster. Am. J. Hum. Genet. 36, 1239\u20131258 (1984)",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "BFnature02168_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "1380",
+        "DOI": "10.1126/science.271.5254.1380",
+        "volume": "271",
+        "author": "SA Tishkoff",
+        "year": "1996",
+        "unstructured": "Tishkoff, S. A. et al. Global patterns of linkage disequilibrium at the CD4 locus and modern human origins. Science 271, 1380\u20131387 (1996)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR44",
+        "volume-title": "The History and Geography of Human Genes",
+        "author": "LL Cavalli-Sforza",
+        "year": "1994",
+        "unstructured": "Cavalli-Sforza, L. L., Menozzi, P. & Piazza, A. The History and Geography of Human Genes (Princeton Univ. Press, Princeton, 1994)"
+      },
+      {
+        "key": "BFnature02168_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "844",
+        "DOI": "10.1101/gr.99202",
+        "volume": "12",
+        "author": "MW Foster",
+        "year": "2002",
+        "unstructured": "Foster, M. W. & Sharp, R. R. Race, ethnicity, and genomics: social classifications as proxies of biological heterogeneity. Genome Res. 12, 844\u2013850 (2002)",
+        "journal-title": "Genome Res."
+      },
+      {
+        "key": "BFnature02168_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "4516",
+        "DOI": "10.1073/pnas.94.9.4516",
+        "volume": "94",
+        "author": "G Barbujani",
+        "year": "1997",
+        "unstructured": "Barbujani, G., Magagni, A., Minch, E. & Cavalli-Sforza, L. L. An apportionment of human DNA diversity. Proc. Natl Acad. Sci. USA 94, 4516\u20134519 (1997)",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "BFnature02168_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "2381",
+        "DOI": "10.1126/science.1078311",
+        "volume": "298",
+        "author": "NA Rosenberg",
+        "year": "2002",
+        "unstructured": "Rosenberg, N. A. et al. Genetic structure of human populations. Science 298, 2381\u20132385 (2002)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "3100",
+        "DOI": "10.1073/pnas.94.7.3100",
+        "volume": "94",
+        "author": "LB Jorde",
+        "year": "1997",
+        "unstructured": "Jorde, L. B. et al. Microsatellite diversity and the demographic history of modern humans. Proc. Natl Acad. Sci. USA 94, 3100\u20133103 (1997)",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "BFnature02168_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "575",
+        "DOI": "10.1016/0888-7543(90)90491-C",
+        "volume": "6",
+        "author": "J Dausset",
+        "year": "1990",
+        "unstructured": "Dausset, J. et al. Centre d'Etude du Polymorphisme Humain (CEPH): collaborative genetic mapping of the human genome. Genomics 6, 575\u2013577 (1990)",
+        "journal-title": "Genomics"
+      },
+      {
+        "key": "BFnature02168_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "308",
+        "DOI": "10.1093/nar/29.1.308",
+        "volume": "29",
+        "author": "ST Sherry",
+        "year": "2001",
+        "unstructured": "Sherry, S. T. et al. dbSNP: the NCBI database of genetic variation. Nucleic Acids Res. 29, 308\u2013311 (2001)",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "BFnature02168_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "1725",
+        "DOI": "10.1101/gr.194201",
+        "volume": "11",
+        "author": "Z Ning",
+        "year": "2001",
+        "unstructured": "Ning, Z., Cox, A. J. & Mullikin, J. C. SSAHA: a fast search method for large DNA databases. Genome Res. 11, 1725\u20131729 (2001)",
+        "journal-title": "Genome Res."
+      },
+      {
+        "key": "BFnature02168_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "928",
+        "DOI": "10.1038/35057149",
+        "volume": "409",
+        "author": "The International SNP Working Group",
+        "year": "2001",
+        "unstructured": "The International SNP Working Group. A map of human genome sequence variation containing 1.42 million single nucleotide polymorphisms. Nature 409, 928\u2013933 (2001)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "1304",
+        "DOI": "10.1126/science.1058040",
+        "volume": "291",
+        "author": "JC Venter",
+        "year": "2001",
+        "unstructured": "Venter, J. C. et al. The sequence of the human genome. Science 291, 1304\u20131351 (2001)",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFnature02168_CR54",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1093/genetics/49.1.49",
+        "volume": "49",
+        "author": "RC Lewontin",
+        "year": "1964",
+        "unstructured": "Lewontin, R. C. The interaction of selection and linkage. I. General considerations: heterotic models. Genetics 49, 49\u201367 (1964)",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "BFnature02168_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "226",
+        "DOI": "10.1007/BF01245622",
+        "volume": "38",
+        "author": "WG Hill",
+        "year": "1968",
+        "unstructured": "Hill, W. G. & Robertson, A. Linkage disequilibrium in finite populations. Theor. Appl. Genet. 38, 226\u2013231 (1968)",
+        "journal-title": "Theor. Appl. Genet."
+      },
+      {
+        "key": "BFnature02168_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.1017/S001667230000272X",
+        "volume": "13",
+        "author": "T Ohta",
+        "year": "1969",
+        "unstructured": "Ohta, T. & Kimura, M. Linkage disequilibrium due to random genetic drift. Genet. Res. 13, 47\u201355 (1969)",
+        "journal-title": "Genet. Res."
+      },
+      {
+        "key": "BFnature02168_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1006/tpbi.2000.1471",
+        "volume": "58",
+        "author": "KJ Dawson",
+        "year": "2000",
+        "unstructured": "Dawson, K. J. The decay of linkage disequilibrium under random union of gametes: how to calculate Bennett's principal components. Theor. Popul. Biol. 58, 1\u201320 (2000)",
+        "journal-title": "Theor. Popul. Biol."
+      },
+      {
+        "key": "BFnature02168_CR58",
+        "doi-asserted-by": "crossref",
+        "first-page": "937",
+        "DOI": "10.1093/genetics/78.3.937",
+        "volume": "78",
+        "author": "CH Langley",
+        "year": "1974",
+        "unstructured": "Langley, C. H. & Crow, J. F. The direction of linkage disequilibrium. Genetics 78, 937\u2013941 (1974)",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "BFnature02168_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "2228",
+        "DOI": "10.1073/pnas.042680999",
+        "volume": "99",
+        "author": "N Maniatis",
+        "year": "2002",
+        "unstructured": "Maniatis, N. et al. The first linkage disequilibrium (LD) maps: delineation of hot and cold blocks by diplotype analysis. Proc. Natl Acad. Sci. USA 99, 2228\u20132233 (2002)",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "BFnature02168_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "245",
+        "DOI": "10.1017/S0016672300023776",
+        "volume": "50",
+        "author": "RR Hudson",
+        "year": "1987",
+        "unstructured": "Hudson, R. R. Estimating the recombination parameter of a finite population model without selection. Genet. Res. 50, 245\u2013250 (1987)",
+        "journal-title": "Genet. Res."
+      },
+      {
+        "key": "BFnature02168_CR61",
+        "doi-asserted-by": "crossref",
+        "first-page": "1299",
+        "DOI": "10.1093/genetics/159.3.1299",
+        "volume": "159",
+        "author": "P Fearnhead",
+        "year": "2001",
+        "unstructured": "Fearnhead, P. & Donnelly, P. Estimating recombination rates from population genetic data. Genetics 159, 1299\u20131318 (2001)",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "BFnature02168_CR62",
+        "doi-asserted-by": "crossref",
+        "first-page": "1231",
+        "DOI": "10.1093/genetics/160.3.1231",
+        "volume": "160",
+        "author": "G McVean",
+        "year": "2002",
+        "unstructured": "McVean, G., Awadalla, P. & Fearnhead, P. A coalescent-based method for detecting and estimating recombination from gene sequences. Genetics 160, 1231\u20131241 (2002)",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "BFnature02168_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "860",
+        "DOI": "10.1038/35057062",
+        "volume": "409",
+        "author": "International Human Genome Sequencing Consortium",
+        "year": "2001",
+        "unstructured": "International Human Genome Sequencing Consortium. Initial sequencing and analysis of the human genome. Nature 409, 860\u2013921 (2001)",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFnature02168_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "290",
+        "DOI": "10.1111/j.1748-720X.2002.tb00395.x",
+        "volume": "30",
+        "author": "EW Clayton",
+        "year": "2002",
+        "unstructured": "Clayton, E. W. The complex relationship of genetics, groups, and health: what it means for public health. J. Law Med. Ethics 30, 290\u2013297 (2002)",
+        "journal-title": "J. Law Med. Ethics"
+      },
+      {
+        "key": "BFnature02168_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "93",
+        "DOI": "10.1016/S0168-9525(99)01895-8",
+        "volume": "16",
+        "author": "MW Foster",
+        "year": "2000",
+        "unstructured": "Foster, M. W. & Sharp, R. R. Genetic research and culturally specific risks: one size does not fit all. Trends Genet. 16, 93\u201395 (2000)",
+        "journal-title": "Trends Genet."
+      },
+      {
+        "key": "BFnature02168_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.1111/j.1748-720X.2000.tb00315.x",
+        "volume": "28",
+        "author": "RR Sharp",
+        "year": "2000",
+        "unstructured": "Sharp, R. R. & Foster, M. W. Involving study populations in the review of genetic research. J. Law Med. Ethics 28, 41\u201351 (2000)",
+        "journal-title": "J. Law Med. Ethics"
+      },
+      {
+        "key": "BFnature02168_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "241",
+        "DOI": "10.1097/00000441-200111000-00001",
+        "volume": "322",
+        "author": "PA Marshall",
+        "year": "2001",
+        "unstructured": "Marshall, P. A. & Rotimi, C. Ethical challenges in community-based research. Am. J. Med. Sci. 322, 241\u2013245 (2001)",
+        "journal-title": "Am. J. Med. Sci."
+      },
+      {
+        "key": "BFnature02168_CR68",
+        "doi-asserted-by": "publisher",
+        "first-page": "52",
+        "DOI": "10.1111/j.1748-720X.2000.tb00316.x",
+        "volume": "28",
+        "author": "ET Juengst",
+        "year": "2000",
+        "unstructured": "Juengst, E. T. Commentary: what \u201ccommunity review\u201d can and cannot do. J. Law Med. Ethics 28, 52\u201354 (2000)",
+        "journal-title": "J. Law Med. Ethics"
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/nature02168.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/nature02168",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/nature02168.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2025-04-04T22:26:28Z",
+      "timestamp": 1743805588000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/nature02168"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          12,
+          18
+        ]
+      ]
+    },
+    "references-count": 68,
+    "journal-issue": {
+      "issue": "6968",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            12,
+            18
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BFnature02168"
+    ],
+    "URL": "https://doi.org/10.1038/nature02168",
+    "relation": {},
+    "ISSN": [
+      "0028-0836",
+      "1476-4687"
+    ],
+    "issn-type": [
+      {
+        "value": "0028-0836",
+        "type": "print"
+      },
+      {
+        "value": "1476-4687",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          12,
+          18
+        ]
+      ]
+    }
+  }
+}

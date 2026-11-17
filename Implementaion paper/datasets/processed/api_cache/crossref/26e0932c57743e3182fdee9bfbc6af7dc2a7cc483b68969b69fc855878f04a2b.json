@@ -1,0 +1,730 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s11695-008-9661-1",
+  "url": "https://api.crossref.org/works/10.1007%2Fs11695-008-9661-1",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:19.520476+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2026-02-25T14:08:41Z",
+      "timestamp": 1772028521313,
+      "version": "3.50.1"
+    },
+    "reference-count": 35,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              30
+            ]
+          ],
+          "date-time": "2008-08-30T00:00:00Z",
+          "timestamp": 1220054400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              30
+            ]
+          ],
+          "date-time": "2008-08-30T00:00:00Z",
+          "timestamp": 1220054400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "OBES SURG"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11695-008-9661-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2008-08-29T12:00:18Z",
+      "timestamp": 1220011218000
+    },
+    "page": "230-236",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "RETRACTED ARTICLE: First Experiences with A Circular Stapled Gastro-Jejunostomy by a New Transorally Introducible Stapler System in Laparoscopic Roux-en-Y Gastric Bypass"
+    ],
+    "prefix": "10.1007",
+    "volume": "19",
+    "author": [
+      {
+        "given": "Edward",
+        "family": "Shang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Till",
+        "family": "Hasenberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Magdeburg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Keese",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stefan",
+        "family": "Post",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rudolf",
+        "family": "Weiner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "9661_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "500",
+        "DOI": "10.1381/096089296765556412",
+        "volume": "6",
+        "author": "AC Wittgrove",
+        "year": "1996",
+        "unstructured": "Wittgrove AC, Clark WG, Schubert KR. Laparoscopic gastric bypass, Roux en-Y: technique and results in 75 patients with a 3\u201330\u00a0months follow up. Obes Surg 1996;6:500\u20134.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR2",
+        "first-page": "193",
+        "volume": "3",
+        "author": "NT Nguyen",
+        "year": "1999",
+        "unstructured": "Nguyen NT, Ho HS, Mayer KL, et al. Laparoscopic Roux-en-Y gastric bypass for morbid obesity. JSLS 1999;3:193\u20136.",
+        "journal-title": "JSLS"
+      },
+      {
+        "issue": "3",
+        "key": "9661_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "427",
+        "DOI": "10.1381/096089203765887787",
+        "volume": "13",
+        "author": "R Weiner",
+        "year": "2003",
+        "unstructured": "Weiner R, Blanco-Engert R, Weiner S, et al. Outcome after laparoscopic adjustable gastric banding\u20148\u00a0years experience. Obes Surg 2003;13(3):427\u201334. (Jun).",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "issue": "3",
+        "key": "9661_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "326",
+        "DOI": "10.1016/S0039-6060(03)00392-1",
+        "volume": "135",
+        "author": "AE Chapman",
+        "year": "2004",
+        "unstructured": "Chapman AE, Kiroff G, Game P, et al. Laparoscopic adjustable gastric banding in the treatment of obesity: a systematic literature review. Surgery 2004;135(3):326\u201351. (Mar).",
+        "journal-title": "Surgery"
+      },
+      {
+        "key": "9661_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "353",
+        "DOI": "10.1381/096089294765558331",
+        "volume": "4",
+        "author": "A Wittgrove",
+        "year": "1994",
+        "unstructured": "Wittgrove A, Clark W, Tremblay L. Laparoscopic gastric bypass, Roux-en-Y: preliminary report of five cases. Obes Surg 1994;4:353\u20137.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.1089/lap.1999.9.101",
+        "volume": "9",
+        "author": "PR Schauer",
+        "year": "1999",
+        "unstructured": "Schauer PR, Ikramuddin S, Gourash WF. Laparoscopic Rouxen-Y gastric bypass: a case report at one-year follow-up. J Laparoendosc Adv Surg Tech A 1999;9:101\u20136.",
+        "journal-title": "J Laparoendosc Adv Surg Tech A"
+      },
+      {
+        "key": "9661_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "492",
+        "DOI": "10.1381/096089299765552800",
+        "volume": "9",
+        "author": "RA De la Torre",
+        "year": "1999",
+        "unstructured": "De la Torre RA, Scott JS. Laparoscopic Roux-en-Y gastric bypass: a totally intra-abdominal approach-technique and preliminary report. Obes Surg 1999;9:492\u20138.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "240",
+        "DOI": "10.1381/096089200321643520",
+        "volume": "10",
+        "author": "J Teixeira",
+        "year": "2000",
+        "unstructured": "Teixeira J, Borao FJ, Thomas TA. An alternative technique in laparoscopic Roux-en-Y gastric bypass for morbid obesity: experience with twenty-eight consecutive patients. Obes Surg 2000;10:240\u20134.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1089/lps.1995.5.97",
+        "volume": "5",
+        "author": "CT Frantzides",
+        "year": "1995",
+        "unstructured": "Frantzides CT, Carlson MA, Schulte WJ. Laparoscopic gastric bypass in a porcine model. J Laparoendosc Surg 1995;5:97\u2013100.",
+        "journal-title": "J Laparoendosc Surg"
+      },
+      {
+        "key": "9661_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "515",
+        "DOI": "10.1097/00000658-200010000-00007",
+        "volume": "232",
+        "author": "PR Schauer",
+        "year": "2000",
+        "unstructured": "Schauer PR, Ikramudding S, Gourash W, et al. Outcomes after laparoscopic Roux-en-Y gastric bypass for morbid obesity. Ann Surg 2000;232:515\u201329.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "9661_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "509",
+        "DOI": "10.1381/096089200321593706",
+        "volume": "10",
+        "author": "KD Higa",
+        "year": "2000",
+        "unstructured": "Higa KD, Boone KB, Tienchin H. Complications ofthe laparoscopic Roux-en-Y gastric bypass: 1,040 patients\u2014what have we learned? Obes Surg 2000;10:509\u201313.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1299",
+        "DOI": "10.1381/0960892042583978",
+        "volume": "14",
+        "author": "R Gonzalez",
+        "year": "2004",
+        "unstructured": "Gonzalez R, Nelson LG, Gallagher SF, et al. Anastomotic leaks after laparoscopic gastric bypass. Obes Surg 2004;14:1299\u2013301.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1308",
+        "DOI": "10.1381/0960892042583879",
+        "volume": "14",
+        "author": "NT Nguyen",
+        "year": "2004",
+        "unstructured": "Nguyen NT, Longoria M, Chalifoux S, et al. Gastrointestinal hemorrhage after laparoscopic gastric bypass. Obes Surg 2004;14:1308\u201312.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "515",
+        "DOI": "10.1097/00000658-200010000-00007",
+        "volume": "232",
+        "author": "PR Schauer",
+        "year": "2000",
+        "unstructured": "Schauer PR, Ikramuddin S, Gourash W, et al. Outcomes after laparoscopic Roux-en-Y bypass for morbid obesity. Ann Surg 2000;232:515\u201329.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "6",
+        "key": "9661_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "782",
+        "DOI": "10.1381/0960892054222704",
+        "volume": "15",
+        "author": "A Waage",
+        "year": "2005",
+        "unstructured": "Waage A, Gagner M, Biertho L, et al. Comparison between open hand-sewn, laparoscopic stapled and laparoscopic computer-mediated, circular stapled gastro-jejunostomies in Roux-en-Y gastric bypass in the porcine model. Obes Surg 2005;15(6):782\u20137. (Jun\u2013Jul).",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "705",
+        "DOI": "10.1381/096089202321019747",
+        "volume": "12",
+        "author": "H Buchwald",
+        "year": "2002",
+        "unstructured": "Buchwald H, Buchwald JN. Evolution of operative procedures for the management of morbid obesity 1950\u20132000. Obes Surg 2002;12:705\u201317.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "issue": "9",
+        "key": "9661_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1157",
+        "DOI": "10.1381/0960892042387057",
+        "volume": "14",
+        "author": "H Buchwald",
+        "year": "2004",
+        "unstructured": "Buchwald H, Williams SE. Obes Surg 2004;14(9):1157\u201364. (Oct).",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1724",
+        "DOI": "10.1001/jama.292.14.1724",
+        "volume": "292",
+        "author": "H Buchwald",
+        "year": "2004",
+        "unstructured": "Buchwald H, Avidor Y, Braunwald E, et al. Bariatric surgery a systematic review and meta-analysis. JAMA 2004;292:1724\u201337.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "9661_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "165",
+        "DOI": "10.1016/j.yasu.2005.04.005",
+        "volume": "39",
+        "author": "NV Christou",
+        "year": "2005",
+        "unstructured": "Christou NV, MacLean LD. Effect of bariatric surgery on long-term mortality. Adv Surg 2005;39:165\u201379. (review).",
+        "journal-title": "Adv Surg"
+      },
+      {
+        "issue": "8",
+        "key": "9661_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "741",
+        "DOI": "10.1056/NEJMoa066254",
+        "volume": "357",
+        "author": "L Sj\u00f6str\u00f6m",
+        "year": "2007",
+        "unstructured": "Sj\u00f6str\u00f6m L, Narbro K, Sj\u00f6str\u00f6m CD, Swedish Obese Subjects Study, et al. Effects of bariatric surgery on mortality in Swedish obese subjects. N Engl J Med 2007;357(8):741\u201352. (Aug 23).",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "9661_CR21",
+        "volume-title": "Cited in surgical stapling techniques",
+        "author": "H Hultl",
+        "year": "1986",
+        "unstructured": "Hultl H. Cited in surgical stapling techniques. Sommerville, NJ: Ethicon; 1986."
+      },
+      {
+        "key": "9661_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "766",
+        "DOI": "10.1016/0002-9610(75)90438-9",
+        "volume": "130",
+        "author": "RG Latimer",
+        "year": "1975",
+        "unstructured": "Latimer RG, Doane WA, McKittrick JE, et al. Automatic staple suturing for gastrointestinal surgery. Am J Surg 1975;130:766\u201371.",
+        "journal-title": "Am J Surg"
+      },
+      {
+        "key": "9661_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "1299",
+        "DOI": "10.1381/0960892042583978",
+        "volume": "14",
+        "author": "R Gonzalez",
+        "year": "2004",
+        "unstructured": "Gonzalez R, Nelson LG, Gallagher SF, et al. Anastomotic leaks after laparoscopic gastric bypass. Obes Surg 2004;14:1299\u2013301.",
+        "journal-title": "Obes Surg"
+      },
+      {
+        "key": "9661_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "791",
+        "DOI": "10.1016/S0011-3840(98)80009-9",
+        "volume": "35",
+        "author": "JM Kellum",
+        "year": "1998",
+        "unstructured": "Kellum JM, DeMaria EJ, Sugerman HJ. The treatment of morbid obesity. Curr Probl Surg 1998;35:791\u2013858.",
+        "journal-title": "Curr Probl Surg"
+      },
+      {
+        "key": "9661_CR25",
+        "first-page": "23",
+        "volume": "73",
+        "author": "G Di Matteo",
+        "year": "1988",
+        "unstructured": "Di Matteo G, Cancrini A Jr, Palazzini G, et al. Stapled suture in digestive tract surgery. Int Surg 1988;73:23\u20138.",
+        "journal-title": "Int Surg"
+      },
+      {
+        "key": "9661_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "333",
+        "DOI": "10.1002/bjs.1800690614",
+        "volume": "69",
+        "author": "IMR Lowdon",
+        "year": "1982",
+        "unstructured": "Lowdon IMR, Gear MWL, Kilby JO. Stapling instruments in upper gastrointestinal surgery: a retrospective study of 362 cases. Br J Surg 1982;69:333\u20135.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "key": "9661_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "714",
+        "DOI": "10.1007/BF02554594",
+        "volume": "27",
+        "author": "FM Penninckx",
+        "year": "1984",
+        "unstructured": "Penninckx FM, Kerremans RP, Geboes KJ. The healing of single and double-row stapled circular anastomosis. Dis Colon Rectum 1984;27:714\u20139.",
+        "journal-title": "Dis Colon Rectum"
+      },
+      {
+        "key": "9661_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "1247",
+        "DOI": "10.1016/S0039-6109(16)45588-X",
+        "volume": "71",
+        "author": "PL Roberts",
+        "year": "1991",
+        "unstructured": "Roberts PL, Williamson WA, Sanders LB. Pitfalls in use of stapler in gastrointestinal surgery. Surg Clin North \u0391m 1991;71:1247\u201357.",
+        "journal-title": "Surg Clin North \u0391m"
+      },
+      {
+        "key": "9661_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "515",
+        "DOI": "10.1097/00000658-200010000-00007",
+        "volume": "232",
+        "author": "PR Schauer",
+        "year": "2000",
+        "unstructured": "Schauer PR, Ikramudding S, Gourash W, et al. Outcomes after laparoscopic Roux-en-Y gastric bypass for morbid obesity. Ann Surg 2000;232:515\u201329.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "9661_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "640",
+        "DOI": "10.1097/00000658-200205000-00005",
+        "volume": "235",
+        "author": "EJ DeMaria",
+        "year": "2002",
+        "unstructured": "DeMaria EJ, Sugerman HJ, Kellum JM, et al. Results of 281 consecutive total laparoscopic Roux-en-Y gastric bypasses to treat morbid obesity. Ann Surg 2002;235:640\u20137.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "9661_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "377",
+        "DOI": "10.1089/10926420152761905",
+        "volume": "11",
+        "author": "KD Higa",
+        "year": "2001",
+        "unstructured": "Higa KD, Ho T, Boone KB. Laparoscopic Roux-en-Y gastric bypass: technique and 3-year follow-up. J Laparoendosc Adv Surg Tech A 2001;11:377\u201382.",
+        "journal-title": "J Laparoendosc Adv Surg Tech A"
+      },
+      {
+        "issue": "2",
+        "key": "9661_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "176",
+        "DOI": "10.1016/j.soard.2006.11.014",
+        "volume": "3",
+        "author": "BL Fisher",
+        "year": "2007",
+        "unstructured": "Fisher BL, Atkinson JD, Cottam D. Incidence of gastroenterostomy stenosis in laparoscopic Roux-en-Y gastric bypass using 21- or 25-mm circular stapler: a randomized prospective blinded study. Surg Obes Relat Dis 2007;3(2):176\u20139. (Mar\u2013Apr).",
+        "journal-title": "Surg Obes Relat Dis"
+      },
+      {
+        "issue": "7",
+        "key": "9661_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "1017",
+        "DOI": "10.1007/s00464-005-0207-5",
+        "volume": "20",
+        "author": "JC Gould",
+        "year": "2006",
+        "unstructured": "Gould JC, Garren M, Boll V, et al. The impact of circular stapler diameter on the incidence of gastrojejunostomy stenosis and weight loss following laparoscopic Roux-en-Y gastric bypass. Surg Endosc 2006;20(7):1017\u201320. (Jul).",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "key": "9661_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "395",
+        "DOI": "10.1093/ajcn/33.2.395",
+        "volume": "33",
+        "author": "EE Mason",
+        "year": "1980",
+        "unstructured": "Mason EE, Printen KJ, Blommers TJ, et al. Gastric bypass in morbid obesity. Am J Clin Nutr 1980;33:395\u2013405.",
+        "journal-title": "Am J Clin Nutr"
+      },
+      {
+        "key": "9661_CR35",
+        "unstructured": "Chapman A, Kiroff G, Game P, et al. (2002) Systematic review of laparoscopic adjustable gastric banding for the treatment of obesity: update and reappraisal. ASERNIP-S Report No. 31, Adelaide, South Australia."
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1007/s11695-012-0650-z",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2012,
+              5,
+              2
+            ]
+          ],
+          "date-time": "2012-05-02T00:00:00Z",
+          "timestamp": 1335916800000
+        },
+        "record-id": "3072"
+      },
+      {
+        "DOI": "10.1007/s11695-008-9661-1",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              30
+            ]
+          ],
+          "date-time": "2008-08-30T00:00:00Z",
+          "timestamp": 1220054400000
+        }
+      }
+    ],
+    "container-title": [
+      "Obesity Surgery"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11695-008-9661-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11695-008-9661-1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11695-008-9661-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11695-008-9661-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2026-02-25T13:06:52Z",
+      "timestamp": 1772024812000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11695-008-9661-1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          30
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "9661"
+    ],
+    "URL": "https://doi.org/10.1007/s11695-008-9661-1",
+    "relation": {},
+    "ISSN": [
+      "0960-8923",
+      "1708-0428"
+    ],
+    "issn-type": [
+      {
+        "value": "0960-8923",
+        "type": "print"
+      },
+      {
+        "value": "1708-0428",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          30
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "7 May 2008",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 August 2008",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 August 2008",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ]
+  }
+}

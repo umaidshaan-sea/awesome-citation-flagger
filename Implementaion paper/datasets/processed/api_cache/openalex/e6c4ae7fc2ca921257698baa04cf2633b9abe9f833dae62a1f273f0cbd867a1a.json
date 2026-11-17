@@ -1,0 +1,1167 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1007/s44196-025-00747-1",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1007%2Fs44196-025-00747-1",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:47.347593+00:00",
+  "record": {
+    "id": "https://openalex.org/W4407160918",
+    "doi": "https://doi.org/10.1007/s44196-025-00747-1",
+    "title": "RETRACTED ARTICLE: BERT-BiGRU-Senti-GCN: An Advanced NLP Framework for Analyzing Customer Sentiments in E-Commerce",
+    "display_name": "RETRACTED ARTICLE: BERT-BiGRU-Senti-GCN: An Advanced NLP Framework for Analyzing Customer Sentiments in E-Commerce",
+    "publication_year": 2025,
+    "publication_date": "2025-02-05",
+    "ids": {
+      "openalex": "https://openalex.org/W4407160918",
+      "doi": "https://doi.org/10.1007/s44196-025-00747-1"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1007/s44196-025-00747-1",
+      "doi": "https://doi.org/10.1007/s44196-025-00747-1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s44196-025-00747-1",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44196-025-00747-1.pdf",
+      "source": {
+        "id": "https://openalex.org/S190680769",
+        "display_name": "International Journal of Computational Intelligence Systems",
+        "issn_l": "1875-6883",
+        "issn": [
+          "1875-6883",
+          "1875-6891"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "oarl",
+          "poland-70",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Computational Intelligence Systems",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44196-025-00747-1.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5053624282",
+          "display_name": "Muhammad Rizwan Rashid Rana",
+          "orcid": "https://orcid.org/0000-0002-2382-1800",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2382-1800"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200749728",
+            "display_name": "Pir Mehr Ali Shah Arid Agriculture University",
+            "ror": "https://ror.org/035zn2q74",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200749728"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Muhammad Rizwan Rashid Rana",
+        "raw_affiliation_strings": [
+          "University Institute of Information Technology, PMAS-Arid Agriculture University, Rawalpindi, 46000, Pakistan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University Institute of Information Technology, PMAS-Arid Agriculture University, Rawalpindi, 46000, Pakistan",
+            "institution_ids": [
+              "https://openalex.org/I200749728"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5020314784",
+          "display_name": "Asif Nawaz",
+          "orcid": "https://orcid.org/0000-0002-9920-8527",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9920-8527"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200749728",
+            "display_name": "Pir Mehr Ali Shah Arid Agriculture University",
+            "ror": "https://ror.org/035zn2q74",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200749728"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Asif Nawaz",
+        "raw_affiliation_strings": [
+          "University Institute of Information Technology, PMAS-Arid Agriculture University, Rawalpindi, 46000, Pakistan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University Institute of Information Technology, PMAS-Arid Agriculture University, Rawalpindi, 46000, Pakistan",
+            "institution_ids": [
+              "https://openalex.org/I200749728"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Saif Ur Rehman",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200749728",
+            "display_name": "Pir Mehr Ali Shah Arid Agriculture University",
+            "ror": "https://ror.org/035zn2q74",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200749728"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Saif Ur Rehman",
+        "raw_affiliation_strings": [
+          "University Institute of Information Technology, PMAS-Arid Agriculture University, Rawalpindi, 46000, Pakistan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University Institute of Information Technology, PMAS-Arid Agriculture University, Rawalpindi, 46000, Pakistan",
+            "institution_ids": [
+              "https://openalex.org/I200749728"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Muhammad Ali Abid",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405256242",
+            "display_name": "The University Of Agriculture Dera Ismail Khan",
+            "ror": "https://ror.org/03yk43w67",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405256242"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Muhammad Ali Abid",
+        "raw_affiliation_strings": [
+          "Department of Artificial Intelligence, University of Agriculture, Dera Ismail Khan, Pakistan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Artificial Intelligence, University of Agriculture, Dera Ismail Khan, Pakistan",
+            "institution_ids": [
+              "https://openalex.org/I4405256242"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5116156861",
+          "display_name": "Mubariz Garayevi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I28022161",
+            "display_name": "King Saud University",
+            "ror": "https://ror.org/02f81g417",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I28022161"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mubariz Garayevi",
+        "raw_affiliation_strings": [
+          "Department of Mathematics, College of Science, King Saud University, P.O Box 2455, Riyadh, Saudi Arabia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mathematics, College of Science, King Saud University, P.O Box 2455, Riyadh, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I28022161"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5056125514",
+          "display_name": "Jana Kajanov\u00e1",
+          "orcid": "https://orcid.org/0000-0003-3188-9570",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3188-9570"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I74788687",
+            "display_name": "Comenius University Bratislava",
+            "ror": "https://ror.org/0587ef340",
+            "country_code": "SK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I74788687"
+            ]
+          }
+        ],
+        "countries": [
+          "SK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jana Kajanov\u00e1",
+        "raw_affiliation_strings": [
+          "Faculty of Management, Comenius University Bratislava, Odboj\u00e1rov 10, P.O. BOX 95, 82005, Bratislava, 25, Slovak Republic"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Faculty of Management, Comenius University Bratislava, Odboj\u00e1rov 10, P.O. BOX 95, 82005, Bratislava, 25, Slovak Republic",
+            "institution_ids": [
+              "https://openalex.org/I74788687"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 3,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I200749728"
+    ],
+    "apc_list": {
+      "value": 2490,
+      "currency": "USD",
+      "value_usd": 2490
+    },
+    "apc_paid": {
+      "value": 2490,
+      "currency": "USD",
+      "value_usd": 2490
+    },
+    "fwci": 9.9131,
+    "has_fulltext": true,
+    "cited_by_count": 26,
+    "citation_normalized_percentile": {
+      "value": 0.98543884,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "18",
+      "issue": "1",
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10664",
+      "display_name": "Sentiment Analysis and Opinion Mining",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10664",
+        "display_name": "Sentiment Analysis and Opinion Mining",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10028",
+        "display_name": "Topic Modeling",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12262",
+        "display_name": "Hate Speech and Cyberbullying Detection",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/sentiment-analysis",
+        "display_name": "sentiment analysis",
+        "score": 0.9729999899864197
+      },
+      {
+        "id": "https://openalex.org/keywords/customer-feedback",
+        "display_name": "customer feedback",
+        "score": 0.8849999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/e-commerce",
+        "display_name": "e-commerce",
+        "score": 0.9760000109672546
+      },
+      {
+        "id": "https://openalex.org/keywords/graph-neural-networks",
+        "display_name": "graph neural networks",
+        "score": 0.8709999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/finite-state-machines",
+        "display_name": "finite automata",
+        "score": 0.9850000143051147
+      },
+      {
+        "id": "https://openalex.org/keywords/sentiment-classification",
+        "display_name": "sentiment classification",
+        "score": 0.671999990940094
+      },
+      {
+        "id": "https://openalex.org/keywords/employee-feedback",
+        "display_name": "employee feedback",
+        "score": 0.8489999771118164
+      },
+      {
+        "id": "https://openalex.org/keywords/organizational-culture",
+        "display_name": "organizational culture",
+        "score": 0.8999999761581421
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.8195745348930359
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.5800688862800598
+      },
+      {
+        "id": "https://openalex.org/C204321447",
+        "wikidata": "https://www.wikidata.org/wiki/Q30642",
+        "display_name": "Natural language processing",
+        "level": 1,
+        "score": 0.5229842662811279
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1007/s44196-025-00747-1",
+        "doi": "https://doi.org/10.1007/s44196-025-00747-1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s44196-025-00747-1",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44196-025-00747-1.pdf",
+        "source": {
+          "id": "https://openalex.org/S190680769",
+          "display_name": "International Journal of Computational Intelligence Systems",
+          "issn_l": "1875-6883",
+          "issn": [
+            "1875-6883",
+            "1875-6891"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "oarl",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Computational Intelligence Systems",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:75f72ff164f547adae2661fbb389e9bf",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/75f72ff164f547adae2661fbb389e9bf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "International Journal of Computational Intelligence Systems, Vol 18, Iss 1, Pp 1-18 (2025)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1007/s44196-025-00747-1",
+      "doi": "https://doi.org/10.1007/s44196-025-00747-1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s44196-025-00747-1",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44196-025-00747-1.pdf",
+      "source": {
+        "id": "https://openalex.org/S190680769",
+        "display_name": "International Journal of Computational Intelligence Systems",
+        "issn_l": "1875-6883",
+        "issn": [
+          "1875-6883",
+          "1875-6891"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "oarl",
+          "poland-70",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Computational Intelligence Systems",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.48510000109672546,
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G1198819986",
+        "display_name": null,
+        "funder_award_id": "RSPD2025R1056",
+        "funder_id": "https://openalex.org/F4320321145",
+        "funder_display_name": "King Saud University"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320321145",
+        "display_name": "King Saud University",
+        "ror": "https://ror.org/02f81g417"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4407160918.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4407160918.grobid-xml"
+    },
+    "referenced_works_count": 36,
+    "referenced_works": [
+      "https://openalex.org/W2490659069",
+      "https://openalex.org/W2811286755",
+      "https://openalex.org/W2897251719",
+      "https://openalex.org/W2963240575",
+      "https://openalex.org/W2978376117",
+      "https://openalex.org/W2998825278",
+      "https://openalex.org/W3003618396",
+      "https://openalex.org/W3035740499",
+      "https://openalex.org/W3045825587",
+      "https://openalex.org/W3048659618",
+      "https://openalex.org/W3111125993",
+      "https://openalex.org/W3121186385",
+      "https://openalex.org/W3122631664",
+      "https://openalex.org/W3148700153",
+      "https://openalex.org/W3159506165",
+      "https://openalex.org/W3160188116",
+      "https://openalex.org/W3198253827",
+      "https://openalex.org/W3210828003",
+      "https://openalex.org/W4206543206",
+      "https://openalex.org/W4210254834",
+      "https://openalex.org/W4220814359",
+      "https://openalex.org/W4221117831",
+      "https://openalex.org/W4224011737",
+      "https://openalex.org/W4224035554",
+      "https://openalex.org/W4303985263",
+      "https://openalex.org/W4304957738",
+      "https://openalex.org/W4308441097",
+      "https://openalex.org/W4319659872",
+      "https://openalex.org/W4362588308",
+      "https://openalex.org/W4379620049",
+      "https://openalex.org/W4381337557",
+      "https://openalex.org/W4382940851",
+      "https://openalex.org/W4383262677",
+      "https://openalex.org/W4383346083",
+      "https://openalex.org/W4387642080",
+      "https://openalex.org/W6607775392"
+    ],
+    "related_works": [
+      "https://openalex.org/W4402647100",
+      "https://openalex.org/W4403106428",
+      "https://openalex.org/W7219196061",
+      "https://openalex.org/W4404578927",
+      "https://openalex.org/W7171990031",
+      "https://openalex.org/W7149678493",
+      "https://openalex.org/W6949185794",
+      "https://openalex.org/W4404756216",
+      "https://openalex.org/W7217632529",
+      "https://openalex.org/W4387812639"
+    ],
+    "abstract_inverted_index": {
+      "Sentiment": [
+        0
+      ],
+      "analysis": [
+        1
+      ],
+      "plays": [
+        2
+      ],
+      "an": [
+        3,
+        158
+      ],
+      "important": [
+        4
+      ],
+      "role": [
+        5
+      ],
+      "in": [
+        6,
+        65,
+        112
+      ],
+      "understanding": [
+        7
+      ],
+      "employee": [
+        8,
+        32,
+        56,
+        83
+      ],
+      "feedback": [
+        9,
+        21,
+        102,
+        146
+      ],
+      "and": [
+        10,
+        34,
+        51,
+        57,
+        63,
+        84,
+        123,
+        176
+      ],
+      "improving": [
+        11
+      ],
+      "workplace": [
+        12,
+        178
+      ],
+      "culture.": [
+        13,
+        179
+      ],
+      "By": [
+        14
+      ],
+      "leveraging": [
+        15
+      ],
+      "NLP": [
+        16
+      ],
+      "techniques": [
+        17
+      ],
+      "to": [
+        18,
+        81,
+        88,
+        99
+      ],
+      "analyze": [
+        19,
+        82
+      ],
+      "this": [
+        20,
+        74,
+        113,
+        136
+      ],
+      "accurately,": [
+        22
+      ],
+      "organizations": [
+        23
+      ],
+      "can": [
+        24
+      ],
+      "pinpoint": [
+        25
+      ],
+      "specific": [
+        26
+      ],
+      "areas": [
+        27
+      ],
+      "that": [
+        28
+      ],
+      "need": [
+        29
+      ],
+      "improvement,": [
+        30
+      ],
+      "address": [
+        31
+      ],
+      "concerns,": [
+        33
+      ],
+      "foster": [
+        35
+      ],
+      "a": [
+        36,
+        127
+      ],
+      "positive": [
+        37
+      ],
+      "work": [
+        38,
+        75
+      ],
+      "environment.": [
+        39
+      ],
+      "These": [
+        40
+      ],
+      "NLP-driven": [
+        41,
+        77
+      ],
+      "deep": [
+        42,
+        78,
+        94
+      ],
+      "learning": [
+        43,
+        79
+      ],
+      "models": [
+        44
+      ],
+      "offer": [
+        45
+      ],
+      "valuable": [
+        46
+      ],
+      "tools": [
+        47
+      ],
+      "for": [
+        48
+      ],
+      "E-Commerce": [
+        49
+      ],
+      "HR": [
+        50
+      ],
+      "sales": [
+        52
+      ],
+      "departments,": [
+        53
+      ],
+      "enabling": [
+        54
+      ],
+      "monitoring": [
+        55
+      ],
+      "users\u2019": [
+        58
+      ],
+      "sentiment": [
+        59
+      ],
+      "trends": [
+        60
+      ],
+      "over": [
+        61
+      ],
+      "time": [
+        62
+      ],
+      "assisting": [
+        64
+      ],
+      "implementing": [
+        66
+      ],
+      "targeted": [
+        67
+      ],
+      "interventions.": [
+        68
+      ],
+      "Focusing": [
+        69
+      ],
+      "on": [
+        70,
+        141
+      ],
+      "the": [
+        71,
+        148,
+        154
+      ],
+      "e-commerce": [
+        72,
+        149,
+        171
+      ],
+      "industry,": [
+        73
+      ],
+      "utilizes": [
+        76
+      ],
+      "methodologies": [
+        80
+      ],
+      "user": [
+        85,
+        101
+      ],
+      "feedback,": [
+        86
+      ],
+      "aiming": [
+        87
+      ],
+      "identify": [
+        89
+      ],
+      "sentiments.": [
+        90,
+        108
+      ],
+      "The": [
+        91,
+        109,
+        133,
+        151,
+        167
+      ],
+      "proposed": [
+        92
+      ],
+      "NLP-driven,": [
+        93
+      ],
+      "learning-based": [
+        95
+      ],
+      "framework": [
+        96,
+        114
+      ],
+      "is": [
+        97
+      ],
+      "designed": [
+        98
+      ],
+      "classify": [
+        100
+      ],
+      "into": [
+        103
+      ],
+      "positive,": [
+        104
+      ],
+      "negative,": [
+        105
+      ],
+      "or": [
+        106
+      ],
+      "neutral": [
+        107
+      ],
+      "key": [
+        110
+      ],
+      "steps": [
+        111
+      ],
+      "include": [
+        115
+      ],
+      "data": [
+        116
+      ],
+      "collection,": [
+        117
+      ],
+      "NLP-enhanced": [
+        118
+      ],
+      "feature": [
+        119
+      ],
+      "extraction": [
+        120
+      ],
+      "using": [
+        121,
+        126
+      ],
+      "BERT-BiGRU,": [
+        122
+      ],
+      "final": [
+        124
+      ],
+      "classification": [
+        125
+      ],
+      "Graph": [
+        128
+      ],
+      "Neural": [
+        129
+      ],
+      "Network-based": [
+        130
+      ],
+      "finite-state": [
+        131
+      ],
+      "automata.": [
+        132
+      ],
+      "effectiveness": [
+        134
+      ],
+      "of": [
+        135,
+        144
+      ],
+      "NLP-centric": [
+        137
+      ],
+      "approach": [
+        138
+      ],
+      "was": [
+        139
+      ],
+      "tested": [
+        140
+      ],
+      "diverse": [
+        142
+      ],
+      "datasets": [
+        143
+      ],
+      "customer": [
+        145
+      ],
+      "from": [
+        147
+      ],
+      "industry.": [
+        150
+      ],
+      "results": [
+        152
+      ],
+      "demonstrate": [
+        153
+      ],
+      "framework\u2019s": [
+        155
+      ],
+      "efficacy,": [
+        156
+      ],
+      "achieving": [
+        157
+      ],
+      "impressive": [
+        159
+      ],
+      "93.35%": [
+        160
+      ],
+      "accuracy": [
+        161
+      ],
+      "rate,": [
+        162
+      ],
+      "surpassing": [
+        163
+      ],
+      "existing": [
+        164
+      ],
+      "benchmark": [
+        165
+      ],
+      "methods.": [
+        166
+      ],
+      "research": [
+        168
+      ],
+      "significantly": [
+        169
+      ],
+      "benefits": [
+        170
+      ],
+      "by": [
+        172
+      ],
+      "refining": [
+        173
+      ],
+      "product": [
+        174
+      ],
+      "portfolios": [
+        175
+      ],
+      "enhancing": [
+        177
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-11-02T09:45:03.842371",
+    "created_date": "2025-02-05T00:00:00"
+  }
+}

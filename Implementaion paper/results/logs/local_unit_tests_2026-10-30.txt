@@ -1,0 +1,18 @@
+test_abstention_cannot_inflate_f1_end_to_end (test_audit_edges.AuditEdges.test_abstention_cannot_inflate_f1_end_to_end) ... ok
+test_missing_source_unknown (test_audit_edges.AuditEdges.test_missing_source_unknown) ... ok
+test_multi_doi_not_selected_even_when_regex_matches (test_audit_edges.AuditEdges.test_multi_doi_not_selected_even_when_regex_matches) ... ok
+test_reinstatement_requires_review (test_audit_edges.AuditEdges.test_reinstatement_requires_review) ... ok
+test_unverified_scoring_refused (test_audit_edges.AuditEdges.test_unverified_scoring_refused) ... ok
+test_crossref (test_core.Rules.test_crossref) ... ok
+test_doi (test_core.Rules.test_doi) ... ok
+test_oa (test_core.Rules.test_oa) ... ok
+test_score_refusal (test_core.Rules.test_score_refusal) ... ok
+test_union (test_core.Rules.test_union) ... ok
+test_missing_columns_fails (test_validate_rw.CSVValidationTests.test_missing_columns_fails) ... ok
+test_missing_file_fails (test_validate_rw.CSVValidationTests.test_missing_file_fails) ... ok
+test_valid_fixture_counts_and_no_ground_truth_claim (test_validate_rw.CSVValidationTests.test_valid_fixture_counts_and_no_ground_truth_claim) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.020s
+
+OK

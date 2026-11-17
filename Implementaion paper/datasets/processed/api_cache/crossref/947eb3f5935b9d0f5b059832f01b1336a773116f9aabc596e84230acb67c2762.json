@@ -1,0 +1,304 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/bf00993078",
+  "url": "https://api.crossref.org/works/10.1007%2Fbf00993078",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:58.282983+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2025-07-11T10:50:13Z",
+      "timestamp": 1752231013471
+    },
+    "reference-count": 19,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "2-3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1993,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1993-01-01T00:00:00Z",
+          "timestamp": 725846400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mach Learn"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "DOI": "10.1007/bf00993078",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2005-01-14T17:59:15Z",
+      "timestamp": 1105725555000
+    },
+    "page": "217-235",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Balanced cooperative modeling"
+    ],
+    "prefix": "10.1007",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Katharina",
+        "family": "Morik",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "CR1",
+        "unstructured": "Davies, T.R., & Russell, S.J. (1987). A logical approach to reasoning by analogy.Proceedings of IJCAI-87. Morgan Kaufmann."
+      },
+      {
+        "key": "CR2",
+        "unstructured": "Emde, W., Habel, C., & Rollinger, C.-R. (1983). The discovery of the equator or concept-driven learning.Proceedings of IJCAI-83. Morgan Kaufmann."
+      },
+      {
+        "key": "CR3",
+        "unstructured": "Kietz, J.-U., & Morik, K. (1991). Constructive induction: Learning concepts for learning.Arbeitspapiere der GMD, No. 543."
+      },
+      {
+        "key": "CR4",
+        "volume-title": "Inductive logic programming",
+        "author": "J.-U. Kietz",
+        "year": "1991",
+        "unstructured": "Kietz, J.-U., & Wrobel, S. (1991). Controlling the complexity of learning through syntactic and task-oriented models. In S. Muggleton (Ed.),Inductive logic programming, London: Academic Press."
+      },
+      {
+        "key": "CR5",
+        "unstructured": "Kietz, J.-U. (1988). Incremental and reversible acquisition of taxonomies. In M. Linster, J. Boose, & B. Gaines (Eds.),Proceedings of EKAW-88. GMD-Studien 143."
+      },
+      {
+        "key": "CR6",
+        "unstructured": "Klingspor, V. (1991). MOBAL's predicate structuring tool.Deliverable 4.3.2/G of the MLT project (MLT-Report, No. GMD/P2154/22/1)."
+      },
+      {
+        "key": "CR7",
+        "volume-title": "Knowledge Representation and Organization in Machine Learning",
+        "author": "Y. Kodratoff",
+        "year": "1989",
+        "unstructured": "Kodratoff, Y., & Tecuci, G. (1989). The central role of explanations in DISCIPLE. In K. Morik (Ed.),Knowledge Representation and Organization in Machine Learning. New York: Springer."
+      },
+      {
+        "key": "CR8",
+        "unstructured": "Michalski, R.S. (1991). Inferential learning theory as a basis for multistrategy task-adaptive learning. In R.S. Michalski & G. Tecuci (Eds.),First International Workshop on Multistrategy Learning. West Virginia."
+      },
+      {
+        "key": "CR9",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/BFb0017213",
+        "volume-title": "Knowledge Representation and Organization in Machine Learning",
+        "author": "K. Morik",
+        "year": "1989",
+        "unstructured": "Morik, K. (1989). Sloppy modeling. In K. Morik (Ed.),Knowledge Representation and Organization in Machine Learning. New York: Springer."
+      },
+      {
+        "key": "CR10",
+        "volume-title": "Proceedings of 6th IWML",
+        "author": "K. Morik",
+        "year": "1989",
+        "unstructured": "Morik, K., & Kietz, J.-U. (1989). A bootstrapping approach to conceptual clustering. In A. Serge (Ed.),Proceedings of 6th IWML. San Mateo: Morgan Kaufmann."
+      },
+      {
+        "key": "CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1016/1042-8143(91)90002-5",
+        "volume": "3",
+        "author": "K. Morik",
+        "year": "1991",
+        "unstructured": "Morik, K. (1991). Underlying assumptions of knowledge acquisition and machine learning.Knowledge Acquisition Journal, 3, 137?156.",
+        "journal-title": "Knowledge Acquisition Journal"
+      },
+      {
+        "key": "CR12",
+        "unstructured": "Morik, K., Causse, K., & Boswell, R. (1991). A common knowledge representation integrating learning tools. In R.S. Michalski & G. Tecuci (Eds.),First International Workshop on Multistrategy Learning, West Virginia."
+      },
+      {
+        "key": "CR13",
+        "volume-title": "Machine learning?An artificial intelligence approach, vol. I",
+        "author": "R. Quinlan",
+        "year": "1983",
+        "unstructured": "Quinlan, R. (1983). Learning efficient classification procedures and their application to chess end games. In R.S. Michalski, J.G. Carbonell, & T. Mitchell.Machine learning?An artificial intelligence approach, vol. I, Palo Alto, CA: Tioga."
+      },
+      {
+        "key": "CR14",
+        "first-page": "239",
+        "volume": "3",
+        "author": "R. Quinlan",
+        "year": "1990",
+        "unstructured": "Quinlan, R. (1990). Learning logical definitions from relations.Machine Learning Journal, 3, 239?266.",
+        "journal-title": "Machine Learning Journal"
+      },
+      {
+        "key": "CR15",
+        "series-title": "Yale Research Report",
+        "volume-title": "Inductive inference from facts",
+        "author": "E.Y. Shapiro",
+        "year": "1981",
+        "unstructured": "Shapiro, E.Y. (1981). Inductive inference from facts. (Yale Research Report No. 192). Yale University, New Haven, CT."
+      },
+      {
+        "key": "CR16",
+        "volume-title": "Knowledge representation and organization in machine learning",
+        "author": "S. Thieme",
+        "year": "1989",
+        "unstructured": "Thieme, S. (1989). The acquisition of model knowledge for a model-driven machine learning approach. In K. Morik (Ed.),Knowledge representation and organization in machine learning. New York: Springer."
+      },
+      {
+        "key": "CR17",
+        "volume-title": "Proceedings of the German Workshop on AI",
+        "author": "S. Wrobel",
+        "year": "1987",
+        "unstructured": "Wrobel, S. (1987). Higher-order concepts in a tractable knowledge representation. In K. Morik (Ed.),Proceedings of the German Workshop on AI. Berlin, Heidelberg: Springer."
+      },
+      {
+        "key": "CR18",
+        "volume-title": "Knowledge representation and organization in machine learning",
+        "author": "S. Wrobel",
+        "year": "1989",
+        "unstructured": "Wrobel, S. (1989). Demand-driven concept formation. In K. Morik (Ed.),Knowledge representation and organization in machine learning. New York: Springer."
+      },
+      {
+        "key": "CR19",
+        "volume-title": "Machine learning-ECML-93",
+        "author": "S. Wrobel",
+        "year": "1993",
+        "unstructured": "Wrobel, S. (1993). On the proper definition of minimality in specialization and theory revision. In P. Brazdil (Ed.),Machine learning-ECML-93, New York: Springer."
+      }
+    ],
+    "container-title": [
+      "Machine Learning"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF00993078.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/BF00993078/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF00993078",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2019-04-29T22:58:40Z",
+      "timestamp": 1556578720000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/BF00993078"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+      "issue": "2-3",
+      "published-print": {
+        "date-parts": [
+          [
+            1993
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BF00993078"
+    ],
+    "URL": "https://doi.org/10.1007/bf00993078",
+    "relation": {},
+    "ISSN": [
+      "0885-6125",
+      "1573-0565"
+    ],
+    "issn-type": [
+      {
+        "value": "0885-6125",
+        "type": "print"
+      },
+      {
+        "value": "1573-0565",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
+  }
+}

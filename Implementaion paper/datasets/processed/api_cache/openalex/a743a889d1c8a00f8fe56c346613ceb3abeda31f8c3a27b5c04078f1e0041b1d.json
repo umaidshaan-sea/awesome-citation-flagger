@@ -1,0 +1,1648 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1371/journal.pone.0093041",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1371%2Fjournal.pone.0093041",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:36.056312+00:00",
+  "record": {
+    "id": "https://openalex.org/W2019477006",
+    "doi": "https://doi.org/10.1371/journal.pone.0093041",
+    "title": "Distinct Pathways of ERK1/2 Activation by Hydroxy-Carboxylic Acid Receptor-1",
+    "display_name": "Distinct Pathways of ERK1/2 Activation by Hydroxy-Carboxylic Acid Receptor-1",
+    "publication_year": 2014,
+    "publication_date": "2014-03-26",
+    "ids": {
+      "openalex": "https://openalex.org/W2019477006",
+      "doi": "https://doi.org/10.1371/journal.pone.0093041",
+      "mag": "2019477006",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/24671202",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/3966839"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1371/journal.pone.0093041",
+      "doi": "https://doi.org/10.1371/journal.pone.0093041",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0093041",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0093041&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLoS ONE",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0093041&type=printable",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5023132579",
+          "display_name": "Li Guo",
+          "orcid": "https://orcid.org/0000-0002-7445-5257",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7445-5257"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I163151501",
+            "display_name": "Hangzhou Normal University",
+            "ror": "https://ror.org/014v1mr15",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Guo Li",
+        "raw_affiliation_strings": [
+          "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China",
+            "institution_ids": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5111669882",
+          "display_name": "Hui-qian Wang",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I163151501",
+            "display_name": "Hangzhou Normal University",
+            "ror": "https://ror.org/014v1mr15",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hui-qian Wang",
+        "raw_affiliation_strings": [
+          "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China",
+            "institution_ids": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5115594437",
+          "display_name": "Lihui Wang",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I163151501",
+            "display_name": "Hangzhou Normal University",
+            "ror": "https://ror.org/014v1mr15",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Li-hui Wang",
+        "raw_affiliation_strings": [
+          "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China",
+            "institution_ids": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5086633981",
+          "display_name": "Ru-ping Chen",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I163151501",
+            "display_name": "Hangzhou Normal University",
+            "ror": "https://ror.org/014v1mr15",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ru-ping Chen",
+        "raw_affiliation_strings": [
+          "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China",
+            "institution_ids": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5100734995",
+          "display_name": "Junping Liu",
+          "orcid": "https://orcid.org/0000-0001-7442-2116",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7442-2116"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I163151501",
+            "display_name": "Hangzhou Normal University",
+            "ror": "https://ror.org/014v1mr15",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jun-ping Liu",
+        "raw_affiliation_strings": [
+          "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute of Aging Research, School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China",
+            "institution_ids": [
+              "https://openalex.org/I163151501"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5023132579",
+      "https://openalex.org/A5100734995"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I163151501"
+    ],
+    "apc_list": {
+      "value": 2382,
+      "currency": "USD",
+      "value_usd": 2382
+    },
+    "apc_paid": {
+      "value": 2382,
+      "currency": "USD",
+      "value_usd": 2382
+    },
+    "fwci": 0.5464,
+    "has_fulltext": true,
+    "cited_by_count": 30,
+    "citation_normalized_percentile": {
+      "value": 0.63330229,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 93,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "9",
+      "issue": "3",
+      "first_page": "e93041",
+      "last_page": "e93041"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11178",
+      "display_name": "Receptor Mechanisms and Signaling",
+      "score": 0.9672999978065491,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11178",
+        "display_name": "Receptor Mechanisms and Signaling",
+        "score": 0.9672999978065491,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10169",
+        "display_name": "Protein Kinase Regulation and GTPase Signaling",
+        "score": 0.01510000042617321,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11072",
+        "display_name": "Peroxisome Proliferator-Activated Receptors",
+        "score": 0.002099999925121665,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/erk1-2-activation",
+        "display_name": "ERK1/2 activation",
+        "score": 0.9259999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/g-protein-coupled-receptor-signaling",
+        "display_name": "G protein-coupled receptor signaling",
+        "score": 0.8370000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/gi-protein",
+        "display_name": "Gi protein",
+        "score": 0.8740000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/gbetagamma-subunits",
+        "display_name": "G\u03b2\u03b3 subunits",
+        "score": 0.8479999899864197
+      },
+      {
+        "id": "https://openalex.org/keywords/pertussis-toxin",
+        "display_name": "pertussis toxin",
+        "score": 0.8529999852180481
+      },
+      {
+        "id": "https://openalex.org/keywords/protein-kinase-c",
+        "display_name": "protein kinase C",
+        "score": 0.921999990940094
+      },
+      {
+        "id": "https://openalex.org/keywords/extracellular-calcium",
+        "display_name": "extracellular calcium",
+        "score": 0.7409999966621399
+      },
+      {
+        "id": "https://openalex.org/keywords/arrestin",
+        "display_name": "arrestin",
+        "score": 0.6380000114440918
+      },
+      {
+        "id": "https://openalex.org/keywords/free-fatty-acid-release",
+        "display_name": "free fatty acid release",
+        "score": 0.7459999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/adenylyl-cyclase-inhibition",
+        "display_name": "adenylate cyclase inhibition",
+        "score": 0.7599999904632568
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C1292079",
+        "wikidata": "https://www.wikidata.org/wiki/Q3817769",
+        "display_name": "Transactivation",
+        "level": 4,
+        "score": 0.7271461486816406
+      },
+      {
+        "id": "https://openalex.org/C49773422",
+        "wikidata": "https://www.wikidata.org/wiki/Q4859345",
+        "display_name": "Pertussis toxin",
+        "level": 4,
+        "score": 0.6768806576728821
+      },
+      {
+        "id": "https://openalex.org/C62478195",
+        "wikidata": "https://www.wikidata.org/wiki/Q828130",
+        "display_name": "Signal transduction",
+        "level": 2,
+        "score": 0.6235241889953613
+      },
+      {
+        "id": "https://openalex.org/C170493617",
+        "wikidata": "https://www.wikidata.org/wiki/Q208467",
+        "display_name": "Receptor",
+        "level": 2,
+        "score": 0.5947622656822205
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "wikidata": "https://www.wikidata.org/wiki/Q7141",
+        "display_name": "Cell biology",
+        "level": 1,
+        "score": 0.5884580016136169
+      },
+      {
+        "id": "https://openalex.org/C2778938600",
+        "wikidata": "https://www.wikidata.org/wiki/Q389934",
+        "display_name": "Agonist",
+        "level": 3,
+        "score": 0.5515807867050171
+      },
+      {
+        "id": "https://openalex.org/C11960822",
+        "wikidata": "https://www.wikidata.org/wiki/Q242736",
+        "display_name": "Phosphorylation",
+        "level": 2,
+        "score": 0.4948121905326843
+      },
+      {
+        "id": "https://openalex.org/C57074206",
+        "wikidata": "https://www.wikidata.org/wiki/Q14197552",
+        "display_name": "MAPK/ERK pathway",
+        "level": 3,
+        "score": 0.4753139615058899
+      },
+      {
+        "id": "https://openalex.org/C184235292",
+        "wikidata": "https://www.wikidata.org/wiki/Q421851",
+        "display_name": "Kinase",
+        "level": 2,
+        "score": 0.4630330801010132
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.45179131627082825
+      },
+      {
+        "id": "https://openalex.org/C180526460",
+        "wikidata": "https://www.wikidata.org/wiki/Q356240",
+        "display_name": "Adenylate kinase",
+        "level": 3,
+        "score": 0.41359743475914
+      },
+      {
+        "id": "https://openalex.org/C80631254",
+        "wikidata": "https://www.wikidata.org/wiki/Q407438",
+        "display_name": "G protein",
+        "level": 3,
+        "score": 0.3973621129989624
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.38662731647491455
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.37803542613983154
+      },
+      {
+        "id": "https://openalex.org/C150194340",
+        "wikidata": "https://www.wikidata.org/wiki/Q26972",
+        "display_name": "Gene expression",
+        "level": 3,
+        "score": 0.08219927549362183
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002352",
+        "descriptor_name": "Carrier Proteins",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002352",
+        "descriptor_name": "Carrier Proteins",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D002352",
+        "descriptor_name": "Carrier Proteins",
+        "qualifier_ui": "Q000819",
+        "qualifier_name": "agonists",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D003412",
+        "descriptor_name": "Cricetulus",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006224",
+        "descriptor_name": "Cricetinae",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009419",
+        "descriptor_name": "Nerve Tissue Proteins",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009419",
+        "descriptor_name": "Nerve Tissue Proteins",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D009419",
+        "descriptor_name": "Nerve Tissue Proteins",
+        "qualifier_ui": "Q000819",
+        "qualifier_name": "agonists",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009687",
+        "descriptor_name": "Nuclear Proteins",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010738",
+        "descriptor_name": "Type C Phospholipases",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010739",
+        "descriptor_name": "Phospholipase D",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010766",
+        "descriptor_name": "Phosphorylation",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011493",
+        "descriptor_name": "Protein Kinase C",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011499",
+        "descriptor_name": "Protein Processing, Post-Translational",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015533",
+        "descriptor_name": "Transcriptional Activation",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016466",
+        "descriptor_name": "CHO Cells",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D017526",
+        "descriptor_name": "Receptor, IGF Type 1",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D017526",
+        "descriptor_name": "Receptor, IGF Type 1",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019061",
+        "descriptor_name": "src-Family Kinases",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019344",
+        "descriptor_name": "Lactic Acid",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019390",
+        "descriptor_name": "Arrestins",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019869",
+        "descriptor_name": "Phosphatidylinositol 3-Kinases",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D020935",
+        "descriptor_name": "MAP Kinase Signaling System",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D020962",
+        "descriptor_name": "Heterotrimeric GTP-Binding Proteins",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D037342",
+        "descriptor_name": "Pertussis Toxin",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D048049",
+        "descriptor_name": "Extracellular Signal-Regulated MAP Kinases",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D051381",
+        "descriptor_name": "Rats",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D057809",
+        "descriptor_name": "HEK293 Cells",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D066246",
+        "descriptor_name": "ErbB Receptors",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.1371/journal.pone.0093041",
+        "doi": "https://doi.org/10.1371/journal.pone.0093041",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1371/journal.pone.0093041",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0093041&type=printable",
+        "source": {
+          "id": "https://openalex.org/S202381698",
+          "display_name": "PLoS ONE",
+          "issn_l": "1932-6203",
+          "issn": [
+            "1932-6203"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315706",
+          "host_organization_name": "Public Library of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315706"
+          ],
+          "host_organization_lineage_names": [
+            "Public Library of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS ONE",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:2952481",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://europepmc.org/articles/PMC3966839",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:3966839",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3966839",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS One",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:24671202",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/24671202",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PloS one",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:42a9e9f6427748a2983488467b9b7e09",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/42a9e9f6427748a2983488467b9b7e09",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PLoS ONE, Vol 9, Iss 3, p e93041 (2014)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1371/journal.pone.0093041",
+      "doi": "https://doi.org/10.1371/journal.pone.0093041",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0093041",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0093041&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLoS ONE",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G2583153723",
+        "display_name": "\u7ec6\u80de\u5468\u671f\u6fc0\u9176Aurora-A\u4fc3\u8fdb\u4e73\u817a\u764c\u8f6c\u79fb\u7684\u4f5c\u7528\u673a\u5236\u7814\u7a76",
+        "funder_award_id": "81000955",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      },
+      {
+        "id": "https://openalex.org/G5169838731",
+        "display_name": "GPR31\u4fe1\u53f7\u8f6c\u5bfc\u673a\u5236\u53ca\u5176\u5728\u80bf\u7624\u6cbb\u7597\u4e0a\u7684\u5e94\u7528",
+        "funder_award_id": "31201067",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320321001",
+        "display_name": "National Natural Science Foundation of China",
+        "ror": "https://ror.org/01h0zpd94"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2019477006.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2019477006.grobid-xml"
+    },
+    "referenced_works_count": 41,
+    "referenced_works": [
+      "https://openalex.org/W175842496",
+      "https://openalex.org/W1567065545",
+      "https://openalex.org/W1567382319",
+      "https://openalex.org/W1570476699",
+      "https://openalex.org/W1933410007",
+      "https://openalex.org/W1965004625",
+      "https://openalex.org/W1971613560",
+      "https://openalex.org/W1974702025",
+      "https://openalex.org/W1975915718",
+      "https://openalex.org/W1976762010",
+      "https://openalex.org/W1979103781",
+      "https://openalex.org/W1987841256",
+      "https://openalex.org/W1993717649",
+      "https://openalex.org/W1994161105",
+      "https://openalex.org/W2000499358",
+      "https://openalex.org/W2000630926",
+      "https://openalex.org/W2011792786",
+      "https://openalex.org/W2018332833",
+      "https://openalex.org/W2026027356",
+      "https://openalex.org/W2032847998",
+      "https://openalex.org/W2034825884",
+      "https://openalex.org/W2050141745",
+      "https://openalex.org/W2056010202",
+      "https://openalex.org/W2056772835",
+      "https://openalex.org/W2062420270",
+      "https://openalex.org/W2068022034",
+      "https://openalex.org/W2069180517",
+      "https://openalex.org/W2079933309",
+      "https://openalex.org/W2086554547",
+      "https://openalex.org/W2090115932",
+      "https://openalex.org/W2091506413",
+      "https://openalex.org/W2092014913",
+      "https://openalex.org/W2128353925",
+      "https://openalex.org/W2134287536",
+      "https://openalex.org/W2137092708",
+      "https://openalex.org/W2143227312",
+      "https://openalex.org/W2158025896",
+      "https://openalex.org/W2160536323",
+      "https://openalex.org/W2168444924",
+      "https://openalex.org/W2413018742",
+      "https://openalex.org/W4285719527"
+    ],
+    "related_works": [
+      "https://openalex.org/W1570476699",
+      "https://openalex.org/W2007537092",
+      "https://openalex.org/W2737588604",
+      "https://openalex.org/W2148337375",
+      "https://openalex.org/W2068522523",
+      "https://openalex.org/W2036030447",
+      "https://openalex.org/W2135114842",
+      "https://openalex.org/W2169780191",
+      "https://openalex.org/W2312954488",
+      "https://openalex.org/W4391649664"
+    ],
+    "abstract_inverted_index": {
+      "Mechanistic": [
+        0
+      ],
+      "investigations": [
+        1
+      ],
+      "have": [
+        2
+      ],
+      "shown": [
+        3
+      ],
+      "that,": [
+        4
+      ],
+      "upon": [
+        5,
+        156
+      ],
+      "agonist": [
+        6
+      ],
+      "activation,": [
+        7
+      ],
+      "hydroxy-carboxylic": [
+        8
+      ],
+      "acid": [
+        9
+      ],
+      "receptor-1(HCA1)": [
+        10
+      ],
+      "couples": [
+        11
+      ],
+      "to": [
+        12,
+        22,
+        158,
+        166
+      ],
+      "a": [
+        13,
+        126
+      ],
+      "Gi": [
+        14
+      ],
+      "protein": [
+        15
+      ],
+      "and": [
+        16,
+        47,
+        70,
+        96,
+        175,
+        187
+      ],
+      "inhibits": [
+        17
+      ],
+      "adenylate": [
+        18
+      ],
+      "cyclase": [
+        19
+      ],
+      "activity,": [
+        20
+      ],
+      "leading": [
+        21,
+        165
+      ],
+      "inhibition": [
+        23
+      ],
+      "of": [
+        24,
+        26,
+        60,
+        113,
+        168,
+        205
+      ],
+      "liberation": [
+        25
+      ],
+      "free": [
+        27
+      ],
+      "fatty": [
+        28
+      ],
+      "acid.": [
+        29
+      ],
+      "However,": [
+        30
+      ],
+      "the": [
+        31,
+        92,
+        107,
+        119,
+        136,
+        142,
+        169,
+        188,
+        196,
+        202
+      ],
+      "underlying": [
+        32
+      ],
+      "molecular": [
+        33,
+        203
+      ],
+      "mechanisms": [
+        34
+      ],
+      "for": [
+        35,
+        129,
+        147
+      ],
+      "HCA1": [
+        36,
+        54,
+        63,
+        87,
+        160
+      ],
+      "signaling": [
+        37
+      ],
+      "remain": [
+        38
+      ],
+      "largely": [
+        39
+      ],
+      "unknown.": [
+        40
+      ],
+      "Using": [
+        41
+      ],
+      "CHO-K1": [
+        42
+      ],
+      "cells": [
+        43,
+        108
+      ],
+      "stably": [
+        44
+      ],
+      "expressing": [
+        45
+      ],
+      "HCA1,": [
+        46,
+        124
+      ],
+      "L6": [
+        48
+      ],
+      "cells,": [
+        49
+      ],
+      "which": [
+        50
+      ],
+      "endogenously": [
+        51
+      ],
+      "express": [
+        52
+      ],
+      "rat": [
+        53
+      ],
+      "receptors,": [
+        55
+      ],
+      "we": [
+        56,
+        103
+      ],
+      "found": [
+        57
+      ],
+      "that": [
+        58,
+        86,
+        105,
+        141,
+        155,
+        200
+      ],
+      "activation": [
+        59,
+        90,
+        121,
+        179
+      ],
+      "ERK1/2": [
+        61,
+        89,
+        120,
+        133,
+        148,
+        178,
+        207
+      ],
+      "by": [
+        62,
+        74,
+        123
+      ],
+      "was": [
+        64,
+        71
+      ],
+      "rapid,": [
+        65
+      ],
+      "peaking": [
+        66
+      ],
+      "at": [
+        67
+      ],
+      "5": [
+        68
+      ],
+      "min,": [
+        69
+      ],
+      "significantly": [
+        72
+      ],
+      "blocked": [
+        73
+      ],
+      "pertussis": [
+        75
+      ],
+      "toxin.": [
+        76
+      ],
+      "Furthermore,": [
+        77,
+        135
+      ],
+      "time": [
+        78
+      ],
+      "course": [
+        79
+      ],
+      "experiments": [
+        80
+      ],
+      "with": [
+        81,
+        109
+      ],
+      "different": [
+        82
+      ],
+      "kinase": [
+        83
+      ],
+      "inhibitors": [
+        84
+      ],
+      "demonstrated": [
+        85
+      ],
+      "induced": [
+        88
+      ],
+      "via": [
+        91,
+        180
+      ],
+      "extracellular": [
+        93
+      ],
+      "Ca2+,": [
+        94
+      ],
+      "PKC": [
+        95
+      ],
+      "IGF-I": [
+        97
+      ],
+      "receptor": [
+        98
+      ],
+      "transactivation-dependent": [
+        99,
+        191
+      ],
+      "pathways.": [
+        100
+      ],
+      "In": [
+        101,
+        150
+      ],
+      "addition,": [
+        102
+      ],
+      "observed": [
+        104
+      ],
+      "pretreated": [
+        106
+      ],
+      "M119K,": [
+        110
+      ],
+      "an": [
+        111
+      ],
+      "inhibitor": [
+        112
+      ],
+      "G\u03b2\u03b3": [
+        114,
+        170
+      ],
+      "subunit-dependent": [
+        115
+      ],
+      "signaling,": [
+        116
+      ],
+      "effectively": [
+        117
+      ],
+      "attenuated": [
+        118
+      ],
+      "triggered": [
+        122
+      ],
+      "suggesting": [
+        125
+      ],
+      "critical": [
+        127
+      ],
+      "role": [
+        128
+      ],
+      "\u03b2\u03b3-subunits": [
+        130
+      ],
+      "in": [
+        131
+      ],
+      "HCA1-activated": [
+        132
+      ],
+      "phosphorylation.": [
+        134
+      ],
+      "present": [
+        137
+      ],
+      "results": [
+        138,
+        194
+      ],
+      "also": [
+        139
+      ],
+      "indicated": [
+        140
+      ],
+      "arrestin2/3": [
+        143
+      ],
+      "were": [
+        144
+      ],
+      "not": [
+        145
+      ],
+      "required": [
+        146
+      ],
+      "activation.": [
+        149,
+        208
+      ],
+      "conclusion,": [
+        151
+      ],
+      "our": [
+        152
+      ],
+      "findings": [
+        153
+      ],
+      "demonstrate": [
+        154
+      ],
+      "binding": [
+        157
+      ],
+      "agonist,": [
+        159
+      ],
+      "receptors": [
+        161
+      ],
+      "initially": [
+        162
+      ],
+      "activate": [
+        163
+      ],
+      "Gi,": [
+        164,
+        174
+      ],
+      "dissociation": [
+        167
+      ],
+      "subunit": [
+        171
+      ],
+      "from": [
+        172
+      ],
+      "activated": [
+        173
+      ],
+      "subsequently": [
+        176
+      ],
+      "induce": [
+        177
+      ],
+      "two": [
+        181
+      ],
+      "distinct": [
+        182
+      ],
+      "pathways:": [
+        183
+      ],
+      "one": [
+        184
+      ],
+      "PKC-dependent": [
+        185
+      ],
+      "pathway": [
+        186
+      ],
+      "other": [
+        189
+      ],
+      "IGF-IR": [
+        190
+      ],
+      "pathway.": [
+        192
+      ],
+      "Our": [
+        193
+      ],
+      "provide": [
+        195
+      ],
+      "first": [
+        197
+      ],
+      "in-depth": [
+        198
+      ],
+      "evidence": [
+        199
+      ],
+      "defines": [
+        201
+      ],
+      "mechanism": [
+        204
+      ],
+      "HCA1-mediated": [
+        206
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

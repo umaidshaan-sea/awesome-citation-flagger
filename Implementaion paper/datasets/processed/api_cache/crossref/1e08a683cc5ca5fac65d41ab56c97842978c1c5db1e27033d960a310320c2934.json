@@ -1,0 +1,731 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s00500-022-07457-2",
+  "url": "https://api.crossref.org/works/10.1007%2Fs00500-022-07457-2",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:46.118252+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2026-04-23T00:00:09Z",
+      "timestamp": 1776902409940,
+      "version": "3.51.2"
+    },
+    "reference-count": 33,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "18",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              9
+            ]
+          ],
+          "date-time": "2022-09-09T00:00:00Z",
+          "timestamp": 1662681600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              9
+            ]
+          ],
+          "date-time": "2022-09-09T00:00:00Z",
+          "timestamp": 1662681600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Soft Comput"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00500-022-07457-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2022-09-09T10:28:52Z",
+      "timestamp": 1662719332000
+    },
+    "page": "13305-13319",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "RETRACTED ARTICLE: An automatic and intelligent brain tumor detection using Lee sigma filtered histogram segmentation model"
+    ],
+    "prefix": "10.1007",
+    "volume": "27",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1680-1382",
+        "authenticated-orcid": false,
+        "given": "Simy Mary",
+        "family": "Kurian",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sujitha",
+        "family": "Juliet",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "7457_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "107119",
+        "DOI": "10.1016/j.compchemeng.2020.107119",
+        "volume": "143",
+        "author": "A Ajagekar",
+        "year": "2020",
+        "unstructured": "Ajagekar A, You F (2020) Quantum computing assisted deep learning for fault detection and diagnosis in industrial process systems. Computers Chem Eng 143:107119",
+        "journal-title": "Computers Chem Eng"
+      },
+      {
+        "key": "7457_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.artmed.2019.101779",
+        "volume": "102",
+        "author": "S Ali",
+        "year": "2020",
+        "unstructured": "Ali S, Ismael A, Mohammed A, Hefny H (2020a) An enhanced deep learning approach for brain cancer MRI images classification using residual networks. Artificial Intell Med 102:1\u201314. https://doi.org/10.1016/j.artmed.2019.101779",
+        "journal-title": "Artificial Intell Med"
+      },
+      {
+        "key": "7457_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "153589",
+        "DOI": "10.1109/ACCESS.2020.3018160",
+        "volume": "8",
+        "author": "M Ali",
+        "year": "2020",
+        "unstructured": "Ali M, Gilani SO, Waris A, Zafar K, Jamil M (2020b) Brain tumour image segmentation using deep networks. IEEE Access 8:153589\u2013153598. https://doi.org/10.1109/ACCESS.2020.3018160",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "7457_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.jneumeth.2019.108520",
+        "volume": "330",
+        "author": "A Alsadoon",
+        "year": "2020",
+        "unstructured": "Alsadoon A, Prasad PWC, Al-Dalain T, Alsadoon OH (2020) A novel enhanced softmax loss function for brain tumour detection using deep learning. J Neurosci Methods 330:1\u201320. https://doi.org/10.1016/j.jneumeth.2019.108520",
+        "journal-title": "J Neurosci Methods"
+      },
+      {
+        "key": "7457_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "52575",
+        "DOI": "10.1109/ACCESS.2020.2980728",
+        "volume": "8",
+        "author": "ZA Al-Saffar",
+        "year": "2020",
+        "unstructured": "Al-Saffar ZA, Yildirim T (2020) A novel approach to improving brain image classification using mutual information-accelerated singular value decomposition. IEEE Access 8:52575\u201352587. https://doi.org/10.1109/ACCESS.2020.2980728",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "7457_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.patrec.2017.10.036",
+        "volume": "139",
+        "author": "J Amin",
+        "year": "2017",
+        "unstructured": "Amin J, Sharif M, Yasmin M, Fernandes SL (2017) A distinctive approachesof brain tumor detection and classification using MRI. Pattern Recognition Lett 139:1\u201312. https://doi.org/10.1016/j.patrec.2017.10.036",
+        "journal-title": "Pattern Recognition Lett"
+      },
+      {
+        "issue": "3",
+        "key": "7457_CR7",
+        "first-page": "97",
+        "volume": "8",
+        "author": "O Castillo",
+        "year": "2017",
+        "unstructured": "Castillo O, Sanchez MA, Gonzalez CI, Martinez GE (2017) Review of recent type-2 fuzzy image processing applications. Inf 8(3):97",
+        "journal-title": "Inf"
+      },
+      {
+        "key": "7457_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.cmpb.2020.105797",
+        "volume": "200",
+        "author": "B Chen",
+        "year": "2021",
+        "unstructured": "Chen B, ZhangL CH, Liang K, Chen X (2021) A novel extended kalman filter with support vector machine based method for the automatic diagnosis and segmentation of brain tumors. Comput Methods Programs Biomed 200:1\u201327. https://doi.org/10.1016/j.cmpb.2020.105797",
+        "journal-title": "Comput Methods Programs Biomed"
+      },
+      {
+        "issue": "6",
+        "key": "7457_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "894",
+        "DOI": "10.26599/TST.2020.9010050",
+        "volume": "26",
+        "author": "H Chen",
+        "year": "2021",
+        "unstructured": "Chen H, Zhang Y, Cao Y, Xie J (2021) Security issues and defensive approaches in deep learning frameworks. Tsinghua Sci Technol 26(6):894\u2013905. https://doi.org/10.26599/TST.2020.9010050",
+        "journal-title": "Tsinghua Sci Technol"
+      },
+      {
+        "key": "7457_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.compbiomed.2019.103345",
+        "volume": "111",
+        "author": "S Deepak",
+        "year": "2019",
+        "unstructured": "Deepak S, Ameer PM (2019) Brain tumor classification using deep CNN features via transfer learning. Comput Biol Med 111:1\u20137. https://doi.org/10.1016/j.compbiomed.2019.103345",
+        "journal-title": "Comput Biol Med"
+      },
+      {
+        "issue": "2",
+        "key": "7457_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "773",
+        "DOI": "10.1007/s00500-014-1541-0",
+        "volume": "20",
+        "author": "CI Gonzalez",
+        "year": "2016",
+        "unstructured": "Gonzalez CI, Melin P, Castro JR (2016) Olivia Mendoza and Oscar Castillo (2016) an improved sobel edge detection method based on generalized type-2 fuzzy logic. Soft Comput 20(2):773\u2013784",
+        "journal-title": "Soft Comput"
+      },
+      {
+        "key": "7457_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1002/ett.4170",
+        "volume": "2020",
+        "author": "P G\u00f6rgel",
+        "year": "2020",
+        "unstructured": "G\u00f6rgel P (2020) A brain tumor detection system using gradient based watershed marked active contours and curvelet transform. Trans Emerging Telecommun Technol 2020:1\u201319. https://doi.org/10.1002/ett.4170",
+        "journal-title": "Trans Emerging Telecommun Technol"
+      },
+      {
+        "key": "7457_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "36266",
+        "DOI": "10.1109/ACCESS.2019.2904145",
+        "volume": "7",
+        "author": "A Gumaei",
+        "year": "2019",
+        "unstructured": "Gumaei A, Hassan M, HassanMR AA, Fortino G (2019) A hybrid feature extraction method with regularized extreme learning machine for brain tumor classification. IEEE Access 7:36266\u201336273. https://doi.org/10.1109/ACCESS.2019.2904145",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "7457_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1002/ima.22532",
+        "volume": "2020",
+        "author": "A Gurunathan",
+        "year": "2020",
+        "unstructured": "Gurunathan A, Krishnan B (2020) Detection and diagnosis of brain tumors using deep learning convolutional neural networks. Int J Imaging Syst Technol 2020:1\u201311. https://doi.org/10.1002/ima.22532",
+        "journal-title": "Int J Imaging Syst Technol"
+      },
+      {
+        "key": "7457_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.3390/s21062222",
+        "volume": "21",
+        "author": "J Kang",
+        "year": "2021",
+        "unstructured": "Kang J, Ullah Z, Gwak J (2021) MRI-based brain tumor classification using ensemble of deep features and machine learning classifiers. Sensors 21:1\u201321. https://doi.org/10.3390/s21062222",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "7457_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.mehy.2020.109696",
+        "volume": "139",
+        "author": "KY KaplanK",
+        "year": "2020",
+        "unstructured": "KaplanK KY, Kuncan M, Ertun\u00e7 HM (2020) Brain tumor classification using modified local binary patterns (LBP) feature extraction methods. Med Hypotheses 139:1\u201312. https://doi.org/10.1016/j.mehy.2020.109696",
+        "journal-title": "Med Hypotheses"
+      },
+      {
+        "key": "7457_CR17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jksuci.2021.05.008",
+        "author": "N Kesav",
+        "year": "2021",
+        "unstructured": "Kesav N, Jibukumar MG (2021) Efficient and low complex architecture for detection and classification of brain tumor using rcnn with two channel CNN. J King Saud Univ Comput Inform Sci. https://doi.org/10.1016/j.jksuci.2021.05.008",
+        "journal-title": "J King Saud Univ Comput Inform Sci"
+      },
+      {
+        "key": "7457_CR18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mri.2019.05.020",
+        "author": "N Khalilia",
+        "year": "2019",
+        "unstructured": "Khalilia N, Lessmanna N, Turk E, Claessens N, Heusd R, Kolk T, Viergever MA, Benders MJNL, Isgum I (2019) Automatic brain tissue segmentation in fetal MRI using convolutional neural networks. Congenital Heart Disease Life Span Preventing Collateral Damage. https://doi.org/10.1016/j.mri.2019.05.020",
+        "journal-title": "Congenital Heart Disease Life Span Preventing Collateral Damage"
+      },
+      {
+        "issue": "2",
+        "key": "7457_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "536",
+        "DOI": "10.1016/j.bbe.2019.02.004",
+        "volume": "39",
+        "author": "VJ Kriti",
+        "year": "2019",
+        "unstructured": "Kriti VJ, Agarwal R (2019) Effect of despeckling filtering on classification of breast tumors using ultrasound images. Sci Direct 39(2):536\u2013560. https://doi.org/10.1016/j.bbe.2019.02.004",
+        "journal-title": "Sci Direct"
+      },
+      {
+        "issue": "3",
+        "key": "7457_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "737",
+        "DOI": "10.1109/JBHI.2020.2998146",
+        "volume": "25",
+        "author": "Z Luo",
+        "year": "2021",
+        "unstructured": "Luo Z, Jia Z, Yuan Z, Peng J (2021) HDC-net: hierarchical decoupled convolution network for brain tumor segmentation. IEEE J Biomed Health Inform 25(3):737\u2013745. https://doi.org/10.1109/JBHI.2020.2998146",
+        "journal-title": "IEEE J Biomed Health Inform"
+      },
+      {
+        "issue": "4\u20135",
+        "key": "7457_CR21",
+        "first-page": "431",
+        "volume": "33",
+        "author": "P Melin",
+        "year": "2019",
+        "unstructured": "Melin P, Gonzalez CI, Castro JR (2019) Olivia Mendoza and Oscar Castillo (2019) edge detection approach based on type-2 fuzzy images. J Multiple Valued Log Soft Comput 33(4\u20135):431\u2013458",
+        "journal-title": "J Multiple Valued Log Soft Comput"
+      },
+      {
+        "key": "7457_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "2024",
+        "DOI": "10.1109/LSP.2020.3034858",
+        "volume": "27",
+        "author": "P Parnian Afshar",
+        "year": "2020",
+        "unstructured": "Parnian Afshar P, Mohammadi A, Plataniotis KN (2020) A bayesian approach to brain tumor classification using capsule networks. IEEE Signal Process Lett 27:2024\u20132028. https://doi.org/10.1109/LSP.2020.3034858",
+        "journal-title": "IEEE Signal Process Lett"
+      },
+      {
+        "key": "7457_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.mlwa.2020.100004",
+        "volume": "2",
+        "author": "HR Rai",
+        "year": "2020",
+        "unstructured": "Rai HR, Chatterjee K (2020) Detection of brain abnormality by a novel Lu-Net deep neural CNN model from MR images. Machine Learn Appl 2:1\u201310. https://doi.org/10.1016/j.mlwa.2020.100004",
+        "journal-title": "Machine Learn Appl"
+      },
+      {
+        "issue": "1",
+        "key": "7457_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "440",
+        "DOI": "10.1016/j.bbe.2020.01.006",
+        "volume": "40",
+        "author": "PMS Raja",
+        "year": "2020",
+        "unstructured": "Raja PMS, Viswasarani A (2020) Brain tumor classification using hybrid deep autoencoder with Bayesian fuzzy clustering-based segmentation approach. Biocybernetics Biomed Eng 40(1):440\u2013453. https://doi.org/10.1016/j.bbe.2020.01.006",
+        "journal-title": "Biocybernetics Biomed Eng"
+      },
+      {
+        "issue": "1",
+        "key": "7457_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "133",
+        "DOI": "10.1002/jemt.23597",
+        "volume": "84",
+        "author": "KMA RehmanA",
+        "year": "2021",
+        "unstructured": "RehmanA KMA, Saba T, Mehmood Z, Tariq U, Ayesha N (2021) Microscopic brain tumor detection and classification using 3D CNN and feature selection architecture. Microscopy Res Tech 84(1):133\u2013149. https://doi.org/10.1002/jemt.23597",
+        "journal-title": "Microscopy Res Tech"
+      },
+      {
+        "key": "7457_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.1016/j.cogsys.2019.10.001",
+        "volume": "59",
+        "author": "M Sharif",
+        "year": "2020",
+        "unstructured": "Sharif M, Amin J, Nisar MW, Anjum MA, Ahmad N, Shad SA (2020) A unified patch based method for brain tumor detection using features fusion. Cognitive Syst Res 59:273\u2013286. https://doi.org/10.1016/j.cogsys.2019.10.001",
+        "journal-title": "Cognitive Syst Res"
+      },
+      {
+        "key": "7457_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.compbiomed.2020.103804",
+        "volume": "122",
+        "author": "GS Tandel",
+        "year": "2020",
+        "unstructured": "Tandel GS, Balestrieri A, Jujaray T, Khanna NN, Saba L, Suri JS (2020) Multiclass magnetic resonance imaging brain tumor classification using artificial intelligence paradigm. Comput Biol Med 122:1\u201329. https://doi.org/10.1016/j.compbiomed.2020.103804",
+        "journal-title": "Comput Biol Med"
+      },
+      {
+        "key": "7457_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.mehy.2019.109531",
+        "volume": "134",
+        "author": "M Toga\u00e7ar",
+        "year": "2020",
+        "unstructured": "Toga\u00e7ar M, ErgenB CZ (2020) BrainMRNet: brain tumor detection using magnetic resonance Images with a novel convolutional neural network model. Med Hypotheses 134:1\u201323. https://doi.org/10.1016/j.mehy.2019.109531",
+        "journal-title": "Med Hypotheses"
+      },
+      {
+        "key": "7457_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "114361",
+        "DOI": "10.1016/j.eswa.2020.114361",
+        "volume": "168",
+        "author": "S Varela",
+        "year": "2021",
+        "unstructured": "Varela S, Melin P (2021a) A new modular neural network approach with fuzzy response integration for lung disease classification based on multiple objective feature optimization in chest X-ray images. Expert System Appl 168:114361",
+        "journal-title": "Expert System Appl"
+      },
+      {
+        "key": "7457_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "403",
+        "DOI": "10.1016/j.ins.2020.09.041",
+        "volume": "545",
+        "author": "S Varela",
+        "year": "2021",
+        "unstructured": "Varela S, Melin P (2021b) A new approach for classifying corona virus COVID-19 based on its manifestation on chest X-rays using texture features and neural networks. Information Sci 545:403\u2013414",
+        "journal-title": "Information Sci"
+      },
+      {
+        "issue": "4",
+        "key": "7457_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "508",
+        "DOI": "10.26599/TST.2019.9010030",
+        "volume": "25",
+        "author": "B Wang",
+        "year": "2020",
+        "unstructured": "Wang B, Hu F, Wang C (2020) Optimization of quantum computing models inspired by D-wave quantum annealing. Tsinghua Sci Technol 25(4):508\u2013515. https://doi.org/10.26599/TST.2019.9010030",
+        "journal-title": "Tsinghua Sci Technol"
+      },
+      {
+        "key": "7457_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1155/2020/6789306",
+        "volume": "2020",
+        "author": "W Wu",
+        "year": "2020",
+        "unstructured": "Wu W, Li D, Du J, Gao X, Gu W, Zhao F, Feng X, Yan H (2020) An Intelligent diagnosis method of Brain MRI tumor segmentation using deep convolutional neural network and svm algorithm. Comput Mathematical Methods Med 2020:1\u201310. https://doi.org/10.1155/2020/6789306",
+        "journal-title": "Comput Mathematical Methods Med"
+      },
+      {
+        "key": "7457_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "332",
+        "DOI": "10.1016/j.neucom.2020.05.113",
+        "volume": "469",
+        "author": "W Yin",
+        "year": "2020",
+        "unstructured": "Yin W, Li L, Wu F-X (2020) Deep learning for brain disorder diagnosis based on fMRI images. Neurocomputing 469:332\u2013345",
+        "journal-title": "Neurocomputing"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1007/s00500-026-11206-0",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              26
+            ]
+          ],
+          "date-time": "2026-01-26T00:00:00Z",
+          "timestamp": 1769385600000
+        }
+      },
+      {
+        "DOI": "10.1007/s00500-026-11206-0",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              26
+            ]
+          ],
+          "date-time": "2026-01-26T00:00:00Z",
+          "timestamp": 1769385600000
+        },
+        "record-id": "70376"
+      }
+    ],
+    "container-title": [
+      "Soft Computing"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00500-022-07457-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s00500-022-07457-2",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00500-022-07457-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2026-01-26T13:01:05Z",
+      "timestamp": 1769432465000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s00500-022-07457-2"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          9
+        ]
+      ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+      "issue": "18",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "7457"
+    ],
+    "URL": "https://doi.org/10.1007/s00500-022-07457-2",
+    "relation": {},
+    "ISSN": [
+      "1432-7643",
+      "1433-7479"
+    ],
+    "issn-type": [
+      {
+        "value": "1432-7643",
+        "type": "print"
+      },
+      {
+        "value": "1433-7479",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "20 June 2022",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 September 2022",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "26 January 2026",
+        "order": 4,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 5,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This article has been retracted. Please see the Retraction Notice for more detail:",
+        "order": 6,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s00500-026-11206-0",
+        "URL": "https://doi.org/10.1007/s00500-026-11206-0",
+        "order": 7,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare that they have no conflicts of interest to report regarding the present study.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflicts of interest"
+        }
+      },
+      {
+        "value": "Not Applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethical approval"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed Consent"
+        }
+      }
+    ]
+  }
+}

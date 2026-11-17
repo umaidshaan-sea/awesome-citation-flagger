@@ -1,0 +1,884 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pbio.1002106",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pbio.1002106",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:13.605525+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ],
+      "date-time": "2026-11-03T01:06:01Z",
+      "timestamp": 1793667961084,
+      "version": "4.5.1"
+    },
+    "reference-count": 66,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              3,
+              13
+            ]
+          ],
+          "date-time": "2015-03-13T00:00:00Z",
+          "timestamp": 1426204800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosbiology.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS Biol"
+    ],
+    "DOI": "10.1371/journal.pbio.1002106",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          13
+        ]
+      ],
+      "date-time": "2015-03-13T14:01:59Z",
+      "timestamp": 1426255319000
+    },
+    "page": "e1002106",
+    "update-policy": "https://doi.org/10.1371/journal.pbio.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 979,
+    "title": [
+      "The Extent and Consequences of P-Hacking in Science"
+    ],
+    "prefix": "10.1371",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Megan L.",
+        "family": "Head",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luke",
+        "family": "Holman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rob",
+        "family": "Lanfear",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew T.",
+        "family": "Kahn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael D.",
+        "family": "Jennions",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "687",
+        "DOI": "10.3758/s13415-013-0201-7",
+        "article-title": "Introduction to the special issue on reliability and replication in cognitive and affective neuroscience research",
+        "volume": "13",
+        "author": "DM Barch",
+        "year": "2013",
+        "journal-title": "Cogn Affect Behav Neurosci"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "e124",
+        "DOI": "10.1371/journal.pmed.0020124",
+        "article-title": "Why most published research findings are false",
+        "volume": "2",
+        "author": "JPA Ioannidis",
+        "year": "2005",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1093/biostatistics/kxt007",
+        "article-title": "An estimate of the science-wise false discovery rate and application to the top medical literature",
+        "volume": "15",
+        "author": "LR Jager",
+        "year": "2014",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.2307/2982993",
+        "article-title": "Publication bias\u2014a problem in interpreting medical data",
+        "volume": "151",
+        "author": "CB Begg",
+        "year": "1988",
+        "journal-title": "J R Stat Soc Ser A Stat Soc"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "e3081",
+        "DOI": "10.1371/journal.pone.0003081",
+        "article-title": "Systematic review of the empirical evidence of study publication bias and outcome reporting bias",
+        "volume": "3",
+        "author": "K Dwan",
+        "year": "2008",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1007/s11192-011-0494-7",
+        "article-title": "Negative results are disappearing from most disciplines and countries",
+        "volume": "90",
+        "author": "D Fanelli",
+        "year": "2012",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "638",
+        "DOI": "10.1037/0033-2909.86.3.638",
+        "article-title": "The file drawer problem and tolerance for null results",
+        "volume": "86",
+        "author": "R Rosenthal",
+        "year": "1979",
+        "journal-title": "Psychol Bull"
+      },
+      {
+        "key": "ref8",
+        "first-page": "1",
+        "article-title": "Publication and related biases",
+        "volume": "4",
+        "author": "F Song",
+        "year": "2000",
+        "journal-title": "Health technology assessment (Winchester, England)"
+      },
+      {
+        "key": "ref9",
+        "first-page": "30",
+        "article-title": "Publication decisions and their possible effects on inferences drawn from tests of significance\u2014or vice versa",
+        "volume": "54",
+        "author": "TD Sterling",
+        "year": "1959",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "640",
+        "DOI": "10.1136/bmj.315.7109.640",
+        "article-title": "Publication bias: Evidence of delayed publication in a cohort study of clinical research projects",
+        "volume": "315",
+        "author": "JM Stern",
+        "year": "1997",
+        "journal-title": "Br Med J"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "817",
+        "DOI": "10.1525/bio.2013.63.10.9",
+        "article-title": "Predicting publication success for biologists",
+        "volume": "63",
+        "author": "WF Laurance",
+        "year": "2013",
+        "journal-title": "Bioscience"
+      },
+      {
+        "key": "ref12",
+        "unstructured": "Brodeur A, Le M, Sangnier M, Zylberberg Y (2012) Star Wars: The empirics strike back. Paris School of Economics Working Paper 2012. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://ssrn.com/abstract=2089580\" xlink:type=\"simple\">http://ssrn.com/abstract=2089580</ext-link>."
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1177/0956797613504966",
+        "article-title": "The new statistics: Why and how",
+        "volume": "25",
+        "author": "G Cumming",
+        "year": "2014",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1359",
+        "DOI": "10.1177/0956797611417632",
+        "article-title": "False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant",
+        "volume": "22",
+        "author": "JP Simmons",
+        "year": "2011",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "e46363",
+        "DOI": "10.1371/journal.pone.0046363",
+        "article-title": "Inappropriate fiddling with statistical analyses to obtain a desirable p-value: Tests to detect its presence in published literature",
+        "volume": "7",
+        "author": "GL Gadbury",
+        "year": "2014",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "524",
+        "DOI": "10.1177/0956797611430953",
+        "article-title": "Measuring the prevalence of questionable research practices with incentives for truth telling",
+        "volume": "23",
+        "author": "LK John",
+        "year": "2012",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1111/1467-9876.00197",
+        "article-title": "Bias in meta-analysis due to outcome variable selection within studies",
+        "volume": "49",
+        "author": "JL Hutton",
+        "year": "2000",
+        "journal-title": "J R Stat Soc Ser C Appl Stat"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "731",
+        "DOI": "10.1177/0956797611406447",
+        "article-title": "Wishful thinking: Belief, desire, and the motivated evaluation of scientific evidence",
+        "volume": "22",
+        "author": "A Bastardi",
+        "year": "2011",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "615",
+        "DOI": "10.1177/1745691612459058",
+        "article-title": "Scientific utopia: II. Restructuring incentives and practices to promote truth over publishability",
+        "volume": "7",
+        "author": "BA Nosek",
+        "year": "2012",
+        "journal-title": "Perspect Psychol Sci"
+      },
+      {
+        "key": "ref20",
+        "author": "RA Fisher",
+        "year": "1925"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1093/biostatistics/kxt032",
+        "article-title": "Discussion: An estimate of the science-wise false discovery rate and applications to top medical journals by Jager and Leek",
+        "volume": "15",
+        "author": "Y Benjamini",
+        "year": "2014",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "995",
+        "DOI": "10.7326/0003-4819-130-12-199906150-00008",
+        "article-title": "Toward evidence-based medical statistics. 1: The P value fallacy",
+        "volume": "130",
+        "author": "SN Goodman",
+        "year": "1999",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1136/bmj.322.7280.226",
+        "article-title": "Sifting the evidence\u2014what&apos;s wrong with significance tests?",
+        "volume": "322",
+        "author": "JAC Sterne",
+        "year": "2001",
+        "journal-title": "Br Med J"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1037/1082-989X.5.2.241",
+        "article-title": "Null hypothesis significance testing: A review of an old and continuing controversy",
+        "volume": "5",
+        "author": "RS Nickerson",
+        "year": "2000",
+        "journal-title": "Psychol Methods"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "526",
+        "DOI": "10.1037/0033-295X.110.3.526",
+        "article-title": "Hypothesis testing and theory evaluation at the boundaries: Surprising insights from Bayes&apos;s theorem",
+        "volume": "110",
+        "author": "D Trafimow",
+        "year": "2003",
+        "journal-title": "Psychol Rev"
+      },
+      {
+        "key": "ref26",
+        "author": "FJ Rohlf",
+        "year": "1995"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1082",
+        "DOI": "10.1111/j.1420-9101.2006.01291.x",
+        "article-title": "An unexpected influence of widely used significance thresholds on the distribution of reported P-values",
+        "volume": "20",
+        "author": "J Ridley",
+        "year": "2007",
+        "journal-title": "J Evol Biol"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "591",
+        "DOI": "10.1111/j.1469-185X.2007.00027.x",
+        "article-title": "Effect size, confidence interval and statistical significance: A practical guide for biologists",
+        "volume": "82",
+        "author": "S Nakagawa",
+        "year": "2007",
+        "journal-title": "Biol Rev Camb Philos Soc"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.2307/3803199",
+        "article-title": "Null hypothesis testing: Problems, prevalence, and an alternative",
+        "volume": "64",
+        "author": "DR Anderson",
+        "year": "2000",
+        "journal-title": "J Wildl Manage"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1111/1467-8721.ep11512376",
+        "article-title": "Psychology will be a much better science when we change the way we analyze data",
+        "volume": "5",
+        "author": "GR Loftus",
+        "year": "1996",
+        "journal-title": "Curr Dir Psychol Sci"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1198/016214504000001907",
+        "article-title": "False discovery rate-adjusted multiple confidence intervals for selected parameters",
+        "volume": "100",
+        "author": "Y Benjamini",
+        "year": "2005",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "ref32",
+        "unstructured": "Simonsohn U (2014c) Posterior-hacking: Selective reporting invalidates Bayesian results also. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://ssrncom/abstract=2374040\" xlink:type=\"simple\">http://ssrncom/abstract=2374040</ext-link>."
+      },
+      {
+        "key": "ref33",
+        "article-title": "Handbook of met-analysis in ecology and evolution",
+        "author": "J Koricheva",
+        "year": "2013"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1060",
+        "DOI": "10.1016/j.jclinepi.2010.12.012",
+        "article-title": "Statistically significant meta-analyses of clinical trials have modest credibility and inflated effects",
+        "volume": "64",
+        "author": "TV Pereira",
+        "year": "2011",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1111/j.0030-1299.2004.12265.x",
+        "article-title": "Meta-analysis can &quot;fail&quot;: Reply to Kotiaho and Tomkins",
+        "volume": "104",
+        "author": "MD Jennions",
+        "year": "2004",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.1034/j.1600-0706.2002.960316.x",
+        "article-title": "Meta-analysis, can it ever fail?",
+        "volume": "96",
+        "author": "JS Kotiaho",
+        "year": "2002",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1146/annurev.ecolsys.31.1.441",
+        "article-title": "Quasireplication and the contract of error: Lessons from sex ratios, heritabilities and fluctuating asymmetry",
+        "volume": "31",
+        "author": "AR Palmer",
+        "year": "2000",
+        "journal-title": "Annu Rev Ecol Sys"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1086/506236",
+        "article-title": "Replicating empirical research in behavioural ecology: How and why it should be done but rarely ever is",
+        "volume": "81",
+        "author": "CD Kelly",
+        "year": "2006",
+        "journal-title": "The Quarterly Review of Biology"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1111/j.1745-6924.2008.00079.x",
+        "article-title": "Replication and p intervals p values predict the future only vaguely, but confidence Intervals do much better",
+        "volume": "3",
+        "author": "G Cumming",
+        "year": "2008",
+        "journal-title": "Perspectives on Psychological Science"
+      },
+      {
+        "key": "ref40",
+        "first-page": "2271",
+        "article-title": "A peculiar prevalence of p values just below .05",
+        "volume": "65",
+        "author": "EJ Mariscampo",
+        "year": "2012",
+        "journal-title": "Q Rev Biol"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "534",
+        "DOI": "10.1037/a0033242",
+        "article-title": "P-curve: A key to the file drawer",
+        "volume": "143",
+        "author": "U Simonsohn",
+        "year": "2014",
+        "journal-title": "J Exp Psychol Gen"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.2307/1905466",
+        "article-title": "Compounding probabilities from independent significance tests",
+        "volume": "10",
+        "author": "WA Wallis",
+        "year": "1942",
+        "journal-title": "Econometrica"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1177/0049124108318973",
+        "article-title": "Publication bias in empirical sociological research\u2014Do arbitrary significance levels distort published results?",
+        "volume": "37",
+        "author": "AS Gerber",
+        "year": "2008",
+        "journal-title": "Sociol Methods Res"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1111/jels.12031",
+        "article-title": "Foreword: Conference bias",
+        "volume": "10",
+        "author": "DE Ho",
+        "year": "2013",
+        "journal-title": "J Empir Leg Stud"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "2303",
+        "DOI": "10.1080/17470218.2013.863371",
+        "article-title": "The life of p: &quot;Just significant&quot; results are on the rise",
+        "volume": "66",
+        "author": "NC Leggett",
+        "year": "2013",
+        "journal-title": "Q J Exp Psychol"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1093/biostatistics/kxt036",
+        "article-title": "Discussion: Why &quot;An estimate of the science-wise false discovery rate and application to the top medical literature&quot; is false",
+        "volume": "15",
+        "author": "JPA Ioannidis",
+        "year": "2014",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "crossref",
+        "first-page": "404",
+        "DOI": "10.1093/biomet/26.4.404",
+        "article-title": "The use of confidence or fiducial limits illustrated in the case of the binomial",
+        "volume": "26",
+        "author": "CJ Clopper",
+        "year": "1934",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "ref48",
+        "unstructured": "Head ML, Holman L, Lanfear R, Kahn AT, Jennions MD (2015) Data from: The extent and consequences of p-hacking in science. Dryad Digital Repository. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://dx.doi.org/10.5061/dryad.79d43\" xlink:type=\"simple\">http://dx.doi.org/10.5061/dryad.79d43</ext-link>."
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "crossref",
+        "first-page": "150",
+        "DOI": "10.1038/506150a",
+        "article-title": "Scientific method: Statistical errors",
+        "volume": "506",
+        "author": "R Nuzzo",
+        "year": "2014",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "crossref",
+        "first-page": "e4",
+        "DOI": "10.5334/jopd.ad",
+        "article-title": "Data from investigating variation in replicability: A &quot;many labs&quot; replication project",
+        "volume": "2",
+        "author": "RA Klein",
+        "year": "2014",
+        "journal-title": "J Open Psychol Data"
+      },
+      {
+        "key": "ref51",
+        "author": "AJ Sutton",
+        "year": "2000"
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "crossref",
+        "first-page": "1272",
+        "DOI": "10.1037/a0037714",
+        "article-title": "Meta-Analyses and p-curves support robust cycle shifts in women&apos;s mate preferencs: Reply to Wood &amp; Carden (2014) and Harris, Pashler, and Mickes (2014)",
+        "volume": "140",
+        "author": "K Gildersleeve",
+        "year": "2014",
+        "journal-title": "Psychol Bull"
+      },
+      {
+        "key": "ref53",
+        "first-page": "855",
+        "article-title": "Extra-pair paternity in birds: Review of the genetic benefits",
+        "volume": "9",
+        "author": "E Akcay",
+        "year": "2007",
+        "journal-title": "Evol Ecol Res"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1111/j.1474-919X.2011.01209.x",
+        "article-title": "The influence of male age on within-pair and extra-pair paternity in passerines",
+        "volume": "154",
+        "author": "IR Cleasby",
+        "year": "2012",
+        "journal-title": "Ibis"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "crossref",
+        "first-page": "1170",
+        "DOI": "10.1093/beheco/ars094",
+        "article-title": "Measuring mating competition correctly: available evidence supports operational sex ratio theory",
+        "volume": "23",
+        "author": "K de Jong",
+        "year": "2012",
+        "journal-title": "Behav Ecol"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "crossref",
+        "first-page": "E125",
+        "DOI": "10.1086/670160",
+        "article-title": "Assortative mating in animals",
+        "volume": "181",
+        "author": "Y Jiang",
+        "year": "2013",
+        "journal-title": "Am Nat"
+      },
+      {
+        "key": "ref57",
+        "doi-asserted-by": "crossref",
+        "first-page": "855",
+        "DOI": "10.1007/s00265-007-0518-8",
+        "article-title": "The interrelationships between resource-holding potential, resource-value and reproductive success in territorial males: How much variation can we explain?",
+        "volume": "62",
+        "author": "CD Kelly",
+        "year": "2008",
+        "journal-title": "Behav Ecol Sociobiol"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1111/j.1469-185X.2010.00150.x",
+        "article-title": "Sexual selection and speciation: The comparative evidence revisited",
+        "volume": "86",
+        "author": "K Kraaijeveld",
+        "year": "2011",
+        "journal-title": "Biol Rev Camb Philos Soc"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "crossref",
+        "first-page": "2665",
+        "DOI": "10.1111/j.1558-5646.2012.01654.x",
+        "article-title": "Meta-analysis suggests choosy females get sexy sons more than &quot;good genes&quot;",
+        "volume": "66",
+        "author": "ZM Prokop",
+        "year": "2012",
+        "journal-title": "Evolution"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/j.anbehav.2011.03.022",
+        "article-title": "Dominance and plumage traits: Meta-analysis and metaregression analysis",
+        "volume": "82",
+        "author": "ESA Santos",
+        "year": "2011",
+        "journal-title": "Anim Behav"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1086/657918",
+        "article-title": "The influence of operational sex ratio on the intensity of competition for mates",
+        "volume": "177",
+        "author": "LK Weir",
+        "year": "2011",
+        "journal-title": "Am Nat"
+      },
+      {
+        "key": "ref62",
+        "unstructured": "Simonsohn U, Nelson LD, Simmons JP (2014b) P-Curve and effect size: Correcting for publication bias using only significant results. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://ssrncom/abstract=2377290\" xlink:type=\"simple\">http://ssrncom/abstract=2377290</ext-link>"
+      },
+      {
+        "key": "ref63",
+        "author": "MALM van Assen",
+        "year": "2014"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "crossref",
+        "first-page": "1489",
+        "DOI": "10.1136/bmj.286.6376.1489",
+        "article-title": "Statistical guidelines for contributors to medical journals",
+        "volume": "286",
+        "author": "DG Altman",
+        "year": "1983",
+        "journal-title": "Br Med J"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.3758/BF03194105",
+        "article-title": "A practical solution to the pervasive problems of p values",
+        "volume": "14",
+        "author": "E-J Wagenmakers",
+        "year": "2007",
+        "journal-title": "Psychon Bull Rev"
+      },
+      {
+        "key": "ref66",
+        "doi-asserted-by": "crossref",
+        "first-page": "353",
+        "DOI": "10.1046/j.1365-2753.2002.00314.x",
+        "article-title": "Investigation of within-study selective reporting in clinical research: follow-up of applications submitted to a local research ethics committee",
+        "volume": "8",
+        "author": "S Hahn",
+        "year": "2002",
+        "journal-title": "J Eval Clin Pract"
+      }
+    ],
+    "container-title": [
+      "PLOS Biology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pbio.1002106",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2018-10-22T08:46:50Z",
+      "timestamp": 1540198010000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pbio.1002106"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          13
+        ]
+      ]
+    },
+    "references-count": 66,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            3,
+            13
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pbio.1002106",
+    "relation": {},
+    "ISSN": [
+      "1545-7885"
+    ],
+    "issn-type": [
+      {
+        "value": "1545-7885",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          13
+        ]
+      ]
+    }
+  }
+}

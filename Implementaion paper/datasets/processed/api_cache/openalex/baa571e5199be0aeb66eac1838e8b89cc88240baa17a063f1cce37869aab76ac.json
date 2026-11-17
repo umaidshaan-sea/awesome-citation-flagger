@@ -1,0 +1,1147 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.cell.2014.05.010",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.cell.2014.05.010",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:43.952238+00:00",
+  "record": {
+    "id": "https://openalex.org/W2096261947",
+    "doi": "https://doi.org/10.1016/j.cell.2014.05.010",
+    "title": "Development and Applications of CRISPR-Cas9 for Genome Engineering",
+    "display_name": "Development and Applications of CRISPR-Cas9 for Genome Engineering",
+    "publication_year": 2014,
+    "publication_date": "2014-06-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2096261947",
+      "doi": "https://doi.org/10.1016/j.cell.2014.05.010",
+      "mag": "2096261947",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/24906146",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/4343198"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.cell.2014.05.010",
+      "doi": "https://doi.org/10.1016/j.cell.2014.05.010",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2014.05.010",
+      "pdf_url": "http://www.cell.com/article/S0092867414006047/pdf",
+      "source": {
+        "id": "https://openalex.org/S110447773",
+        "display_name": "Cell",
+        "issn_l": "0092-8674",
+        "issn": [
+          "0092-8674",
+          "1097-4172"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "doyens",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://www.cell.com/article/S0092867414006047/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5060049408",
+          "display_name": "Patrick D. Hsu",
+          "orcid": "https://orcid.org/0000-0002-9380-2648",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9380-2648"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I107606265",
+            "display_name": "Broad Institute",
+            "ror": "https://ror.org/05a0ya142",
+            "country_code": "US",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I107606265"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I136199984",
+            "display_name": "Harvard University",
+            "ror": "https://ror.org/03vek6s52",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I136199984"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I144112489",
+            "display_name": "McGovern Institute for Brain Research",
+            "ror": "https://ror.org/05ymca674",
+            "country_code": "US",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I144112489",
+              "https://openalex.org/I63966007"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I63966007",
+            "display_name": "Massachusetts Institute of Technology",
+            "ror": "https://ror.org/042nb2s44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I63966007"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Patrick\u00a0D. Hsu",
+        "raw_affiliation_strings": [
+          "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA; McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA; Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA",
+          "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA",
+          "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA",
+          "McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA; McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA; Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA",
+            "institution_ids": [
+              "https://openalex.org/I107606265",
+              "https://openalex.org/I136199984",
+              "https://openalex.org/I144112489",
+              "https://openalex.org/I63966007"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA",
+            "institution_ids": [
+              "https://openalex.org/I107606265"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA",
+            "institution_ids": [
+              "https://openalex.org/I136199984"
+            ]
+          },
+          {
+            "raw_affiliation_string": "McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA",
+            "institution_ids": [
+              "https://openalex.org/I144112489",
+              "https://openalex.org/I63966007"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5020748592",
+          "display_name": "Eric S. Lander",
+          "orcid": "https://orcid.org/0000-0003-2662-4631",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2662-4631"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I107606265",
+            "display_name": "Broad Institute",
+            "ror": "https://ror.org/05a0ya142",
+            "country_code": "US",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I107606265"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Eric\u00a0S. Lander",
+        "raw_affiliation_strings": [
+          "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA",
+            "institution_ids": [
+              "https://openalex.org/I107606265"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5100401298",
+          "display_name": "Feng Zhang",
+          "orcid": "https://orcid.org/0000-0003-0178-7995",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0178-7995",
+            "https://orcid.org/0000-0002-7444-1103",
+            "https://orcid.org/0000-0003-4556-8276"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I107606265",
+            "display_name": "Broad Institute",
+            "ror": "https://ror.org/05a0ya142",
+            "country_code": "US",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I107606265"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I144112489",
+            "display_name": "McGovern Institute for Brain Research",
+            "ror": "https://ror.org/05ymca674",
+            "country_code": "US",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I144112489",
+              "https://openalex.org/I63966007"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I63966007",
+            "display_name": "Massachusetts Institute of Technology",
+            "ror": "https://ror.org/042nb2s44",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I63966007"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Feng Zhang",
+        "raw_affiliation_strings": [
+          "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA; McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA. Electronic address: zhang@broadinstitute.org",
+          "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA",
+          "McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA; McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA. Electronic address: zhang@broadinstitute.org",
+            "institution_ids": [
+              "https://openalex.org/I107606265",
+              "https://openalex.org/I144112489",
+              "https://openalex.org/I63966007"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA 02141, USA",
+            "institution_ids": [
+              "https://openalex.org/I107606265"
+            ]
+          },
+          {
+            "raw_affiliation_string": "McGovern Institute for Brain Research, Department of Brain and Cognitive Sciences, Department of Biological Engineering, Massachusetts\u00a0Institute of Technology, Cambridge, MA 02139, USA",
+            "institution_ids": [
+              "https://openalex.org/I144112489",
+              "https://openalex.org/I63966007"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5100401298"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I107606265",
+      "https://openalex.org/I144112489",
+      "https://openalex.org/I63966007"
+    ],
+    "apc_list": {
+      "value": 11400,
+      "currency": "USD",
+      "value_usd": 11400
+    },
+    "apc_paid": null,
+    "fwci": 48.8276,
+    "has_fulltext": true,
+    "cited_by_count": 5762,
+    "citation_normalized_percentile": {
+      "value": 1.0,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 94,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "157",
+      "issue": "6",
+      "first_page": "1262",
+      "last_page": "1278"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10878",
+      "display_name": "CRISPR and Genetic Engineering",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10878",
+        "display_name": "CRISPR and Genetic Engineering",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12610",
+        "display_name": "RNA regulation and disease",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11491",
+        "display_name": "CAR-T cell therapy research",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2730",
+          "display_name": "Oncology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/crispr-cas9",
+        "display_name": "CRISPR/Cas9",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/genome-editing",
+        "display_name": "genome editing",
+        "score": 0.8360000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/rna-guided-endonuclease",
+        "display_name": "RNA-guided endonuclease",
+        "score": 0.8960000276565552
+      },
+      {
+        "id": "https://openalex.org/keywords/gene-function",
+        "display_name": "gene function",
+        "score": 0.3070000112056732
+      },
+      {
+        "id": "https://openalex.org/keywords/genetic-perturbation",
+        "display_name": "gene perturbation",
+        "score": 0.8849999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/genome-organization",
+        "display_name": "genome organization",
+        "score": 0.4519999921321869
+      },
+      {
+        "id": "https://openalex.org/keywords/biotechnology-applications",
+        "display_name": "biotechnology applications",
+        "score": 0.8500000238418579
+      },
+      {
+        "id": "https://openalex.org/keywords/therapeutic-use",
+        "display_name": "therapeutic applications",
+        "score": 0.3529999852180481
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C98108389",
+        "wikidata": "https://www.wikidata.org/wiki/Q412563",
+        "display_name": "CRISPR",
+        "level": 3,
+        "score": 0.8748909831047058
+      },
+      {
+        "id": "https://openalex.org/C132455925",
+        "wikidata": "https://www.wikidata.org/wiki/Q16965677",
+        "display_name": "Cas9",
+        "level": 4,
+        "score": 0.843377947807312
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.79988032579422
+      },
+      {
+        "id": "https://openalex.org/C145290725",
+        "wikidata": "https://www.wikidata.org/wiki/Q5533489",
+        "display_name": "Genome engineering",
+        "level": 5,
+        "score": 0.7714028358459473
+      },
+      {
+        "id": "https://openalex.org/C144501496",
+        "wikidata": "https://www.wikidata.org/wiki/Q5533489",
+        "display_name": "Genome editing",
+        "level": 4,
+        "score": 0.7368896007537842
+      },
+      {
+        "id": "https://openalex.org/C70721500",
+        "wikidata": "https://www.wikidata.org/wiki/Q177005",
+        "display_name": "Computational biology",
+        "level": 1,
+        "score": 0.6729247570037842
+      },
+      {
+        "id": "https://openalex.org/C141231307",
+        "wikidata": "https://www.wikidata.org/wiki/Q7020",
+        "display_name": "Genome",
+        "level": 3,
+        "score": 0.6687045097351074
+      },
+      {
+        "id": "https://openalex.org/C54355233",
+        "wikidata": "https://www.wikidata.org/wiki/Q7162",
+        "display_name": "Genetics",
+        "level": 1,
+        "score": 0.4088710844516754
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.23888882994651794
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001419",
+        "descriptor_name": "Bacteria",
+        "qualifier_ui": "Q000145",
+        "qualifier_name": "classification",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001419",
+        "descriptor_name": "Bacteria",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D001419",
+        "descriptor_name": "Bacteria",
+        "qualifier_ui": "Q000276",
+        "qualifier_name": "immunology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001419",
+        "descriptor_name": "Bacteria",
+        "qualifier_ui": "Q000821",
+        "qualifier_name": "virology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005057",
+        "descriptor_name": "Eukaryotic Cells",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005818",
+        "descriptor_name": "Genetic Engineering",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D013297",
+        "descriptor_name": "Streptococcus pyogenes",
+        "qualifier_ui": "Q000201",
+        "qualifier_name": "enzymology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D013297",
+        "descriptor_name": "Streptococcus pyogenes",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016678",
+        "descriptor_name": "Genome",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D018390",
+        "descriptor_name": "Gene Targeting",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D064113",
+        "descriptor_name": "CRISPR-Cas Systems",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      }
+    ],
+    "locations_count": 7,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.cell.2014.05.010",
+        "doi": "https://doi.org/10.1016/j.cell.2014.05.010",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.cell.2014.05.010",
+        "pdf_url": "http://www.cell.com/article/S0092867414006047/pdf",
+        "source": {
+          "id": "https://openalex.org/S110447773",
+          "display_name": "Cell",
+          "issn_l": "0092-8674",
+          "issn": [
+            "0092-8674",
+            "1097-4172"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "doyens",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315673",
+          "host_organization_name": "Cell Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315673",
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Cell Press",
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cell",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:24906146",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/24906146",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cell",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:3306113",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4343198",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:4343198",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4343198",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Cell",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:dspace.mit.edu:1721.1/111575",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/1721.1/111575",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400425",
+          "display_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I63966007",
+          "host_organization_name": "Massachusetts Institute of Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/I63966007"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PMC",
+        "raw_type": "Article"
+      },
+      {
+        "id": "pmh:oai:escholarship.org:ark:/13030/qt81q8r4cq",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://escholarship.org/uc/item/81q8r4cq",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400115",
+          "display_name": "eScholarship (California Digital Library)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I2801248553",
+          "host_organization_name": "California Digital Library",
+          "host_organization_lineage": [
+            "https://openalex.org/I2801248553"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Cell, vol 157, iss 6",
+        "raw_type": "article"
+      },
+      {
+        "id": "mag:3022618437",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://dspace.mit.edu/handle/1721.1/111575",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306522653",
+          "display_name": "PMC",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PMC",
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.cell.2014.05.010",
+      "doi": "https://doi.org/10.1016/j.cell.2014.05.010",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2014.05.010",
+      "pdf_url": "http://www.cell.com/article/S0092867414006047/pdf",
+      "source": {
+        "id": "https://openalex.org/S110447773",
+        "display_name": "Cell",
+        "issn_l": "0092-8674",
+        "issn": [
+          "0092-8674",
+          "1097-4172"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "doyens",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G1541839151",
+        "display_name": "Probing Neuropsychiatric Diseases Using Targeted Epigenome and Genome Engineering",
+        "funder_award_id": "DP1MH100706",
+        "funder_id": "https://openalex.org/F4320337346",
+        "funder_display_name": "National Institute of Mental Health"
+      },
+      {
+        "id": "https://openalex.org/G171319954",
+        "display_name": null,
+        "funder_award_id": "DP1\u2011MH100706",
+        "funder_id": "https://openalex.org/F4320337383",
+        "funder_display_name": "National Center for Chronic Disease Prevention and Health Promotion"
+      },
+      {
+        "id": "https://openalex.org/G3613229889",
+        "display_name": "Isogenic Human Pluripotent Stem Cell-Based Models of Human Disease Mutations",
+        "funder_award_id": "R01DK097768",
+        "funder_id": "https://openalex.org/F4320337357",
+        "funder_display_name": "National Institute of Diabetes and Digestive and Kidney Diseases"
+      },
+      {
+        "id": "https://openalex.org/G4975152505",
+        "display_name": "Genome-wide Light-inducible Tuning of Transcriptional Network Dynamic",
+        "funder_award_id": "R01NS073124",
+        "funder_id": "https://openalex.org/F4320337359",
+        "funder_display_name": "National Institute of Neurological Disorders and Stroke"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320332161",
+        "display_name": "National Institutes of Health",
+        "ror": "https://ror.org/01cwqze88"
+      },
+      {
+        "id": "https://openalex.org/F4320337346",
+        "display_name": "National Institute of Mental Health",
+        "ror": "https://ror.org/04xeg9z08"
+      },
+      {
+        "id": "https://openalex.org/F4320337357",
+        "display_name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+        "ror": "https://ror.org/00adh9b73"
+      },
+      {
+        "id": "https://openalex.org/F4320337359",
+        "display_name": "National Institute of Neurological Disorders and Stroke",
+        "ror": "https://ror.org/01s5ya894"
+      },
+      {
+        "id": "https://openalex.org/F4320337383",
+        "display_name": "National Center for Chronic Disease Prevention and Health Promotion",
+        "ror": "https://ror.org/021rths28"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2096261947.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2096261947.grobid-xml"
+    },
+    "referenced_works_count": 103,
+    "referenced_works": [
+      "https://openalex.org/W363291993",
+      "https://openalex.org/W1504222414",
+      "https://openalex.org/W1506494596",
+      "https://openalex.org/W1509099686",
+      "https://openalex.org/W1594078235",
+      "https://openalex.org/W1845461494",
+      "https://openalex.org/W1906155566",
+      "https://openalex.org/W1933893097",
+      "https://openalex.org/W1950503156",
+      "https://openalex.org/W1967999689",
+      "https://openalex.org/W1970196890",
+      "https://openalex.org/W1973260880",
+      "https://openalex.org/W1978094899",
+      "https://openalex.org/W1978129709",
+      "https://openalex.org/W1980449150",
+      "https://openalex.org/W1980744841",
+      "https://openalex.org/W1982831423",
+      "https://openalex.org/W1986171241",
+      "https://openalex.org/W1986316308",
+      "https://openalex.org/W1990487336",
+      "https://openalex.org/W1996212594",
+      "https://openalex.org/W2000046950",
+      "https://openalex.org/W2003171404",
+      "https://openalex.org/W2007818617",
+      "https://openalex.org/W2009626008",
+      "https://openalex.org/W2010986636",
+      "https://openalex.org/W2013850452",
+      "https://openalex.org/W2019670881",
+      "https://openalex.org/W2025061302",
+      "https://openalex.org/W2025074364",
+      "https://openalex.org/W2026520402",
+      "https://openalex.org/W2036099589",
+      "https://openalex.org/W2036176224",
+      "https://openalex.org/W2038849570",
+      "https://openalex.org/W2039705224",
+      "https://openalex.org/W2039731535",
+      "https://openalex.org/W2041797639",
+      "https://openalex.org/W2045435533",
+      "https://openalex.org/W2058304957",
+      "https://openalex.org/W2058725026",
+      "https://openalex.org/W2058792860",
+      "https://openalex.org/W2059363769",
+      "https://openalex.org/W2060955485",
+      "https://openalex.org/W2061650108",
+      "https://openalex.org/W2063376698",
+      "https://openalex.org/W2064815984",
+      "https://openalex.org/W2064994526",
+      "https://openalex.org/W2068427957",
+      "https://openalex.org/W2072051684",
+      "https://openalex.org/W2073873559",
+      "https://openalex.org/W2074862753",
+      "https://openalex.org/W2075230442",
+      "https://openalex.org/W2076785026",
+      "https://openalex.org/W2077190448",
+      "https://openalex.org/W2077659966",
+      "https://openalex.org/W2086369200",
+      "https://openalex.org/W2086860427",
+      "https://openalex.org/W2092806325",
+      "https://openalex.org/W2095950258",
+      "https://openalex.org/W2101749257",
+      "https://openalex.org/W2106937178",
+      "https://openalex.org/W2107959600",
+      "https://openalex.org/W2108038398",
+      "https://openalex.org/W2111648798",
+      "https://openalex.org/W2112006537",
+      "https://openalex.org/W2112295554",
+      "https://openalex.org/W2113446817",
+      "https://openalex.org/W2116565356",
+      "https://openalex.org/W2118746294",
+      "https://openalex.org/W2120503144",
+      "https://openalex.org/W2122836421",
+      "https://openalex.org/W2123746851",
+      "https://openalex.org/W2123965484",
+      "https://openalex.org/W2124741861",
+      "https://openalex.org/W2125524975",
+      "https://openalex.org/W2130069008",
+      "https://openalex.org/W2133908827",
+      "https://openalex.org/W2135598273",
+      "https://openalex.org/W2137076026",
+      "https://openalex.org/W2139544568",
+      "https://openalex.org/W2140754284",
+      "https://openalex.org/W2142515819",
+      "https://openalex.org/W2143772974",
+      "https://openalex.org/W2146527422",
+      "https://openalex.org/W2148050025",
+      "https://openalex.org/W2149402050",
+      "https://openalex.org/W2149480270",
+      "https://openalex.org/W2153344788",
+      "https://openalex.org/W2153355254",
+      "https://openalex.org/W2153537688",
+      "https://openalex.org/W2160051211",
+      "https://openalex.org/W2162049340",
+      "https://openalex.org/W2162090628",
+      "https://openalex.org/W2163241233",
+      "https://openalex.org/W2166139447",
+      "https://openalex.org/W2167380395",
+      "https://openalex.org/W2168460045",
+      "https://openalex.org/W2168933209",
+      "https://openalex.org/W2169244146",
+      "https://openalex.org/W2170039745",
+      "https://openalex.org/W2209812019",
+      "https://openalex.org/W4206892629",
+      "https://openalex.org/W6630296409"
+    ],
+    "related_works": [
+      "https://openalex.org/W7217463877",
+      "https://openalex.org/W1529293299",
+      "https://openalex.org/W2182456467",
+      "https://openalex.org/W1821692337",
+      "https://openalex.org/W2089589904",
+      "https://openalex.org/W2101825558",
+      "https://openalex.org/W2050480410",
+      "https://openalex.org/W7064485788",
+      "https://openalex.org/W2508214013",
+      "https://openalex.org/W2555624605"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 261
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 369
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 410
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 416
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 483
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 529
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 571
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 556
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 574
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 504
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 539
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 441
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 100
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2026-11-03T10:50:19.383937",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

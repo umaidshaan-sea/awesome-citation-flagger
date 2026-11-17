@@ -1,0 +1,1507 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1002/jcb.26477",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1002%2Fjcb.26477",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:27.814732+00:00",
+  "record": {
+    "id": "https://openalex.org/W2767370780",
+    "doi": "https://doi.org/10.1002/jcb.26477",
+    "title": "RETRACTED: Neuroprotective effect of licochalcone A against oxygen\u2010glucose deprivation/reperfusion in rat primary cortical neurons by attenuating oxidative stress injury and inflammatory response via the SIRT1/Nrf2 pathway",
+    "display_name": "RETRACTED: Neuroprotective effect of licochalcone A against oxygen\u2010glucose deprivation/reperfusion in rat primary cortical neurons by attenuating oxidative stress injury and inflammatory response via the SIRT1/Nrf2 pathway",
+    "publication_year": 2017,
+    "publication_date": "2017-11-06",
+    "ids": {
+      "openalex": "https://openalex.org/W2767370780",
+      "doi": "https://doi.org/10.1002/jcb.26477",
+      "mag": "2767370780",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/29105819"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1002/jcb.26477",
+      "doi": "https://doi.org/10.1002/jcb.26477",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1002/jcb.26477",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S53807158",
+        "display_name": "Journal of Cellular Biochemistry",
+        "issn_l": "0730-2312",
+        "issn": [
+          "0730-2312",
+          "1097-4644"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-c",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Cellular Biochemistry",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5100321208",
+          "display_name": "Xiaohong Liu",
+          "orcid": "https://orcid.org/0000-0003-0432-0960",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0432-0960"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210088547",
+            "display_name": "Xian Central Hospital",
+            "ror": "https://ror.org/004cdc714",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210088547"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Xiaohong Liu",
+        "raw_affiliation_strings": [
+          "Department of Neonatology, Xi'an Central Hospital, Xi'an, Shaanxi, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0432-0960",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Neonatology, Xi'an Central Hospital, Xi'an, Shaanxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210088547"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101705870",
+          "display_name": "Ying Ma",
+          "orcid": "https://orcid.org/0000-0003-3739-1175",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3739-1175"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210142339",
+            "display_name": "Xi\u2019an Children\u2019s Hospital",
+            "ror": "https://ror.org/04595zj73",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210142339"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ying Ma",
+        "raw_affiliation_strings": [
+          "Department of Neonatology, Xi'an Children's Hospital, Xi'an, Shaanxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Neonatology, Xi'an Children's Hospital, Xi'an, Shaanxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210142339"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Xiaodi Wei",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210088547",
+            "display_name": "Xian Central Hospital",
+            "ror": "https://ror.org/004cdc714",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210088547"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xiaodi Wei",
+        "raw_affiliation_strings": [
+          "Department of Neonatology, Xi'an Central Hospital, Xi'an, Shaanxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Neonatology, Xi'an Central Hospital, Xi'an, Shaanxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210088547"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "Ting Fan",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210088547",
+            "display_name": "Xian Central Hospital",
+            "ror": "https://ror.org/004cdc714",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210088547"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ting Fan",
+        "raw_affiliation_strings": [
+          "Department of Neonatology, Xi'an Central Hospital, Xi'an, Shaanxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Neonatology, Xi'an Central Hospital, Xi'an, Shaanxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210088547"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5100321208"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210088547"
+    ],
+    "apc_list": {
+      "value": 5110,
+      "currency": "USD",
+      "value_usd": 5110
+    },
+    "apc_paid": null,
+    "fwci": 5.3715,
+    "has_fulltext": false,
+    "cited_by_count": 58,
+    "citation_normalized_percentile": {
+      "value": 0.95720255,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "119",
+      "issue": "4",
+      "first_page": "3210",
+      "last_page": "3219"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11184",
+      "display_name": "Neonatal and fetal brain pathology",
+      "score": 0.9789999723434448,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11184",
+        "display_name": "Neonatal and fetal brain pathology",
+        "score": 0.9789999723434448,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2735",
+          "display_name": "Pediatrics, Perinatology and Child Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13796",
+        "display_name": "Neurological Disorders and Treatments",
+        "score": 0.009499999694526196,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2808",
+          "display_name": "Neurology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14144",
+        "display_name": "Neurological Disease Mechanisms and Treatments",
+        "score": 0.00139999995008111,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2808",
+          "display_name": "Neurology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/licochalcone-a",
+        "display_name": "licochalcone A",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/perinatal-hypoxic-ischemic-encephalopathy",
+        "display_name": "perinatal hypoxic-ischemic encephalopathy",
+        "score": 0.9399999976158142
+      },
+      {
+        "id": "https://openalex.org/keywords/oxygen-glucose-deprivation-reoxygenation",
+        "display_name": "oxygen-glucose deprivation/reoxygenation",
+        "score": 0.8899999856948853
+      },
+      {
+        "id": "https://openalex.org/keywords/cortical-neurons",
+        "display_name": "cortical neurons",
+        "score": 0.8169999718666077
+      },
+      {
+        "id": "https://openalex.org/keywords/neuroprotection",
+        "display_name": "neuroprotection",
+        "score": 0.9729999899864197
+      },
+      {
+        "id": "https://openalex.org/keywords/oxidative-stress",
+        "display_name": "oxidative stress",
+        "score": 0.9620000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/neuroinflammation",
+        "display_name": "neuroinflammation",
+        "score": 0.9959999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/sirt1",
+        "display_name": "SIRT1",
+        "score": 0.8849999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/nrf2",
+        "display_name": "Nrf2",
+        "score": 0.9369999766349792
+      },
+      {
+        "id": "https://openalex.org/keywords/heme-oxygenase-1",
+        "display_name": "heme oxygenase-1",
+        "score": 0.9829999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/nf-kappab-p65",
+        "display_name": "NF-\u03baB p65",
+        "score": 0.9829999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/reactive-oxygen-species",
+        "display_name": "reactive oxygen species",
+        "score": 0.777999997138977
+      },
+      {
+        "id": "https://openalex.org/keywords/apoptosis",
+        "display_name": "apoptosis",
+        "score": 0.7020000219345093
+      },
+      {
+        "id": "https://openalex.org/keywords/tnf-alpha",
+        "display_name": "TNF-\u03b1",
+        "score": 0.8009999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/interleukin-6",
+        "display_name": "interleukin-6",
+        "score": 0.9419999718666077
+      },
+      {
+        "id": "https://openalex.org/keywords/ex527",
+        "display_name": "EX527",
+        "score": 0.8220000267028809
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C25498285",
+        "wikidata": "https://www.wikidata.org/wiki/Q1981368",
+        "display_name": "Neuroprotection",
+        "level": 2,
+        "score": 0.9068232774734497
+      },
+      {
+        "id": "https://openalex.org/C2776151105",
+        "wikidata": "https://www.wikidata.org/wiki/Q898814",
+        "display_name": "Oxidative stress",
+        "level": 2,
+        "score": 0.8241537809371948
+      },
+      {
+        "id": "https://openalex.org/C48349386",
+        "wikidata": "https://www.wikidata.org/wiki/Q424361",
+        "display_name": "Reactive oxygen species",
+        "level": 2,
+        "score": 0.6137408018112183
+      },
+      {
+        "id": "https://openalex.org/C98274493",
+        "wikidata": "https://www.wikidata.org/wiki/Q128406",
+        "display_name": "Pharmacology",
+        "level": 1,
+        "score": 0.6028628349304199
+      },
+      {
+        "id": "https://openalex.org/C87753298",
+        "wikidata": "https://www.wikidata.org/wiki/Q17157137",
+        "display_name": "Neuroinflammation",
+        "level": 3,
+        "score": 0.5346011519432068
+      },
+      {
+        "id": "https://openalex.org/C2775838275",
+        "wikidata": "https://www.wikidata.org/wiki/Q410776",
+        "display_name": "Superoxide dismutase",
+        "level": 3,
+        "score": 0.5217662453651428
+      },
+      {
+        "id": "https://openalex.org/C2778401633",
+        "wikidata": "https://www.wikidata.org/wiki/Q418661",
+        "display_name": "Malondialdehyde",
+        "level": 3,
+        "score": 0.5065301656723022
+      },
+      {
+        "id": "https://openalex.org/C127561419",
+        "wikidata": "https://www.wikidata.org/wiki/Q224527",
+        "display_name": "Downregulation and upregulation",
+        "level": 3,
+        "score": 0.47755298018455505
+      },
+      {
+        "id": "https://openalex.org/C2778760513",
+        "wikidata": "https://www.wikidata.org/wiki/Q24773045",
+        "display_name": "Glutathione peroxidase",
+        "level": 4,
+        "score": 0.4547197222709656
+      },
+      {
+        "id": "https://openalex.org/C2779219270",
+        "wikidata": "https://www.wikidata.org/wiki/Q419972",
+        "display_name": "Heme oxygenase",
+        "level": 4,
+        "score": 0.4540345370769501
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.44704416394233704
+      },
+      {
+        "id": "https://openalex.org/C17991360",
+        "wikidata": "https://www.wikidata.org/wiki/Q21173843",
+        "display_name": "Tumor necrosis factor alpha",
+        "level": 2,
+        "score": 0.4161064624786377
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.3038431704044342
+      },
+      {
+        "id": "https://openalex.org/C2776914184",
+        "wikidata": "https://www.wikidata.org/wiki/Q101991",
+        "display_name": "Inflammation",
+        "level": 2,
+        "score": 0.29787588119506836
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.2920953631401062
+      },
+      {
+        "id": "https://openalex.org/C134018914",
+        "wikidata": "https://www.wikidata.org/wiki/Q162606",
+        "display_name": "Endocrinology",
+        "level": 1,
+        "score": 0.26941439509391785
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.24995845556259155
+      },
+      {
+        "id": "https://openalex.org/C2776217839",
+        "wikidata": "https://www.wikidata.org/wiki/Q189621",
+        "display_name": "Heme",
+        "level": 3,
+        "score": 0.0772918164730072
+      },
+      {
+        "id": "https://openalex.org/C181199279",
+        "wikidata": "https://www.wikidata.org/wiki/Q8047",
+        "display_name": "Enzyme",
+        "level": 2,
+        "score": 0.046863853931427
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000893",
+        "descriptor_name": "Anti-Inflammatory Agents",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D002470",
+        "descriptor_name": "Cell Survival",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002478",
+        "descriptor_name": "Cells, Cultured",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002540",
+        "descriptor_name": "Cerebral Cortex",
+        "qualifier_ui": "Q000166",
+        "qualifier_name": "cytology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D002540",
+        "descriptor_name": "Cerebral Cortex",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005786",
+        "descriptor_name": "Gene Expression Regulation",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005947",
+        "descriptor_name": "Glucose",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008954",
+        "descriptor_name": "Models, Biological",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009474",
+        "descriptor_name": "Neurons",
+        "qualifier_ui": "Q000166",
+        "qualifier_name": "cytology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009474",
+        "descriptor_name": "Neurons",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010100",
+        "descriptor_name": "Oxygen",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D015398",
+        "descriptor_name": "Signal Transduction",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015427",
+        "descriptor_name": "Reperfusion Injury",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015427",
+        "descriptor_name": "Reperfusion Injury",
+        "qualifier_ui": "Q000517",
+        "qualifier_name": "prevention & control",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D017382",
+        "descriptor_name": "Reactive Oxygen Species",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D018384",
+        "descriptor_name": "Oxidative Stress",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D018696",
+        "descriptor_name": "Neuroprotective Agents",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D047188",
+        "descriptor_name": "Chalcones",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D051267",
+        "descriptor_name": "NF-E2-Related Factor 2",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D051381",
+        "descriptor_name": "Rats",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D056564",
+        "descriptor_name": "Sirtuin 1",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1002/jcb.26477",
+        "doi": "https://doi.org/10.1002/jcb.26477",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1002/jcb.26477",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S53807158",
+          "display_name": "Journal of Cellular Biochemistry",
+          "issn_l": "0730-2312",
+          "issn": [
+            "0730-2312",
+            "1097-4644"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Cellular Biochemistry",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:29105819",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/29105819",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of cellular biochemistry",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Good health and well-being",
+        "id": "https://metadata.un.org/sdg/3",
+        "score": 0.98580002784729
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 42,
+    "referenced_works": [
+      "https://openalex.org/W1501235560",
+      "https://openalex.org/W1776086334",
+      "https://openalex.org/W1977941840",
+      "https://openalex.org/W1981692260",
+      "https://openalex.org/W1985638952",
+      "https://openalex.org/W2002726264",
+      "https://openalex.org/W2021282800",
+      "https://openalex.org/W2034526288",
+      "https://openalex.org/W2034778524",
+      "https://openalex.org/W2040147525",
+      "https://openalex.org/W2056131072",
+      "https://openalex.org/W2058892839",
+      "https://openalex.org/W2066301503",
+      "https://openalex.org/W2079633022",
+      "https://openalex.org/W2097729269",
+      "https://openalex.org/W2100166573",
+      "https://openalex.org/W2112839086",
+      "https://openalex.org/W2134296216",
+      "https://openalex.org/W2147080637",
+      "https://openalex.org/W2164664134",
+      "https://openalex.org/W2181645442",
+      "https://openalex.org/W2193639688",
+      "https://openalex.org/W2204894072",
+      "https://openalex.org/W2229012828",
+      "https://openalex.org/W2291501534",
+      "https://openalex.org/W2307337949",
+      "https://openalex.org/W2402452029",
+      "https://openalex.org/W2465824725",
+      "https://openalex.org/W2475113336",
+      "https://openalex.org/W2554316010",
+      "https://openalex.org/W2560044787",
+      "https://openalex.org/W2566119188",
+      "https://openalex.org/W2566583794",
+      "https://openalex.org/W2571817775",
+      "https://openalex.org/W2574169421",
+      "https://openalex.org/W2582830902",
+      "https://openalex.org/W2591856019",
+      "https://openalex.org/W2603288150",
+      "https://openalex.org/W2603610617",
+      "https://openalex.org/W2745647838",
+      "https://openalex.org/W2757034452",
+      "https://openalex.org/W2990305549"
+    ],
+    "related_works": [
+      "https://openalex.org/W3023612827",
+      "https://openalex.org/W3108829151",
+      "https://openalex.org/W4378639267",
+      "https://openalex.org/W4281694894",
+      "https://openalex.org/W4319749081",
+      "https://openalex.org/W2620708543",
+      "https://openalex.org/W2890931395",
+      "https://openalex.org/W2760941624",
+      "https://openalex.org/W3108567237",
+      "https://openalex.org/W3160590484"
+    ],
+    "abstract_inverted_index": {
+      "Perinatal": [
+        0
+      ],
+      "hypoxic-ischemic": [
+        1
+      ],
+      "encephalopathy": [
+        2
+      ],
+      "(HIE)": [
+        3
+      ],
+      "is": [
+        4
+      ],
+      "a": [
+        5,
+        210,
+        228
+      ],
+      "leading": [
+        6
+      ],
+      "cause": [
+        7
+      ],
+      "of": [
+        8,
+        22,
+        46,
+        51,
+        76,
+        158,
+        176
+      ],
+      "neonatal": [
+        9,
+        77
+      ],
+      "death": [
+        10
+      ],
+      "and": [
+        11,
+        16,
+        33,
+        96,
+        113,
+        117,
+        122,
+        147,
+        170,
+        174,
+        236
+      ],
+      "neurological": [
+        12
+      ],
+      "disability.": [
+        13
+      ],
+      "Oxidative": [
+        14
+      ],
+      "stress": [
+        15,
+        105
+      ],
+      "neuroinflammation": [
+        17
+      ],
+      "are": [
+        18
+      ],
+      "typical": [
+        19
+      ],
+      "pathogenic": [
+        20
+      ],
+      "factors": [
+        21
+      ],
+      "HIE.": [
+        23,
+        52,
+        78
+      ],
+      "Licochalcone": [
+        24
+      ],
+      "A": [
+        25
+      ],
+      "(LCA)": [
+        26
+      ],
+      "exerts": [
+        27,
+        209
+      ],
+      "various": [
+        28
+      ],
+      "biological": [
+        29
+      ],
+      "properties,": [
+        30
+      ],
+      "including": [
+        31
+      ],
+      "anti-inflammatory": [
+        32
+      ],
+      "antioxidant": [
+        34
+      ],
+      "activities.": [
+        35
+      ],
+      "However,": [
+        36
+      ],
+      "no": [
+        37
+      ],
+      "data": [
+        38
+      ],
+      "have": [
+        39
+      ],
+      "been": [
+        40
+      ],
+      "reported": [
+        41
+      ],
+      "to": [
+        42,
+        64,
+        70,
+        200
+      ],
+      "elucidate": [
+        43
+      ],
+      "the": [
+        44,
+        49,
+        54,
+        72
+      ],
+      "role": [
+        45
+      ],
+      "LCA": [
+        47,
+        80,
+        102,
+        134,
+        152,
+        208,
+        224
+      ],
+      "in": [
+        48,
+        68,
+        73,
+        127,
+        140,
+        217
+      ],
+      "development": [
+        50
+      ],
+      "In": [
+        53,
+        202
+      ],
+      "present": [
+        55
+      ],
+      "study,": [
+        56
+      ],
+      "primary": [
+        57,
+        128,
+        219
+      ],
+      "cultured": [
+        58
+      ],
+      "rat": [
+        59,
+        129,
+        196,
+        218
+      ],
+      "cortical": [
+        60,
+        130,
+        197,
+        220
+      ],
+      "neurons": [
+        61,
+        131,
+        198
+      ],
+      "were": [
+        62
+      ],
+      "exposed": [
+        63,
+        199
+      ],
+      "oxygen-glucose": [
+        65
+      ],
+      "deprivation/reoxygenation": [
+        66
+      ],
+      "(OGD/R)": [
+        67
+      ],
+      "vitro": [
+        69
+      ],
+      "simulate": [
+        71
+      ],
+      "vivo": [
+        74
+      ],
+      "situation": [
+        75
+      ],
+      "Interestingly,": [
+        79
+      ],
+      "significantly": [
+        81
+      ],
+      "antagonized": [
+        82
+      ],
+      "cell": [
+        83,
+        89,
+        97
+      ],
+      "injury": [
+        84,
+        216
+      ],
+      "under": [
+        85
+      ],
+      "OGD/R": [
+        86
+      ],
+      "by": [
+        87,
+        106
+      ],
+      "increasing": [
+        88,
+        118
+      ],
+      "survival,": [
+        90
+      ],
+      "inhibiting": [
+        91
+      ],
+      "lactate": [
+        92
+      ],
+      "dehydrogenase": [
+        93
+      ],
+      "(LDH)": [
+        94
+      ],
+      "release": [
+        95
+      ],
+      "apoptosis.": [
+        98
+      ],
+      "Furthermore,": [
+        99
+      ],
+      "treatment": [
+        100,
+        153
+      ],
+      "with": [
+        101,
+        186
+      ],
+      "suppressed": [
+        103
+      ],
+      "oxidative": [
+        104
+      ],
+      "decreasing": [
+        107
+      ],
+      "reactive": [
+        108
+      ],
+      "oxygen": [
+        109
+      ],
+      "species": [
+        110
+      ],
+      "(ROS)": [
+        111
+      ],
+      "production": [
+        112
+      ],
+      "malondialdehyde": [
+        114
+      ],
+      "(MDA)": [
+        115
+      ],
+      "content,": [
+        116
+      ],
+      "superoxide": [
+        119
+      ],
+      "dismutase": [
+        120
+      ],
+      "(SOD)": [
+        121
+      ],
+      "glutathione": [
+        123
+      ],
+      "peroxidase": [
+        124
+      ],
+      "(GPx)": [
+        125
+      ],
+      "activities": [
+        126
+      ],
+      "after": [
+        132
+      ],
+      "OGD/R.": [
+        133,
+        201
+      ],
+      "stimulation": [
+        135
+      ],
+      "also": [
+        136
+      ],
+      "restrained": [
+        137
+      ],
+      "OGD/R-triggered": [
+        138
+      ],
+      "increase": [
+        139
+      ],
+      "pro-inflammatory": [
+        141
+      ],
+      "cytokines": [
+        142
+      ],
+      "tumor": [
+        143
+      ],
+      "necrosis": [
+        144
+      ],
+      "factor-\u03b1": [
+        145
+      ],
+      "(TNF-\u03b1)": [
+        146
+      ],
+      "interleukin-6": [
+        148
+      ],
+      "(IL-6)": [
+        149
+      ],
+      "production.": [
+        150
+      ],
+      "Importantly,": [
+        151
+      ],
+      "effectively": [
+        154
+      ],
+      "counteracts": [
+        155
+      ],
+      "OGD/R-mediated": [
+        156
+      ],
+      "downregulation": [
+        157
+      ],
+      "silent": [
+        159
+      ],
+      "information": [
+        160
+      ],
+      "regulator": [
+        161
+      ],
+      "1": [
+        162
+      ],
+      "(SIRT1),": [
+        163
+      ],
+      "nuclear": [
+        164,
+        177
+      ],
+      "factor": [
+        165,
+        167,
+        178
+      ],
+      "erythroid2-related": [
+        166
+      ],
+      "2": [
+        168
+      ],
+      "(Nrf2),": [
+        169
+      ],
+      "heme": [
+        171
+      ],
+      "oxygenase-1": [
+        172
+      ],
+      "(HO-1),": [
+        173
+      ],
+      "upregulation": [
+        175
+      ],
+      "kappa": [
+        179
+      ],
+      "B": [
+        180
+      ],
+      "p65": [
+        181
+      ],
+      "(NF-\u03baB": [
+        182
+      ],
+      "p65).": [
+        183
+      ],
+      "Moreover,": [
+        184
+      ],
+      "administration": [
+        185
+      ],
+      "SIRT1": [
+        187
+      ],
+      "inhibitor": [
+        188
+      ],
+      "EX527": [
+        189
+      ],
+      "partly": [
+        190
+      ],
+      "abolished": [
+        191
+      ],
+      "LCA-induced": [
+        192
+      ],
+      "neuroprotective": [
+        193,
+        211
+      ],
+      "effects": [
+        194
+      ],
+      "on": [
+        195
+      ],
+      "conclusion,": [
+        203
+      ],
+      "our": [
+        204
+      ],
+      "study": [
+        205
+      ],
+      "indicates": [
+        206
+      ],
+      "that": [
+        207,
+        223
+      ],
+      "effect": [
+        212
+      ],
+      "against": [
+        213
+      ],
+      "OGD/R-induced": [
+        214
+      ],
+      "neuronal": [
+        215
+      ],
+      "neurons,": [
+        221
+      ],
+      "suggesting": [
+        222
+      ],
+      "might": [
+        225
+      ],
+      "act": [
+        226
+      ],
+      "as": [
+        227
+      ],
+      "candidate": [
+        229
+      ],
+      "therapeutic": [
+        230
+      ],
+      "target": [
+        231
+      ],
+      "drug": [
+        232
+      ],
+      "used": [
+        233
+      ],
+      "for": [
+        234
+      ],
+      "HIE": [
+        235
+      ],
+      "related": [
+        237
+      ],
+      "diseases.": [
+        238
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2017-11-17T00:00:00"
+  }
+}

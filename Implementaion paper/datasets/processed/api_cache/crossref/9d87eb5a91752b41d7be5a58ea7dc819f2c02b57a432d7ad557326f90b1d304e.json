@@ -1,0 +1,483 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1145/3394486.3403177",
+  "url": "https://api.crossref.org/works/10.1145%2F3394486.3403177",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:19.867629+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T03:03:25Z",
+      "timestamp": 1792811005543,
+      "version": "4.5.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 38,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              20
+            ]
+          ],
+          "date-time": "2020-08-20T00:00:00Z",
+          "timestamp": 1597881600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.1145/3394486.3403177",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2020-08-20T19:17:27Z",
+      "timestamp": 1597951047000
+    },
+    "page": "1243-1253",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 501,
+    "title": [
+      "AM-GCN: Adaptive Multi-channel Graph Convolutional Networks"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Xiao",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Beijing University of Posts and Telecommunications, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meiqi",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing University of Posts and Telecommunications, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Deyu",
+        "family": "Bo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing University of Posts and Telecommunications, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peng",
+        "family": "Cui",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Tsinghua University, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chuan",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing University of Posts and Telecommunications, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jian",
+        "family": "Pei",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Simon Fraser University, Burnaby, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_1_1",
+        "volume-title": "Greg Ver Steeg, and Aram Galstyan",
+        "author": "Abu-El-Haija Sami",
+        "year": "2019",
+        "unstructured": "Sami Abu-El-Haija , Bryan Perozzi , Amol Kapoor , Nazanin Alipourfard , Kristina Lerman , Hrayr Harutyunyan , Greg Ver Steeg, and Aram Galstyan . 2019 . MixHop: Higher- Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing. In ICML. 21--29. Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Kristina Lerman, Hrayr Harutyunyan, Greg Ver Steeg, and Aram Galstyan. 2019. MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing. In ICML. 21--29."
+      },
+      {
+        "key": "e_1_3_2_2_2_1",
+        "unstructured": "Aleksandar Bojchevski and Stephan G\u00fcnnemann. 2018. Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking. In ICLR.  Aleksandar Bojchevski and Stephan G\u00fcnnemann. 2018. Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking. In ICLR."
+      },
+      {
+        "key": "e_1_3_2_2_3_1",
+        "unstructured": "Joan Bruna Wojciech Zaremba Arthur Szlam and Yann LeCun. 2014. Spectral Networks and Locally Connected Networks on Graphs. In ICLR.  Joan Bruna Wojciech Zaremba Arthur Szlam and Yann LeCun. 2014. Spectral Networks and Locally Connected Networks on Graphs. In ICLR."
+      },
+      {
+        "key": "e_1_3_2_2_4_1",
+        "unstructured": "Jie Chen Tengfei Ma and Cao Xiao. 2018. FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. In ICLR.  Jie Chen Tengfei Ma and Cao Xiao. 2018. FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. In ICLR."
+      },
+      {
+        "key": "e_1_3_2_2_5_1",
+        "unstructured": "Micha\u00ebl Defferrard Xavier Bresson and Pierre Vandergheynst. 2016. Convolutional neural networks on graphs with fast localized spectral filtering. In NeurIPS. 3844--3852.  Micha\u00ebl Defferrard Xavier Bresson and Pierre Vandergheynst. 2016. Convolutional neural networks on graphs with fast localized spectral filtering. In NeurIPS. 3844--3852."
+      },
+      {
+        "key": "e_1_3_2_2_6_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wenqi Fan Yao Ma Qing Li Yuan He Eric Zhao Jiliang Tang and Dawei Yin. 2019. Graph Neural Networks for Social Recommendation. In WWW. 417--426.  Wenqi Fan Yao Ma Qing Li Yuan He Eric Zhao Jiliang Tang and Dawei Yin. 2019. Graph Neural Networks for Social Recommendation. In WWW. 417--426.",
+        "DOI": "10.1145/3308558.3313488"
+      },
+      {
+        "key": "e_1_3_2_2_7_1",
+        "unstructured": "Hongyang Gao and Shuiwang Ji. 2019. Graph U-Nets. In ICML. 2083--2092.  Hongyang Gao and Shuiwang Ji. 2019. Graph U-Nets. In ICML. 2083--2092."
+      },
+      {
+        "key": "e_1_3_2_2_8_1",
+        "unstructured": "Hongchang Gao Jian Pei and Heng Huang. 2019. Conditional Random Field Enhanced Graph Convolutional Neural Networks. In SIGKDD. 276--284.  Hongchang Gao Jian Pei and Heng Huang. 2019. Conditional Random Field Enhanced Graph Convolutional Neural Networks. In SIGKDD. 276--284."
+      },
+      {
+        "key": "e_1_3_2_2_9_1",
+        "unstructured": "Hongyang Gao Zhengyang Wang and Shuiwang Ji. 2018. Large-Scale Learnable Graph Convolutional Networks. In SIGKDD. 1416--1424.  Hongyang Gao Zhengyang Wang and Shuiwang Ji. 2018. Large-Scale Learnable Graph Convolutional Networks. In SIGKDD. 1416--1424."
+      },
+      {
+        "key": "e_1_3_2_2_10_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Arthur Gretton Olivier Bousquet Alex Smola and Bernhard Sch\u00f6lkopf. 2005. Measuring statistical dependence with hilbert-schmidt norms. In ALT. 63--77.  Arthur Gretton Olivier Bousquet Alex Smola and Bernhard Sch\u00f6lkopf. 2005. Measuring statistical dependence with hilbert-schmidt norms. In ALT. 63--77.",
+        "DOI": "10.1007/11564089_7"
+      },
+      {
+        "key": "e_1_3_2_2_11_1",
+        "unstructured": "Will Hamilton Zhitao Ying and Jure Leskovec. 2017. Inductive representation learning on large graphs. In NeurIPS. 1024--1034.  Will Hamilton Zhitao Ying and Jure Leskovec. 2017. Inductive representation learning on large graphs. In NeurIPS. 1024--1034."
+      },
+      {
+        "key": "e_1_3_2_2_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevE.83.016107"
+      },
+      {
+        "key": "e_1_3_2_2_13_1",
+        "volume-title": "Kipf and Max Welling",
+        "author": "Thomas",
+        "year": "2016",
+        "unstructured": "Thomas N. Kipf and Max Welling . 2016 . Variational Graph Auto-Encoders . arXiv preprint arXiv:1611.07308. Thomas N. Kipf and Max Welling. 2016. Variational Graph Auto-Encoders. arXiv preprint arXiv:1611.07308."
+      },
+      {
+        "key": "e_1_3_2_2_14_1",
+        "volume-title": "Kipf and Max Welling",
+        "author": "Thomas",
+        "year": "2017",
+        "unstructured": "Thomas N. Kipf and Max Welling . 2017 . Semi-Supervised Classification with Graph Convolutional Networks. In ICLR. Thomas N. Kipf and Max Welling. 2017. Semi-Supervised Classification with Graph Convolutional Networks. In ICLR."
+      },
+      {
+        "key": "e_1_3_2_2_15_1",
+        "unstructured": "Qimai Li Zhichao Han and Xiaoming Wu. 2018. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning. In AAAI. 3538--3545.  Qimai Li Zhichao Han and Xiaoming Wu. 2018. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning. In AAAI. 3538--3545."
+      },
+      {
+        "key": "e_1_3_2_2_16_1",
+        "unstructured": "Jianxin Ma Peng Cui Kun Kuang Xin Wang and wenwu zhu. 2019 a. Disentangled Graph Convolutional Networks. In ICML. 4212--4221.  Jianxin Ma Peng Cui Kun Kuang Xin Wang and wenwu zhu. 2019 a. Disentangled Graph Convolutional Networks. In ICML. 4212--4221."
+      },
+      {
+        "key": "e_1_3_2_2_17_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yao Ma Suhang Wang Charu C. Aggarwal and Jiliang Tang. 2019 b. Graph Convolutional Networks with EigenPooling. In SIGKDD. 723--731.  Yao Ma Suhang Wang Charu C. Aggarwal and Jiliang Tang. 2019 b. Graph Convolutional Networks with EigenPooling. In SIGKDD. 723--731.",
+        "DOI": "10.1145/3292500.3330982"
+      },
+      {
+        "key": "e_1_3_2_2_18_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zaiqiao Meng Shangsong Liang Hongyan Bao and Xiangliang Zhang. 2019. Co-Embedding Attributed Networks. In WSDM. 393--401.  Zaiqiao Meng Shangsong Liang Hongyan Bao and Xiangliang Zhang. 2019. Co-Embedding Attributed Networks. In WSDM. 393--401.",
+        "DOI": "10.1145/3289600.3291015"
+      },
+      {
+        "key": "e_1_3_2_2_19_1",
+        "volume-title": "Jordan",
+        "author": "Niu Donglin",
+        "year": "2010",
+        "unstructured": "Donglin Niu , Jennifer G. Dy , and Michael I . Jordan . 2010 . Multiple Non-Redundant Spectral Clustering Views. In ICML. 831--838. Donglin Niu, Jennifer G. Dy, and Michael I. Jordan. 2010. Multiple Non-Redundant Spectral Clustering Views. In ICML. 831--838."
+      },
+      {
+        "key": "e_1_3_2_2_20_1",
+        "volume-title": "Revisiting Graph Neural Networks: All We Have is Low-Pass Filters. arXiv preprint arXiv:1905.09550",
+        "author": "Nt Hoang",
+        "year": "2019",
+        "unstructured": "Hoang Nt and Takanori Maehara . 2019. Revisiting Graph Neural Networks: All We Have is Low-Pass Filters. arXiv preprint arXiv:1905.09550 ( 2019 ). Hoang Nt and Takanori Maehara. 2019. Revisiting Graph Neural Networks: All We Have is Low-Pass Filters. arXiv preprint arXiv:1905.09550 (2019)."
+      },
+      {
+        "key": "e_1_3_2_2_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.159058"
+      },
+      {
+        "key": "e_1_3_2_2_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2623330.2623732"
+      },
+      {
+        "key": "e_1_3_2_2_23_1",
+        "volume-title": "GMNN: Graph Markov Neural Networks. In ICML. 5241--5250.",
+        "author": "Qu Meng",
+        "year": "2019",
+        "unstructured": "Meng Qu , Yoshua Bengio , and Jian Tang . 2019 . GMNN: Graph Markov Neural Networks. In ICML. 5241--5250. Meng Qu, Yoshua Bengio, and Jian Tang. 2019. GMNN: Graph Markov Neural Networks. In ICML. 5241--5250."
+      },
+      {
+        "key": "e_1_3_2_2_24_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Le Song Alex Smola Arthur Gretton Karsten M. Borgwardt and Justin Bedo. 2007. Supervised feature selection via dependence estimation. In ICML. 823--830.  Le Song Alex Smola Arthur Gretton Karsten M. Borgwardt and Justin Bedo. 2007. Supervised feature selection via dependence estimation. In ICML. 823--830.",
+        "DOI": "10.1145/1273496.1273600"
+      },
+      {
+        "key": "e_1_3_2_2_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2736277.2741093"
+      },
+      {
+        "key": "e_1_3_2_2_26_1",
+        "first-page": "2579",
+        "article-title": "Visualizing Data using t-SNE",
+        "volume": "9",
+        "author": "van der Maaten Laurens",
+        "year": "2008",
+        "unstructured": "Laurens van der Maaten and Geoffrey Hinton . 2008 . Visualizing Data using t-SNE . Journal of Machine Learning Research , Vol. 9 (2008), 2579 -- 2605 . Laurens van der Maaten and Geoffrey Hinton. 2008. Visualizing Data using t-SNE. Journal of Machine Learning Research, Vol. 9 (2008), 2579--2605.",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "e_1_3_2_2_27_1",
+        "unstructured": "Guillem Cucurull Arantxa Casanova Adriana Romero Pietro Li\u00f2 and Yoshua Bengio. 2018. Graph Attention Networks. In ICLR.  Guillem Cucurull Arantxa Casanova Adriana Romero Pietro Li\u00f2 and Yoshua Bengio. 2018. Graph Attention Networks. In ICLR."
+      },
+      {
+        "key": "e_1_3_2_2_28_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wenjun Wang Xiao Liu Pengfei Jiao Xue Chen and Di Jin. 2018. A Unified Weakly Supervised Framework for Community Detection and Semantic Matching. In PAKDD. 218--230.  Wenjun Wang Xiao Liu Pengfei Jiao Xue Chen and Di Jin. 2018. A Unified Weakly Supervised Framework for Community Detection and Semantic Matching. In PAKDD. 218--230.",
+        "DOI": "10.1007/978-3-319-93040-4_18"
+      },
+      {
+        "key": "e_1_3_2_2_29_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiao Wang Houye Ji Chuan Shi Bai Wang Yanfang Ye Peng Cui and Philip S Yu. 2019. Heterogeneous Graph Attention Network. In WWW. 2022--2032.  Xiao Wang Houye Ji Chuan Shi Bai Wang Yanfang Ye Peng Cui and Philip S Yu. 2019. Heterogeneous Graph Attention Network. In WWW. 2022--2032.",
+        "DOI": "10.1145/3308558.3313562"
+      },
+      {
+        "key": "e_1_3_2_2_30_1",
+        "volume-title": "Christopher Fifty, Tao Yu, and Kilian Q. Weinberger.",
+        "author": "Wu Felix",
+        "year": "2019",
+        "unstructured": "Felix Wu , Tianyi Zhang , Amauri Holanda de Souza , Christopher Fifty, Tao Yu, and Kilian Q. Weinberger. 2019 . Simplifying Graph Convolutional Networks. In ICML. 6861--6871. Felix Wu, Tianyi Zhang, Amauri Holanda de Souza, Christopher Fifty, Tao Yu, and Kilian Q. Weinberger. 2019. Simplifying Graph Convolutional Networks. In ICML. 6861--6871."
+      },
+      {
+        "key": "e_1_3_2_2_31_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jun Wu Jingrui He and Jiejun Xu. 2019 a. Demo-net: Degree-specific graph neural networks for node and graph classification. In SIGKDD. 406--415.  Jun Wu Jingrui He and Jiejun Xu. 2019 a. Demo-net: Degree-specific graph neural networks for node and graph classification. In SIGKDD. 406--415.",
+        "DOI": "10.1145/3292500.3330950"
+      },
+      {
+        "key": "e_1_3_2_2_32_1",
+        "volume-title": "2019 b. A comprehensive survey on graph neural networks. arXiv preprint arXiv:1901.00596",
+        "author": "Wu Zonghan",
+        "year": "2019",
+        "unstructured": "Zonghan Wu , Shirui Pan , Fengwen Chen , Guodong Long , Chengqi Zhang , and Philip S Yu . 2019 b. A comprehensive survey on graph neural networks. arXiv preprint arXiv:1901.00596 ( 2019 ). Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip S Yu. 2019 b. A comprehensive survey on graph neural networks. arXiv preprint arXiv:1901.00596 (2019)."
+      },
+      {
+        "key": "e_1_3_2_2_33_1",
+        "unstructured": "Keyulu Xu Weihua Hu Jure Leskovec and Stefanie Jegelka. 2019. How Powerful are Graph Neural Networks. In ICLR.  Keyulu Xu Weihua Hu Jure Leskovec and Stefanie Jegelka. 2019. How Powerful are Graph Neural Networks. In ICLR."
+      },
+      {
+        "key": "e_1_3_2_2_34_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rex Ying Ruining He Kaifeng Chen Pong Eksombatchai William L. Hamilton and Jure Leskovec. 2018. Graph Convolutional Neural Networks for Web-Scale Recommender Systems. In SIGKDD. 974--983.  Rex Ying Ruining He Kaifeng Chen Pong Eksombatchai William L. Hamilton and Jure Leskovec. 2018. Graph Convolutional Neural Networks for Web-Scale Recommender Systems. In SIGKDD. 974--983.",
+        "DOI": "10.1145/3219819.3219890"
+      },
+      {
+        "key": "e_1_3_2_2_35_1",
+        "unstructured": "Zhitao Ying Ines Chami Christopher R\u00e9 and Jure Leskovec. 2019. Hyperbolic Graph Convolutional Neural Networks. In NeurIPS. 4869--4880.  Zhitao Ying Ines Chami Christopher R\u00e9 and Jure Leskovec. 2019. Hyperbolic Graph Convolutional Neural Networks. In NeurIPS. 4869--4880."
+      },
+      {
+        "key": "e_1_3_2_2_36_1",
+        "unstructured": "Jiaxuan You Rex and Jure Leskovec. 2019. Position-aware Graph Neural Networks. In ICML. 7134--7143.  Jiaxuan You Rex and Jure Leskovec. 2019. Position-aware Graph Neural Networks. In ICML. 7134--7143."
+      },
+      {
+        "key": "e_1_3_2_2_37_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Muhan Zhang Zhicheng Cui Marion Neumann and Chen Yixin. 2018. An End-to-End Deep Learning Architecture for Graph Classification. In AAAI. 4438--4445.  Muhan Zhang Zhicheng Cui Marion Neumann and Chen Yixin. 2018. An End-to-End Deep Learning Architecture for Graph Classification. In AAAI. 4438--4445.",
+        "DOI": "10.1609/aaai.v32i1.11782"
+      },
+      {
+        "key": "e_1_3_2_2_38_1",
+        "volume-title": "Deep learning on graphs: A survey. arXiv preprint arXiv:1812.04202",
+        "author": "Zhang Ziwei",
+        "year": "2018",
+        "unstructured": "Ziwei Zhang , Peng Cui , and Wenwu Zhu . 2018. Deep learning on graphs: A survey. arXiv preprint arXiv:1812.04202 ( 2018 ). Ziwei Zhang, Peng Cui, and Wenwu Zhu. 2018. Deep learning on graphs: A survey. arXiv preprint arXiv:1812.04202 (2018)."
+      }
+    ],
+    "event": {
+      "name": "KDD '20: The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "location": "Virtual Event CA USA",
+      "acronym": "KDD '20",
+      "sponsor": [
+        "SIGMOD ACM Special Interest Group on Management of Data",
+        "SIGKDD ACM Special Interest Group on Knowledge Discovery in Data"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3394486.3403177",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3394486.3403177",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2025-06-17T17:31:34Z",
+      "timestamp": 1750181494000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3394486.3403177"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          20
+        ]
+      ]
+    },
+    "references-count": 38,
+    "alternative-id": [
+      "10.1145/3394486.3403177",
+      "10.1145/3394486"
+    ],
+    "URL": "https://doi.org/10.1145/3394486.3403177",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          20
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2020-08-20",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1126/science.1104228",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1126%2Fscience.1104228",
+  "status": "NOT_FOUND",
+  "http_status": 404,
+  "fetched_at_utc": "2026-11-04T16:55:29.579560+00:00",
+  "record": null
+}

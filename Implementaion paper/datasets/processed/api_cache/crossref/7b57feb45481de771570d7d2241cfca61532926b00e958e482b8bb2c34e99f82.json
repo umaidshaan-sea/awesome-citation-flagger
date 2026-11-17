@@ -1,0 +1,395 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.7759/cureus.91396",
+  "url": "https://api.crossref.org/works/10.7759%2Fcureus.91396",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:54.656700+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2026-01-06T21:01:40Z",
+      "timestamp": 1767733300795,
+      "version": "build-2238731810"
+    },
+    "reference-count": 14,
+    "publisher": "Springer Science and Business Media LLC",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.7759/cureus.91396",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          1
+        ]
+      ],
+      "date-time": "2025-09-01T11:51:14Z",
+      "timestamp": 1756727474000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Hyponatremia in Acute Stroke: A Comparative Study of Ischemic and Hemorrhagic Stroke Subtypes"
+    ],
+    "prefix": "10.7759",
+    "author": [
+      {
+        "given": "Zahid",
+        "family": "Hasan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Murad",
+        "family": "Ali",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Zia",
+        "family": "Ur-Rehman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Imran Qadar",
+        "family": "Khattak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hamza",
+        "family": "Israr",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aansa",
+        "family": "Amin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Asim",
+        "family": "Ali",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Amjad",
+        "family": "Ali",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7759/cureus.40317",
+        "article-title": "Frequency of hyponatremia and its impact on prognosis in ischemic stroke",
+        "volume": "15",
+        "author": "Khan A",
+        "year": "2023",
+        "unstructured": "Khan A, Khan Z, Khan S, Ullah A, Ayub G, Tariq MN. Frequency of hyponatremia and its impact on prognosis in ischemic stroke. Cureus. 2023, 15:e40317. 10.7759/cureus.40317",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/20420188231163806",
+        "article-title": "A step-by-step guide for the diagnosis and management of hyponatraemia in patients with stroke",
+        "volume": "14",
+        "author": "Barkas F",
+        "year": "2023",
+        "unstructured": "Barkas F, Anastasiou G, Liamis G, Milionis H. A step-by-step guide for the diagnosis and management of hyponatraemia in patients with stroke. Ther Adv Endocrinol Metab. 2023, 14:20420188231163806. 10.1177/20420188231163806",
+        "journal-title": "Ther Adv Endocrinol Metab"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/svn-2021-001230",
+        "article-title": "Sodium and water perturbations in patients who had an acute stroke: clinical relevance and management strategies for the neurologist",
+        "volume": "7",
+        "author": "Yuen KC",
+        "year": "2022",
+        "unstructured": "Yuen KC, Sharf V, Smith E, Kim M, Yuen AS, MacDonald PR. Sodium and water perturbations in patients who had an acute stroke: clinical relevance and management strategies for the neurologist. Stroke Vasc Neurol. 2022, 7:258-66. 10.1136/svn-2021-001230",
+        "journal-title": "Stroke Vasc Neurol"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropharm.2008.05.031",
+        "article-title": "The cost of cerebral ischaemia",
+        "volume": "55",
+        "author": "Flynn RW",
+        "year": "2008",
+        "unstructured": "Flynn RW, MacWalter RS, Doney AS. The cost of cerebral ischaemia. Neuropharmacology. 2008, 55:250-6. 10.1016/j.neuropharm.2008.05.031",
+        "journal-title": "Neuropharmacology"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jstrokecerebrovasdis.2013.07.011",
+        "article-title": "Hyponatremia in the prognosis of acute ischemic stroke",
+        "volume": "23",
+        "author": "Rodrigues B",
+        "year": "2014",
+        "unstructured": "Rodrigues B, Staff I, Fortunato G, McCullough LD. Hyponatremia in the prognosis of acute ischemic stroke. J Stroke Cerebrovasc Dis. 2014, 23:850-4. 10.1016/j.jstrokecerebrovasdis.2013.07.011",
+        "journal-title": "J Stroke Cerebrovasc Dis"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7759/cureus.3926",
+        "article-title": "Evaluation of hyponatremia in ischemic stroke patients in a tertiary care hospital of Karachi, Pakistan",
+        "volume": "11",
+        "author": "Mahesar SA",
+        "year": "2019",
+        "unstructured": "Mahesar SA, Memon SF, Mustafa S, Javed A, Butt SM. Evaluation of hyponatremia in ischemic stroke patients in a tertiary care hospital of Karachi, Pakistan. Cureus. 2019, 11:e3926. 10.7759/cureus.3926",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.113.004136",
+        "article-title": "Hyponatremia is an independent predictor of in-hospital mortality in spontaneous intracerebral hemorrhage",
+        "volume": "45",
+        "author": "Kuramatsu JB",
+        "year": "2014",
+        "unstructured": "Kuramatsu JB, Bobinger T, Volbers B, et al.. Hyponatremia is an independent predictor of in-hospital mortality in spontaneous intracerebral hemorrhage. Stroke. 2014, 45:1285-91. 10.1161/STROKEAHA.113.004136",
+        "journal-title": "Stroke"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.37939/jrmc.v28i4.2560",
+        "article-title": "Hyponatremia in ischemic stroke patients and its relationship to clinical outcomes in such patients",
+        "volume": "28",
+        "author": "Zafar M",
+        "year": "2024",
+        "unstructured": "Zafar M, Jalil A, Ghaffer A, Yousaf M, Batool S. Hyponatremia in ischemic stroke patients and its relationship to clinical outcomes in such patients. J Rawalpindi Med Coll. 2024, 28:10.37939/jrmc.v28i4.2560",
+        "journal-title": "J Rawalpindi Med Coll"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2021/4244267",
+        "article-title": "A review of risk factors and predictors for hemorrhagic transformation in patients with acute ischemic stroke",
+        "volume": "2021",
+        "author": "Thomas SE",
+        "year": "2021",
+        "unstructured": "Thomas SE, Plumber N, Venkatapathappa P, Gorantla V. A review of risk factors and predictors for hemorrhagic transformation in patients with acute ischemic stroke. Int J Vasc Med. 2021, 2021:4244267. 10.1155/2021/4244267",
+        "journal-title": "Int J Vasc Med"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2022.11176",
+        "article-title": "Diagnosis and management of hyponatremia: a review",
+        "volume": "328",
+        "author": "Adrogu\u00e9 HJ",
+        "year": "2022",
+        "unstructured": "Adrogu\u00e9 HJ, Tucker BM, Madias NE. Diagnosis and management of hyponatremia: a review. JAMA. 2022, 328:280-91. 10.1001/jama.2022.11176",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7759/cureus.43149",
+        "article-title": "Prevalence of electrolyte imbalance in patients with acute stroke: a systematic review",
+        "volume": "15",
+        "author": "Hossain MF",
+        "year": "2023",
+        "unstructured": "Hossain MF, Kharel M, Husna AU, Khan MA, Aziz SN, Taznin T. Prevalence of electrolyte imbalance in patients with acute stroke: a systematic review. Cureus. 2023, 15:e43149. 10.7759/cureus.43149",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnins.2019.01170",
+        "article-title": "Inappropriate antidiuretic hormone secretion and cerebral salt-wasting syndromes in neurological patients",
+        "volume": "13",
+        "author": "Cui H",
+        "year": "2019",
+        "unstructured": "Cui H, He G, Yang S, Lv Y, Jiang Z, Gang X, Wang G. Inappropriate antidiuretic hormone secretion and cerebral salt-wasting syndromes in neurological patients. Front Neurosci. 2019, 13:1170. 10.3389/fnins.2019.01170",
+        "journal-title": "Front Neurosci"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7759/cureus.4549",
+        "article-title": "Significance of hyponatremia as an independent factor in predicting short-term mortality in patients with hemorrhagic stroke",
+        "volume": "11",
+        "author": "Shah A",
+        "year": "2019",
+        "unstructured": "Shah A, Sabir S, Artani M, Salam O, Khan S, Rizwan A. Significance of hyponatremia as an independent factor in predicting short-term mortality in patients with hemorrhagic stroke. Cureus. 2019, 11:e4549. 10.7759/cureus.4549",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13613-015-0066-8",
+        "article-title": "Hyponatremia in the intensive care unit: how to avoid a Zugzwang situation?",
+        "volume": "5",
+        "author": "Rafat C",
+        "year": "2015",
+        "unstructured": "Rafat C, Flamant M, Gaudry S, Vidal-Petiot E, Ricard JD, Dreyfuss D. Hyponatremia in the intensive care unit: how to avoid a Zugzwang situation?. Ann Intensive Care. 2015, 5:39. 10.1186/s13613-015-0066-8",
+        "journal-title": "Ann Intensive Care"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.7759/cureus.r192",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              3
+            ]
+          ],
+          "date-time": "2025-10-03T00:00:00Z",
+          "timestamp": 1759449600000
+        },
+        "record-id": "67714"
+      }
+    ],
+    "container-title": [
+      "Cureus"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cureus.com/articles/385856-hyponatremia-in-acute-stroke-a-comparative-study-of-ischemic-and-hemorrhagic-stroke-subtypes",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          1
+        ]
+      ],
+      "date-time": "2025-09-01T11:51:14Z",
+      "timestamp": 1756727474000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cureus.com/articles/385856-hyponatremia-in-acute-stroke-a-comparative-study-of-ischemic-and-hemorrhagic-stroke-subtypes"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          1
+        ]
+      ]
+    },
+    "references-count": 14,
+    "URL": "https://doi.org/10.7759/cureus.91396",
+    "relation": {},
+    "ISSN": [
+      "2168-8184"
+    ],
+    "issn-type": [
+      {
+        "value": "2168-8184",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          1
+        ]
+      ]
+    }
+  }
+}

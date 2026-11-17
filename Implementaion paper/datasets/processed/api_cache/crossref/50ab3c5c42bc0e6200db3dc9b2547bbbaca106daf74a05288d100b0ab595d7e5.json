@@ -1,0 +1,557 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.jbi.2018.08.007",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.jbi.2018.08.007",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:51.716797+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2026-10-23T11:44:11Z",
+      "timestamp": 1792755851786,
+      "version": "4.5.0"
+    },
+    "reference-count": 34,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2018-10-01T00:00:00Z",
+          "timestamp": 1538352000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2019-10-01T00:00:00Z",
+          "timestamp": 1569888000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 365,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Biomedical Informatics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jbi.2018.08.007",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          14
+        ]
+      ],
+      "date-time": "2018-08-14T08:29:12Z",
+      "timestamp": 1534235352000
+    },
+    "page": "49-58",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 69,
+    "special_numbering": "C",
+    "title": [
+      "Risk prediction using natural language processing of electronic mental health records in an inpatient forensic psychiatry setting"
+    ],
+    "prefix": "10.1016",
+    "volume": "86",
+    "author": [
+      {
+        "given": "Duy Van",
+        "family": "Le",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Montgomery",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth C.",
+        "family": "Kirkby",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4730-1199",
+        "authenticated-orcid": false,
+        "given": "Joel",
+        "family": "Scanlan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/j.eurpsy.2018.02.007",
+        "article-title": "Use of risk assessment instruments to predict violence in forensic psychiatric hospitals: a systematic review and meta-analysis",
+        "volume": "52",
+        "author": "Ramesh",
+        "year": "2018",
+        "journal-title": "Eur. Psychiat."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1002/wps.20394",
+        "article-title": "The limitations and future of violence risk assessment",
+        "volume": "16",
+        "author": "Large",
+        "year": "2017",
+        "journal-title": "World Psychiat."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1016/j.ijmedinf.2007.09.001",
+        "article-title": "Definition, structure, content, use and impacts of electronic health records: a review of the research literature",
+        "volume": "77",
+        "author": "H\u00e4yrinen",
+        "year": "2008",
+        "journal-title": "Int. J. Med. Inform."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0020",
+        "first-page": "39",
+        "article-title": "Electronic health records",
+        "volume": "25",
+        "author": "Keller",
+        "year": "2016",
+        "journal-title": "Radiat. Ther."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1136/jamia.2009.001560",
+        "article-title": "Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications",
+        "volume": "17",
+        "author": "Savova",
+        "year": "2010",
+        "journal-title": "J. Am. Med. Infor. Assoc."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1093/jamia/ocv180",
+        "article-title": "Extracting information from the text of electronic medical records to improve case detection: a systematic review",
+        "volume": "23",
+        "author": "Ford",
+        "year": "2016",
+        "journal-title": "J. Am. Med. Infor. Assoc."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "i144",
+        "DOI": "10.1136/amiajnl-2011-000351",
+        "article-title": "Drug side effect extraction from clinical narratives of psychiatry and psychology patients",
+        "volume": "18",
+        "author": "Sohn",
+        "year": "2011",
+        "journal-title": "J. Am. Med. Infor. Assoc."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0040",
+        "first-page": "19",
+        "article-title": "Suicide note classification using natural language processing: a content analysis",
+        "volume": "2010",
+        "author": "Pestian",
+        "year": "2010",
+        "journal-title": "Biomed. Inform. Insights"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "8708434",
+        "DOI": "10.1155/2016/8708434",
+        "article-title": "Novel use of natural language processing (NLP) to predict suicidal ideation and psychiatric symptoms in a text-based mental health intervention in madrid",
+        "volume": "2016",
+        "author": "Cook",
+        "year": "2016",
+        "journal-title": "Comput. Math. Methods Med."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "D940",
+        "DOI": "10.1093/nar/gkr972",
+        "article-title": "Disease Ontology: a backbone for disease semantic integration",
+        "volume": "40",
+        "author": "Schriml",
+        "year": "2012",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0055",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O. Mohammed, R. Benlamri, S. Fong, Building a diseases symptoms ontology for medical diagnosis: an integrative approach, in: First Int. Conf. Futur. Gener. Commun. Technol., 2012, pp. 104\u2013108. doi: 10.1109/FGCT.2012.6476567.",
+        "DOI": "10.1109/FGCT.2012.6476567"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0060",
+        "unstructured": "Johns Hopkins University, OMIM Entry Statistics, 2017. <http://omim.org/statistics/entry> (accessed January 21, 2017)."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "588",
+        "DOI": "10.1086/514346",
+        "article-title": "Mendelian inheritance in man and its online version, OMIM",
+        "volume": "80",
+        "author": "McKusick",
+        "year": "2007",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0070",
+        "series-title": "Intelligent Medical Technologies and Biomedical Engineering: Tools and Applications: Tools and Applications",
+        "author": "Shukla",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "D267",
+        "DOI": "10.1093/nar/gkh061",
+        "article-title": "The Unified Medical Language System (UMLS): integrating biomedical terminology",
+        "volume": "32",
+        "author": "Bodenreider",
+        "year": "2004",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0080",
+        "series-title": "From Symptoms to Diseases \u2013 Creating the Missing Link BT \u2013 The Semantic Web. Latest Advances and New Domains",
+        "first-page": "652",
+        "author": "Oberkampf",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0085",
+        "unstructured": "U.S. National Library of Medicine, UMLS 2016AA Release Available, 2016. <https://www.nlm.nih.gov/pubs/techbull/mj16/mj16_umls_2016aa_release.html> (accessed January 12, 2017)."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0090",
+        "unstructured": "U.S. National Library of Medicine, SPECIALIST Lexicon and Lexical Tools, 2013. <https://www.nlm.nih.gov/research/umls/new_users/online_learning/OVR_004.html> (accessed January 12, 2017)."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.3233/SW-2012-0086",
+        "article-title": "BioPortal as a dataset of linked biomedical ontologies and terminologies in RDF",
+        "volume": "4",
+        "author": "Salvadores",
+        "year": "2013",
+        "journal-title": "Semant. Web."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0100",
+        "first-page": "129",
+        "article-title": "Ontology-based multi-agent systems support human disease study and control",
+        "volume": "135",
+        "author": "Hadzic",
+        "year": "2005",
+        "journal-title": "SOAS"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "3235",
+        "DOI": "10.1016/j.proeng.2012.06.375",
+        "article-title": "Ontology based disease information system",
+        "volume": "38",
+        "author": "Thirugnanam",
+        "year": "2012",
+        "journal-title": "Proc. Eng."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.jbi.2015.08.024",
+        "article-title": "Exploiting the UMLS Metathesaurus for extracting and categorizing concepts representing signs and symptoms to anatomically related organ systems",
+        "volume": "58",
+        "author": "Tran",
+        "year": "2015",
+        "journal-title": "J. Biomed. Inform."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1176/appi.ajp.2014.14030423",
+        "article-title": "Validation of electronic health record phenotyping of bipolar disorder cases and controls",
+        "volume": "172",
+        "author": "Castro",
+        "year": "2014",
+        "journal-title": "Am. J. Psychiat."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1017/S0033291711000997",
+        "article-title": "Using electronic medical records to enable large-scale studies in psychiatry: treatment resistant depression as a model",
+        "volume": "42",
+        "author": "Perlis",
+        "year": "2012",
+        "journal-title": "Psychol. Med."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0125",
+        "first-page": "822",
+        "article-title": "An efficient pancreatic cyst identification methodology using natural language processing",
+        "author": "Mehrabi",
+        "year": "2013",
+        "journal-title": "Medinfo"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1080/14999013.2014.906519",
+        "article-title": "Historical-clinical-risk management-20, version 3 (HCR-20V3): development and overview",
+        "volume": "13",
+        "author": "Douglas",
+        "year": "2014",
+        "journal-title": "Int. J. Foren. Ment. Health."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0135",
+        "unstructured": "R. M\u00fcller-Isberner, The HCR-20 in the Assessment of In-patient Violence in a German Forensic Hospital, (n.d.). <http://www.vitos-haina.de/fileadmin/user_upload/TG-Haina/pdf-Dateien/KFP/Vortraege/11-In-Patient-Risk-Assessment_2001.pdf> (accessed March 5, 2017)."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0140",
+        "series-title": "Manual for the Short-Term Assessment of Risk and Treatability (START) (Version 1.1)",
+        "author": "Webster",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "799",
+        "DOI": "10.1002/bsl.741",
+        "article-title": "The dynamic appraisal of situational aggression: an instrument to assess risk for imminent aggression in psychiatric inpatients",
+        "volume": "24",
+        "author": "Ogloff",
+        "year": "2006",
+        "journal-title": "Behav. Sci. Law."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0150",
+        "series-title": "Diagnostic and Statistical Manual of Mental Disorders",
+        "author": "American Psychiatric Association",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0155",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Hu, B. Liu, Mining and summarizing customer reviews, in: Proc. Tenth ACM SIGKDD Int. Conf. Knowl. Discov. Data Min., ACM, New York, NY, USA, 2004, pp. 168\u2013177. 10.1145/1014052.1014073.",
+        "DOI": "10.1145/1014052.1014073"
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0160",
+        "unstructured": "World frequency data, World frequency data, 2017. <https://www.wordfrequency.info/> (accessed May 5, 2017)."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "331",
+        "DOI": "10.1093/jamia/ocx132",
+        "article-title": "CLAMP \u2013 a toolkit for efficiently building customized clinical natural language processing pipelines",
+        "volume": "25",
+        "author": "Soysal",
+        "year": "2018",
+        "journal-title": "J. Am. Med. Infor. Assoc."
+      },
+      {
+        "key": "10.1016/j.jbi.2018.08.007_b0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1186/1472-6947-13-30",
+        "article-title": "Improving sensitivity of machine learning methods for automated case identification from free-text electronic medical records",
+        "volume": "13",
+        "author": "Afzal",
+        "year": "2013",
+        "journal-title": "BMC Med. Inform. Decis. Mak."
+      }
+    ],
+    "container-title": [
+      "Journal of Biomedical Informatics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S153204641830162X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S153204641830162X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2020-11-07T19:04:03Z",
+      "timestamp": 1604775843000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S153204641830162X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    },
+    "references-count": 34,
+    "alternative-id": [
+      "S153204641830162X"
+    ],
+    "URL": "https://doi.org/10.1016/j.jbi.2018.08.007",
+    "relation": {},
+    "ISSN": [
+      "1532-0464"
+    ],
+    "issn-type": [
+      {
+        "value": "1532-0464",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Risk prediction using natural language processing of electronic mental health records in an inpatient forensic psychiatry setting",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Biomedical Informatics",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jbi.2018.08.007",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2018 Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

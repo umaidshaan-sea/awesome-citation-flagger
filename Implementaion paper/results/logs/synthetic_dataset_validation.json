@@ -1,0 +1,19 @@
+{
+  "source_path": "/mnt/data/auditwork/citation-retraction-study/tests/fixtures/synthetic_retraction_watch.csv",
+  "source_sha256": "175f92bc578d909f06c48f4b9e5e633b4b42d114b47f9b256abfdb6e1fa6733d",
+  "rows": 3,
+  "columns": [
+    "Record ID",
+    "OriginalPaperDOI",
+    "RetractionDOI",
+    "RetractionNature"
+  ],
+  "rows_with_valid_single_original_doi": 2,
+  "rows_with_multi_doi_field_excluded": 1,
+  "rows_with_missing_or_invalid_original_doi": 0,
+  "unique_eligible_original_dois": 2,
+  "rows_tagged_retraction": 2,
+  "rows_tagged_correction": 1,
+  "labels_verified": false,
+  "heldout_split_frozen": false
+}

@@ -1,0 +1,834 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.earlhumdev.2020.105261",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.earlhumdev.2020.105261",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:09.754082+00:00",
+  "record": {
+    "id": "https://openalex.org/W3106458960",
+    "doi": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+    "title": "WITHDRAWN: Dealing with COVID-19 in small European island states: Cyprus, Iceland and Malta",
+    "display_name": "WITHDRAWN: Dealing with COVID-19 in small European island states: Cyprus, Iceland and Malta",
+    "publication_year": 2020,
+    "publication_date": "2020-11-01",
+    "ids": {
+      "openalex": "https://openalex.org/W3106458960",
+      "doi": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+      "mag": "3106458960",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/33213965",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/7658554"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.earlhumdev.2020.105261",
+      "doi": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S124424368",
+        "display_name": "Early Human Development",
+        "issn_l": "0378-3782",
+        "issn": [
+          "0378-3782",
+          "1872-6232"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Early Human Development",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "retraction",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7658554",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5064218496",
+          "display_name": "Sarah Cuschieri",
+          "orcid": "https://orcid.org/0000-0003-2012-9234",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2012-9234"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197854408",
+            "display_name": "University of Malta",
+            "ror": "https://ror.org/03a62bv60",
+            "country_code": "MT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197854408"
+            ]
+          }
+        ],
+        "countries": [
+          "MT"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Sarah Cuschieri",
+        "raw_affiliation_strings": [
+          "Department of Anatomy, Faculty of Medicine and Surgery, University of Malta, Msida, Malta. Electronic address: sarah.cuschieri@um.edu.mt",
+          "Department of Anatomy, Faculty of Medicine and Surgery, University of Malta, Msida, Malta"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Anatomy, Faculty of Medicine and Surgery, University of Malta, Msida, Malta. Electronic address: sarah.cuschieri@um.edu.mt",
+            "institution_ids": [
+              "https://openalex.org/I197854408"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Anatomy, Faculty of Medicine and Surgery, University of Malta, Msida, Malta",
+            "institution_ids": [
+              "https://openalex.org/I197854408"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046454513",
+          "display_name": "Elena Pallari",
+          "orcid": "https://orcid.org/0000-0003-1967-6345",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1967-6345"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210091428",
+            "display_name": "MRC Clinical Trials Unit at UCL",
+            "ror": "https://ror.org/001mm6w73",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I4210087105",
+              "https://openalex.org/I4210091428",
+              "https://openalex.org/I45129253",
+              "https://openalex.org/I90344618"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I45129253",
+            "display_name": "University College London",
+            "ror": "https://ror.org/02jx3x895",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I45129253"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Elena Pallari",
+        "raw_affiliation_strings": [
+          "University College London, MRC Clinical Trials and Methodology Unit, London, England, United Kingdom of Great Britain and Northern Ireland. Electronic address: elena.pallari@kcl.ac.uk",
+          "University College London, MRC Clinical Trials and Methodology Unit, London, England, United Kingdom of Great Britain and Northern Ireland"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University College London, MRC Clinical Trials and Methodology Unit, London, England, United Kingdom of Great Britain and Northern Ireland. Electronic address: elena.pallari@kcl.ac.uk",
+            "institution_ids": [
+              "https://openalex.org/I4210091428",
+              "https://openalex.org/I45129253"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University College London, MRC Clinical Trials and Methodology Unit, London, England, United Kingdom of Great Britain and Northern Ireland",
+            "institution_ids": [
+              "https://openalex.org/I4210091428",
+              "https://openalex.org/I45129253"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5054481162",
+          "display_name": "Amalia Hatziyianni",
+          "orcid": "https://orcid.org/0000-0001-9482-4024",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9482-4024"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Amalia Hatziyianni",
+        "raw_affiliation_strings": [
+          "Ammochostos General Hospital, 25 Christou Kkeli, 5310, Paralimni, Cyprus. Electronic address: hatziyianniamalia@gmail.com",
+          "Ammochostos General Hospital, 25 Christou Kkeli, 5310, Paralimni, Cyprus"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Ammochostos General Hospital, 25 Christou Kkeli, 5310, Paralimni, Cyprus. Electronic address: hatziyianniamalia@gmail.com",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Ammochostos General Hospital, 25 Christou Kkeli, 5310, Paralimni, Cyprus",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5051809743",
+          "display_name": "Rannveig Sigurvinsd\u00f3ttir",
+          "orcid": "https://orcid.org/0000-0001-5953-0696",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5953-0696"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I123185442",
+            "display_name": "Reykjav\u00edk University",
+            "ror": "https://ror.org/05d2kyx68",
+            "country_code": "IS",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I123185442"
+            ]
+          }
+        ],
+        "countries": [
+          "IS"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rannveig Sigurvinsdottir",
+        "raw_affiliation_strings": [
+          "Department of Psychology, Reykjavik University, Reykjavik, Iceland. Electronic address: rannveigs@ru.is",
+          "Department of Psychology, Reykjavik University, Reykjavik, Iceland"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Psychology, Reykjavik University, Reykjavik, Iceland. Electronic address: rannveigs@ru.is",
+            "institution_ids": [
+              "https://openalex.org/I123185442"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychology, Reykjavik University, Reykjavik, Iceland",
+            "institution_ids": [
+              "https://openalex.org/I123185442"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5067846824",
+          "display_name": "Inga D\u00f3ra Sigf\u00fasd\u00f3ttir",
+          "orcid": "https://orcid.org/0000-0002-3898-6894",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-3898-6894"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I123185442",
+            "display_name": "Reykjav\u00edk University",
+            "ror": "https://ror.org/05d2kyx68",
+            "country_code": "IS",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I123185442"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I78577930",
+            "display_name": "Columbia University",
+            "ror": "https://ror.org/00hj8s172",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I78577930"
+            ]
+          }
+        ],
+        "countries": [
+          "IS",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Inga Dora Sigfusdottir",
+        "raw_affiliation_strings": [
+          "Department of Psychology, Reykjavik University, Reykjavik, Iceland; Teacher's College, Columbia University, New York, NY, USA. Electronic address: ingadora@ru.is",
+          "Department of Psychology, Reykjavik University, Reykjavik, Iceland",
+          "Teacher's College, Columbia University, New York, NY, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Psychology, Reykjavik University, Reykjavik, Iceland; Teacher's College, Columbia University, New York, NY, USA. Electronic address: ingadora@ru.is",
+            "institution_ids": [
+              "https://openalex.org/I123185442",
+              "https://openalex.org/I78577930"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychology, Reykjavik University, Reykjavik, Iceland",
+            "institution_ids": [
+              "https://openalex.org/I123185442"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Teacher's College, Columbia University, New York, NY, USA",
+            "institution_ids": [
+              "https://openalex.org/I78577930"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5078338354",
+          "display_name": "\u00c1r\u00fan K. Sigur\u00f0ard\u00f3ttir",
+          "orcid": "https://orcid.org/0000-0002-4287-5409",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4287-5409"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210092554",
+            "display_name": "Akureyri Hospital",
+            "ror": "https://ror.org/0028r9r35",
+            "country_code": "IS",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210092554"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I61174481",
+            "display_name": "University of Akureyri",
+            "ror": "https://ror.org/01gnd8r41",
+            "country_code": "IS",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I61174481"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I78577930",
+            "display_name": "Columbia University",
+            "ror": "https://ror.org/00hj8s172",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I78577930"
+            ]
+          }
+        ],
+        "countries": [
+          "IS",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "\u00c1r\u00fan Krist\u00edn Sigur\u00f0ard\u00f3ttir",
+        "raw_affiliation_strings": [
+          "Teacher's College, Columbia University, New York, NY, USA; School of Health Science, University of Akureyri, S\u00f3lborg, Iceland; Akureyri Hospital, Akureyri, Iceland. Electronic address: arun@unak.is",
+          "Akureyri Hospital, Akureyri, Iceland",
+          "School of Health Science, University of Akureyri, S\u00f3lborg, Iceland",
+          "Teacher's College, Columbia University, New York, NY, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Teacher's College, Columbia University, New York, NY, USA; School of Health Science, University of Akureyri, S\u00f3lborg, Iceland; Akureyri Hospital, Akureyri, Iceland. Electronic address: arun@unak.is",
+            "institution_ids": [
+              "https://openalex.org/I4210092554",
+              "https://openalex.org/I61174481",
+              "https://openalex.org/I78577930"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Akureyri Hospital, Akureyri, Iceland",
+            "institution_ids": [
+              "https://openalex.org/I4210092554"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Health Science, University of Akureyri, S\u00f3lborg, Iceland",
+            "institution_ids": [
+              "https://openalex.org/I61174481"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Teacher's College, Columbia University, New York, NY, USA",
+            "institution_ids": [
+              "https://openalex.org/I78577930"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 4,
+    "institutions_distinct_count": 7,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5064218496"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I197854408"
+    ],
+    "apc_list": {
+      "value": 2700,
+      "currency": "USD",
+      "value_usd": 2700
+    },
+    "apc_paid": null,
+    "fwci": null,
+    "has_fulltext": false,
+    "cited_by_count": 4,
+    "citation_normalized_percentile": null,
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "105261",
+      "last_page": "105261"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10410",
+      "display_name": "COVID-19 epidemiological studies",
+      "score": 0.8705999851226807,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2611",
+        "display_name": "Modeling and Simulation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10410",
+        "display_name": "COVID-19 epidemiological studies",
+        "score": 0.8705999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2611",
+          "display_name": "Modeling and Simulation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/26",
+          "display_name": "Mathematics"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13945",
+        "display_name": "Legal, Health, Environmental and COVID-19 Challenges",
+        "score": 0.027300000190734863,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2739",
+          "display_name": "Public Health, Environmental and Occupational Health"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13032",
+        "display_name": "COVID-19 Prevention and Impact",
+        "score": 0.024299999698996544,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/covid-19",
+        "display_name": "COVID-19 pandemic",
+        "score": 0.9890000224113464
+      },
+      {
+        "id": "https://openalex.org/keywords/small-island-states",
+        "display_name": "small island states",
+        "score": 0.9620000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/cyprus",
+        "display_name": "Cyprus",
+        "score": 0.9490000009536743
+      },
+      {
+        "id": "https://openalex.org/keywords/iceland",
+        "display_name": "Iceland",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/malta",
+        "display_name": "Malta",
+        "score": 0.9610000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/pandemic-response",
+        "display_name": "pandemic response",
+        "score": 0.6380000114440918
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C3008058167",
+        "wikidata": "https://www.wikidata.org/wiki/Q84263196",
+        "display_name": "Coronavirus disease 2019 (COVID-19)",
+        "level": 4,
+        "score": 0.816614031791687
+      },
+      {
+        "id": "https://openalex.org/C3006700255",
+        "wikidata": "https://www.wikidata.org/wiki/Q81068910",
+        "display_name": "2019-20 coronavirus outbreak",
+        "level": 3,
+        "score": 0.5150372982025146
+      },
+      {
+        "id": "https://openalex.org/C3007834351",
+        "wikidata": "https://www.wikidata.org/wiki/Q82069695",
+        "display_name": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "level": 5,
+        "score": 0.48225170373916626
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.40860259532928467
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.38923001289367676
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.29447251558303833
+      },
+      {
+        "id": "https://openalex.org/C159047783",
+        "wikidata": "https://www.wikidata.org/wiki/Q7215",
+        "display_name": "Virology",
+        "level": 1,
+        "score": 0.21200793981552124
+      },
+      {
+        "id": "https://openalex.org/C524204448",
+        "wikidata": "https://www.wikidata.org/wiki/Q788926",
+        "display_name": "Infectious disease (medical specialty)",
+        "level": 3,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C2779134260",
+        "wikidata": "https://www.wikidata.org/wiki/Q12136",
+        "display_name": "Disease",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C116675565",
+        "wikidata": "https://www.wikidata.org/wiki/Q3241045",
+        "display_name": "Outbreak",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C142724271",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208",
+        "display_name": "Pathology",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.earlhumdev.2020.105261",
+        "doi": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S124424368",
+          "display_name": "Early Human Development",
+          "issn_l": "0378-3782",
+          "issn": [
+            "0378-3782",
+            "1872-6232"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doyens",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Early Human Development",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:7658554",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7658554",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Early Hum Dev",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:33213965",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33213965",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Early human development",
+        "raw_type": "Retraction Notice"
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7658554",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7658554",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Early Hum Dev",
+      "raw_type": "Text"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "display_name": "Good health and well-being",
+        "score": 0.4043000042438507
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320334678",
+        "display_name": "European Research Council",
+        "ror": "https://ror.org/0472cxd90"
+      }
+    ],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 10,
+    "referenced_works": [
+      "https://openalex.org/W3001118548",
+      "https://openalex.org/W3014780441",
+      "https://openalex.org/W3022424762",
+      "https://openalex.org/W3028758844",
+      "https://openalex.org/W3033040545",
+      "https://openalex.org/W3037023328",
+      "https://openalex.org/W3037932616",
+      "https://openalex.org/W3086040917",
+      "https://openalex.org/W6778529583",
+      "https://openalex.org/W6780675796"
+    ],
+    "related_works": [
+      "https://openalex.org/W4206753339",
+      "https://openalex.org/W4413562550",
+      "https://openalex.org/W4205617017",
+      "https://openalex.org/W4405803120",
+      "https://openalex.org/W7036779830",
+      "https://openalex.org/W4243482826",
+      "https://openalex.org/W3194583486",
+      "https://openalex.org/W4223581264",
+      "https://openalex.org/W6930578028",
+      "https://openalex.org/W4414633644"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2021,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-10-29T09:56:32.521200",
+    "created_date": "2020-11-23T00:00:00"
+  }
+}

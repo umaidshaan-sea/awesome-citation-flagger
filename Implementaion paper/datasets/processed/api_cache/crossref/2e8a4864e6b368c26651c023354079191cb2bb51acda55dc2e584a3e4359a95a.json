@@ -1,0 +1,262 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.2991/jegh.k.201009.001",
+  "url": "https://api.crossref.org/works/10.2991%2Fjegh.k.201009.001",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:42.387799+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          21
+        ]
+      ],
+      "date-time": "2026-09-21T20:39:05Z",
+      "timestamp": 1790023145961,
+      "version": "4.0.1"
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JEGH"
+    ],
+    "DOI": "10.2991/jegh.k.201009.001",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2020-10-15T09:55:41Z",
+      "timestamp": 1602755741000
+    },
+    "page": "124",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Screening Strategy of Active Pulmonary Tuberculosis in Sheltered Homeless People in Marseille, 2019"
+    ],
+    "prefix": "10.1007",
+    "volume": "11",
+    "author": [
+      {
+        "given": "Tran Duc Anh",
+        "family": "Ly",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Floriane",
+        "family": "Holi-Jamovski",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Van Thuan",
+        "family": "Hoang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ndiaw",
+        "family": "Goumballa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meriem",
+        "family": "Louni",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thi Loi",
+        "family": "Dao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michel",
+        "family": "Drancourt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Philippe",
+        "family": "Gautret",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "updated-by": [
+      {
+        "DOI": "10.1007/s44197-026-00539-6",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              20
+            ]
+          ],
+          "date-time": "2026-03-20T00:00:00Z",
+          "timestamp": 1773964800000
+        }
+      },
+      {
+        "DOI": "10.1007/s44197-026-00539-6",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              20
+            ]
+          ],
+          "date-time": "2026-03-20T00:00:00Z",
+          "timestamp": 1773964800000
+        },
+        "record-id": "69959"
+      }
+    ],
+    "container-title": [
+      "Journal of Epidemiology and Global Health"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2025-02-13T20:18:34Z",
+      "timestamp": 1739477914000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.2991/jegh.k.201009.001"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "125944952"
+    ],
+    "URL": "https://doi.org/10.2991/jegh.k.201009.001",
+    "relation": {},
+    "ISSN": [
+      "2210-6014"
+    ],
+    "issn-type": [
+      {
+        "value": "2210-6014",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  }
+}

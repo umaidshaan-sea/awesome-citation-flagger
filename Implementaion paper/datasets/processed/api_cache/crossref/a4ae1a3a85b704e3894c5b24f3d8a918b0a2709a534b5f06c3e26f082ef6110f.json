@@ -1,0 +1,520 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1002/jcb.26477",
+  "url": "https://api.crossref.org/works/10.1002%2Fjcb.26477",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:29.158444+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2026-07-17T15:04:31Z",
+      "timestamp": 1784300671252,
+      "version": "3.55.0"
+    },
+    "reference-count": 42,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              26
+            ]
+          ],
+          "date-time": "2017-12-26T00:00:00Z",
+          "timestamp": 1514246400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              26
+            ]
+          ],
+          "date-time": "2017-12-26T00:00:00Z",
+          "timestamp": 1514246400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J of Cellular Biochemistry"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:label/>\n                    <jats:p>Perinatal hypoxic\u2010ischemic encephalopathy (HIE) is a leading cause of neonatal death and neurological disability. Oxidative stress and neuroinflammation are typical pathogenic factors of HIE. Licochalcone A (LCA) exerts various biological properties, including anti\u2010inflammatory and antioxidant activities. However, no data have been reported to elucidate the role of LCA in the development of HIE. In the present study, primary cultured rat cortical neurons were exposed to oxygen\u2010glucose deprivation/reoxygenation (OGD/R) in vitro to simulate the in vivo situation of neonatal HIE. Interestingly, LCA significantly antagonized cell injury under OGD/R by increasing cell survival, inhibiting lactate dehydrogenase (LDH) release and cell apoptosis. Furthermore, treatment with LCA suppressed oxidative stress by decreasing reactive oxygen species (ROS) production and malondialdehyde (MDA) content, and increasing superoxide dismutase (SOD) and glutathione peroxidase (GPx) activities in primary rat cortical neurons after OGD/R. LCA stimulation also restrained OGD/R\u2010triggered increase in pro\u2010inflammatory cytokines tumor necrosis factor\u2010\u03b1 (TNF\u2010\u03b1) and interleukin\u20106 (IL\u20106) production. Importantly, LCA treatment effectively counteracts OGD/R\u2010mediated downregulation of silent information regulator 1 (SIRT1), nuclear factor erythroid2\u2010related factor 2 (Nrf2), and heme oxygenase\u20101 (HO\u20101), and upregulation of nuclear factor kappa B p65 (NF\u2010\u03baB p65). Moreover, administration with SIRT1 inhibitor EX527 partly abolished LCA\u2010induced neuroprotective effects on rat cortical neurons exposed to OGD/R. In conclusion, our study indicates that LCA exerts a neuroprotective effect against OGD/R\u2010induced neuronal injury in rat primary cortical neurons, suggesting that LCA might act as a candidate therapeutic target drug used for HIE and related diseases.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1002/jcb.26477",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2017-11-06T08:22:33Z",
+      "timestamp": 1509956553000
+    },
+    "page": "3210-3219",
+    "source": "Crossref",
+    "is-referenced-by-count": 56,
+    "title": [
+      "RETRACTED: Neuroprotective effect of licochalcone A against oxygen\u2010glucose deprivation/reperfusion in rat primary cortical neurons by attenuating oxidative stress injury and inflammatory response via the SIRT1/Nrf2 pathway"
+    ],
+    "prefix": "10.1002",
+    "volume": "119",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0432-0960",
+        "authenticated-orcid": false,
+        "given": "Xiaohong",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Neonatology Xi'an Central Hospital Xi'an Shaanxi China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ying",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neonatology Xi'an Children's Hospital Xi'an Shaanxi China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaodi",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neonatology Xi'an Central Hospital Xi'an Shaanxi China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ting",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Neonatology Xi'an Central Hospital Xi'an Shaanxi China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_6_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.33549/physiolres.933541"
+      },
+      {
+        "key": "e_1_2_6_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms17122078"
+      },
+      {
+        "key": "e_1_2_6_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1053/j.nainr.2011.07.004"
+      },
+      {
+        "key": "e_1_2_6_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12887-017-0824-x"
+      },
+      {
+        "key": "e_1_2_6_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000457833"
+      },
+      {
+        "key": "e_1_2_6_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2298/SARH1202035V"
+      },
+      {
+        "key": "e_1_2_6_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12264-011-1008-6"
+      },
+      {
+        "key": "e_1_2_6_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/jp.2017.15"
+      },
+      {
+        "key": "e_1_2_6_10_1",
+        "first-page": "905",
+        "article-title": "The role of TNF\u2010alpha, IL\u20106, IL\u201010, and GDNF in neuronal apoptosis in neonatal rat with hypoxic\u2010ischemic encephalopathy",
+        "volume": "18",
+        "author": "Li SJ",
+        "year": "2014",
+        "journal-title": "Eur Rev Med Pharmacol Sci"
+      },
+      {
+        "key": "e_1_2_6_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/pr.2015.280"
+      },
+      {
+        "key": "e_1_2_6_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12659/MSM.898139"
+      },
+      {
+        "key": "e_1_2_6_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12640-015-9590-4"
+      },
+      {
+        "key": "e_1_2_6_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pneurobio.2015.10.004"
+      },
+      {
+        "key": "e_1_2_6_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuro.2013.08.012"
+      },
+      {
+        "key": "e_1_2_6_16_1",
+        "first-page": "885",
+        "article-title": "The aqueous extract of Glycyrrhiza inflata can upregulate unfolded protein response\u2010mediated chaperones to reduce tau misfolding in cell models of Alzheimer's disease",
+        "volume": "10",
+        "author": "Chang KH",
+        "year": "2016",
+        "journal-title": "Drug Des Devel Ther"
+      },
+      {
+        "key": "e_1_2_6_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40495-014-0015-5"
+      },
+      {
+        "key": "e_1_2_6_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.foodchem.2013.03.089"
+      },
+      {
+        "key": "e_1_2_6_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jep.2017.01.028"
+      },
+      {
+        "key": "e_1_2_6_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2015/709845"
+      },
+      {
+        "key": "e_1_2_6_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10753-015-0281-3"
+      },
+      {
+        "key": "e_1_2_6_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3345/kjp.2012.55.7.238"
+      },
+      {
+        "key": "e_1_2_6_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.microc.2016.11.008"
+      },
+      {
+        "key": "e_1_2_6_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3892/mmr.2013.1431"
+      },
+      {
+        "key": "e_1_2_6_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jnr.23374"
+      },
+      {
+        "key": "e_1_2_6_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1742-2094-11-43"
+      },
+      {
+        "key": "e_1_2_6_27_1",
+        "first-page": "8197",
+        "article-title": "Progesterone reduces inflammation and apoptosis in neonatal rats with hypoxic ischemic brain damage through the PI3K/Akt pathway",
+        "volume": "8",
+        "author": "Li X",
+        "year": "2015",
+        "journal-title": "Int J Clin Exp Med"
+      },
+      {
+        "key": "e_1_2_6_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2012/217580"
+      },
+      {
+        "key": "e_1_2_6_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cns.12588"
+      },
+      {
+        "key": "e_1_2_6_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms160922368"
+      },
+      {
+        "key": "e_1_2_6_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00247-016-3638-3"
+      },
+      {
+        "key": "e_1_2_6_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms18020265"
+      },
+      {
+        "key": "e_1_2_6_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms18102043"
+      },
+      {
+        "key": "e_1_2_6_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1535370214545020"
+      },
+      {
+        "key": "e_1_2_6_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3892/ol.2017.5614"
+      },
+      {
+        "key": "e_1_2_6_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms18081761"
+      },
+      {
+        "key": "e_1_2_6_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3892/mmr.2016.5334"
+      },
+      {
+        "key": "e_1_2_6_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jnutbio.2011.07.012"
+      },
+      {
+        "key": "e_1_2_6_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00404-016-4241-4"
+      },
+      {
+        "key": "e_1_2_6_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.intimp.2012.10.013"
+      },
+      {
+        "key": "e_1_2_6_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropharm.2013.11.004"
+      },
+      {
+        "key": "e_1_2_6_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18632/oncotarget.8241"
+      },
+      {
+        "key": "e_1_2_6_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5487/TR.2014.30.1.019"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1002/jcb.70100",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2026-07-17T00:00:00Z",
+          "timestamp": 1784246400000
+        }
+      }
+    ],
+    "container-title": [
+      "Journal of Cellular Biochemistry"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjcb.26477",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcb.26477",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/jcb.26477",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcb.26477",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2026-07-17T14:19:49Z",
+      "timestamp": 1784297989000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/jcb.26477"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          26
+        ]
+      ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/jcb.26477"
+    ],
+    "URL": "https://doi.org/10.1002/jcb.26477",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0730-2312",
+      "1097-4644"
+    ],
+    "issn-type": [
+      {
+        "value": "0730-2312",
+        "type": "print"
+      },
+      {
+        "value": "1097-4644",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          26
+        ]
+      ]
+    }
+  }
+}

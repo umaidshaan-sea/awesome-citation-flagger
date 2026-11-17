@@ -1,0 +1,1944 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.7759/cureus.18193",
+  "url": "https://api.openalex.org/works/https://doi.org/10.7759%2Fcureus.18193",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:20.525305+00:00",
+  "record": {
+    "id": "https://openalex.org/W3201086645",
+    "doi": "https://doi.org/10.7759/cureus.18193",
+    "title": "Urachal Abscess: A Rare Etiology of Acute Abdominal Pain in Adults",
+    "display_name": "Urachal Abscess: A Rare Etiology of Acute Abdominal Pain in Adults",
+    "publication_year": 2021,
+    "publication_date": "2021-09-22",
+    "ids": {
+      "openalex": "https://openalex.org/W3201086645",
+      "doi": "https://doi.org/10.7759/cureus.18193",
+      "mag": "3201086645",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/34707963",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/8534299"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.7759/cureus.18193",
+      "doi": "https://doi.org/10.7759/cureus.18193",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.18193",
+      "pdf_url": "https://www.cureus.com/articles/71988-urachal-abscess-a-rare-etiology-of-acute-abdominal-pain-in-adults.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "poland-20",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://www.cureus.com/articles/71988-urachal-abscess-a-rare-etiology-of-acute-abdominal-pain-in-adults.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5013201962",
+          "display_name": "Bashayer Fawaz Al Furaikh",
+          "orcid": "https://orcid.org/0000-0003-1675-8564",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1675-8564"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bashayer F Al Furaikh",
+        "raw_affiliation_strings": [
+          "College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5064251213",
+          "display_name": "Naif A Alzahrani",
+          "orcid": "https://orcid.org/0000-0003-1236-6993",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1236-6993"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Naif A Alzahrani",
+        "raw_affiliation_strings": [
+          "College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5071361019",
+          "display_name": "AlHassan Ali Ahmed Alghamdi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Alhassan A Alghamdi",
+        "raw_affiliation_strings": [
+          "College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5091219313",
+          "display_name": "Mashael Z AlBalawi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mashael Z AlBalawi",
+        "raw_affiliation_strings": [
+          "College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5104060516",
+          "display_name": "Fares G Alghamdi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fares G Alghamdi",
+        "raw_affiliation_strings": [
+          "College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5083962508",
+          "display_name": "Turki Abdullah A. Alzahrani",
+          "orcid": "https://orcid.org/0000-0003-2741-5639",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2741-5639"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Turki A Alzahrani",
+        "raw_affiliation_strings": [
+          "College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Mohammed S Alghamdi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mohammed S Alghamdi",
+        "raw_affiliation_strings": [
+          "College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5042341782",
+          "display_name": "Yazed Abdullah Albogami",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yazed A Albogami",
+        "raw_affiliation_strings": [
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5037170833",
+          "display_name": "Feras G Mansouri",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Feras G Mansouri",
+        "raw_affiliation_strings": [
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5001878352",
+          "display_name": "Mohamad I Alkhatib",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210162674",
+            "display_name": "Dammam Central Hospital",
+            "ror": "https://ror.org/04wwg3z97",
+            "country_code": "SA",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210162674"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mohamad I Alkhatib",
+        "raw_affiliation_strings": [
+          "Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+          ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4210162674"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5003406388",
+          "display_name": "Malak A. AlShammari",
+          "orcid": "https://orcid.org/0000-0002-7434-7432",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7434-7432"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4626487",
+            "display_name": "King Faisal University",
+            "ror": "https://ror.org/00dn43547",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52207611",
+            "display_name": "Al Baha University",
+            "ror": "https://ror.org/0403jak37",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72264486",
+            "display_name": "University of Tabuk",
+            "ror": "https://ror.org/04yej8x59",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I76571253",
+            "display_name": "Imam Abdulrahman Bin Faisal University",
+            "ror": "https://ror.org/038cy8j79",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76571253"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Malak A Alshammari",
+        "raw_affiliation_strings": [
+          "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+          ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+          ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+          ". College of Medicine, University of Tabuk, Tabuk, SAU",
+          ". Ophthalmology, Dammam Medical Complex, Dammam, SAU"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Medicine, Imam Abdulrahman Bin Faisal University, Dammam, SAU",
+            "institution_ids": [
+              "https://openalex.org/I76571253"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, Al-Baha University, Al-Baha, SAU",
+            "institution_ids": [
+              "https://openalex.org/I52207611"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, King Faisal University, Al-Ahsa, SAU",
+            "institution_ids": [
+              "https://openalex.org/I4626487"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". College of Medicine, University of Tabuk, Tabuk, SAU",
+            "institution_ids": [
+              "https://openalex.org/I72264486"
+            ]
+          },
+          {
+            "raw_affiliation_string": ". Ophthalmology, Dammam Medical Complex, Dammam, SAU",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 5,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.2346,
+    "has_fulltext": true,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.53379797,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 93
+    },
+    "biblio": {
+      "volume": "13",
+      "issue": "9",
+      "first_page": "e18193",
+      "last_page": "e18193"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12695",
+      "display_name": "Urinary and Genital Oncology Studies",
+      "score": 0.9247999787330627,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12695",
+        "display_name": "Urinary and Genital Oncology Studies",
+        "score": 0.9247999787330627,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2746",
+          "display_name": "Surgery"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11815",
+        "display_name": "Urological Disorders and Treatments",
+        "score": 0.020999999716877937,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2748",
+          "display_name": "Urology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12716",
+        "display_name": "Congenital Anomalies and Fetal Surgery",
+        "score": 0.011500000022351742,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2746",
+          "display_name": "Surgery"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/urachal-abscess",
+        "display_name": "urachal abscess",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/urachal-cyst",
+        "display_name": "urachal cyst",
+        "score": 0.8980000019073486
+      },
+      {
+        "id": "https://openalex.org/keywords/acute-abdominal-pain",
+        "display_name": "acute abdominal pain",
+        "score": 0.9580000042915344
+      },
+      {
+        "id": "https://openalex.org/keywords/suprapubic-mass",
+        "display_name": "suprapubic mass",
+        "score": 0.9419999718666077
+      },
+      {
+        "id": "https://openalex.org/keywords/surgical-excision",
+        "display_name": "surgical excision",
+        "score": 0.746999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/emergency-department-diagnosis",
+        "display_name": "emergency department diagnosis",
+        "score": 0.4699999988079071
+      },
+      {
+        "id": "https://openalex.org/keywords/computed-tomography",
+        "display_name": "computed tomography",
+        "score": 0.5109999775886536
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.9821023941040039
+      },
+      {
+        "id": "https://openalex.org/C137627325",
+        "wikidata": "https://www.wikidata.org/wiki/Q156318",
+        "display_name": "Etiology",
+        "level": 2,
+        "score": 0.7547405958175659
+      },
+      {
+        "id": "https://openalex.org/C148805740",
+        "wikidata": "https://www.wikidata.org/wiki/Q7881339",
+        "display_name": "Umbilicus (mollusc)",
+        "level": 2,
+        "score": 0.6882648468017578
+      },
+      {
+        "id": "https://openalex.org/C2780724011",
+        "wikidata": "https://www.wikidata.org/wiki/Q1295316",
+        "display_name": "Emergency department",
+        "level": 2,
+        "score": 0.6862788796424866
+      },
+      {
+        "id": "https://openalex.org/C2777035434",
+        "wikidata": "https://www.wikidata.org/wiki/Q164655",
+        "display_name": "Abscess",
+        "level": 2,
+        "score": 0.6014572978019714
+      },
+      {
+        "id": "https://openalex.org/C2780955771",
+        "wikidata": "https://www.wikidata.org/wiki/Q183425",
+        "display_name": "Abdominal pain",
+        "level": 2,
+        "score": 0.6008017063140869
+      },
+      {
+        "id": "https://openalex.org/C2780879076",
+        "wikidata": "https://www.wikidata.org/wiki/Q333633",
+        "display_name": "Incision and drainage",
+        "level": 3,
+        "score": 0.5565890669822693
+      },
+      {
+        "id": "https://openalex.org/C141071460",
+        "wikidata": "https://www.wikidata.org/wiki/Q40821",
+        "display_name": "Surgery",
+        "level": 1,
+        "score": 0.5353121757507324
+      },
+      {
+        "id": "https://openalex.org/C527108885",
+        "wikidata": "https://www.wikidata.org/wiki/Q835153",
+        "display_name": "Physical examination",
+        "level": 2,
+        "score": 0.5324379205703735
+      },
+      {
+        "id": "https://openalex.org/C2777643690",
+        "wikidata": "https://www.wikidata.org/wiki/Q4665122",
+        "display_name": "Abdominal mass",
+        "level": 2,
+        "score": 0.41228219866752625
+      },
+      {
+        "id": "https://openalex.org/C126838900",
+        "wikidata": "https://www.wikidata.org/wiki/Q77604",
+        "display_name": "Radiology",
+        "level": 1,
+        "score": 0.3770795464515686
+      },
+      {
+        "id": "https://openalex.org/C61434518",
+        "wikidata": "https://www.wikidata.org/wiki/Q932510",
+        "display_name": "General surgery",
+        "level": 1,
+        "score": 0.3597605526447296
+      },
+      {
+        "id": "https://openalex.org/C142724271",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208",
+        "display_name": "Pathology",
+        "level": 1,
+        "score": 0.13749921321868896
+      },
+      {
+        "id": "https://openalex.org/C118552586",
+        "wikidata": "https://www.wikidata.org/wiki/Q7867",
+        "display_name": "Psychiatry",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 4,
+    "locations": [
+      {
+        "id": "doi:10.7759/cureus.18193",
+        "doi": "https://doi.org/10.7759/cureus.18193",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.7759/cureus.18193",
+        "pdf_url": "https://www.cureus.com/articles/71988-urachal-abscess-a-rare-etiology-of-acute-abdominal-pain-in-adults.pdf",
+        "source": {
+          "id": "https://openalex.org/S2738950867",
+          "display_name": "Cureus",
+          "issn_l": "2168-8184",
+          "issn": [
+            "2168-8184"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "poland-20",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310316779",
+          "host_organization_name": "Cureus, Inc.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316779"
+          ],
+          "host_organization_lineage_names": [
+            "Cureus, Inc."
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cureus",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:7434380",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://europepmc.org/pmc/articles/PMC8534299",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:8534299",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8534299",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cureus",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:34707963",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34707963",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cureus",
+        "raw_type": "Case Reports"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.7759/cureus.18193",
+      "doi": "https://doi.org/10.7759/cureus.18193",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.18193",
+      "pdf_url": "https://www.cureus.com/articles/71988-urachal-abscess-a-rare-etiology-of-acute-abdominal-pain-in-adults.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "poland-20",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "score": 0.98580002784729,
+        "display_name": "Good health and well-being"
+      }
+    ],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/case-report",
+        "display_name": "Case Report"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W3201086645.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W3201086645.grobid-xml"
+    },
+    "referenced_works_count": 7,
+    "referenced_works": [
+      "https://openalex.org/W2012611930",
+      "https://openalex.org/W2123526860",
+      "https://openalex.org/W2155037799",
+      "https://openalex.org/W2162800925",
+      "https://openalex.org/W2556398256",
+      "https://openalex.org/W2930921609",
+      "https://openalex.org/W3027627970"
+    ],
+    "related_works": [
+      "https://openalex.org/W4410907180",
+      "https://openalex.org/W4405855961",
+      "https://openalex.org/W2162800925",
+      "https://openalex.org/W7204259477",
+      "https://openalex.org/W67664183",
+      "https://openalex.org/W3158550620",
+      "https://openalex.org/W4402972768",
+      "https://openalex.org/W3023969111",
+      "https://openalex.org/W2763796963",
+      "https://openalex.org/W4402564687"
+    ],
+    "abstract_inverted_index": {
+      "Abdominal": [
+        0,
+        53
+      ],
+      "pain": [
+        1,
+        49
+      ],
+      "is": [
+        2,
+        139
+      ],
+      "a": [
+        3,
+        13,
+        34,
+        44,
+        74,
+        83,
+        104
+      ],
+      "common": [
+        4
+      ],
+      "cause": [
+        5
+      ],
+      "of": [
+        6,
+        22,
+        33,
+        46,
+        103,
+        112,
+        128,
+        135
+      ],
+      "emergency": [
+        7,
+        41
+      ],
+      "department": [
+        8,
+        42
+      ],
+      "visits.": [
+        9
+      ],
+      "It": [
+        10
+      ],
+      "often": [
+        11
+      ],
+      "poses": [
+        12
+      ],
+      "diagnostic": [
+        14
+      ],
+      "challenge": [
+        15
+      ],
+      "for": [
+        16,
+        50,
+        123
+      ],
+      "physicians": [
+        17
+      ],
+      "given": [
+        18
+      ],
+      "the": [
+        19,
+        31,
+        40,
+        89,
+        98,
+        101,
+        113,
+        121,
+        136,
+        143
+      ],
+      "broad": [
+        20
+      ],
+      "spectrum": [
+        21
+      ],
+      "its": [
+        23
+      ],
+      "possible": [
+        24
+      ],
+      "medical": [
+        25
+      ],
+      "and": [
+        26,
+        58,
+        66
+      ],
+      "surgical": [
+        27,
+        116,
+        145
+      ],
+      "etiologies.": [
+        28
+      ],
+      "We": [
+        29
+      ],
+      "report": [
+        30
+      ],
+      "case": [
+        32,
+        119
+      ],
+      "32-year-old": [
+        35
+      ],
+      "man": [
+        36
+      ],
+      "who": [
+        37
+      ],
+      "presented": [
+        38
+      ],
+      "to": [
+        39,
+        88,
+        97,
+        125,
+        141
+      ],
+      "with": [
+        43,
+        76,
+        93,
+        115
+      ],
+      "complaint": [
+        45
+      ],
+      "lower": [
+        47
+      ],
+      "abdominal": [
+        48,
+        70,
+        91
+      ],
+      "one": [
+        51
+      ],
+      "week.": [
+        52
+      ],
+      "examination": [
+        54,
+        72
+      ],
+      "revealed": [
+        55,
+        62
+      ],
+      "suprapubic": [
+        56
+      ],
+      "mass": [
+        57,
+        86
+      ],
+      "tenderness.": [
+        59
+      ],
+      "Laboratory": [
+        60
+      ],
+      "investigation": [
+        61
+      ],
+      "elevated": [
+        63
+      ],
+      "leukocyte": [
+        64
+      ],
+      "count": [
+        65
+      ],
+      "inflammatory": [
+        67
+      ],
+      "markers.": [
+        68
+      ],
+      "An": [
+        69
+      ],
+      "ultrasound": [
+        71
+      ],
+      "showed": [
+        73
+      ],
+      "collection": [
+        75
+      ],
+      "poorly": [
+        77
+      ],
+      "defined": [
+        78
+      ],
+      "borders.": [
+        79
+      ],
+      "Additionally,": [
+        80
+      ],
+      "CT": [
+        81
+      ],
+      "demonstrated": [
+        82
+      ],
+      "soft": [
+        84
+      ],
+      "tissue": [
+        85
+      ],
+      "adjacent": [
+        87
+      ],
+      "anterior": [
+        90
+      ],
+      "wall": [
+        92
+      ],
+      "an": [
+        94
+      ],
+      "upward": [
+        95
+      ],
+      "track": [
+        96
+      ],
+      "umbilicus,": [
+        99
+      ],
+      "conferring": [
+        100
+      ],
+      "diagnosis": [
+        102
+      ],
+      "urachal": [
+        105,
+        130,
+        137
+      ],
+      "abscess.": [
+        106
+      ],
+      "The": [
+        107
+      ],
+      "patient": [
+        108
+      ],
+      "underwent": [
+        109
+      ],
+      "successful": [
+        110
+      ],
+      "management": [
+        111
+      ],
+      "abscess": [
+        114
+      ],
+      "excision.": [
+        117
+      ],
+      "This": [
+        118
+      ],
+      "highlights": [
+        120
+      ],
+      "importance": [
+        122
+      ],
+      "clinicians": [
+        124
+      ],
+      "be": [
+        126
+      ],
+      "aware": [
+        127
+      ],
+      "congenital": [
+        129
+      ],
+      "anomalies": [
+        131
+      ],
+      "since": [
+        132
+      ],
+      "early": [
+        133
+      ],
+      "recognition": [
+        134
+      ],
+      "cyst": [
+        138
+      ],
+      "essential": [
+        140
+      ],
+      "determine": [
+        142
+      ],
+      "proper": [
+        144
+      ],
+      "management.": [
+        146
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-30T12:39:25.321706",
+    "created_date": "2021-09-27T00:00:00"
+  }
+}

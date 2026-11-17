@@ -1,0 +1,706 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pone.0093041",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0093041",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:36.866346+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2026-02-22T03:07:33Z",
+      "timestamp": 1771729653105,
+      "version": "3.50.1"
+    },
+    "reference-count": 40,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              26
+            ]
+          ],
+          "date-time": "2014-03-26T00:00:00Z",
+          "timestamp": 1395792000000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "DOI": "10.1371/journal.pone.0093041",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          26
+        ]
+      ],
+      "date-time": "2014-03-26T20:48:29Z",
+      "timestamp": 1395866909000
+    },
+    "page": "e93041",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "title": [
+      "Distinct Pathways of ERK1/2 Activation by Hydroxy-Carboxylic Acid Receptor-1"
+    ],
+    "prefix": "10.1371",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Guo",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hui-qian",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Li-hui",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ru-ping",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jun-ping",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2811",
+        "DOI": "10.1074/jbc.M806409200",
+        "article-title": "Lactate inhibits lipolysis in fat cells through activation of an orphan G-protein-coupled receptor, GPR81",
+        "volume": "284",
+        "author": "C Liu",
+        "year": "2009",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "26649",
+        "DOI": "10.1074/jbc.C500213200",
+        "article-title": "(D)-beta-Hydroxybutyrate inhibits adipocyte lipolysis via the nicotinic acid receptor PUMA-G",
+        "volume": "280",
+        "author": "AK Taggart",
+        "year": "2005",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "21928",
+        "DOI": "10.1074/jbc.M109.019455",
+        "article-title": "Deorphanization of GPR109B as a receptor for the beta-oxidation intermediate 3-OH-octanoic acid and its role in the regulation of lipolysis",
+        "volume": "284",
+        "author": "K Ahmed",
+        "year": "2009",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1016/j.tips.2009.09.001",
+        "article-title": "GPR109A, GPR109B and GPR81, a family of hydroxy-carboxylic acid receptors",
+        "volume": "30",
+        "author": "K Ahmed",
+        "year": "2009",
+        "journal-title": "Trends Pharmacol Sci"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1016/j.cmet.2010.02.012",
+        "article-title": "An autocrine lactate loop mediates insulin-dependent inhibition of lipolysis through GPR81",
+        "volume": "11",
+        "author": "K Ahmed",
+        "year": "2010",
+        "journal-title": "Cell Metab"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "797",
+        "DOI": "10.1194/jlr.M700513-JLR200",
+        "article-title": "Elucidation of signaling and functional activities of an orphan GPCR, GPR81",
+        "volume": "49",
+        "author": "H Ge",
+        "year": "2008",
+        "journal-title": "J Lipid Res"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1038/nm.1893",
+        "article-title": "A new type of ERK1/2 autophosphorylation causes cardiac hypertrophy",
+        "volume": "15",
+        "author": "K Lorenz",
+        "year": "2009",
+        "journal-title": "Nat Med"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "49212",
+        "DOI": "10.1074/jbc.M207294200",
+        "article-title": "Beta-arrestin2 is critically involved in CXCR4-mediated chemotaxis, and this is mediated by its enhancement of p38 MAPK activation",
+        "volume": "277",
+        "author": "Y Sun",
+        "year": "2002",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1653",
+        "DOI": "10.1038/sj.onc.1204181",
+        "article-title": "Heterotrimeric G-protein betagamma-dimers in growth and differentiation",
+        "volume": "20",
+        "author": "WF Schwindinger",
+        "year": "2001",
+        "journal-title": "Oncogene"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "8855",
+        "DOI": "10.1074/jbc.M808463200",
+        "article-title": "{beta}-Arrestin-2 Mediates Anti-apoptotic Signaling through Regulation of BAD Phosphorylation",
+        "volume": "284",
+        "author": "S Ahn",
+        "year": "2009",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1319",
+        "DOI": "10.1194/jlr.M011254",
+        "article-title": "Palmitic acid acutely stimulates glucose uptake via activation of Akt and ERK1/2 in skeletal muscle cells",
+        "volume": "52",
+        "author": "J Pu",
+        "year": "2011",
+        "journal-title": "J Lipid Res"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "31199",
+        "DOI": "10.1074/jbc.M111.241372",
+        "article-title": "Distinct kinetic and spatial patterns of protein kinase C (PKC)- and epidermal growth factor receptor (EGFR)-dependent activation of extracellular signal-regulated kinases 1 and 2 by human nicotinic acid receptor GPR109A",
+        "volume": "286",
+        "author": "G Li",
+        "year": "2011",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1266",
+        "DOI": "10.1074/jbc.271.3.1266",
+        "article-title": "G(o)-protein alpha-subunits activate mitogen-activated protein kinase via a novel protein kinase C-dependent mechanism",
+        "volume": "271",
+        "author": "T van Biesen",
+        "year": "1996",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou Q, Li G, Deng X, H X, Chen L, <etal>et al</etal>.. (2012) Activated Human Hydroxy-Carboxylic Acid Receptor-3 Signals to MAP Kinase Cascades via the PLC-Dependent PKC and MMP-Mediated EGFR Pathways. Br J Pharmacol.",
+        "DOI": "10.1111/j.1476-5381.2012.01875.x"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "987",
+        "DOI": "10.1016/j.bbrc.2008.10.088",
+        "article-title": "Role of GPR81 in lactate-mediated reduction of adipose lipolysis",
+        "volume": "377",
+        "author": "TQ Cai",
+        "year": "2008",
+        "journal-title": "Biochem Biophys Res Commun"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "7969",
+        "DOI": "10.1038/sj.onc.1208162",
+        "article-title": "Not so strange bedfellows: G-protein-coupled receptors and Src family kinases",
+        "volume": "23",
+        "author": "DK Luttrell",
+        "year": "2004",
+        "journal-title": "Oncogene"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "394",
+        "DOI": "10.1126/science.275.5298.394",
+        "article-title": "Linkage of G protein-coupled receptors to the MAPK signaling pathway through PI 3-kinase gamma",
+        "volume": "275",
+        "author": "M Lopez-Ilasaca",
+        "year": "1997",
+        "journal-title": "Science"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "3097",
+        "DOI": "10.1093/emboj/16.11.3097",
+        "article-title": "Gi-mediated activation of the Ras/MAP kinase pathway involves a 100 kDa tyrosine-phosphorylated Grb2 SH3 binding protein, but not Src nor Shc",
+        "volume": "16",
+        "author": "O Kranenburg",
+        "year": "1997",
+        "journal-title": "EMBO J"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "393",
+        "DOI": "10.1124/jpet.109.164814",
+        "article-title": "Gbetagamma signaling promotes breast cancer cell migration and invasion",
+        "volume": "333",
+        "author": "JK Kirui",
+        "year": "2010",
+        "journal-title": "J Pharmacol Exp Ther"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1532",
+        "DOI": "10.1038/sj.onc.1204184",
+        "article-title": "New mechanisms in heptahelical receptor signaling to mitogen activated protein kinase cascades",
+        "volume": "20",
+        "author": "KL Pierce",
+        "year": "2001",
+        "journal-title": "Oncogene"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1594",
+        "DOI": "10.1038/sj.onc.1204192",
+        "article-title": "Cell communication networks: epidermal growth factor receptor transactivation as the paradigm for interreceptor signal transmission",
+        "volume": "20",
+        "author": "A Gschwind",
+        "year": "2001",
+        "journal-title": "Oncogene"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "7957",
+        "DOI": "10.1038/sj.onc.1208079",
+        "article-title": "The interplay between Src family kinases and receptor tyrosine kinases",
+        "volume": "23",
+        "author": "PA Bromann",
+        "year": "2004",
+        "journal-title": "Oncogene"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "31562",
+        "DOI": "10.1074/jbc.271.49.31562",
+        "article-title": "Src phosphorylates the insulin-like growth factor type I receptor on the autophosphorylation sites. Requirement for transformation by src",
+        "volume": "271",
+        "author": "JE Peterson",
+        "year": "1996",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "C1454",
+        "DOI": "10.1152/ajpcell.00151.2007",
+        "article-title": "Distinct pathways of ERK activation by the muscarinic agonists pilocarpine and carbachol in a human salivary cell line",
+        "volume": "294",
+        "author": "AL Lin",
+        "year": "2008",
+        "journal-title": "Am J Physiol Cell Physiol"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "2505",
+        "DOI": "10.1074/jbc.273.5.2505",
+        "article-title": "Phosphoinositide 3-kinase gamma is a mediator of Gbetagamma-dependent Jun kinase activation",
+        "volume": "273",
+        "author": "M Lopez-Ilasaca",
+        "year": "1998",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1044",
+        "DOI": "10.1161/hh1001.090840",
+        "article-title": "Thrombin regulates insulin-like growth factor-1 receptor transcription in vascular smooth muscle: characterization of the signaling pathway",
+        "volume": "88",
+        "author": "J Du",
+        "year": "2001",
+        "journal-title": "Circ Res"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "2978",
+        "DOI": "10.1210/en.2004-0029",
+        "article-title": "Transactivation of the insulin-like growth factor-I receptor by angiotensin II mediates downstream signaling from the angiotensin II type 1 receptor to phosphatidylinositol 3-kinase",
+        "volume": "145",
+        "author": "P Zahradka",
+        "year": "2004",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "17148",
+        "DOI": "10.1074/jbc.270.29.17148",
+        "article-title": "Distinct pathways of Gi- and Gq-mediated mitogen-activated protein kinase activation",
+        "volume": "270",
+        "author": "BE Hawes",
+        "year": "1995",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1038/369418a0",
+        "article-title": "Ras-dependent activation of MAP kinase pathway mediated by G-protein beta gamma subunits",
+        "volume": "369",
+        "author": "P Crespo",
+        "year": "1994",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/S0014-2999(98)00468-3",
+        "article-title": "Involvement of G-protein betagamma subunits in coupling the adenosine A1 receptor to phospholipase C in transfected CHO cells",
+        "volume": "355",
+        "author": "JM Dickenson",
+        "year": "1998",
+        "journal-title": "Eur J Pharmacol"
+      },
+      {
+        "key": "ref31",
+        "first-page": "6415",
+        "article-title": "Alpha 2A-adrenergic receptor stimulated calcium release is transduced by Gi-associated G(beta gamma)-mediated activation of phospholipase C. Biochemistry",
+        "volume": "36",
+        "author": "GW Dorn 2nd",
+        "year": "1997"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1242/jcs.115.3.455",
+        "article-title": "The role of beta-arrestins in the termination and transduction of G-protein-coupled receptor signals",
+        "volume": "115",
+        "author": "LM Luttrell",
+        "year": "2002",
+        "journal-title": "J Cell Sci"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1126/science.1109237",
+        "article-title": "Transduction of receptor signals by beta-arrestins",
+        "volume": "308",
+        "author": "RJ Lefkowitz",
+        "year": "2005",
+        "journal-title": "Science"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "7807",
+        "DOI": "10.1074/jbc.C300443200",
+        "article-title": "Reciprocal regulation of angiotensin receptor-activated extracellular signal-regulated kinases by beta-arrestins 1 and 2",
+        "volume": "279",
+        "author": "S Ahn",
+        "year": "2004",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1074/jbc.M506576200",
+        "article-title": "beta-arrestin-dependent, G protein-independent ERK1/2 activation by the beta2 adrenergic receptor",
+        "volume": "281",
+        "author": "SK Shenoy",
+        "year": "2006",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1448",
+        "DOI": "10.1073/pnas.0409534102",
+        "article-title": "Different G protein-coupled receptor kinases govern G protein and beta-arrestin-mediated signaling of V2 vasopressin receptor",
+        "volume": "102",
+        "author": "XR Ren",
+        "year": "2005",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "10856",
+        "DOI": "10.1074/jbc.M513380200",
+        "article-title": "Distinct beta-arrestin- and G protein-dependent pathways for parathyroid hormone receptor-stimulated ERK1/2 activation",
+        "volume": "281",
+        "author": "D Gesty-Palmer",
+        "year": "2006",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "28304",
+        "DOI": "10.1074/jbc.M403899200",
+        "article-title": "Comparative studies of molecular mechanisms of dopamine D2 and D3 receptors for the activation of extracellular signal-regulated kinase",
+        "volume": "279",
+        "author": "S Beom",
+        "year": "2004",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "424",
+        "DOI": "10.1016/j.cellsig.2007.11.002",
+        "article-title": "Formyl peptide receptor-mediated ERK1/2 activation occurs through G(i) and is not dependent on beta-arrestin1/2",
+        "volume": "20",
+        "author": "JM Gripentrog",
+        "year": "2008",
+        "journal-title": "Cell Signal"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "22605",
+        "DOI": "10.1074/jbc.M109.087213",
+        "article-title": "Internalization of the human nicotinic acid receptor GPR109A is regulated by G(i), GRK2, and arrestin3",
+        "volume": "285",
+        "author": "G Li",
+        "year": "2010",
+        "journal-title": "J Biol Chem"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1371/journal.pone.0320172",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2025-03-04T00:00:00Z",
+          "timestamp": 1741046400000
+        },
+        "record-id": "64877"
+      },
+      {
+        "DOI": "10.1371/journal.pone.0320172",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2025-03-04T00:00:00Z",
+          "timestamp": 1741046400000
+        }
+      }
+    ],
+    "container-title": [
+      "PLoS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0093041",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T02:11:48Z",
+      "timestamp": 1648692708000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0093041"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Michal",
+        "family": "Hetman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          26
+        ]
+      ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            3,
+            26
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0093041",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          26
+        ]
+      ]
+    }
+  }
+}

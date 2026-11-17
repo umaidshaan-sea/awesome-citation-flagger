@@ -1,0 +1,1018 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1038/ncomms15192",
+  "url": "https://api.crossref.org/works/10.1038%2Fncomms15192",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:17.215400+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2026-09-26T12:35:14Z",
+      "timestamp": 1790426114170,
+      "version": "4.1.0"
+    },
+    "reference-count": 52,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              8
+            ]
+          ],
+          "date-time": "2017-05-08T00:00:00Z",
+          "timestamp": 1494201600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              8
+            ]
+          ],
+          "date-time": "2017-05-08T00:00:00Z",
+          "timestamp": 1494201600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Commun"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The verification of a successful covalent functionalization of graphene and related carbon allotropes can easily be carried out by Raman spectroscopy. Nevertheless, the unequivocal assignment and resolution of individual lattice modes associated with the covalent binding of addends was elusive up to now. Here we present an <jats:italic>in situ</jats:italic> Raman study of a controlled functionalization of potassium intercalated graphite, revealing several new bands appearing in the D-region of the spectrum. The evolution of these bands with increasing degree of functionalization from low to moderate levels provides a basis for the deconvolution of the different components towards quantifying the extent of functionalization. By complementary DFT calculations we were able to identify the vibrational changes in the close proximity of the addend bearing lattice carbon atoms and to assign them to specific Raman modes. The experimental <jats:italic>in situ</jats:italic> observation of the developing functionalization along with the reoxidation of the intercalated graphite represents an important step towards an improved understanding of the chemistry of graphene.</jats:p>",
+    "DOI": "10.1038/ncomms15192",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2017-05-08T09:14:40Z",
+      "timestamp": 1494234880000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 150,
+    "title": [
+      "RETRACTED ARTICLE: Precise determination of graphene functionalization by in situ Raman spectroscopy"
+    ],
+    "prefix": "10.1038",
+    "volume": "8",
+    "author": [
+      {
+        "given": "Philipp",
+        "family": "Vecera",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio C.",
+        "family": "Chac\u00f3n-Torres",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5377-9896",
+        "authenticated-orcid": false,
+        "given": "Thomas",
+        "family": "Pichler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stephanie",
+        "family": "Reich",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Himadri R.",
+        "family": "Soni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "G\u00f6rling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Konstantin",
+        "family": "Edelthalhammer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2113-9920",
+        "authenticated-orcid": false,
+        "given": "Herwig",
+        "family": "Peterlik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frank",
+        "family": "Hauke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0399-5096",
+        "authenticated-orcid": false,
+        "given": "Andreas",
+        "family": "Hirsch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "BFncomms15192_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "5470",
+        "DOI": "10.1039/C1CC11100K",
+        "volume": "47",
+        "author": "A Catheline",
+        "year": "2011",
+        "unstructured": "Catheline, A. et al. Graphene solutions. Chem. Commun. 47, 5470\u20135472 (2011).",
+        "journal-title": "Chem. Commun."
+      },
+      {
+        "key": "BFncomms15192_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "15802",
+        "DOI": "10.1021/ja808001a",
+        "volume": "130",
+        "author": "C Vall\u00e9s",
+        "year": "2008",
+        "unstructured": "Vall\u00e9s, C. et al. Solutions of negatively charged graphene sheets and ribbons. J. Am. Chem. Soc. 130, 15802\u201315804 (2008).",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "BFncomms15192_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "129",
+        "DOI": "10.1021/ar300141s",
+        "volume": "46",
+        "author": "A P\u00e9nicaud",
+        "year": "2013",
+        "unstructured": "P\u00e9nicaud, A. & Drummond, C. Deconstructing graphite: graphenide solutions. Acc. Chem. Res. 46, 129\u2013137 (2013).",
+        "journal-title": "Acc. Chem. Res."
+      },
+      {
+        "key": "BFncomms15192_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.1038/nchem.1010",
+        "volume": "3",
+        "author": "JM Englert",
+        "year": "2011",
+        "unstructured": "Englert, J. M. et al. Covalent bulk functionalization of graphene. Nat. Chem. 3, 279\u2013286 (2011).",
+        "journal-title": "Nat. Chem."
+      },
+      {
+        "key": "BFncomms15192_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1021/ar300116q",
+        "volume": "46",
+        "author": "A Hirsch",
+        "year": "2013",
+        "unstructured": "Hirsch, A., Englert, J. M. & Hauke, F. Wet chemical functionalization of graphene. Acc. Chem. Res. 46, 87\u201396 (2013).",
+        "journal-title": "Acc. Chem. Res."
+      },
+      {
+        "key": "BFncomms15192_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "12411",
+        "DOI": "10.1038/ncomms12411",
+        "volume": "7",
+        "author": "P Vecera",
+        "year": "2016",
+        "unstructured": "Vecera, P. et al. Solvent-driven electron trapping and mass transport in reduced graphites to access perfect graphene. Nat. Commun. 7, 12411 (2016).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "BFncomms15192_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "2337",
+        "DOI": "10.1002/pssb.201451477",
+        "volume": "251",
+        "author": "JC Chac\u00f3n-Torres",
+        "year": "2014",
+        "unstructured": "Chac\u00f3n-Torres, J. C., Wirtz, L. & Pichler, T. Raman spectroscopy of graphite intercalation compounds: charge transfer, strain, and electron-phonon coupling in graphene layers. Phys. Status Solidi B 251, 2337\u20132355 (2014).",
+        "journal-title": "Phys. Status Solidi B"
+      },
+      {
+        "key": "BFncomms15192_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "10811",
+        "DOI": "10.1039/c3cc46621c",
+        "volume": "49",
+        "author": "KC Knirsch",
+        "year": "2013",
+        "unstructured": "Knirsch, K. C. et al. Screening of the chemical reactivity of three different graphite sources using the formation of reductively alkylated graphene as a model reaction. Chem. Commun. 49, 10811\u201310813 (2013).",
+        "journal-title": "Chem. Commun."
+      },
+      {
+        "key": "BFncomms15192_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "5472",
+        "DOI": "10.1021/nn401481h",
+        "volume": "7",
+        "author": "JM Englert",
+        "year": "2013",
+        "unstructured": "Englert, J. M. et al. Scanning-Raman-microscopy for the statistical analysis of covalently functionalized graphene. ACS Nano 7, 5472\u20135482 (2013).",
+        "journal-title": "ACS Nano"
+      },
+      {
+        "key": "BFncomms15192_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "5861",
+        "DOI": "10.1002/anie.201511807",
+        "volume": "55",
+        "author": "KC Knirsch",
+        "year": "2016",
+        "unstructured": "Knirsch, K. C., Sch\u00e4fer, R. A., Hauke, F. & Hirsch, A. Mono- and ditopic bisfunctionalization of graphene. Angew. Chem. Int. Ed. 55, 5861\u20135864 (2016).",
+        "journal-title": "Angew. Chem. Int. Ed."
+      },
+      {
+        "key": "BFncomms15192_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "77",
+        "DOI": "10.1021/ar300143e",
+        "volume": "46",
+        "author": "JE Johns",
+        "year": "2013",
+        "unstructured": "Johns, J. E. & Hersam, M. C. Atomic covalent functionalization of graphene. Acc. Chem. Res. 46, 77\u201386 (2013).",
+        "journal-title": "Acc. Chem. Res."
+      },
+      {
+        "key": "BFncomms15192_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "160",
+        "DOI": "10.1021/ar300119z",
+        "volume": "46",
+        "author": "GLC Paulus",
+        "year": "2013",
+        "unstructured": "Paulus, G. L. C., Wang, Q. H. & Strano, M. S. Covalent electron transfer chemistry of graphene with diazonium salts. Acc. Chem. Res. 46, 160\u2013170 (2013).",
+        "journal-title": "Acc. Chem. Res."
+      },
+      {
+        "key": "BFncomms15192_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "311",
+        "DOI": "10.1039/C4FD00043A",
+        "volume": "172",
+        "author": "SA Hodge",
+        "year": "2014",
+        "unstructured": "Hodge, S. A. et al. Probing the charging mechanisms of carbon nanomaterial polyelectrolytes. Faraday Discuss. 172, 311\u2013325 (2014).",
+        "journal-title": "Faraday Discuss."
+      },
+      {
+        "key": "BFncomms15192_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "18385",
+        "DOI": "10.1021/ja4063713",
+        "volume": "135",
+        "author": "F Hof",
+        "year": "2013",
+        "unstructured": "Hof, F. et al. New basic insight into reductive functionalization sequences of single walled carbon nanotubes (SWCNTs). J. Am. Chem. Soc. 135, 18385\u201318395 (2013).",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "BFncomms15192_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "235",
+        "DOI": "10.1038/nnano.2013.46",
+        "volume": "8",
+        "author": "AC Ferrari",
+        "year": "2013",
+        "unstructured": "Ferrari, A. C. & Basko, D. M. Raman spectroscopy as a versatile tool for studying the properties of graphene. Nat. Nano. 8, 235\u2013246 (2013).",
+        "journal-title": "Nat. Nano."
+      },
+      {
+        "key": "BFncomms15192_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.1016/j.ssc.2007.03.052",
+        "volume": "143",
+        "author": "AC Ferrari",
+        "year": "2007",
+        "unstructured": "Ferrari, A. C. Raman spectroscopy of graphene and graphite: disorder, electron-phonon coupling, doping and nonadiabatic effects. Solid State Commun. 143, 47\u201357 (2007).",
+        "journal-title": "Solid State Commun."
+      },
+      {
+        "key": "BFncomms15192_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "413",
+        "DOI": "10.1080/00018732.2011.582251",
+        "volume": "60",
+        "author": "R Saito",
+        "year": "2011",
+        "unstructured": "Saito, R. et al. Raman spectroscopy of graphene and carbon nanotubes. Adv. Phys. 60, 413\u2013550 (2011).",
+        "journal-title": "Adv. Phys."
+      },
+      {
+        "key": "BFncomms15192_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1276",
+        "DOI": "10.1039/B613962K",
+        "volume": "9",
+        "author": "MA Pimenta",
+        "year": "2007",
+        "unstructured": "Pimenta, M. A. et al. Studying disorder in graphite-based systems by Raman spectroscopy. Phys. Chem. Chem. Phys. 9, 1276\u20131290 (2007).",
+        "journal-title": "Phys. Chem. Chem. Phys."
+      },
+      {
+        "key": "BFncomms15192_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "241907",
+        "DOI": "10.1063/1.2816262",
+        "volume": "91",
+        "author": "C Stampfer",
+        "year": "2007",
+        "unstructured": "Stampfer, C. et al. Raman imaging of doping domains in graphene on SiO2 . Appl. Phys. Lett. 91, 241907 (2007).",
+        "journal-title": "Appl. Phys. Lett."
+      },
+      {
+        "key": "BFncomms15192_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "210",
+        "DOI": "10.1038/nnano.2008.67",
+        "volume": "3",
+        "author": "A Das",
+        "year": "2008",
+        "unstructured": "Das, A. et al. Monitoring dopants by Raman scattering in an electrochemically top-gated graphene transistor. Nat. Nano. 3, 210\u2013215 (2008).",
+        "journal-title": "Nat. Nano."
+      },
+      {
+        "key": "BFncomms15192_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "9249",
+        "DOI": "10.1021/nn403885k",
+        "volume": "7",
+        "author": "JC Chac\u00f3n-Torres",
+        "year": "2013",
+        "unstructured": "Chac\u00f3n-Torres, J. C., Wirtz, L. & Pichler, T. Manifestation of charged and strained graphene layers in the Raman response of graphite intercalation compounds. ACS Nano 7, 9249\u20139259 (2013).",
+        "journal-title": "ACS Nano"
+      },
+      {
+        "key": "BFncomms15192_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1021/nl071822y",
+        "volume": "8",
+        "author": "KN Kudin",
+        "year": "2008",
+        "unstructured": "Kudin, K. N. et al. Raman spectra of graphite oxide and functionalized graphene sheets. Nano Lett. 8, 36\u201341 (2008).",
+        "journal-title": "Nano Lett."
+      },
+      {
+        "key": "BFncomms15192_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "5176",
+        "DOI": "10.1038/srep05176",
+        "volume": "4",
+        "author": "HJ Kim",
+        "year": "2014",
+        "unstructured": "Kim, H. J. et al. Unoxidized graphene/alumina nanocomposite: fracture- and wear-resistance effects of graphene on alumina matrix. Sci. Rep. 4, 5176 (2014).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "BFncomms15192_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "2636",
+        "DOI": "10.1038/srep02636",
+        "volume": "3",
+        "author": "L Wei",
+        "year": "2013",
+        "unstructured": "Wei, L. et al. Spontaneous intercalation of long-chain alkyl ammonium into edge-selectively oxidized graphite to efficiently produce high-quality graphene. Sci. Rep. 3, 2636 (2013).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "BFncomms15192_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "18866",
+        "DOI": "10.1021/ja4083914",
+        "volume": "135",
+        "author": "QH Wang",
+        "year": "2013",
+        "unstructured": "Wang, Q. H., Shih, C.-J., Paulus, G. L. C. & Strano, M. S. Evolution of physical and electronic structures of bilayer graphene upon chemical functionalization. J. Am. Chem. Soc. 135, 18866\u201318875 (2013).",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "BFncomms15192_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "187401",
+        "DOI": "10.1103/PhysRevLett.97.187401",
+        "volume": "97",
+        "author": "AC Ferrari",
+        "year": "2006",
+        "unstructured": "Ferrari, A. C. et al. Raman spectrum of graphene and graphene layers. Phys. Rev. Lett. 97, 187401 (2006).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "BFncomms15192_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "10123",
+        "DOI": "10.1021/acs.jpcc.5b01590",
+        "volume": "119",
+        "author": "S Claramunt",
+        "year": "2015",
+        "unstructured": "Claramunt, S. et al. The importance of interbands on the interpretation of the Raman spectrum of graphene oxide. J. Phys. Chem. C 119, 10123\u201310129 (2015).",
+        "journal-title": "J. Phys. Chem. C"
+      },
+      {
+        "key": "BFncomms15192_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "3190",
+        "DOI": "10.1021/nl201432g",
+        "volume": "11",
+        "author": "LG Can\u00e7ado",
+        "year": "2011",
+        "unstructured": "Can\u00e7ado, L. G. et al. Quantifying defects in graphene via Raman spectroscopy at different excitation energies. Nano Lett. 11, 3190\u20133196 (2011).",
+        "journal-title": "Nano Lett."
+      },
+      {
+        "key": "BFncomms15192_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1592",
+        "DOI": "10.1016/j.carbon.2009.12.057",
+        "volume": "48",
+        "author": "MM Lucchese",
+        "year": "2010",
+        "unstructured": "Lucchese, M. M. et al. Quantifying ion-induced defects and Raman relaxation length in graphene. Carbon 48, 1592\u20131597 (2010).",
+        "journal-title": "Carbon"
+      },
+      {
+        "key": "BFncomms15192_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "45165",
+        "DOI": "10.1038/srep45165",
+        "volume": "7",
+        "author": "P Vecera",
+        "year": "2017",
+        "unstructured": "Vecera, P. et al. Degree of functionalisation dependence of individual Raman intensities in covalent graphene derivatives. Sci. Rep. 7, 45165 (2017).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "BFncomms15192_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "754",
+        "DOI": "10.1002/anie.201206799",
+        "volume": "52",
+        "author": "RA Sch\u00e4fer",
+        "year": "2013",
+        "unstructured": "Sch\u00e4fer, R. A. et al. On the way to graphane\u2014pronounced fluorescence of polyhydrogenated graphene. Angew. Chem. Int. Ed. 52, 754\u2013757 (2013).",
+        "journal-title": "Angew. Chem. Int. Ed."
+      },
+      {
+        "key": "BFncomms15192_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1647",
+        "DOI": "10.1021/jacs.5b11994",
+        "volume": "138",
+        "author": "RA Sch\u00e4fer",
+        "year": "2016",
+        "unstructured": "Sch\u00e4fer, R. A. et al. Basic insights into tunable graphene hydrogenation. J. Am. Chem. Soc. 138, 1647\u20131652 (2016).",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "BFncomms15192_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "3060",
+        "DOI": "10.1021/nn500606a",
+        "volume": "8",
+        "author": "AM Dimiev",
+        "year": "2014",
+        "unstructured": "Dimiev, A. M. & Tour, J. M. Mechanism of graphene oxide formation. ACS Nano 8, 3060\u20133068 (2014).",
+        "journal-title": "ACS Nano"
+      },
+      {
+        "key": "BFncomms15192_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "7720",
+        "DOI": "10.1002/anie.201402780",
+        "volume": "53",
+        "author": "S Eigler",
+        "year": "2014",
+        "unstructured": "Eigler, S. & Hirsch, A. Chemistry with graphene and graphene oxide\u2014challenges for synthetic chemists. Angew. Chem. Int. Ed. 53, 7720\u20137738 (2014).",
+        "journal-title": "Angew. Chem. Int. Ed."
+      },
+      {
+        "key": "BFncomms15192_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "3314",
+        "DOI": "10.1021/acsnano.5b00479",
+        "volume": "9",
+        "author": "L Zuccaro",
+        "year": "2015",
+        "unstructured": "Zuccaro, L., Kern, K. & Balasubramanian, K. Identifying chemical functionalization on individual carbon nanotubes and graphene by local vibrational fingerprinting. ACS Nano 9, 3314\u20133323 (2015).",
+        "journal-title": "ACS Nano"
+      },
+      {
+        "key": "BFncomms15192_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "2892",
+        "DOI": "10.1021/nl5045988",
+        "volume": "15",
+        "author": "S Huang",
+        "year": "2015",
+        "unstructured": "Huang, S. et al. Molecular selectivity of graphene-enhanced raman scattering. Nano Lett. 15, 2892\u20132901 (2015).",
+        "journal-title": "Nano Lett."
+      },
+      {
+        "key": "BFncomms15192_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1557/JMR.1990.0435",
+        "volume": "5",
+        "author": "T Enoki",
+        "year": "1990",
+        "unstructured": "Enoki, T., Miyajima, S., Sano, M. & Inokuchi, H. Hydrogen-alkali-metal-graphite ternary intercalation compounds. J. Mater. Res. 5, 435\u2013466 (1990).",
+        "journal-title": "J. Mater. Res."
+      },
+      {
+        "key": "BFncomms15192_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "54",
+        "DOI": "10.1038/nnano.2013.255",
+        "volume": "9",
+        "author": "II Vlasov",
+        "year": "2014",
+        "unstructured": "Vlasov, I. I. et al. Molecular-sized fluorescent nanodiamonds. Nat. Nano. 9, 54\u201358 (2014).",
+        "journal-title": "Nat. Nano."
+      },
+      {
+        "key": "BFncomms15192_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "13079",
+        "DOI": "10.1021/jacs.5b07896",
+        "volume": "137",
+        "author": "V Strauss",
+        "year": "2015",
+        "unstructured": "Strauss, V. et al. Polyhydrogenated graphene: excited state dynamics in photo- and electroactive two-dimensional domains. J. Am. Chem. Soc. 137, 13079\u201313086 (2015).",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "BFncomms15192_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "16302",
+        "DOI": "10.1103/PhysRevB.53.16302",
+        "volume": "53",
+        "author": "J Robertson",
+        "year": "1996",
+        "unstructured": "Robertson, J. Recombination and photoluminescence mechanism in hydrogenated amorphous carbon. Phys. Rev. B 53, 16302\u201316305 (1996).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "BFncomms15192_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "2946",
+        "DOI": "10.1103/PhysRevB.35.2946",
+        "volume": "35",
+        "author": "J Robertson",
+        "year": "1987",
+        "unstructured": "Robertson, J. & O\u2019Reilly, E. P. Electronic and atomic structure of amorphous carbon. Phys. Rev. B 35, 2946\u20132957 (1987).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "BFncomms15192_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "14095",
+        "DOI": "10.1103/PhysRevB.61.14095",
+        "volume": "61",
+        "author": "AC Ferrari",
+        "year": "2000",
+        "unstructured": "Ferrari, A. C. & Robertson, J. Interpretation of Raman spectra of disordered and amorphous carbon. Phys. Rev. B 61, 14095\u201314107 (2000).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "BFncomms15192_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "2477",
+        "DOI": "10.1098/rsta.2004.1452",
+        "volume": "362",
+        "author": "AC Ferrari",
+        "year": "2004",
+        "unstructured": "Ferrari, A. C. & Robertson, J. Raman spectroscopy of amorphous, nanostructured, diamond-like carbon, and nanodiamond. Phil. Trans. R. Soc. A 362, 2477\u20132512 (2004).",
+        "journal-title": "Phil. Trans. R. Soc. A"
+      },
+      {
+        "key": "BFncomms15192_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "1980",
+        "DOI": "10.1063/1.118798",
+        "volume": "70",
+        "author": "KWR Gilkes",
+        "year": "1997",
+        "unstructured": "Gilkes, K. W. R. et al. Direct observation of sp3 bonding in tetrahedral amorphous carbon using ultraviolet Raman spectroscopy. Appl. Phys. Lett. 70, 1980\u20131982 (1997).",
+        "journal-title": "Appl. Phys. Lett."
+      },
+      {
+        "key": "BFncomms15192_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "7012",
+        "DOI": "10.1002/chem.201600174",
+        "volume": "22",
+        "author": "S Eigler",
+        "year": "2016",
+        "unstructured": "Eigler, S. Controlled chemistry approach to the oxo-functionalization of graphene. Chem. Eur. J. 22, 7012\u20137027 (2016).",
+        "journal-title": "Chem. Eur. J."
+      },
+      {
+        "key": "BFncomms15192_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "5404",
+        "DOI": "10.1002/chem.201504689",
+        "volume": "22",
+        "author": "P Kova\u0159\u00ed\u010dek",
+        "year": "2016",
+        "unstructured": "Kova\u0159\u00ed\u010dek, P., Bastl, Z., Vale\u0161, V. & Kalbac, M. Covalent reactions on chemical vapor deposition grown graphene studied by surface-enhanced Raman spectroscopy. Chem. Eur. J. 22, 5404\u20135408 (2016).",
+        "journal-title": "Chem. Eur. J."
+      },
+      {
+        "key": "BFncomms15192_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "3162",
+        "DOI": "10.1039/C4CC09381J",
+        "volume": "51",
+        "author": "S Eigler",
+        "year": "2015",
+        "unstructured": "Eigler, S. Graphite sulphate\u2013a precursor to graphene. Chem. Commun. 51, 3162\u20133165 (2015).",
+        "journal-title": "Chem. Commun."
+      },
+      {
+        "key": "BFncomms15192_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1016/0927-0256(96)00008-0",
+        "volume": "6",
+        "author": "G Kresse",
+        "year": "1996",
+        "unstructured": "Kresse, G. & Furthm\u00fcller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set. Comput. Mater. Sci. 6, 15\u201350 (1996).",
+        "journal-title": "Comput. Mater. Sci."
+      },
+      {
+        "key": "BFncomms15192_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "3865",
+        "DOI": "10.1103/PhysRevLett.77.3865",
+        "volume": "77",
+        "author": "JP Perdew",
+        "year": "1997",
+        "unstructured": "Perdew, J. P., Burke, K. & Ernzerhof, M. generalized gradient approximation made simple. Phys. Rev. Lett. 77, 3865 (1997).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "BFncomms15192_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "5188",
+        "DOI": "10.1103/PhysRevB.13.5188",
+        "volume": "13",
+        "author": "HJ Monkhorst",
+        "year": "1976",
+        "unstructured": "Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations. Phys. Rev. B 13, 5188\u20135192 (1976).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "BFncomms15192_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "7830",
+        "DOI": "10.1103/PhysRevB.54.7830",
+        "volume": "54",
+        "author": "D Porezag",
+        "year": "1996",
+        "unstructured": "Porezag, D. & Pederson, M. R. Infrared intensities and Raman-scattering activities within density-functional theory. Phys. Rev. B 54, 7830\u20137836 (1996).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "BFncomms15192_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "944",
+        "DOI": "10.1021/ed300554z",
+        "volume": "90",
+        "author": "M Laurin",
+        "year": "2013",
+        "unstructured": "Laurin, M. QVibeplot: a program to visualize molecular vibrations in two dimensions. J. Chem. Educ. 90, 944\u2013946 (2013).",
+        "journal-title": "J. Chem. Educ."
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1038/s41467-022-34281-x",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2022-11-04T00:00:00Z",
+          "timestamp": 1667520000000
+        },
+        "record-id": "40386"
+      },
+      {
+        "DOI": "10.1038/s41467-022-34281-x",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2022-11-04T00:00:00Z",
+          "timestamp": 1667520000000
+        }
+      }
+    ],
+    "container-title": [
+      "Nature Communications"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/ncomms15192.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/ncomms15192",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/doifinder/10.1038/ncomms15192",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://www.nature.com/articles/ncomms15192.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2022-12-23T00:58:48Z",
+      "timestamp": 1671757128000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/ncomms15192"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          8
+        ]
+      ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BFncomms15192"
+    ],
+    "URL": "https://doi.org/10.1038/ncomms15192",
+    "relation": {},
+    "ISSN": [
+      "2041-1723"
+    ],
+    "issn-type": [
+      {
+        "value": "2041-1723",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "15 November 2016",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 March 2017",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "8 May 2017",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 November 2022",
+        "order": 4,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 5,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This article has been retracted. Please see the Retraction Notice for more detail:",
+        "order": 6,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1038/s41467-022-34281-x",
+        "URL": "https://doi.org/10.1038/s41467-022-34281-x",
+        "order": 7,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing financial interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "15192"
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/s8756-3282(98)00134-3",
+  "url": "https://api.crossref.org/works/10.1016%2Fs8756-3282%2898%2900134-3",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:56.713688+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T03:07:45Z",
+      "timestamp": 1767150465550,
+      "version": "build-2238731810"
+    },
+    "reference-count": 22,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              12,
+              1
+            ]
+          ],
+          "date-time": "1998-12-01T00:00:00Z",
+          "timestamp": 912470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Bone"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/s8756-3282(98)00134-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T17:48:07Z",
+      "timestamp": 1027619287000
+    },
+    "page": "555-557",
+    "source": "Crossref",
+    "is-referenced-by-count": 111,
+    "title": [
+      "RETRACTED: High prevalence of vitamin D deficiency and reduced bone mass in elderly women with Alzheimer\u2019s disease"
+    ],
+    "prefix": "10.1016",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Y.",
+        "family": "Sato",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.",
+        "family": "Asoh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Oizumi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1492",
+        "DOI": "10.1001/jama.257.11.1492",
+        "article-title": "Falls and fractures in patients with Alzheimer-type dementia",
+        "volume": "257",
+        "author": "Buchner",
+        "year": "1987",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1637",
+        "DOI": "10.1056/NEJM199212033272305",
+        "article-title": "Vitamin D3 and calcium to prevent hip fractures in elderly women",
+        "volume": "327",
+        "author": "Chapuy",
+        "year": "1992",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB3",
+        "series-title": "Clinical Disorders of Bone and Mineral Metabolism",
+        "first-page": "273",
+        "article-title": "Vitamin D nutrition and metabolism in aging and osteoporosis",
+        "author": "Clemens",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1007/BF00334323",
+        "article-title": "Automated computerized radiogrammetry of the second metacarpal and its correlation with absorptiometry of the forearm and spine",
+        "volume": "54",
+        "author": "Derisquebourg",
+        "year": "1994",
+        "journal-title": "Calcif Tissue Int"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/0022-3956(75)90026-6",
+        "article-title": "\u201cMini Mental State.\u201d A practical method for grading the cognitive state of patients for the clinician",
+        "volume": "12",
+        "author": "Folstein",
+        "year": "1975",
+        "journal-title": "J Psychiatry Res"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1002/jbmr.5650090215",
+        "article-title": "Characterization of immunoreactive forms of human osteocalcin generated in vivo and in vitro",
+        "volume": "9",
+        "author": "Garnero",
+        "year": "1994",
+        "journal-title": "J Bone Miner Res"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1683",
+        "DOI": "10.1001/jama.274.21.1683",
+        "article-title": "Vitamin D deficiency in homebound elderly persons",
+        "volume": "274",
+        "author": "Gloth",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1007/BF02383384",
+        "article-title": "Acronym of improved microdensitometry (computed X-ray densitometry) [letter]",
+        "volume": "12",
+        "author": "Inoue",
+        "year": "1994",
+        "journal-title": "J Bone Miner Metab"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1088",
+        "DOI": "10.1111/j.1532-5415.1995.tb07005.x",
+        "article-title": "Bone density, vitamin D nutrition, and parathyroid hormone levels in women with dementia",
+        "volume": "43",
+        "author": "Kipen",
+        "year": "1995",
+        "journal-title": "J Am Geriatr Soc"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1057",
+        "DOI": "10.1111/j.1532-5415.1993.tb06452.x",
+        "article-title": "Calcium homeostasis of an elderly population upon admission to a nursing home",
+        "volume": "41",
+        "author": "Komar",
+        "year": "1993",
+        "journal-title": "J Am Geriatr Soc"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB11",
+        "first-page": "1140",
+        "article-title": "The second metacarpal bone density microdensitometry method [in Japanese]",
+        "volume": "43",
+        "author": "Matsumoto",
+        "year": "1992",
+        "journal-title": "Seikeigeka"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.1007/BF00299308",
+        "article-title": "Metacarpal bone mass in normal and osteoporotic Japanese women using computed X-ray densitometry",
+        "volume": "55",
+        "author": "Matsumoto",
+        "year": "1994",
+        "journal-title": "Calcif Tissue Int"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "939",
+        "DOI": "10.1212/WNL.34.7.939",
+        "article-title": "Clinical diagnosis of Alzheimer\u2019s disease",
+        "volume": "34",
+        "author": "McKhann",
+        "year": "1984",
+        "journal-title": "Neurology"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB14",
+        "first-page": "139",
+        "article-title": "Mineral metabolism in spinal cord injury",
+        "volume": "61",
+        "author": "Naftchi",
+        "year": "1980",
+        "journal-title": "Arch Phys Med Rehabil"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1687",
+        "DOI": "10.1212/WNL.44.9.1687",
+        "article-title": "High prevalence of vitamin D deficiency and reduced bone mass in multiple sclerosis",
+        "volume": "44",
+        "author": "Nieves",
+        "year": "1994",
+        "journal-title": "Neurology"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB16",
+        "series-title": "Clinical Disorders of Bone and Mineral Metabolism",
+        "first-page": "265",
+        "article-title": "Femoral fracture. The role of vitamin D",
+        "author": "Peacock",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1676",
+        "DOI": "10.1056/NEJM198606263142605",
+        "article-title": "Involutional osteoporosis",
+        "volume": "314",
+        "author": "Riggs",
+        "year": "1986",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1159/000117447",
+        "article-title": "Hypovitaminosis D and decreased bone mineral density in amyotrophic lateral sclerosis",
+        "volume": "37",
+        "author": "Sato",
+        "year": "1997",
+        "journal-title": "Eur Neurol"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1273",
+        "DOI": "10.1212/WNL.49.5.1273",
+        "article-title": "High prevalence of vitamin D deficiency and reduced bone mass in Parkinson\u2019s disease",
+        "volume": "49",
+        "author": "Sato",
+        "year": "1997",
+        "journal-title": "Neurology"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "736",
+        "DOI": "10.1161/01.STR.28.4.736",
+        "article-title": "Amelioration of hemiplegia-associated osteopenia over 4 years following stroke by 1\u03b1-hydroxyvitamin D3 and calcium supplementation",
+        "volume": "28",
+        "author": "Sato",
+        "year": "1997",
+        "journal-title": "Stroke"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "355",
+        "DOI": "10.1212/WNL.50.2.355",
+        "article-title": "Apoprotein E genotype influences cognitive \u201cphenotype\u201d in patients with Alzheimer\u2019s disease but not in healthy control subjects",
+        "volume": "50",
+        "author": "Smith",
+        "year": "1998",
+        "journal-title": "Neurology"
+      },
+      {
+        "key": "10.1016/S8756-3282(98)00134-3_BIB22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Villareal, D. T., Civitelli, R., Chines, A., and Avioli, L. V. Subclinical vitamin D deficiency in postmenopausal women with low vertebral bone mass. J Clin Endocrinol Metab 72:628\u2013346; 1991.",
+        "DOI": "10.1210/jcem-72-3-628"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.bone.2019.05.019",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              16
+            ]
+          ],
+          "date-time": "2019-05-16T00:00:00Z",
+          "timestamp": 1557964800000
+        },
+        "record-id": "20455"
+      },
+      {
+        "DOI": "10.1016/j.bone.2018.11.016",
+        "type": "expression_of_concern",
+        "label": "Expression of concern",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2018,
+              12,
+              6
+            ]
+          ],
+          "date-time": "2018-12-06T00:00:00Z",
+          "timestamp": 1544054400000
+        },
+        "record-id": "19642"
+      }
+    ],
+    "container-title": [
+      "Bone"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S8756328298001343?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S8756328298001343?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          3
+        ]
+      ],
+      "date-time": "2019-05-03T16:45:28Z",
+      "timestamp": 1556901928000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S8756328298001343"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            1998,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S8756328298001343"
+    ],
+    "URL": "https://doi.org/10.1016/s8756-3282(98)00134-3",
+    "relation": {},
+    "ISSN": [
+      "8756-3282"
+    ],
+    "issn-type": [
+      {
+        "value": "8756-3282",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    }
+  }
+}

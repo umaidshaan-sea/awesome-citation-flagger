@@ -1,0 +1,628 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.patcog.2011.04.019",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.patcog.2011.04.019",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:49.979576+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2025-03-06T05:25:22Z",
+      "timestamp": 1741238722783,
+      "version": "3.38.0"
+    },
+    "reference-count": 38,
+    "publisher": "Elsevier BV",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2011-12-01T00:00:00Z",
+          "timestamp": 1322697600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Pattern Recognition"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.patcog.2011.04.019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          18
+        ]
+      ],
+      "date-time": "2011-05-18T14:33:00Z",
+      "timestamp": 1305729180000
+    },
+    "page": "2944-2958",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "A variational approach to vesicle membrane reconstruction from fluorescence imaging"
+    ],
+    "prefix": "10.1016",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Kalin",
+        "family": "Kolev",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Norbert",
+        "family": "Kirchge\u00dfner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sebatian",
+        "family": "Houben",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Agnes",
+        "family": "Csisz\u00e1r",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Rubner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christoph",
+        "family": "Palm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bj\u00f6rn",
+        "family": "Eiben",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rudolf",
+        "family": "Merkel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Cremers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "590",
+        "DOI": "10.1038/nature04396",
+        "article-title": "Membrane curvature and mechanisms of dynamic cell membrane remodelling",
+        "volume": "438",
+        "author": "McMahon",
+        "year": "2005",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1016/j.jsb.2007.08.003",
+        "article-title": "Are s-layers exoskeletons? The basic function of protein surface layers revisited",
+        "volume": "160",
+        "author": "Engelhardt",
+        "year": "2007",
+        "journal-title": "Journal of Structural Biology"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "4270",
+        "DOI": "10.1021/la025568v",
+        "article-title": "Two-dimensional streptavidin crystals on giant lipid bilayer vesicles",
+        "volume": "18",
+        "author": "Ratanabanangkoon",
+        "year": "2002",
+        "journal-title": "Langmuir"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "5753",
+        "DOI": "10.1021/la8041023",
+        "article-title": "Double-shell giant vesicles mimicking Gram-negative cell wall behavior during dehydration",
+        "volume": "25",
+        "author": "Csisz\u00e1r",
+        "year": "2009",
+        "journal-title": "Langmuir"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1038/nature06603",
+        "article-title": "Preserving cell shape under environmental stress",
+        "volume": "452",
+        "author": "Cook",
+        "year": "2008",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "16946",
+        "DOI": "10.1073/pnas.0807102105",
+        "article-title": "COPI coat assembly occurs on liquid-disordered domains and the associated membrane deformations are limited by membrane tension",
+        "volume": "105",
+        "author": "Manneville",
+        "year": "2008",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1038/nmat1581",
+        "article-title": "Forced crumpling of self-avoiding elastic sheets",
+        "volume": "5",
+        "author": "Vliegenthart",
+        "year": "2006",
+        "journal-title": "Nature Materials"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1115/1.1865197",
+        "article-title": "Mechanics of curved plasma membrane vesicles: resting shapes, membrane curvature, and in-plane shear elasticity",
+        "volume": "127",
+        "author": "Kosawada",
+        "year": "2005",
+        "journal-title": "Journal of Biomechanical Engineering"
+      },
+      {
+        "year": "1995",
+        "author": "Pawley",
+        "series-title": "Handbook of Biological Confocal Microscopy",
+        "key": "10.1016/j.patcog.2011.04.019_bib9"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.patcog.2011.04.019_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1632",
+        "DOI": "10.1137/040615286",
+        "article-title": "Algorithms for finding global minimizers of image segmentation and denoising models",
+        "volume": "66",
+        "author": "Chan",
+        "year": "2006",
+        "journal-title": "SIAM Journal on Applied Mathematics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.patcog.2011.04.019_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1007/s11263-009-0233-1",
+        "article-title": "Continuous global optimization in multiview 3D reconstruction",
+        "volume": "84",
+        "author": "Kolev",
+        "year": "2009",
+        "journal-title": "International Journal of Computer Vision"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1007/BF00133570",
+        "article-title": "Snakes: active contour models",
+        "volume": "1",
+        "author": "Kass",
+        "year": "1988",
+        "journal-title": "International Journal of Computer Vision"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1002/cpa.3160420503",
+        "article-title": "Optimal approximations by piecewise smooth functions and associated variational problems",
+        "volume": "42",
+        "author": "Mumford",
+        "year": "1989",
+        "journal-title": "Communications on Pure and Applied Mathematics"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.patcog.2011.04.019_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "884",
+        "DOI": "10.1109/34.537343",
+        "article-title": "Region competition: unifying snakes, region growing, and Bayes/MDL for multiband image segmentation",
+        "volume": "18",
+        "author": "Zhu",
+        "year": "1996",
+        "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      },
+      {
+        "unstructured": "J. Kim, J. Fisher, A. Yezzi, M. Cetin, A. Willsky, Nonparametric methods for image segmentation using information theory and curve evolution, IEEE International Conference on Image Processing, vol. 3, Rochester, NY, 2002, pp. 797\u2013800.",
+        "key": "10.1016/j.patcog.2011.04.019_bib15"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.patcog.2011.04.019_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1145/1015706.1015720",
+        "article-title": "GrabCut: interactive foreground extraction using iterated graph cuts",
+        "volume": "23",
+        "author": "Rother",
+        "year": "2004",
+        "journal-title": "ACM Transactions on Graphics"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Unger, T. Pock, W. Trobin, D. Cremers, H. Bischof, TVSeg\u2014interactive total variation based image segmentation, in: British Machine Vision Conference 2008, Leeds, UK, 2008.",
+        "key": "10.1016/j.patcog.2011.04.019_bib17",
+        "DOI": "10.5244/C.22.40"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib18",
+        "series-title": "Proceedings of the Fifth International Conference on Computer Vision",
+        "first-page": "694",
+        "article-title": "Geodesic active contours",
+        "author": "Caselles",
+        "year": "1995"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib19",
+        "series-title": "Proceedings of the Fifth International Conference on Computer Vision",
+        "first-page": "810",
+        "article-title": "Gradient flows and geometric active contour models",
+        "author": "Kichenassamy",
+        "year": "1995"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1565",
+        "DOI": "10.1109/TPAMI.2002.1114849",
+        "article-title": "Flux maximizing geometric flows",
+        "volume": "24",
+        "author": "Vasilevskiy",
+        "year": "2002",
+        "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib21",
+        "series-title": "Proceedings of the International Conference on Computer Vision and Pattern Recognition",
+        "first-page": "10",
+        "article-title": "Learning a classification model for segmentation",
+        "author": "Ren",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib22",
+        "series-title": "Proceedings of the 2010 IEEE International Conference on Bioinformatics and Bioengineering, BIBE\u201910",
+        "first-page": "38",
+        "article-title": "An elastic video interpolation methodology for wireless capsule endoscopy videos",
+        "author": "Karargyris",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1016/0021-9991(88)90002-2",
+        "article-title": "Fronts propagating with curvature-dependent speed: algorithms based on Hamilton\u2013Jacobi formulations",
+        "volume": "79",
+        "author": "Osher",
+        "year": "1988",
+        "journal-title": "Journal of Computational Physics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.patcog.2011.04.019_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1109/83.902291",
+        "article-title": "Active contours without edges",
+        "volume": "10",
+        "author": "Chan",
+        "year": "2001",
+        "journal-title": "IEEE Transactions on Image Processing"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.patcog.2011.04.019_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1111/j.2517-6161.1989.tb01764.x",
+        "article-title": "Exact maximum a posteriori estimation for binary images",
+        "volume": "51",
+        "author": "Greig",
+        "year": "1989",
+        "journal-title": "Journal of the Royal Statistical Society B"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.patcog.2011.04.019_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1222",
+        "DOI": "10.1109/34.969114",
+        "article-title": "Fast approximate energy minimization via graph cuts",
+        "volume": "23",
+        "author": "Boykov",
+        "year": "2001",
+        "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "V. Kolmogorov, R. Zabih, What energy functions can be minimized via graph cuts? in: Proceedings of the European Conference on Computer Vision, London, UK, 2002, pp. 65\u201381.",
+        "key": "10.1016/j.patcog.2011.04.019_bib27",
+        "DOI": "10.1007/3-540-47977-5_5"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib28",
+        "series-title": "Proceedings of the International Conference on Computer Vision",
+        "first-page": "26",
+        "article-title": "Computing geodesics and minimal surfaces via graph cuts",
+        "author": "Boykov",
+        "year": "2003"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.patcog.2011.04.019_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1007/s10851-005-4968-1",
+        "article-title": "Globally optimal geodesic active contours",
+        "volume": "23",
+        "author": "Appleton",
+        "year": "2005",
+        "journal-title": "Journal of Mathematical Imaging and Vision"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Klodt, T. Schoenemann, K. Kolev, M. Schikora, D. Cremers, An experimental comparison of discrete and continuous shape optimization methods, in: European Conference on Computer Vision (ECCV), Marseille, France, 2008.",
+        "key": "10.1016/j.patcog.2011.04.019_bib30",
+        "DOI": "10.1007/978-3-540-88682-2_26"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib31",
+        "first-page": "145",
+        "article-title": "A finite element method for the simulation of Rayleigh\u2013Taylor instability",
+        "volume": "vol. 771",
+        "author": "Dervieux",
+        "year": "1979"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Zach, M. Niethammer, J.M. Frahm, Continuous maximal flows and Wulff shapes: application to MRFs, in: Proceedings of the International Conference on Computer Vision and Pattern Recognition, Miami, FL, 2009.",
+        "key": "10.1016/j.patcog.2011.04.019_bib32",
+        "DOI": "10.1109/CVPR.2009.5206565"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "813",
+        "DOI": "10.1109/83.679423",
+        "article-title": "Fast, robust total variation-based reconstruction of noisy, blurred images",
+        "volume": "7",
+        "author": "Vogel",
+        "year": "1998",
+        "journal-title": "IEEE Transactions on Image Processing"
+      },
+      {
+        "unstructured": "Computational geometry algorithms library \u3008http://www.cgal.org\u3009.",
+        "key": "10.1016/j.patcog.2011.04.019_bib34"
+      },
+      {
+        "unstructured": "S. Rusinkiewicz, Estimating curvatures and their derivatives on triangle meshes, in: Symposium on 3D Data Processing, Visualization, and Transmission, 2004.",
+        "key": "10.1016/j.patcog.2011.04.019_bib35"
+      },
+      {
+        "key": "10.1016/j.patcog.2011.04.019_bib36",
+        "first-page": "127",
+        "article-title": "Preparation of giant vesicles by external AC electric field, kinetics and applications",
+        "volume": "vol. 89",
+        "author": "Angelova",
+        "year": "1992"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.patcog.2011.04.019_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1016/j.neuroimage.2006.03.019",
+        "article-title": "Skull-stripping magnetic resonance brain images using a model-based level set",
+        "volume": "32",
+        "author": "Zhuang",
+        "year": "2006",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Olsson, M. Byr\u00f6d, N.C. Overgaard, F. Kahl, Extending continuous cuts: anisotropic metrics and expansion moves, in: International Conference on Computer Vision, 2009.",
+        "key": "10.1016/j.patcog.2011.04.019_bib38",
+        "DOI": "10.1109/ICCV.2009.5459206"
+      }
+    ],
+    "container-title": [
+      "Pattern Recognition"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031320311001786?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0031320311001786?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2025-03-05T16:35:55Z",
+      "timestamp": 1741192555000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0031320311001786"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0031320311001786"
+    ],
+    "URL": "https://doi.org/10.1016/j.patcog.2011.04.019",
+    "relation": {},
+    "ISSN": [
+      "0031-3203"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0031-3203"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          12
+        ]
+      ]
+    }
+  }
+}

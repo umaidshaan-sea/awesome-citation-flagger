@@ -1,0 +1,1268 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.enganabound.2022.03.025",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.enganabound.2022.03.025",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:06.763967+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2026-05-16T04:23:23Z",
+      "timestamp": 1778905403899,
+      "version": "3.51.4"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1016/j.enganabound.2022.03.025",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2022-07-01T00:00:00Z",
+          "timestamp": 1656633600000
+        }
+      }
+    ],
+    "reference-count": 83,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2022-07-01T00:00:00Z",
+          "timestamp": 1656633600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2022-07-01T00:00:00Z",
+          "timestamp": 1656633600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Engineering Analysis with Boundary Elements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.enganabound.2022.03.025",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          16
+        ]
+      ],
+      "date-time": "2022-04-16T06:09:35Z",
+      "timestamp": 1650089375000
+    },
+    "page": "113-131",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "special_numbering": "C",
+    "title": [
+      "RETRACTED: Meshfree vibrational scrutiny of arbitrary placed straight triple-wire-nanosystems carrying direct electric currents using surface elasticity theory"
+    ],
+    "prefix": "10.1016",
+    "volume": "140",
+    "author": [
+      {
+        "given": "Jiafeng",
+        "family": "Chu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Qingjian",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Keivan",
+        "family": "Kiani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "7",
+        "key": "10.1016/j.enganabound.2022.03.025_b1",
+        "doi-asserted-by": "crossref",
+        "first-page": "4829",
+        "DOI": "10.1021/acs.nanolett.5b01981",
+        "article-title": "Undulatory locomotion of magnetic multilink nanoswimmers",
+        "volume": "15",
+        "author": "Jang",
+        "year": "2015",
+        "journal-title": "Nano Lett"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.enganabound.2022.03.025_b2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/adma.201605458",
+        "article-title": "Hybrid magnetoelectric nanowires for nanorobotic applications: fabrication, magnetoelectric coupling, and magnetically assisted in vitro targeted drug delivery",
+        "volume": "29",
+        "author": "Chen",
+        "year": "2017",
+        "journal-title": "Adv Mater"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b3",
+        "doi-asserted-by": "crossref",
+        "first-page": "eaam6431",
+        "DOI": "10.1126/scirobotics.aam6431",
+        "article-title": "Micro/nanorobots for biomedicine: Delivery, surgery, sensing, and detoxification",
+        "volume": "2",
+        "author": "Li",
+        "year": "2017",
+        "journal-title": "Sci Robot"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b4",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1016/j.addr.2017.09.002",
+        "article-title": "Targeting and isolation of cancer cells using micro/nanomotors",
+        "volume": "125",
+        "author": "Gao",
+        "year": "2018",
+        "journal-title": "Adv Drug Deliver Rev"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.enganabound.2022.03.025_b5",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1021/nl034853b",
+        "article-title": "Direct ultrasensitive electrical detection of DNA and DNA sequence variations using nanowire nanosensors",
+        "volume": "4",
+        "author": "Hahm",
+        "year": "2004",
+        "journal-title": "Nano Lett"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b6",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1016/S1369-7021(05)00791-1",
+        "article-title": "Nanowire nanosensors",
+        "volume": "8",
+        "author": "Patolsky",
+        "year": "2005",
+        "journal-title": "Mater Today"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.enganabound.2022.03.025_b7",
+        "doi-asserted-by": "crossref",
+        "first-page": "3208",
+        "DOI": "10.1073/pnas.0406368102",
+        "article-title": "Label-free detection of small-molecule\u2013protein interactions by using nanowire nanosensors",
+        "volume": "102",
+        "author": "Wang",
+        "year": "2005",
+        "journal-title": "P Natl A Sci"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.enganabound.2022.03.025_b8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2571",
+        "DOI": "10.1109/TMAG.2002.801955",
+        "article-title": "Switching behavior of single nanowires inside dense nickel nanowire arrays",
+        "volume": "38",
+        "author": "Nielsch",
+        "year": "2002",
+        "journal-title": "IEEE T Magn"
+      },
+      {
+        "issue": "1\u20133",
+        "key": "10.1016/j.enganabound.2022.03.025_b9",
+        "doi-asserted-by": "crossref",
+        "first-page": "348",
+        "DOI": "10.1016/S0924-4247(03)00200-0",
+        "article-title": "Preparation and magnetic properties of electrodeposited magnetic nanowires",
+        "volume": "106",
+        "author": "Chiriac",
+        "year": "2003",
+        "journal-title": "Sensor Actuat A-Phys"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.enganabound.2022.03.025_b10",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1088/1361-6668/aa8e14",
+        "article-title": "Improved coupling of nanowire\u2013based high-Tc SQUID magnetometers\u2014simulations and experiments",
+        "volume": "30",
+        "author": "Xie",
+        "year": "2017",
+        "journal-title": "Supercond Sci Tech"
+      },
+      {
+        "issue": "5771",
+        "key": "10.1016/j.enganabound.2022.03.025_b11",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1126/science.1124005",
+        "article-title": "Piezoelectric nanogenerators based on zinc oxide nanowire arrays",
+        "volume": "312",
+        "author": "Wang",
+        "year": "2006",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.enganabound.2022.03.025_b12",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1002/adma.200601162",
+        "article-title": "Nanowire piezoelectric nanogenerators on plastic substrates as flexible power sources for nanodevices",
+        "volume": "19",
+        "author": "Gao",
+        "year": "2007",
+        "journal-title": "Adv Mater"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.enganabound.2022.03.025_b13",
+        "doi-asserted-by": "crossref",
+        "first-page": "2499",
+        "DOI": "10.1021/nl071310j",
+        "article-title": "Electrostatic potential in a bent piezoelectric nanowire: The fundamental theory of nanogenerator and nanopiezotronics",
+        "volume": "7",
+        "author": "Gao",
+        "year": "2007",
+        "journal-title": "Nano Lett"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.enganabound.2022.03.025_b14",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1063/1.2831901",
+        "article-title": "Piezoelectric nanogenerator using CdS nanowires",
+        "volume": "92",
+        "author": "Lin",
+        "year": "2008",
+        "journal-title": "Appl Phys Lett"
+      },
+      {
+        "issue": "5505",
+        "key": "10.1016/j.enganabound.2022.03.025_b15",
+        "doi-asserted-by": "crossref",
+        "first-page": "851",
+        "DOI": "10.1126/science.291.5505.851",
+        "article-title": "Functional nanoscale electronic devices assembled using silicon nanowire building blocks",
+        "volume": "291",
+        "author": "Cui",
+        "year": "2001",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.enganabound.2022.03.025_b16",
+        "doi-asserted-by": "crossref",
+        "first-page": "343",
+        "DOI": "10.1021/nl034003w",
+        "article-title": "Synthesis of p\u2013type gallium nitride nanowires for electronic and photonic nanodevices",
+        "volume": "3",
+        "author": "Zhong",
+        "year": "2003",
+        "journal-title": "Nano Lett"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.enganabound.2022.03.025_b17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1237",
+        "DOI": "10.1021/nl049477p",
+        "article-title": "Individually addressable conducting polymer nanowires array",
+        "volume": "4",
+        "author": "Ramanathan",
+        "year": "2004",
+        "journal-title": "Nano Lett"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.enganabound.2022.03.025_b18",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1016/S1369-7021(06)71650-9",
+        "article-title": "Nanowire electronic and optoelectronic devices",
+        "volume": "9",
+        "author": "Li",
+        "year": "2006",
+        "journal-title": "Mater Today"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b19",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1007/BF00261375",
+        "article-title": "A continuum theory of elastic material surfaces",
+        "volume": "57",
+        "author": "Gurtin",
+        "year": "1975",
+        "journal-title": "Arch Ration Mech An"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.enganabound.2022.03.025_b20",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/0020-7683(78)90008-2",
+        "article-title": "Surface stress in solids",
+        "volume": "14",
+        "author": "Gurtin",
+        "year": "1978",
+        "journal-title": "Int J Solids Struct"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.enganabound.2022.03.025_b21",
+        "doi-asserted-by": "crossref",
+        "first-page": "4414",
+        "DOI": "10.1063/1.322403",
+        "article-title": "Effect of surface stress on wave propagation in solids",
+        "volume": "47",
+        "author": "Gurtin",
+        "year": "1976",
+        "journal-title": "J Appl Phys"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.enganabound.2022.03.025_b22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1798",
+        "DOI": "10.1021/nl0733233",
+        "article-title": "Surface effect on the elastic behavior of static bending nanowires",
+        "volume": "8",
+        "author": "He",
+        "year": "2008",
+        "journal-title": "Nano Lett"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.enganabound.2022.03.025_b23",
+        "doi-asserted-by": "crossref",
+        "first-page": "2274",
+        "DOI": "10.1016/j.physe.2010.05.007",
+        "article-title": "Timoshenko beam model for static bending of nanowires with surface effects",
+        "volume": "42",
+        "author": "Jiang",
+        "year": "2010",
+        "journal-title": "Physica E"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.enganabound.2022.03.025_b24",
+        "doi-asserted-by": "crossref",
+        "first-page": "2050",
+        "DOI": "10.1016/j.physe.2012.06.009",
+        "article-title": "Large displacement of a static bending nanowire with surface effects",
+        "volume": "44",
+        "author": "Liu",
+        "year": "2012",
+        "journal-title": "Physica E"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b25",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1016/j.mechmat.2016.06.005",
+        "article-title": "Surface effect in the bending of nanowires",
+        "volume": "100",
+        "author": "Yao",
+        "year": "2016",
+        "journal-title": "Mech Mater"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.enganabound.2022.03.025_b26",
+        "doi-asserted-by": "crossref",
+        "first-page": "56007",
+        "DOI": "10.1209/0295-5075/91/56007",
+        "article-title": "Effect of surface stresses on the vibration and buckling of piezoelectric nanowires",
+        "volume": "91",
+        "author": "Wang",
+        "year": "2010",
+        "journal-title": "Europhys Lett"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1096",
+        "DOI": "10.1016/j.cap.2012.01.014",
+        "article-title": "Vibration analysis of piezoelectric nanowires with surface and small scale effects",
+        "volume": "12",
+        "author": "Gheshlaghi",
+        "year": "2012",
+        "journal-title": "Curr Appl Phys"
+      },
+      {
+        "issue": "24",
+        "key": "10.1016/j.enganabound.2022.03.025_b28",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1088/0957-4484/22/24/245703",
+        "article-title": "The vibrational and buckling behaviors of piezoelectric nanobeams with surface effects",
+        "volume": "22",
+        "author": "Yan",
+        "year": "2011",
+        "journal-title": "Nanotechnology"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b29",
+        "first-page": "760",
+        "article-title": "Coupling effects of nonlocal and surface energy on vibration analysis of nanobeams",
+        "volume": "224",
+        "author": "Eltaher",
+        "year": "2013",
+        "journal-title": "Appl Math Comput"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b30",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.tws.2019.106591",
+        "article-title": "On torsional vibrations of triangular nanowire",
+        "volume": "148",
+        "author": "Khosravi",
+        "year": "2020",
+        "journal-title": "Thin Walled Struct"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b31",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.enganabound.2021.11.003",
+        "article-title": "Nonlocal\u2013integro-surface energy-vibro analysis of twist in coaxially composite wire\u2013like nanostructures with internal and interfacial defects via a meshless technique",
+        "volume": "135",
+        "author": "Kiani",
+        "year": "2022",
+        "journal-title": "Eng Anal Bound Elem"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b32",
+        "doi-asserted-by": "crossref",
+        "first-page": "934",
+        "DOI": "10.1016/j.compositesb.2010.12.026",
+        "article-title": "Surface effects on nonlinear free vibration of nanobeams",
+        "volume": "42",
+        "author": "Gheshlaghi",
+        "year": "2011",
+        "journal-title": "Compos Part B\u2013Eng"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.enganabound.2022.03.025_b33",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1016/j.compositesb.2012.04.064",
+        "article-title": "Nonlinear free vibrations of functionally graded nanobeams with surface effects",
+        "volume": "45",
+        "author": "Sharabiani",
+        "year": "2013",
+        "journal-title": "Compos Part B\u2013Eng"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b34",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.compositesb.2013.03.046",
+        "article-title": "Surface and nonlocal effects on the nonlinear free vibration of non-uniform nanobeams",
+        "volume": "52",
+        "author": "Malekzadeh",
+        "year": "2013",
+        "journal-title": "Compos Part B\u2013Eng"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b35",
+        "doi-asserted-by": "crossref",
+        "first-page": "230",
+        "DOI": "10.1016/j.apm.2019.10.033",
+        "article-title": "Nonlinear vibration of buckled nanowires on a compliant substrate",
+        "volume": "79",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "Appl Math Model"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b36",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.enganabound.2021.11.003",
+        "article-title": "Nonlocal-integro-surface energy-vibro analysis of twist in coaxially composite wire\u2013like nanostructures with internal and interfacial defects via a meshless technique",
+        "volume": "135",
+        "author": "Kiani",
+        "year": "2022",
+        "journal-title": "Eng Anal Bound Elem"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b37",
+        "doi-asserted-by": "crossref",
+        "first-page": "158",
+        "DOI": "10.1016/j.compositesb.2013.12.066",
+        "article-title": "On the forced vibration analysis of Timoshenko nanobeams based on the surface stress elasticity theory",
+        "volume": "60",
+        "author": "Ansari",
+        "year": "2014",
+        "journal-title": "Compos Part B-Eng"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b38",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1016/j.tws.2015.03.013",
+        "article-title": "An exact solution for the nonlinear forced vibration of functionally graded nanobeams in thermal environment based on surface elasticity theory",
+        "volume": "93",
+        "author": "Ansari",
+        "year": "2015",
+        "journal-title": "Thin Wall Struct"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b39",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1016/j.physe.2014.04.009",
+        "article-title": "Forced vibrations of a current-carrying nanowire in a longitudinal magnetic field accounting for both surface energy and size effects",
+        "volume": "63",
+        "author": "Kiani",
+        "year": "2014",
+        "journal-title": "Physica E"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b40",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1016/j.compstruct.2014.07.026",
+        "article-title": "Surface effects on the nonlinear forced vibration response of third-order shear deformable nanobeams",
+        "volume": "118",
+        "author": "Sahmani",
+        "year": "2014",
+        "journal-title": "Compos Struct"
+      },
+      {
+        "issue": "14",
+        "key": "10.1016/j.enganabound.2022.03.025_b41",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1063/1.3117505",
+        "article-title": "Surface effects on buckling of nanowires under uniaxial compression",
+        "volume": "94",
+        "author": "Wang",
+        "year": "2009",
+        "journal-title": "Appl Phys Lett"
+      },
+      {
+        "issue": "24",
+        "key": "10.1016/j.enganabound.2022.03.025_b42",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1088/0957-4484/22/24/245703",
+        "article-title": "The vibrational and buckling behaviors of piezoelectric nanobeams with surface effects",
+        "volume": "22",
+        "author": "Yan",
+        "year": "2011",
+        "journal-title": "Nanotechnology"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.enganabound.2022.03.025_b43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1244",
+        "DOI": "10.1016/j.ijengsci.2011.01.007",
+        "article-title": "Bending behavior and buckling of nanobeams including surface stress effects corresponding to different beam theories",
+        "volume": "49",
+        "author": "Ansari",
+        "year": "2011",
+        "journal-title": "Int J Eng Sci"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b44",
+        "doi-asserted-by": "crossref",
+        "first-page": "808",
+        "DOI": "10.1016/j.physe.2011.12.006",
+        "article-title": "Surface effect on buckling configuration of nanobeams containing internal flowing fluid: A nonlinear analysis",
+        "volume": "44",
+        "author": "Wang",
+        "year": "2012",
+        "journal-title": "Physica E"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.enganabound.2022.03.025_b45",
+        "first-page": "457",
+        "article-title": "Thermo-elastic column buckling of tapered nanowires with axially varying material properties: a critical study on the roles of shear and surface energy",
+        "volume": "43",
+        "author": "Kiani",
+        "year": "2019",
+        "journal-title": "IJST-T Mech Eng"
+      },
+      {
+        "issue": "7\u20138",
+        "key": "10.1016/j.enganabound.2022.03.025_b46",
+        "doi-asserted-by": "crossref",
+        "first-page": "650",
+        "DOI": "10.1016/j.physleta.2014.01.005",
+        "article-title": "Effect of surface layer thickness on buckling and vibration of nonlocal nanowires",
+        "volume": "378",
+        "author": "Hu",
+        "year": "2014",
+        "journal-title": "Phys Lett A"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b47",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/j.physe.2012.08.005",
+        "article-title": "Bending and buckling of nanowires including the effects of surface stress and nonlocal elasticity",
+        "volume": "46",
+        "author": "Juntarasaid",
+        "year": "2012",
+        "journal-title": "Physica E"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.enganabound.2022.03.025_b48",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1063/1.3562138",
+        "article-title": "Postbuckling analysis of nanowires with surface effects",
+        "volume": "109",
+        "author": "Wang",
+        "year": "2011",
+        "journal-title": "J Appl Phys"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.enganabound.2022.03.025_b49",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1142/S1758825112500184",
+        "article-title": "Postbuckling of piezoelectric nanobeams with surface effects",
+        "volume": "4",
+        "author": "Li",
+        "year": "2012",
+        "journal-title": "Int J Appl Mech"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b50",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.ijnonlinmec.2013.04.004",
+        "article-title": "Effect of surface energy on the non-linear postbuckling behavior of nanoplates",
+        "volume": "55",
+        "author": "Wang",
+        "year": "2013",
+        "journal-title": "Int J Non-Linear Mech"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b51",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1016/j.physe.2015.01.019",
+        "article-title": "Surface effects on the post-buckling of piezoelectric nanowires",
+        "volume": "69",
+        "author": "Liang",
+        "year": "2015",
+        "journal-title": "Physica E"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b52",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1016/j.ijmecsci.2017.02.016",
+        "article-title": "Exact postbuckling analysis of highly stretchable-surface energetic-elastic nanowires with various ends conditions",
+        "volume": "124",
+        "author": "Kiani",
+        "year": "2017",
+        "journal-title": "Int J Mech Sci"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b53",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1016/j.mechrescom.2014.05.005",
+        "article-title": "Magnetically affected single-walled carbon nanotubes as nanosensors",
+        "volume": "60",
+        "author": "Kiani",
+        "year": "2014",
+        "journal-title": "Mech Res Commun"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.enganabound.2022.03.025_b54",
+        "doi-asserted-by": "crossref",
+        "first-page": "3569",
+        "DOI": "10.1007/s00707-014-1107-3",
+        "article-title": "Axial buckling analysis of vertically aligned ensembles of single-walled carbon nanotubes using nonlocal discrete and continuous models",
+        "volume": "225",
+        "author": "Kiani",
+        "year": "2014",
+        "journal-title": "Acta Mech"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b55",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/mma.7942",
+        "article-title": "A new eigenvalue problem solver for thermo-mechanical vibration of timoshenko nanobeams by an innovative nonlocal finite element method",
+        "author": "Numano\u011flu",
+        "year": "2022",
+        "journal-title": "Math Methods Appl Sci"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b56",
+        "doi-asserted-by": "crossref",
+        "first-page": "142",
+        "DOI": "10.1016/j.enganabound.2020.12.010",
+        "article-title": "Vibration analysis of 2D-functionally graded nanobeams using the nonlocal theory and meshless method",
+        "volume": "124",
+        "author": "Ahmadi",
+        "year": "2021",
+        "journal-title": "Eng Anal Bound Elem"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b57",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/j.physe.2017.06.030",
+        "article-title": "Large deformation of uniaxially loaded slender microbeams on the basis of modified couple stress theory: Analytical solution and Galerkin-based method",
+        "volume": "93",
+        "author": "Kiani",
+        "year": "2016",
+        "journal-title": "Physica E"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b58",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1016/j.enganabound.2021.03.019",
+        "article-title": "Dynamic and static isogeometric analysis for laminated Timoshenko curved microbeams",
+        "volume": "128",
+        "author": "Hu",
+        "year": "2021",
+        "journal-title": "Eng Anal Bound Elem"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.enganabound.2022.03.025_b59",
+        "doi-asserted-by": "crossref",
+        "first-page": "342",
+        "DOI": "10.1016/j.compstruct.2010.09.008",
+        "article-title": "Size effect on dynamic stability of functionally graded microbeams based on a modified couple stress theory",
+        "volume": "93",
+        "author": "Ke",
+        "year": "2011",
+        "journal-title": "Compos Struct"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b60",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.ijengsci.2013.04.004",
+        "article-title": "A size\u2013dependent shear deformation beam model based on the strain gradient elasticity theory",
+        "volume": "70",
+        "author": "Akg\u00f6z",
+        "year": "2013",
+        "journal-title": "Int J Eng Sci"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b61",
+        "doi-asserted-by": "crossref",
+        "first-page": "606",
+        "DOI": "10.1177/1077546312463752",
+        "article-title": "Longitudinal vibration analysis for microbars based on strain gradient elasticity theory",
+        "volume": "20",
+        "author": "Akg\u00f6z",
+        "year": "2014",
+        "journal-title": "J Vib Control"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b62",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1016/j.ijmecsci.2015.05.003",
+        "article-title": "A novel microstructure-dependent shear deformable beam model",
+        "volume": "99",
+        "author": "Akg\u00f6z",
+        "year": "2015",
+        "journal-title": "Int J Mech Sci"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b63",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.euromechsol.2020.103999",
+        "article-title": "Thermally induced nonlinear dynamic analysis of temperature\u2013dependent functionally graded flexoelectric nanobeams based on nonlocal simplified strain gradient elasticity theory",
+        "volume": "82",
+        "author": "Chu",
+        "year": "2020",
+        "journal-title": "Eur J Mech A Solids"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b64",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1016/j.tws.2019.01.027",
+        "article-title": "Vibration of nonlocal strain gradient beams incorporating Poisson\u2019s ratio and thickness effects",
+        "volume": "137",
+        "author": "Tang",
+        "year": "2019",
+        "journal-title": "Thin Walled Struct"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b65",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijnonlinmec.2020.103658",
+        "article-title": "A review on the statics and dynamics of electrically actuated nano and micro structures",
+        "volume": "129",
+        "author": "Khaniki",
+        "year": "2021",
+        "journal-title": "Int J Nonlin Mech"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b66",
+        "doi-asserted-by": "crossref",
+        "first-page": "348",
+        "DOI": "10.1016/j.physleta.2014.11.006",
+        "article-title": "Stability and vibrations of doubly parallel current\u2013carrying nanowires immersed in a longitudinal magnetic field",
+        "volume": "379",
+        "author": "Kiani",
+        "year": "2015",
+        "journal-title": "Phys Lett A"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b67",
+        "doi-asserted-by": "crossref",
+        "first-page": "531",
+        "DOI": "10.1016/j.matchemphys.2015.05.080",
+        "article-title": "Vibrations and instability of pretensioned current\u2013carrying nanowires acted upon by a suddenly applied three\u2013dimensional magnetic field",
+        "volume": "162",
+        "author": "Kiani",
+        "year": "2015",
+        "journal-title": "Mater Chem Phys"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b68",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1016/j.jpcs.2015.03.020",
+        "article-title": "Column buckling of magnetically affected stocky nanowires carrying electric current",
+        "volume": "83",
+        "author": "Kiani",
+        "year": "2015",
+        "journal-title": "J Phys Chem Solids"
+      },
+      {
+        "issue": "24",
+        "key": "10.1016/j.enganabound.2022.03.025_b69",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1088/0022-3727/48/24/245302",
+        "article-title": "Axial buckling analysis of a slender current\u2013carrying nanowire acted upon by a magnetic field using the surface energy approach",
+        "volume": "48",
+        "author": "Kiani",
+        "year": "2015",
+        "journal-title": "J Phys D Appl Phys"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b70",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1016/j.physe.2017.11.015",
+        "article-title": "Spatial buckling analysis of current\u2013carrying nanowires in the presence of a longitudinal magnetic field accounting for both surface and nonlocal effects",
+        "volume": "97",
+        "author": "Foroutan",
+        "year": "2018",
+        "journal-title": "Physica E"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.enganabound.2022.03.025_b71",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1140/epjp/s13360-020-00503-8",
+        "article-title": "Vibrational and stability analysis of membrane\u2013like current-carrying nanowires under action of longitudinal magnetic fields",
+        "volume": "135",
+        "author": "Kiani",
+        "year": "2020",
+        "journal-title": "Eur Phys J Plus"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b72",
+        "unstructured": "Liu\u00a0WK, Adee\u00a0J, Jun\u00a0S, Belytschko\u00a0T. Reproducing kernel particle methods for elastic and plastic problems. In: Proceedings of the 1993 ASME winter annual meeting. Publ by ASME; p. 175\u201389."
+      },
+      {
+        "issue": "8\u20139",
+        "key": "10.1016/j.enganabound.2022.03.025_b73",
+        "doi-asserted-by": "crossref",
+        "first-page": "1081",
+        "DOI": "10.1002/fld.1650200824",
+        "article-title": "Reproducing kernel particle methods",
+        "volume": "20",
+        "author": "Liu",
+        "year": "1995",
+        "journal-title": "Int J Numer Meth Fl"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.enganabound.2022.03.025_b74",
+        "doi-asserted-by": "crossref",
+        "first-page": "1655",
+        "DOI": "10.1002/nme.1620381005",
+        "article-title": "Reproducing kernel particle methods for structural dynamics",
+        "volume": "38",
+        "author": "Liu",
+        "year": "1995",
+        "journal-title": "Internat J Numer Methods Engrg"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.enganabound.2022.03.025_b75",
+        "doi-asserted-by": "crossref",
+        "first-page": "1391",
+        "DOI": "10.1002/(SICI)1097-0363(199706)24:12<1391::AID-FLD566>3.0.CO;2-2",
+        "article-title": "Multiresolution reproducing kernel particle method for computational fluid dynamics",
+        "volume": "24",
+        "author": "Liu",
+        "year": "1997",
+        "journal-title": "Int J Numer Meth Fl"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.enganabound.2022.03.025_b76",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.1007/s004660050413",
+        "article-title": "A reproducing kernel particle method for meshless analysis of microelectromechanical systems",
+        "volume": "23",
+        "author": "Aluru",
+        "year": "1999",
+        "journal-title": "Comput Mech"
+      },
+      {
+        "issue": "37\u201338",
+        "key": "10.1016/j.enganabound.2022.03.025_b77",
+        "doi-asserted-by": "crossref",
+        "first-page": "4141",
+        "DOI": "10.1016/S0045-7825(02)00358-4",
+        "article-title": "Harmonic reproducing kernel particle method for free vibration analysis of rotating cylindrical shells",
+        "volume": "191",
+        "author": "Liew",
+        "year": "2002",
+        "journal-title": "Comput Method Appl M"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.enganabound.2022.03.025_b78",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1142/S0218396X9700006X",
+        "article-title": "Multiresolution reproducing kernel particle methods in acoustics",
+        "volume": "5",
+        "author": "Uras",
+        "year": "1997",
+        "journal-title": "J Comput Acoust"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.enganabound.2022.03.025_b79",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1088/1674-1056/19/9/090204",
+        "article-title": "The complex variable reproducing kernel particle method for two\u2013dimensional elastodynamics",
+        "volume": "19",
+        "author": "Li",
+        "year": "2010",
+        "journal-title": "Chinese Phys B"
+      },
+      {
+        "key": "10.1016/j.enganabound.2022.03.025_b80",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.jpcs.2016.03.013",
+        "article-title": "Column buckling of doubly parallel slender nanowires carrying electric current acted upon by a magnetic field",
+        "volume": "95",
+        "author": "Kiani",
+        "year": "2016",
+        "journal-title": "J Phys Chem Solids"
+      },
+      {
+        "issue": "25",
+        "key": "10.1016/j.enganabound.2022.03.025_b81",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1142/S0217984915501444",
+        "article-title": "Vibrations and instability of double-nanowire-systems as electric current carriers",
+        "volume": "29",
+        "author": "Kiani",
+        "year": "2015",
+        "journal-title": "Modern Phys Lett B"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.enganabound.2022.03.025_b82",
+        "doi-asserted-by": "crossref",
+        "first-page": "3549",
+        "DOI": "10.1007/s00707-016-1679-1",
+        "article-title": "Elastic buckling of current-carrying double-nanowire systems immersed in a magnetic field",
+        "volume": "227",
+        "author": "Kiani",
+        "year": "2016",
+        "journal-title": "Acta Mech"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.enganabound.2022.03.025_b83",
+        "doi-asserted-by": "crossref",
+        "first-page": "1367",
+        "DOI": "10.1002/(SICI)1097-0207(20000320)47:8<1367::AID-NME822>3.0.CO;2-Y",
+        "article-title": "Application of essential boundary conditions in mesh-free methods: a corrected collocation method",
+        "volume": "47",
+        "author": "Wagner",
+        "year": "2000",
+        "journal-title": "Internat J Numer Methods Engrg"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.enganabound.2023.08.047",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              14
+            ]
+          ],
+          "date-time": "2023-09-14T00:00:00Z",
+          "timestamp": 1694649600000
+        },
+        "record-id": "48508"
+      },
+      {
+        "DOI": "10.1016/j.enganabound.2022.03.025",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2022-07-01T00:00:00Z",
+          "timestamp": 1656633600000
+        }
+      },
+      {
+        "DOI": "10.1016/j.enganabound.2023.08.047",
+        "type": "erratum",
+        "label": "Erratum",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2023-12-01T00:00:00Z",
+          "timestamp": 1701388800000
+        }
+      }
+    ],
+    "container-title": [
+      "Engineering Analysis with Boundary Elements"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0955799722000947?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0955799722000947?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ],
+      "date-time": "2025-10-16T16:25:13Z",
+      "timestamp": 1760631913000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0955799722000947"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "references-count": 83,
+    "alternative-id": [
+      "S0955799722000947"
+    ],
+    "URL": "https://doi.org/10.1016/j.enganabound.2022.03.025",
+    "relation": {
+      "erratum": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.enganabound.2023.08.047",
+          "asserted-by": "object"
+        }
+      ],
+      "retraction": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.enganabound.2022.03.025",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0955-7997"
+    ],
+    "issn-type": [
+      {
+        "value": "0955-7997",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "RETRACTED: Meshfree vibrational scrutiny of arbitrary placed straight triple-wire-nanosystems carrying direct electric currents using surface elasticity theory",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Engineering Analysis with Boundary Elements",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.enganabound.2022.03.025",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2022 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

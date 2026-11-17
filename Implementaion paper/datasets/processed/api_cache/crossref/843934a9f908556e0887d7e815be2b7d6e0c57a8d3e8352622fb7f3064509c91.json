@@ -1,0 +1,492 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1051/e3sconf/202453802015",
+  "url": "https://api.crossref.org/works/10.1051%2Fe3sconf%2F202453802015",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:53.666950+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2026-02-06T06:23:13Z",
+      "timestamp": 1770358993278,
+      "version": "3.49.0"
+    },
+    "reference-count": 30,
+    "publisher": "EDP Sciences",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              14
+            ]
+          ],
+          "date-time": "2024-06-14T00:00:00Z",
+          "timestamp": 1718323200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 165,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "E3S Web Conf."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "abstract": "<jats:p>See the retraction notice E3S Web of Conferences <jats:bold>538</jats:bold>, 00001 (2024), <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1051/e3sconf/202453800001\">https://doi.org/10.1051/e3sconf/202453800001</jats:ext-link></jats:p>",
+    "DOI": "10.1051/e3sconf/202453802015",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          14
+        ]
+      ],
+      "date-time": "2024-06-14T08:03:21Z",
+      "timestamp": 1718352201000
+    },
+    "page": "02015",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "RETRACTED: Foresight, innovation strategies, and technological guideline for turning a small business into a corporation"
+    ],
+    "prefix": "10.1051",
+    "volume": "538",
+    "author": [
+      {
+        "given": "Boburmirzo",
+        "family": "Khursanaliyev",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dilyorjon",
+        "family": "Solidjonov",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "250",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          14
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "R1",
+        "first-page": "122",
+        "volume": "33",
+        "author": "Ahlstrom",
+        "year": "2018",
+        "journal-title": "Journal of Business Venturing"
+      },
+      {
+        "issue": "2",
+        "key": "R2",
+        "first-page": "677",
+        "volume": "37",
+        "author": "Bharadwaj",
+        "year": "2013",
+        "journal-title": "MIS Quarterly"
+      },
+      {
+        "key": "R3",
+        "first-page": "622632",
+        "volume": "101",
+        "author": "Cao",
+        "year": "2019",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "key": "R4",
+        "unstructured": "Chesbrough H. W. (2003). Open innovation: The new imperative for creating and profiting from technology. Harvard Business School Press."
+      },
+      {
+        "key": "R5",
+        "unstructured": "Christensen C. M., Eyre R., Paine J. (2013. The innovator\u2019s DNA: Mastering the five skills of disruptive innovation. Harvard Business Review Press."
+      },
+      {
+        "key": "R6",
+        "first-page": "408",
+        "volume": "144",
+        "author": "Dahlqvist",
+        "year": "2019",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "R7",
+        "first-page": "246",
+        "volume": "102",
+        "author": "Dogan",
+        "year": "2016",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "R8",
+        "unstructured": "Foss N. J., Klein P. G. (2018). Technological innovation: Theory and practice. Oxford University Press."
+      },
+      {
+        "issue": "1",
+        "key": "R9",
+        "first-page": "122",
+        "volume": "27",
+        "author": "Lichtenthaler",
+        "year": "2018",
+        "journal-title": "Creativity and Innovation Management"
+      },
+      {
+        "key": "R10",
+        "first-page": "229",
+        "volume": "115",
+        "author": "McCarthy",
+        "year": "2017",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "issue": "11",
+        "key": "R11",
+        "first-page": "2409",
+        "volume": "38",
+        "author": "Morris",
+        "year": "2017",
+        "journal-title": "Strategic Management Journal"
+      },
+      {
+        "issue": "6",
+        "key": "R12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1029",
+        "DOI": "10.1016/j.techfore.2011.01.006",
+        "volume": "78",
+        "author": "Battistella",
+        "year": "2011",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "R13",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1016/j.techfore.2015.11.018",
+        "volume": "110",
+        "author": "Gershman",
+        "year": "2016",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "R14",
+        "doi-asserted-by": "crossref",
+        "first-page": "119966",
+        "DOI": "10.1016/j.techfore.2020.119966",
+        "volume": "154",
+        "author": "Gordon",
+        "year": "2020",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "issue": "4",
+        "key": "R15",
+        "doi-asserted-by": "crossref",
+        "first-page": "380",
+        "DOI": "10.1016/j.futures.2009.11.023",
+        "volume": "42",
+        "author": "Von Der Gracht",
+        "year": "2010",
+        "journal-title": "Futures"
+      },
+      {
+        "issue": "2",
+        "key": "R16",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.1108/14777830810856618",
+        "volume": "19",
+        "author": "Will",
+        "year": "2008",
+        "journal-title": "Management of Environmental Quality: An International Journal"
+      },
+      {
+        "issue": "5",
+        "key": "R17",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1108/FS-11-2014-0075",
+        "volume": "17",
+        "author": "Vishnevsky",
+        "year": "2015",
+        "journal-title": "Foresight"
+      },
+      {
+        "key": "R18",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1016/j.techfore.2015.10.021",
+        "volume": "110",
+        "author": "Pietrobelli",
+        "year": "2016",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "R19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Magruk A. (2011). Technological and Economic Development of Economy, (4), 700\u2013715.",
+        "DOI": "10.3846/20294913.2011.649912"
+      },
+      {
+        "issue": "2-3",
+        "key": "R20",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1002/for.855",
+        "volume": "22",
+        "author": "Havas",
+        "year": "2003",
+        "journal-title": "Journal of Forecasting"
+      },
+      {
+        "issue": "6",
+        "key": "R21",
+        "doi-asserted-by": "crossref",
+        "first-page": "718",
+        "DOI": "10.1080/09537325.2017.1351609",
+        "volume": "30",
+        "author": "Calof",
+        "year": "2018",
+        "journal-title": "Technology Analysis & Strategic Management"
+      },
+      {
+        "issue": "4",
+        "key": "R22",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.techfore.2008.02.006",
+        "volume": "75",
+        "author": "Eriksson",
+        "year": "2008",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "R23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dodgson M., Gann D. M., Salter A. (2008). The management of technological innovation: strategy and practice. Oxford university press.",
+        "DOI": "10.1093/oso/9780199208524.001.0001"
+      },
+      {
+        "key": "R24",
+        "unstructured": "Fahey L., Randall R. M. (Eds.). (1997). Learning from the future: Competitive foresight scenarios. John Wiley & Sons."
+      },
+      {
+        "issue": "11",
+        "key": "R25",
+        "doi-asserted-by": "crossref",
+        "first-page": "589",
+        "DOI": "10.1016/S0166-4972(00)00006-7",
+        "volume": "20",
+        "author": "Major",
+        "year": "2000",
+        "journal-title": "Technovation"
+      },
+      {
+        "issue": "6",
+        "key": "R26",
+        "doi-asserted-by": "crossref",
+        "first-page": "817",
+        "DOI": "10.1016/j.techfore.2008.03.004",
+        "volume": "75",
+        "author": "Roveda",
+        "year": "2008",
+        "journal-title": "Technological forecasting and social change"
+      },
+      {
+        "issue": "6",
+        "key": "R27",
+        "doi-asserted-by": "crossref",
+        "first-page": "817",
+        "DOI": "10.1016/j.techfore.2008.03.004",
+        "volume": "75",
+        "author": "Roveda",
+        "year": "2008",
+        "journal-title": "Technological forecasting and social change"
+      },
+      {
+        "issue": "2",
+        "key": "R28",
+        "doi-asserted-by": "crossref",
+        "first-page": "820",
+        "DOI": "10.5465/amp.2018.0178",
+        "volume": "36",
+        "author": "Fergnani",
+        "year": "2022",
+        "journal-title": "Academy of Management Perspectives"
+      },
+      {
+        "issue": "8",
+        "key": "R29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1593",
+        "DOI": "10.1016/j.techfore.2013.01.004",
+        "volume": "80",
+        "author": "Rohrbeck",
+        "year": "2013",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "issue": "2",
+        "key": "R30",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1080/09537329508524202",
+        "volume": "7",
+        "author": "Martin",
+        "year": "1995",
+        "journal-title": "Technology analysis & strategic management"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1051/e3sconf/202453800001",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              6
+            ]
+          ],
+          "date-time": "2025-01-06T00:00:00Z",
+          "timestamp": 1736121600000
+        },
+        "record-id": "68104"
+      }
+    ],
+    "container-title": [
+      "E3S Web of Conferences"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.e3s-conferences.org/10.1051/e3sconf/202453802015/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          3
+        ]
+      ],
+      "date-time": "2025-01-03T19:48:16Z",
+      "timestamp": 1735933696000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.e3s-conferences.org/10.1051/e3sconf/202453802015"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "S.",
+        "family": "Yekimov",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "I.",
+        "family": "Sazonets",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 30,
+    "alternative-id": [
+      "e3sconf_ipfa2024_02015"
+    ],
+    "URL": "https://doi.org/10.1051/e3sconf/202453802015",
+    "relation": {},
+    "ISSN": [
+      "2267-1242"
+    ],
+    "issn-type": [
+      {
+        "value": "2267-1242",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  }
+}

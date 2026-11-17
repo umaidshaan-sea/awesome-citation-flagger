@@ -1,0 +1,771 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s11042-020-08768-y",
+  "url": "https://api.crossref.org/works/10.1007%2Fs11042-020-08768-y",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:24.465244+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2026-06-18T13:44:25Z",
+      "timestamp": 1781790265762,
+      "version": "3.54.5"
+    },
+    "reference-count": 44,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "45-46",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              16
+            ]
+          ],
+          "date-time": "2020-03-16T00:00:00Z",
+          "timestamp": 1584316800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              16
+            ]
+          ],
+          "date-time": "2020-03-16T00:00:00Z",
+          "timestamp": 1584316800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Multimed Tools Appl"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11042-020-08768-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2020-03-16T06:05:53Z",
+      "timestamp": 1584338753000
+    },
+    "page": "34545-34568",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 45,
+    "title": [
+      "RETRACTED ARTICLE: Computer-aided diagnosis for burnt skin images using deep convolutional neural network"
+    ],
+    "prefix": "10.1007",
+    "volume": "79",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9130-1874",
+        "authenticated-orcid": false,
+        "given": "Fakhri Alam",
+        "family": "Khan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ateeq Ur Rehman",
+        "family": "Butt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad",
+        "family": "Asif",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Waqar",
+        "family": "Ahmad",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad",
+        "family": "Nawaz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mona",
+        "family": "Jamjoom",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eatedal",
+        "family": "Alabdulkreem",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "8768_CR1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Agarwal S, Verma A, Singh P (2013) Content based image retrieval using discrete wavelet transform and edge histogram descriptor In: Information Systems and Computer Networks (ISCON), International Conference on 2013, p 19\u201323. Accessed 15 Mar 2019",
+        "DOI": "10.1109/ICISCON.2013.6524166"
+      },
+      {
+        "key": "8768_CR2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Agarwal A, Issac A, Dutta MK, Riha K, Uher V (2017) Automated skin lesion segmentation using K-Means clustering from digital dermoscopic images. In: Telecommunications and Signal Processing (TSP), 40th International Conference on 2017, p 743\u2013748. Accessed 17 Mar 2019",
+        "DOI": "10.1109/TSP.2017.8076087"
+      },
+      {
+        "key": "8768_CR3",
+        "unstructured": "Aslam M, Niazi MZ, Khan I (2017) Epidemiology of Paediatric burns at Lady Reading hospital Peshawar. Pak J Surg 33:87\u201391. Accessed 15 Mar 2019"
+      },
+      {
+        "key": "8768_CR4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Badea M-S, Vertan C, Florea C, Florea L, B\u0103doiu S (2016) Automatic burn area identification in color images. In: Communications (COMM), International Conference on 2016, p 65\u201368",
+        "DOI": "10.1109/ICComm.2016.7528325"
+      },
+      {
+        "key": "8768_CR5",
+        "unstructured": "Baig-Ansari N (2016) Severity of burn and its related factors: a study from the developing country Pakistan"
+      },
+      {
+        "key": "8768_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "206",
+        "DOI": "10.1504/IJART.2017.086669",
+        "volume": "10",
+        "author": "B Batagelj",
+        "year": "2017",
+        "unstructured": "Batagelj B, Solina F (2017) Preservation of an interactive computer-based art installation-a case study. Int J Arts Technol 10:206\u2013230",
+        "journal-title": "Int J Arts Technol"
+      },
+      {
+        "key": "8768_CR7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bosch A, Zisserman A, Munoz X (2007) Representing shape with a spatial pyramid kernel. In: Proceedings of the 6th ACM international conference on Image and video retrieval, p 401\u2013408",
+        "DOI": "10.1145/1282280.1282340"
+      },
+      {
+        "key": "8768_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Butt, A. U. R., Ahmad, W., Ashraf, R., Asif, M., & Cheema, S. A. (2019, July). Computer Aided Diagnosis (CAD) for Segmentation and Classification of Burnt Human skin. In 2019 International Conference on Electrical, Communication, and Computer Engineering (ICECCE) (pp. 1\u20135). IEEE. Accessed 13 Oct 2019",
+        "DOI": "10.1109/ICECCE47252.2019.8940758"
+      },
+      {
+        "key": "8768_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "118",
+        "DOI": "10.1016/j.burns.2014.05.002",
+        "volume": "41",
+        "author": "MA Calin",
+        "year": "2015",
+        "unstructured": "Calin MA, Parasca SV, Savastru R, Manea D (2015) Characterization of burns using hyperspectral imaging technique\u2013a preliminary study. Burns 41:118\u2013124",
+        "journal-title": "Burns"
+      },
+      {
+        "key": "8768_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1051",
+        "DOI": "10.1002/jemt.22900",
+        "volume": "80",
+        "author": "S Chakraborty",
+        "year": "2017",
+        "unstructured": "Chakraborty S, Chatterjee S, Dey N, Ashour AS, Ashour AS, Shi F, Mali K (2017) Modified cuckoo search algorithm in microscopic image segmentation of hippocampus. Microsc Res Tech 80:1051\u20131072",
+        "journal-title": "Microsc Res Tech"
+      },
+      {
+        "key": "8768_CR11",
+        "unstructured": "Deepak L, Antony J, Niranjan UC (2012) Hardware Co-Simulation of skin burn image analysis. In: 19th IEEE International Conference in High Performance Computing (HiPC-2012): Student Research Symposium. Pune, India"
+      },
+      {
+        "key": "8768_CR12",
+        "first-page": "041002",
+        "volume": "1",
+        "author": "H Ding",
+        "year": "2018",
+        "unstructured": "Ding H, Chang RC (2018) Hyperspectral imaging with burn contour extraction for burn wound depth assessment. J Eng Sci Med Diagn Ther 1:041002",
+        "journal-title": "J Eng Sci Med Diagn Ther"
+      },
+      {
+        "key": "8768_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "407",
+        "DOI": "10.1016/j.asoc.2013.10.003",
+        "volume": "14",
+        "author": "ME ElAlami",
+        "year": "2014",
+        "unstructured": "ElAlami ME (2014) A new matching strategy for content based image retrieval system. Appl Soft Comput 14:407\u2013418",
+        "journal-title": "Appl Soft Comput"
+      },
+      {
+        "key": "8768_CR14",
+        "unstructured": "Gupta G (2014) Introduction to data mining with case studies. PHI learning Pvt. Ltd."
+      },
+      {
+        "key": "8768_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1529",
+        "DOI": "10.1016/j.jid.2018.01.028",
+        "volume": "138",
+        "author": "SS Han",
+        "year": "2018",
+        "unstructured": "Han SS, Kim MS, Lim W, Park GH, Park I, Chang SE (2018) Classification of the clinical images for benign and malignant cutaneous tumors using a deep learning algorithm. J Investig Dermatol 138:1529\u20131538",
+        "journal-title": "J Investig Dermatol"
+      },
+      {
+        "key": "8768_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1001923",
+        "DOI": "10.1371/journal.pmed.1001923",
+        "volume": "12",
+        "author": "AH Havelaar",
+        "year": "2015",
+        "unstructured": "Havelaar AH, Kirk MD, Torgerson PR, Gibb HJ, Hald T, Lake RJ et al (2015) World Health Organization global estimates and regional comparisons of the burden of foodborne disease in 2010. PLoS Med 12:e1001923",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "8768_CR17",
+        "unstructured": "Haynes HJG (2017) Fire loss in the United States during 2014. Available: https://www.nfpa.org/Nfpa (National Fire Protection Association)"
+      },
+      {
+        "key": "8768_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "405",
+        "DOI": "10.1016/j.burns.2017.08.020",
+        "volume": "44",
+        "author": "SN Jan",
+        "year": "2018",
+        "unstructured": "Jan SN, Khan FA, Bashir MM, Nasir M, Ansari HH, Shami HB, Nazir U, Hanif A, Sohail M (2018) Comparison of laser Doppler imaging (LDI) and clinical assessment in differentiating between superficial and deep partial thickness burn wounds. Burns 44:405\u2013413",
+        "journal-title": "Burns"
+      },
+      {
+        "key": "8768_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "448",
+        "DOI": "10.1049/iet-ipr.2015.0385",
+        "volume": "10",
+        "author": "R Kasmi",
+        "year": "2016",
+        "unstructured": "Kasmi R, Mokrani K (2016) Classification of malignant melanoma and benign skin lesions: implementation of automatic ABCD rule. IET Image Process 10:448\u2013455",
+        "journal-title": "IET Image Process"
+      },
+      {
+        "key": "8768_CR20",
+        "first-page": "15",
+        "volume": "9",
+        "author": "P Kuan",
+        "year": "2017",
+        "unstructured": "Kuan P, Chua S, Safawi E, Wang H, Tiong W (2017) A comparative study of the classification of skin burn depth in human. J Telecommun Electron Comput Eng (JTEC) 9:15\u201323",
+        "journal-title": "J Telecommun Electron Comput Eng (JTEC)"
+      },
+      {
+        "key": "8768_CR21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kumar AS, Singh A (2016) Image processing for recognition of skin diseases. Int J Comput Appl (0975\u20138887) 149",
+        "DOI": "10.5120/ijca2016911373"
+      },
+      {
+        "key": "8768_CR22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Machhale K, Nandpuru HB, Kapur V, Kosta L (2015) MRI brain cancer classification using hybrid classifier (SVM-KNN). In: 2015 International Conference on Industrial Instrumentation and Control (ICIC), p 60\u201365",
+        "DOI": "10.1109/IIC.2015.7150592"
+      },
+      {
+        "key": "8768_CR23",
+        "unstructured": "Manu B (2016) Brain MRI tumor detection and classification. MathWorks\u00ae, File Exchange: https://www.mathworks.com/matlabcentral/fileexchange/55107-brain-mri-tumor-detection-and-classification"
+      },
+      {
+        "key": "8768_CR24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Moussa R, Gerges F, Salem C, Akiki R, Falou O, Azar D (2016) Computer-aided detection of Melanoma using geometric features. In: Biomedical Engineering (MECBME), 3rd Middle East Conference on 2016, p 125\u2013128",
+        "DOI": "10.1109/MECBME.2016.7745423"
+      },
+      {
+        "key": "8768_CR25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mukherjee R, Manohar DD, Das DK, Achar A, Mitra A, Chakraborty C (2014) Automated tissue classification framework for reproducible chronic wound assessment. BioMed Res Int 2014",
+        "DOI": "10.1155/2014/851582"
+      },
+      {
+        "key": "8768_CR26",
+        "unstructured": "Poon CS (2016) Early assessment of burn severity in human tissue with multi-wavelength spatial frequency domain imaging"
+      },
+      {
+        "key": "8768_CR27",
+        "unstructured": "Sabeena B, Rajkumar P Diagnosis and detection of automatic skin burn area color images identification of burn area depth in color images"
+      },
+      {
+        "key": "8768_CR28",
+        "first-page": "13",
+        "volume": "1",
+        "author": "S Sawakare",
+        "year": "2014",
+        "unstructured": "Sawakare S, Chaudhari D (2014) Classification of brain tumor using discrete wavelet transform, principal component analysis and probabilistic neural network. Int J Res Emerg Sci Technol 1:13\u201319",
+        "journal-title": "Int J Res Emerg Sci Technol"
+      },
+      {
+        "key": "8768_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "275",
+        "DOI": "10.1016/j.burns.2004.11.019",
+        "volume": "31",
+        "author": "C Serrano",
+        "year": "2005",
+        "unstructured": "Serrano C, Acha B, G\u00f3mez-C\u00eda T, Acha JI, Roa LM (2005) A computer assisted diagnosis tool for the classification of burns by depth of injury. Burns 31:275\u2013281",
+        "journal-title": "Burns"
+      },
+      {
+        "key": "8768_CR30",
+        "first-page": "64",
+        "volume": "33",
+        "author": "HU Shah",
+        "year": "2017",
+        "unstructured": "Shah HU, Gul H, Khan MM, Khan R (2017) Outcome of second-degree burns in paediatric patients: efficacy of antibiotic coating dressing. Pak J Surg 33:64\u201369",
+        "journal-title": "Pak J Surg"
+      },
+      {
+        "key": "8768_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "1369",
+        "DOI": "10.1016/j.burns.2016.03.012",
+        "volume": "42",
+        "author": "JY Shin",
+        "year": "2016",
+        "unstructured": "Shin JY, Yi HS (2016) Diagnostic accuracy of laser Doppler imaging in burn depth assessment: Systematic review and meta-analysis. Burns 42:1369\u20131376",
+        "journal-title": "Burns"
+      },
+      {
+        "key": "8768_CR32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Singh N, Kaur P (2017) Comprehensive review of techniques used to detect skin lesion. In Convergence in Technology (I2CT), 2nd International Conference for 2017, p 100\u2013105",
+        "DOI": "10.1109/I2CT.2017.8226102"
+      },
+      {
+        "key": "8768_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "DOI": "10.1016/j.burns.2016.08.013",
+        "volume": "43",
+        "author": "C Smolle",
+        "year": "2017",
+        "unstructured": "Smolle C, Cambiaso-Daniel J, Forbes AA, Wurzer P, Hundeshagen G, Branski LK, Huss F, Kamolz LP (2017) Recent trends in burn epidemiology worldwide: a systematic review. Burns 43:249\u2013257",
+        "journal-title": "Burns"
+      },
+      {
+        "key": "8768_CR34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Soumya R, Neethu S, Niju T, Renjini A, Aneesh R (2016) Advanced earlier melanoma detection algorithm using colour correlogram. In: Communication Systems and Networks (ComNet), International Conference on 2016, p 190\u2013194",
+        "DOI": "10.1109/CSN.2016.7824012"
+      },
+      {
+        "key": "8768_CR35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sutojo T, Tirajani PS, Sari CA, Rachmawanto EH (2017) CBIR for classification of cow types using GLCM and color features extraction. In: Information Technology, Information Systems and Electrical Engineering (ICITISEE), 2nd International conferences on 2017, p 182\u2013187",
+        "DOI": "10.1109/ICITISEE.2017.8285491"
+      },
+      {
+        "key": "8768_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.24297/ijct.v5i2.3530",
+        "volume": "5",
+        "author": "M Suvarna",
+        "year": "2013",
+        "unstructured": "Suvarna M, Niranjan U (2013) Classification methods of skin burn images. Int J Comput Sci Inform Technol 5:109",
+        "journal-title": "Int J Comput Sci Inform Technol"
+      },
+      {
+        "key": "8768_CR37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tran H, Le T, Le T, Nguyen T (2015) Burn image classification using one-class support vector machine. In: ICCASA, p 233\u2013242",
+        "DOI": "10.1007/978-3-319-29236-6_23"
+      },
+      {
+        "key": "8768_CR38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "ur Rehman M, Khan SH, Rizvi SD, Abbas Z, Zafar A (2018) Classification of skin lesion by interference of segmentation and convolotion neural network. In: 2018 2nd International Conference on Engineering Innovation (ICEI), p 81\u201385",
+        "DOI": "10.1109/ICEI18.2018.8448814"
+      },
+      {
+        "key": "8768_CR39",
+        "unstructured": "W. H. Organization (2017) Violence and Injury Prevention on Burns. Available: http://www.who.int/violence_injury_prevention/other_injury/burns/en/"
+      },
+      {
+        "key": "8768_CR40",
+        "unstructured": "W. H. Organization (2018) Face sheet on burns. Available: http://www.who.int/mediacentre/factsheets/fs365/en/"
+      },
+      {
+        "key": "8768_CR41",
+        "unstructured": "W. H. Organization. Burns Geneva CH. Available: URL: http://www.who.int/mediacentr/factsheets/fs365/en/"
+      },
+      {
+        "key": "8768_CR42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wada D, Monnai Y, Yamaguchi Y, Kato S, Tanaka T (2017) Evaluation method of burn therapy effect by skin transplant based on image processing. In: Society of Instrument and Control Engineers of Japan (SICE), 56th Annual Conference of the 2017, p 483\u2013486. Accessed 13 Nov 2018",
+        "DOI": "10.23919/SICE.2017.8105626"
+      },
+      {
+        "key": "8768_CR43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wantanajittikul K, Auephanwiriyakul S, Theera-Umpon N, Koanantakool T (2012) Automatic segmentation and degree identification in burn color images. In: The 4th 2011 Biomedical Engineering International Conference, p 169\u2013173",
+        "DOI": "10.1109/BMEiCon.2012.6172044"
+      },
+      {
+        "key": "8768_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.2528/PIER12061410",
+        "volume": "130",
+        "author": "Y Zhang",
+        "year": "2012",
+        "unstructured": "Zhang Y, Wu L (2012) An MR brain images classifier via principal component analysis and kernel support vector machine. Prog Electromagn Res 130:369\u2013389",
+        "journal-title": "Prog Electromagn Res"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1007/s11042-022-13626-0",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              10
+            ]
+          ],
+          "date-time": "2022-08-10T00:00:00Z",
+          "timestamp": 1660089600000
+        }
+      },
+      {
+        "DOI": "10.1007/s11042-026-21583-1",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2026-04-12T00:00:00Z",
+          "timestamp": 1775952000000
+        }
+      }
+    ],
+    "container-title": [
+      "Multimedia Tools and Applications"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11042-020-08768-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11042-020-08768-y",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11042-020-08768-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2026-04-12T13:30:00Z",
+      "timestamp": 1776000600000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11042-020-08768-y"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "45-46",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "8768"
+    ],
+    "URL": "https://doi.org/10.1007/s11042-020-08768-y",
+    "relation": {},
+    "ISSN": [
+      "1380-7501",
+      "1573-7721"
+    ],
+    "issn-type": [
+      {
+        "value": "1380-7501",
+        "type": "print"
+      },
+      {
+        "value": "1573-7721",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "12 September 2019",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 January 2020",
+        "order": 2,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "17 February 2020",
+        "order": 3,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "16 March 2020",
+        "order": 4,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "10 August 2022",
+        "order": 6,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 7,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "A Correction to this paper has been published:",
+        "order": 8,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s11042-022-13626-0",
+        "URL": "https://doi.org/10.1007/s11042-022-13626-0",
+        "order": 9,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 April 2026",
+        "order": 10,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 11,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This article has been retracted. Please see the Retraction Notice for more detail:",
+        "order": 12,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s11042-026-21583-1",
+        "URL": "https://doi.org/10.1007/s11042-026-21583-1",
+        "order": 13,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ]
+  }
+}

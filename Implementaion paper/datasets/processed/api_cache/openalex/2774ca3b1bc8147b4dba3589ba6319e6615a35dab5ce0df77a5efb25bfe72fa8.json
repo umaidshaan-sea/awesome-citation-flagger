@@ -1,0 +1,348 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1109/icebeg.2011.5885332",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1109%2Ficebeg.2011.5885332",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:56.414128+00:00",
+  "record": {
+    "id": "https://openalex.org/W1543649494",
+    "doi": "https://doi.org/10.1109/icebeg.2011.5885332",
+    "title": "Notice of Retraction: The explanation of family constitution based on theory of knowlege: A sample of Lee Kum Kee family",
+    "display_name": "Notice of Retraction: The explanation of family constitution based on theory of knowlege: A sample of Lee Kum Kee family",
+    "publication_year": 2011,
+    "publication_date": "2011-05-01",
+    "ids": {
+      "openalex": "https://openalex.org/W1543649494",
+      "doi": "https://doi.org/10.1109/icebeg.2011.5885332",
+      "mag": "1543649494"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1109/icebeg.2011.5885332",
+      "doi": "https://doi.org/10.1109/icebeg.2011.5885332",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/icebeg.2011.5885332",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306419361",
+        "display_name": "International Conference on E-Business and E-Government",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "conference"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2011 International Conference on E-Business and E-Government (ICEE)",
+      "raw_type": "proceedings-article"
+    },
+    "volume": null,
+    "type": "conference-paper",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5054354932",
+          "display_name": "Zhu Jian An",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I76130692",
+            "display_name": "Zhejiang University",
+            "ror": "https://ror.org/00a2xv884",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Zhu Jian An",
+        "raw_affiliation_strings": [
+          "City College, School of Economics, University of Zhejiang, Hangzhou, China",
+          "City College, Zhejiang University, School of Economics, Zhejiang University, Hangzhou, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "City College, School of Economics, University of Zhejiang, Hangzhou, China",
+            "institution_ids": [
+              "https://openalex.org/I76130692"
+            ]
+          },
+          {
+            "raw_affiliation_string": "City College, Zhejiang University, School of Economics, Zhejiang University, Hangzhou, China",
+            "institution_ids": [
+              "https://openalex.org/I76130692"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5054354932"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I76130692"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.09788254,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "1",
+      "last_page": "4"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11843",
+      "display_name": "Family Business Performance and Succession",
+      "score": 0.9771000146865845,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11843",
+        "display_name": "Family Business Performance and Succession",
+        "score": 0.9771000146865845,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12815",
+        "display_name": "Management and Organizational Practices",
+        "score": 0.0026000000070780516,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1408",
+          "display_name": "Strategy and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10893",
+        "display_name": "Chinese history and philosophy",
+        "score": 0.0012000000569969416,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/family-constitution",
+        "display_name": "family constitution",
+        "score": 0.9620000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/epistemology",
+        "display_name": "epistemology",
+        "score": 0.7329999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/family-governance",
+        "display_name": "family governance",
+        "score": 0.5550000071525574
+      },
+      {
+        "id": "https://openalex.org/keywords/retraction",
+        "display_name": "retraction",
+        "score": 0.48399999737739563
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779913896",
+        "wikidata": "https://www.wikidata.org/wiki/Q7063001",
+        "display_name": "Notice",
+        "level": 2,
+        "score": 0.9484394788742065
+      },
+      {
+        "id": "https://openalex.org/C2776154427",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755",
+        "display_name": "Constitution",
+        "level": 2,
+        "score": 0.822547435760498
+      },
+      {
+        "id": "https://openalex.org/C198531522",
+        "wikidata": "https://www.wikidata.org/wiki/Q485146",
+        "display_name": "Sample (material)",
+        "level": 2,
+        "score": 0.6394808292388916
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.3762173056602478
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.3354607820510864
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.2660636901855469
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.12060782313346863
+      },
+      {
+        "id": "https://openalex.org/C43617362",
+        "wikidata": "https://www.wikidata.org/wiki/Q170050",
+        "display_name": "Chromatography",
+        "level": 1,
+        "score": 0.06863558292388916
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1109/icebeg.2011.5885332",
+        "doi": "https://doi.org/10.1109/icebeg.2011.5885332",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/icebeg.2011.5885332",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306419361",
+          "display_name": "International Conference on E-Business and E-Government",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2011 International Conference on E-Business and E-Government (ICEE)",
+        "raw_type": "proceedings-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W1503322731",
+      "https://openalex.org/W1486545291",
+      "https://openalex.org/W1525320005",
+      "https://openalex.org/W1861360869",
+      "https://openalex.org/W2158735962",
+      "https://openalex.org/W1900457883",
+      "https://openalex.org/W1915259805",
+      "https://openalex.org/W1523611822",
+      "https://openalex.org/W1507213439"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2026-10-26T11:51:55.731654",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

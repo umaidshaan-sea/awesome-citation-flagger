@@ -1,0 +1,790 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s11192-021-04097-5",
+  "url": "https://api.crossref.org/works/10.1007%2Fs11192-021-04097-5",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:02.765789+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2026-05-16T07:40:02Z",
+      "timestamp": 1778917202697,
+      "version": "3.51.4"
+    },
+    "reference-count": 54,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              5
+            ]
+          ],
+          "date-time": "2021-08-05T00:00:00Z",
+          "timestamp": 1628121600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              5
+            ]
+          ],
+          "date-time": "2021-08-05T00:00:00Z",
+          "timestamp": 1628121600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Alma Mater Studiorum - Universit\u00e0 di Bologna"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Scientometrics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>In this article, we show the results of a quantitative and qualitative analysis of open citations on a popular and highly cited retracted paper: \u201cIleal-lymphoid-nodular hyperplasia, non-specific colitis and pervasive developmental disorder in children\u201d by Wakefield et al<jats:italic>.</jats:italic>, published in 1998. The main purpose of our study is to understand the behavior of the publications citing one retracted article and the characteristics of the citations the retracted article accumulated over time. Our analysis is based on a methodology which illustrates how we gathered the data, extracted the topics of the citing articles and visualized the results. The data and services used are all open and free to foster the reproducibility of the analysis. The outcomes concerned the analysis of the entities citing Wakefield et al<jats:italic>.</jats:italic>\u2019s article and their related in-text citations. We observed a constant increasing number of citations in the last 20\u00a0years, accompanied with a constant increment in the percentage of those acknowledging its retraction. Citing articles have started either discussing or dealing with the retraction of Wakefield et al<jats:italic>.</jats:italic>\u2019s article even before its full retraction happened in 2010. Articles in the social sciences domain citing the Wakefield et al<jats:italic>.</jats:italic>\u2019s one were among those that have mostly discussed its retraction. In addition, when observing the in-text citations, we noticed that a large number of the citations received by Wakefield et al<jats:italic>.</jats:italic>\u2019s article has focused on general discussions without recalling strictly medical details, especially after the full retraction. Medical studies did not hesitate in acknowledging the retraction of the Wakefield et al<jats:italic>.</jats:italic>\u2019s article and often provided strong negative statements on it.</jats:p>",
+    "DOI": "10.1007/s11192-021-04097-5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          5
+        ]
+      ],
+      "date-time": "2021-08-05T04:02:24Z",
+      "timestamp": 1628136144000
+    },
+    "page": "8433-8470",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "title": [
+      "A qualitative and quantitative analysis of open citations to retracted articles: the Wakefield 1998 et al.'s case"
+    ],
+    "prefix": "10.1007",
+    "volume": "126",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5366-5194",
+        "authenticated-orcid": false,
+        "given": "Ivan",
+        "family": "Heibi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0530-4305",
+        "authenticated-orcid": false,
+        "given": "Silvio",
+        "family": "Peroni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "9",
+        "key": "4097_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1552",
+        "DOI": "10.1016/j.respol.2017.07.003",
+        "volume": "46",
+        "author": "P Azoulay",
+        "year": "2017",
+        "unstructured": "Azoulay, P., Bonatti, A., & Krieger, J. L. (2017). The career effects of scandal: Evidence from scientific retractions. Research Policy, 46(9), 1552\u20131569. https://doi.org/10.1016/j.respol.2017.07.003",
+        "journal-title": "Research Policy"
+      },
+      {
+        "key": "4097_CR4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Barbour, V., Kleinert, S., Wager, E., & Yentis, S. (2009). Guidelines for retracting articles. Committee on Publication Ethics. https://doi.org/10.24318/cope.2019.1.4",
+        "DOI": "10.24318/cope.2019.1.4"
+      },
+      {
+        "issue": "1",
+        "key": "4097_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "547",
+        "DOI": "10.1007/s11192-017-2242-0",
+        "volume": "113",
+        "author": "J Bar-Ilan",
+        "year": "2017",
+        "unstructured": "Bar-Ilan, J., & Halevi, G. (2017). Post retraction citations in context: A case study. Scientometrics, 113(1), 547\u2013565. https://doi.org/10.1007/s11192-017-2242-0",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "issue": "3",
+        "key": "4097_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1771",
+        "DOI": "10.1007/s11192-018-2802-y",
+        "volume": "116",
+        "author": "J Bar-Ilan",
+        "year": "2018",
+        "unstructured": "Bar-Ilan, J., & Halevi, G. (2018). Temporal characteristics of retracted articles. Scientometrics, 116(3), 1771\u20131783. https://doi.org/10.1007/s11192-018-2802-y",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "4097_CR7",
+        "unstructured": "Bengfort, B., Bilbro, R., & Ojeda, T. (2018). Applied text analysis with Python: Enabling language-aware data products with machine learning (First edition). O\u2019Reilly Media, Inc."
+      },
+      {
+        "issue": "5",
+        "key": "4097_CR8",
+        "first-page": "34",
+        "volume": "284",
+        "author": "T Berners-Lee",
+        "year": "2001",
+        "unstructured": "Berners-Lee, T., Hendler, J., & Lassila, O. (2001). The Semantic Web. Scientific American, 284(5), 34\u201343.",
+        "journal-title": "The Semantic Web. Scientific American"
+      },
+      {
+        "key": "4097_CR9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bizer, C., Heath, T., & Berners-Lee, T. (2011). Linked data: The story so far. In\u00a0Semantic services, interoperability and web applications: emerging concepts\u00a0(pp. 205\u2013227). IGI global. https://doi.org/10.4018/jswis.2009081901",
+        "DOI": "10.4018/jswis.2009081901"
+      },
+      {
+        "key": "4097_CR10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08989621.2021.1886933",
+        "author": "MJ Bolland",
+        "year": "2021",
+        "unstructured": "Bolland, M. J., Grey, A., & Avenell, A. (2021). Citation of retracted publications: A challenging problem. Accountability in Research. https://doi.org/10.1080/08989621.2021.1886933",
+        "journal-title": "Accountability in Research"
+      },
+      {
+        "key": "4097_CR11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11192-020-03536-z",
+        "author": "F Bordignon",
+        "year": "2020",
+        "unstructured": "Bordignon, F. (2020). Self-correction of science: A comparative study of negative citations and post-publication peer review. Scientometrics. https://doi.org/10.1007/s11192-020-03536-z",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "4097_CR12",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bornemann-Cimenti, H., Szilagyi, I. S., & Sandner-Kiesling, A. (2016). Perpetuation of Retracted Publications Using the Example of the Scott S. Reuben Case: Incidences, Reasons and Possible Improvements. Science and Engineering Ethics, 22(4), 1063\u20131072. https://doi.org/10.1007/s11948-015-9680-y",
+        "DOI": "10.1007/s11948-015-9680-y"
+      },
+      {
+        "issue": "1",
+        "key": "4097_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "45",
+        "DOI": "10.1108/00220410810844150",
+        "volume": "64",
+        "author": "L Bornmann",
+        "year": "2008",
+        "unstructured": "Bornmann, L., & Daniel, H. (2008). What do citation counts measure? A review of studies on citing behavior. Journal of Documentation, 64(1), 45\u201380. https://doi.org/10.1108/00220410810844150",
+        "journal-title": "Journal of Documentation"
+      },
+      {
+        "issue": "2",
+        "key": "4097_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1051",
+        "DOI": "10.1007/s11192-019-03326-2",
+        "volume": "122",
+        "author": "L Bornmann",
+        "year": "2020",
+        "unstructured": "Bornmann, L., Wray, K. B., & Haunschild, R. (2020). Citation concept analysis (CCA): A new form of citation analysis revealing the usefulness of concepts for other researchers illustrated by exemplary case studies including classic books by Thomas S. Kuhn and Karl r. Popper. Scientometrics, 122(2), 1051\u20131074. https://doi.org/10.1007/s11192-019-03326-2",
+        "journal-title": "Kuhn and Karl r. Popper. Scientometrics"
+      },
+      {
+        "issue": "2",
+        "key": "4097_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "334",
+        "DOI": "10.1002/asi.22968",
+        "volume": "65",
+        "author": "C Chen",
+        "year": "2014",
+        "unstructured": "Chen, C., & Leydesdorff, L. (2014). Patterns of connections and movements in dual-map overlays: A new method of publication portfolio analysis. Journal of the Association for Information Science and Technology, 65(2), 334\u2013351. https://doi.org/10.1002/asi.22968",
+        "journal-title": "Journal of the Association for Information Science and Technology"
+      },
+      {
+        "issue": "2",
+        "key": "4097_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "234",
+        "DOI": "10.1002/asi.22755",
+        "volume": "64",
+        "author": "C Chen",
+        "year": "2013",
+        "unstructured": "Chen, C., Hu, Z., Milbank, J., & Schultz, T. (2013). A visual analytic study of retracted articles in scientific literature. Journal of the American Society for Information Science and Technology, 64(2), 234\u2013253. https://doi.org/10.1002/asi.22755",
+        "journal-title": "Journal of the American Society for Information Science and Technology"
+      },
+      {
+        "key": "4097_CR17",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Chuang, J., Manning, C. D., & Heer, J. (2012). Termite: Visualization techniques for assessing textual topic models. Proceedings of the International Working Conference on Advanced Visual Interfaces - AVI \u201912, 74. https://doi.org/10.1145/2254556.2254572",
+        "DOI": "10.1145/2254556.2254572"
+      },
+      {
+        "key": "4097_CR1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Crothers, C., Bornmann, L., & Haunschild, R. (2020). Citation concept analysis (CCA) of Robert K. Merton's book \"Social theory and social structure\": How often are certain concepts from the book cited in subsequent publications? Quantitative Science Studies, 1\u201329.\u00a0https://doi.org/10.1162/qss_a_00029",
+        "DOI": "10.1162/qss_a_00029"
+      },
+      {
+        "issue": "7",
+        "key": "4097_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "E385",
+        "DOI": "10.1503/cmaj.109-3827",
+        "volume": "183",
+        "author": "R Collier",
+        "year": "2011",
+        "unstructured": "Collier, R. (2011). Shedding light on retractions. Canadian Medical Association Journal, 183(7), E385\u2013E386. https://doi.org/10.1503/cmaj.109-3827",
+        "journal-title": "Canadian Medical Association Journal"
+      },
+      {
+        "key": "4097_CR19",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Daquino, M., Peroni, S., Shotton, D., Colavizza, G., Ghavimi, B., Lauscher, A., ... & Zumstein, P. (2020). The OpenCitations data model. In\u00a0International Semantic Web Conference\u00a0(pp. 447\u2013463). Springer, Cham. https://doi.org/10.1007/978-3-030-62466-8_28",
+        "DOI": "10.1007/978-3-030-62466-8_28"
+      },
+      {
+        "key": "4097_CR20",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Feng L., Yuan J., & Yang L. (2020). An observation framework for retracted publications in multiple dimensions. Scientometrics, 125(2), 1445\u20131457. Scopus.\u00a0https://doi.org/10.1007/s11192-020-03702-3",
+        "DOI": "10.1007/s11192-020-03702-3"
+      },
+      {
+        "issue": "2",
+        "key": "4097_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.19245/25.05.pij.5.2.3",
+        "volume": "5",
+        "author": "P Ferri",
+        "year": "2020",
+        "unstructured": "Ferri, P., Heibi, I., Pareschi, L., & Peroni, S. (2020). MITAO: A user friendly and modular software for topic modelling. PuntOorg International Journal, 5(2), 135\u2013149. https://doi.org/10.19245/25.05.pij.5.2.3.",
+        "journal-title": "PuntOorg International Journal"
+      },
+      {
+        "key": "4097_CR2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gap Analytics. (2014). In C. Chen, The Fitness of Information (pp. 217\u2013251). John Wiley & Sons, Inc. https://doi.org/10.1002/9781118858080.ch7",
+        "DOI": "10.1002/9781118858080.ch7"
+      },
+      {
+        "issue": "3",
+        "key": "4097_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "2561",
+        "DOI": "10.1007/s11192-020-03721-0",
+        "volume": "125",
+        "author": "X Han",
+        "year": "2020",
+        "unstructured": "Han, X. (2020). Evolution of research topics in LIS between 1996 and 2019: An analysis based on latent Dirichlet allocation topic model. Scientometrics, 125(3), 2561\u20132595. https://doi.org/10.1007/s11192-020-03721-0",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "4097_CR22",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Heibi, I., & Peroni, S. (2020a). A methodology for gathering and annotating the raw-data/characteristics of the documents citing a retracted article v1 (protocols.io.bdc4i2yw) [Data set]. https://doi.org/10.17504/protocols.io.bdc4i2yw",
+        "DOI": "10.17504/protocols.io.bdc4i2yw"
+      },
+      {
+        "key": "4097_CR23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5281/ZENODO.4323221",
+        "author": "I Heibi",
+        "year": "2020",
+        "unstructured": "Heibi, I., & Peroni, S. (2020b). Methodology data of \u201cA qualitative and quantitative citation analysis toward retracted articles: A case of study.\u201d Zenodo. https://doi.org/10.5281/ZENODO.4323221",
+        "journal-title": "Zenodo"
+      },
+      {
+        "key": "4097_CR24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heibi, I., Peroni, S., & Shotton, D. (2019a). Crowdsourcing open citations with CROCI-An analysis of the current status of open citations and a proposal. In proceedings of the 17th International conference on Scientometrics & Informatics (ISSI2019)",
+        "DOI": "10.59350/zcrhs-r7h02"
+      },
+      {
+        "issue": "2",
+        "key": "4097_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1213",
+        "DOI": "10.1007/s11192-019-03217-6",
+        "volume": "121",
+        "author": "I Heibi",
+        "year": "2019",
+        "unstructured": "Heibi, I., Peroni, S., & Shotton, D. (2019b). Software review: COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations. Scientometrics, 121(2), 1213\u20131228. https://doi.org/10.1007/s11192-019-03217-6",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "issue": "1",
+        "key": "4097_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "414",
+        "DOI": "10.1162/qss_a_00022",
+        "volume": "1",
+        "author": "G Hendricks",
+        "year": "2020",
+        "unstructured": "Hendricks, G., Tkaczyk, D., Lin, J., & Feeney, P. (2020). Crossref: The sustainable source of community-owned scholarly metadata. Quantitative Science Studies, 1(1), 414\u2013427. https://doi.org/10.1162/qss_a_00022",
+        "journal-title": "Quantitative Science Studies"
+      },
+      {
+        "key": "4097_CR27",
+        "unstructured": "Jan, R., Bano, S., Ikhlaq ur Rehman, S., & Mehraj, M. (2018). Context analysis of top seven retracted articles: Should Retraction Watch revisit the list? Library Philosophy and Practice, 1\u201320.\u00a0https://digitalcommons.unl.edu/libphilprac/2016/"
+      },
+      {
+        "issue": "11",
+        "key": "4097_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "15169",
+        "DOI": "10.1007/s11042-018-6894-4",
+        "volume": "78",
+        "author": "H Jelodar",
+        "year": "2019",
+        "unstructured": "Jelodar, H., Wang, Y., Yuan, C., Feng, X., Jiang, X., Li, Y., & Zhao, L. (2019). Latent Dirichlet allocation (LDA) and topic modeling: Models, applications, a survey. Multimedia Tools and Applications, 78(11), 15169\u201315211. https://doi.org/10.1007/s11042-018-6894-4",
+        "journal-title": "Multimedia Tools and Applications"
+      },
+      {
+        "key": "4097_CR29",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Luwel, M., van Eck, N. J., & van Leeuwen, T. N. (2019). The Sch\u00f6n case: Analyzing in-text citations to papers before and after retraction [Preprint]. SocArXiv. https://doi.org/10.31235/osf.io/c6mvs",
+        "DOI": "10.31235/osf.io/c6mvs"
+      },
+      {
+        "issue": "1",
+        "key": "4097_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "3146",
+        "DOI": "10.1038/srep03146",
+        "volume": "3",
+        "author": "SF Lu",
+        "year": "2013",
+        "unstructured": "Lu, S. F., Jin, G. Z., Uzzi, B., & Jones, B. (2013). The Retraction Penalty: Evidence from the Web of Science. Scientific Reports, 3(1), 3146. https://doi.org/10.1038/srep03146",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "issue": "2",
+        "key": "4097_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "909",
+        "DOI": "10.1007/s11192-020-03415-7",
+        "volume": "123",
+        "author": "X Lyu",
+        "year": "2020",
+        "unstructured": "Lyu, X., & Costas, R. (2020). How do academic topics shift across altmetric sources? A case study of the research area of Big Data. Scientometrics, 123(2), 909\u2013943. https://doi.org/10.1007/s11192-020-03415-7",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "4097_CR32",
+        "unstructured": "May, C., Cotterell, R., & Van Durme, B. (2019). An Analysis of Lemmatization on Topic Models of Morphologically Rich Language."
+      },
+      {
+        "issue": "2",
+        "key": "4097_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1087/20110202",
+        "volume": "24",
+        "author": "CA Meyer",
+        "year": "2011",
+        "unstructured": "Meyer, C. A. (2011). Distinguishing published scholarly content with CrossMark. Learned Publishing, 24(2), 87\u201393. https://doi.org/10.1087/20110202",
+        "journal-title": "Learned Publishing"
+      },
+      {
+        "issue": "3",
+        "key": "4097_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "535",
+        "DOI": "10.1002/asi.23421",
+        "volume": "67",
+        "author": "P Mongeon",
+        "year": "2016",
+        "unstructured": "Mongeon, P., & Larivi\u00e8re, V. (2016). Costly collaborations: The impact of scientific fraud on co-authors\u2019 careers: Costly Collaborations: The Impact of Scientific Fraud on Co-Authors\u2019 Careers. Journal of the Association for Information Science and Technology, 67(3), 535\u2013542. https://doi.org/10.1002/asi.23421",
+        "journal-title": "Journal of the Association for Information Science and Technology"
+      },
+      {
+        "issue": "1",
+        "key": "4097_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "44",
+        "DOI": "10.1177/1355819618797965",
+        "volume": "24",
+        "author": "A Mott",
+        "year": "2019",
+        "unstructured": "Mott, A., Fairhurst, C., & Torgerson, D. (2019). Assessing the impact of retraction on the citation of randomized controlled trial reports: An interrupted time-series analysis. Journal of Health Services Research & Policy, 24(1), 44\u201351. https://doi.org/10.1177/1355819618797965",
+        "journal-title": "Journal of Health Services Research & Policy"
+      },
+      {
+        "issue": "11",
+        "key": "4097_CR36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2016-012047",
+        "volume": "6",
+        "author": "EC Moylan",
+        "year": "2016",
+        "unstructured": "Moylan, E. C., & Kowalczuk, M. K. (2016). Why articles are retracted: A retrospective cross-sectional study of retraction notices at BioMed Central. British Medical Journal Open, 6(11), e012047. https://doi.org/10.1136/bmjopen-2016-012047",
+        "journal-title": "British Medical Journal Open"
+      },
+      {
+        "key": "4097_CR37",
+        "doi-asserted-by": "publisher",
+        "unstructured": "OpenCitations. (2018). COCI CSV dataset of all the citation data (p. 11568165723 Bytes) . figshare. https://doi.org/10.6084/M9.FIGSHARE.6741422.V3",
+        "DOI": "10.6084/M9.FIGSHARE.6741422.V3"
+      },
+      {
+        "key": "4097_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1016/j.websem.2012.08.001",
+        "volume": "17",
+        "author": "S Peroni",
+        "year": "2012",
+        "unstructured": "Peroni, S., & Shotton, D. (2012). FaBiO and CiTO: Ontologies for describing bibliographic resources and citations. Journal of Web Semantics, 17, 33\u201343. https://doi.org/10.1016/j.websem.2012.08.001",
+        "journal-title": "Journal of Web Semantics"
+      },
+      {
+        "key": "4097_CR39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.6084/m9.figshare.6683855.v1",
+        "author": "S Peroni",
+        "year": "2018",
+        "unstructured": "Peroni, S., & Shotton, D. (2018a). Open Citation: Definition. Figshare. Journal Contribution. https://doi.org/10.6084/m9.figshare.6683855.v1"
+      },
+      {
+        "key": "4097_CR40",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Peroni, S., & Shotton, D. (2018b). The SPAR ontologies. In\u00a0International Semantic Web Conference\u00a0(pp. 119\u2013136). Springer, Cham. https://doi.org/10.1007/978-3-030-00668-6_8",
+        "DOI": "10.1007/978-3-030-00668-6_8"
+      },
+      {
+        "issue": "1",
+        "key": "4097_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "428",
+        "DOI": "10.1162/qss_a_00023",
+        "volume": "1",
+        "author": "S Peroni",
+        "year": "2020",
+        "unstructured": "Peroni, S., & Shotton, D. (2020). OpenCitations, an infrastructure organization for open scholarship. Quantitative Science Studies, 1(1), 428\u2013444. https://doi.org/10.1162/qss_a_00023",
+        "journal-title": "Quantitative Science Studies"
+      },
+      {
+        "key": "4097_CR42",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ritchie, A., Robertson, S., & Teufel, S. (2008). Comparing citation contexts for information retrieval. In\u00a0Proceedings of the 17th ACM conference on Information and knowledge management\u00a0(pp. 213\u2013222). https://doi.org/10.1145/1458082.1458113",
+        "DOI": "10.1145/1458082.1458113"
+      },
+      {
+        "issue": "4",
+        "key": "4097_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "941",
+        "DOI": "10.1177/1094428118773858",
+        "volume": "22",
+        "author": "T Schmiedel",
+        "year": "2019",
+        "unstructured": "Schmiedel, T., M\u00fcller, O., & vom Brocke, J. (2019). Topic Modeling as a Strategy of Inquiry in Organizational Research: A Tutorial With an Application Example on Organizational Culture. Organizational Research Methods, 22(4), 941\u2013968. https://doi.org/10.1177/1094428118773858",
+        "journal-title": "Organizational Research Methods"
+      },
+      {
+        "issue": "3",
+        "key": "4097_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "2877",
+        "DOI": "10.1007/s11192-020-03631-1",
+        "volume": "125",
+        "author": "J Schneider",
+        "year": "2020",
+        "unstructured": "Schneider, J., Ye, D., Hill, A. M., & Whitehorn, A. S. (2020). Continued post-retraction citation of a fraudulent clinical trial report, 11 years after it was retracted for falsifying data. Scientometrics, 125(3), 2877\u20132913. https://doi.org/10.1007/s11192-020-03631-1",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "issue": "9",
+        "key": "4097_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "2225",
+        "DOI": "10.1002/asi.23826",
+        "volume": "68",
+        "author": "X Shuai",
+        "year": "2017",
+        "unstructured": "Shuai, X., Rollins, J., Moulinier, I., Custis, T., Edmunds, M., & Schilder, F. (2017). A Multidimensional Investigation of the Effects of Publication Retraction on Scholarly Impact. Journal of the Association for Information Science and Technology, 68(9), 2225\u20132236. https://doi.org/10.1002/asi.23826",
+        "journal-title": "Journal of the Association for Information Science and Technology"
+      },
+      {
+        "key": "4097_CR46",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sievert, C., & Shirley, K. E. (2014). LDAvis: A method for visualizing and interpreting topics. https://doi.org/10.13140/2.1.1394.3043",
+        "DOI": "10.13140/2.1.1394.3043"
+      },
+      {
+        "issue": "11",
+        "key": "4097_CR47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2019.15552",
+        "volume": "2",
+        "author": "EM Suelzer",
+        "year": "2019",
+        "unstructured": "Suelzer, E. M., Deal, J., Hanus, K. L., Ruggeri, B., Sieracki, R., & Witkowski, E. (2019). Assessment of Citations of the Retracted Article by Wakefield et al With Fraudulent Claims of an Association Between Vaccination and Autism. JAMA Network Open, 2(11), e1915552. https://doi.org/10.1001/jamanetworkopen.2019.15552",
+        "journal-title": "JAMA Network Open"
+      },
+      {
+        "issue": "3",
+        "key": "4097_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1086/392651",
+        "volume": "65",
+        "author": "F Suppe",
+        "year": "1998",
+        "unstructured": "Suppe, F. (1998). The structure of a scientific paper. Philosophy of Science, 65(3), 381\u2013405.",
+        "journal-title": "Philosophy of Science"
+      },
+      {
+        "issue": "3",
+        "key": "4097_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "1653",
+        "DOI": "10.1007/s11192-016-2227-4",
+        "volume": "110",
+        "author": "JA Teixeira da Silva",
+        "year": "2017",
+        "unstructured": "Teixeira da Silva, J. A., & Dobr\u00e1nszki, J. (2017). Highly cited retracted papers. Scientometrics, 110(3), 1653\u20131661. https://doi.org/10.1007/s11192-016-2227-4",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "4097_CR50",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Truica, C.-O., Radulescu, F., & Boicea, A. (2016). Comparing Different Term Weighting Schemas for Topic Modeling. 2016 18th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC), 307\u2013310. https://doi.org/10.1109/SYNASC.2016.055",
+        "DOI": "10.1109/SYNASC.2016.055"
+      },
+      {
+        "issue": "1",
+        "key": "4097_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1186/s41073-016-0008-5",
+        "volume": "1",
+        "author": "PE van der Vet",
+        "year": "2016",
+        "unstructured": "van der Vet, P. E., & Nijveen, H. (2016). Propagation of errors in citation networks: A study involving the entire citation network of a widely cited paper published in and later retracted from, the journal Nature. Research Integrity and Peer Review, 1(1), 3. https://doi.org/10.1186/s41073-016-0008-5",
+        "journal-title": "Research Integrity and Peer Review"
+      },
+      {
+        "issue": "9103",
+        "key": "4097_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "637",
+        "DOI": "10.1016/S0140-6736(97)11096-0",
+        "volume": "351",
+        "author": "A Wakefield",
+        "year": "1998",
+        "unstructured": "Wakefield, A., Murch, S., Anthony, A., Linnell, J., Casson, D., Malik, M., Berelowitz, M., Dhillon, A., Thomson, M., Harvey, P., Valentine, A., Davies, S., & Walker-Smith, J. (1998). RETRACTED: Ileal-lymphoid-nodular hyperplasia, non-specific colitis and pervasive developmental disorder in children. The Lancet, 351(9103), 637\u2013641. https://doi.org/10.1016/S0140-6736(97)11096-0",
+        "journal-title": "The Lancet"
+      },
+      {
+        "issue": "5",
+        "key": "4097_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "4225",
+        "DOI": "10.1007/s11192-021-03946-7",
+        "volume": "126",
+        "author": "Y Zhang",
+        "year": "2021",
+        "unstructured": "Zhang, Y., Cai, X., Fry, C. V., Wu, M., & Wagner, C. S. (2021). Topic evolution, disruption and resilience in early COVID-19 research. Scientometrics, 126(5), 4225\u20134253. https://doi.org/10.1007/s11192-021-03946-7",
+        "journal-title": "Scientometrics"
+      }
+    ],
+    "container-title": [
+      "Scientometrics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11192-021-04097-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11192-021-04097-5/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11192-021-04097-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2023-11-06T22:53:18Z",
+      "timestamp": 1699311198000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11192-021-04097-5"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          5
+        ]
+      ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "4097"
+    ],
+    "URL": "https://doi.org/10.1007/s11192-021-04097-5",
+    "relation": {
+      "references": [
+        {
+          "id-type": "uri",
+          "id": "",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "ISSN": [
+      "0138-9130",
+      "1588-2861"
+    ],
+    "issn-type": [
+      {
+        "value": "0138-9130",
+        "type": "print"
+      },
+      {
+        "value": "1588-2861",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "24 December 2020",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 June 2021",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "5 August 2021",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ]
+  }
+}

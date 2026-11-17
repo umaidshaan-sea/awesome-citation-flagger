@@ -1,0 +1,471 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1109/tpami.2012.231",
+  "url": "https://api.crossref.org/works/10.1109%2Ftpami.2012.231",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:36.049942+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2026-10-31T11:03:01Z",
+      "timestamp": 1793444581426,
+      "version": "4.5.0"
+    },
+    "reference-count": 47,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2013-08-01T00:00:00Z",
+          "timestamp": 1375315200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Trans. Pattern Anal. Mach. Intell."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1109/tpami.2012.231",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2012-10-24T14:03:56Z",
+      "timestamp": 1351087436000
+    },
+    "page": "1915-1929",
+    "source": "Crossref",
+    "is-referenced-by-count": 2191,
+    "title": [
+      "Learning Hierarchical Features for Scene Labeling"
+    ],
+    "prefix": "10.1109",
+    "volume": "35",
+    "author": [
+      {
+        "given": "Clement",
+        "family": "Farabet",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Camille",
+        "family": "Couprie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laurent",
+        "family": "Najman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yann",
+        "family": "LeCun",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2010.161"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2001.937505"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2004.60"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/34.969114"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2011.231"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IJCNN.2011.6033458"
+      },
+      {
+        "key": "ref7",
+        "article-title": "Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers",
+        "author": "Farabet",
+        "year": "2012",
+        "journal-title": "Proc. Int\u2019l Conf. Machine Learning"
+      },
+      {
+        "key": "ref8",
+        "article-title": "Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers",
+        "author": "Farabet",
+        "year": "2012",
+        "journal-title": "CoRR"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ISCAS.2010.5537908"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPRW.2011.5981829"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/B:VISI.0000022288.19776.77"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4153/cjm-1957-024-0"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2009.5459175"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2004.97"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2009.5459211"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11263-008-0140-x"
+      },
+      {
+        "key": "ref17",
+        "article-title": "Deep Convolutional Networks for Scene Parsing",
+        "author": "Grangier",
+        "year": "2009",
+        "journal-title": "Proc. Int\u2019l Conf. Machine Learning"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2006.100"
+      },
+      {
+        "key": "ref19",
+        "article-title": "Learning Hybrid Models for Image Annotation with Partially Labeled Data",
+        "author": "He",
+        "year": "2008",
+        "journal-title": "Proc. Advances in Neural Information Processing Systems Conf."
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2007.4408909"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2009.5459469"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2009.5206545"
+      },
+      {
+        "key": "ref23",
+        "article-title": "Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition",
+        "author": "Kavukcuoglu",
+        "year": "2008"
+      },
+      {
+        "key": "ref24",
+        "article-title": "Learning Convolutional Feature Hierachies for Visual Recognition",
+        "volume": "23",
+        "author": "Kavukcuoglu",
+        "year": "2010",
+        "journal-title": "Proc. Advances in Neural Information Processing Systems Conf."
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2010.5540072"
+      },
+      {
+        "key": "ref26",
+        "article-title": "Handwritten Digit Recognition with a Back-Propagation Network",
+        "author": "LeCun",
+        "year": "1990",
+        "journal-title": "Proc. Advances in Neural Information Processing Systems Conf."
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/5.726791"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/3-540-49430-8_2",
+        "article-title": "Efficient Backprop",
+        "volume-title": "Neural Networks: Tricks of the Trade",
+        "author": "LeCun",
+        "year": "1998"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1553374.1553453"
+      },
+      {
+        "key": "ref30",
+        "article-title": "A Pylon Model for Semantic Segmentation",
+        "author": "Lempitsky",
+        "year": "2011",
+        "journal-title": "Proc. Advances in Neural Information Processing Systems Conf."
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/cvpr.2009.5206536"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-15567-3_5"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/34.546254"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TIP.2005.852470"
+      },
+      {
+        "key": "ref35",
+        "first-page": "1197",
+        "article-title": "Synergistic Face Detection and Pose Estimation with Energy-Based Models",
+        "volume": "8",
+        "author": "Osadchy",
+        "year": "2007",
+        "journal-title": "J. Machine Learning Research"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-540-88690-7_36"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2007.383157"
+      },
+      {
+        "key": "ref38",
+        "article-title": "Object Recognition by Scene Alignment",
+        "author": "Russell",
+        "year": "2007",
+        "journal-title": "Proc. Neural Advances in Neural Information Conf."
+      },
+      {
+        "key": "ref39",
+        "article-title": "Associative Hierarchical CRFs for Object Class Image Segmentation",
+        "author": "Russell",
+        "year": "2009",
+        "journal-title": "Proc. IEEE Int\u2019l Conf. Computer Vision"
+      },
+      {
+        "key": "ref40",
+        "article-title": "Learning Object-Class Segmentation with Convolutional Neural Networks",
+        "volume-title": "Proc. 11th European Symp. Artificial Neural Networks",
+        "author": "Schulz"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/11744023_1"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICDAR.2003.1227801"
+      },
+      {
+        "key": "ref43",
+        "article-title": "Parsing Natural Scenes and Natural Language with Recursive Neural Networks.",
+        "author": "Socher",
+        "year": "2011",
+        "journal-title": "Proc. 26th Int\u2019l Conf. Machine Learning"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-15555-0_26"
+      },
+      {
+        "key": "ref45",
+        "first-page": "1521",
+        "article-title": "Unbiased Look at Data Set Bias",
+        "author": "Torralba",
+        "year": "2011",
+        "journal-title": "Proc. IEEE Conf. Computer Vision and Pattern Recognition"
+      },
+      {
+        "key": "ref46",
+        "article-title": "Maximin Affinity Learning of Image Segmentation",
+        "author": "Turaga",
+        "year": "2009",
+        "journal-title": "Proc. Advances in Neural Information Processing Systems Conf."
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1049/ip-vis:19941301"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/34/6541932/06338939.pdf?arnumber=6338939",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          18
+        ]
+      ],
+      "date-time": "2025-03-18T00:37:13Z",
+      "timestamp": 1742258233000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://ieeexplore.ieee.org/document/6338939/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+      "issue": "8"
+    },
+    "URL": "https://doi.org/10.1109/tpami.2012.231",
+    "relation": {},
+    "ISSN": [
+      "0162-8828",
+      "2160-9292"
+    ],
+    "issn-type": [
+      {
+        "value": "0162-8828",
+        "type": "print"
+      },
+      {
+        "value": "2160-9292",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    }
+  }
+}

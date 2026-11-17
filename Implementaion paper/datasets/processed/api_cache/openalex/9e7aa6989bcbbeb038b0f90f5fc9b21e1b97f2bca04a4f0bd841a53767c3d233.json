@@ -1,0 +1,1499 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1371/journal.pone.0302034",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1371%2Fjournal.pone.0302034",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:39.891574+00:00",
+  "record": {
+    "id": "https://openalex.org/W4394933327",
+    "doi": "https://doi.org/10.1371/journal.pone.0302034",
+    "title": "Exploring the impact of climate technology, financial inclusion and renewable energy on ecological footprint: Evidence from top polluted economies",
+    "display_name": "Exploring the impact of climate technology, financial inclusion and renewable energy on ecological footprint: Evidence from top polluted economies",
+    "publication_year": 2024,
+    "publication_date": "2024-04-18",
+    "ids": {
+      "openalex": "https://openalex.org/W4394933327",
+      "doi": "https://doi.org/10.1371/journal.pone.0302034",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/38635590",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/11025849"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1371/journal.pone.0302034",
+      "doi": "https://doi.org/10.1371/journal.pone.0302034",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0302034",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0302034&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS ONE",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0302034&type=printable",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5084575713",
+          "display_name": "Lu Wang",
+          "orcid": "https://orcid.org/0009-0008-9965-0623",
+          "observed_orcids": [
+            "https://orcid.org/0009-0008-9965-0623"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200845125",
+            "display_name": "Nanjing University of Information Science and Technology",
+            "ror": "https://ror.org/02y0rxk19",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200845125"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Lu Wang",
+        "raw_affiliation_strings": [
+          "Jiangsu Key Laboratory for Optoelectronic Detection of Atmosphere and Ocean, Nanjing University of Information Science & Technology, Nanjing, China",
+          "School of Teacher Education, Nanjing University of Information Science and Technology, Nanjing, China"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0008-9965-0623",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Jiangsu Key Laboratory for Optoelectronic Detection of Atmosphere and Ocean, Nanjing University of Information Science & Technology, Nanjing, China",
+            "institution_ids": [
+              "https://openalex.org/I200845125"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Teacher Education, Nanjing University of Information Science and Technology, Nanjing, China",
+            "institution_ids": [
+              "https://openalex.org/I200845125"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5102651064",
+          "display_name": "Fanyuan Ye",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I129604602",
+            "display_name": "The University of Sydney",
+            "ror": "https://ror.org/0384j8v12",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I129604602"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fanyuan Ye",
+        "raw_affiliation_strings": [
+          "Business School, The University of Sydney, Sydney, NSW, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Business School, The University of Sydney, Sydney, NSW, Australia",
+            "institution_ids": [
+              "https://openalex.org/I129604602"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5053370735",
+          "display_name": "Jianlin Lin",
+          "orcid": "https://orcid.org/0000-0002-4391-9346",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4391-9346"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I23632641",
+            "display_name": "Shanghai University of Electric Power",
+            "ror": "https://ror.org/02w4tny03",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I23632641"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jianlin Lin",
+        "raw_affiliation_strings": [
+          "College of Electrical Engineering, Shanghai University of Electric Power, Shanghai, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Electrical Engineering, Shanghai University of Electric Power, Shanghai, China",
+            "institution_ids": [
+              "https://openalex.org/I23632641"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5095773554",
+          "display_name": "Natasha Bibi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79571142",
+            "display_name": "Virtual University of Pakistan",
+            "ror": "https://ror.org/00ya1zd25",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79571142"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Natasha Bibi",
+        "raw_affiliation_strings": [
+          "Business School, Virtual University, Lahore, Pakistan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Business School, Virtual University, Lahore, Pakistan",
+            "institution_ids": [
+              "https://openalex.org/I79571142"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 3,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5084575713"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I200845125"
+    ],
+    "apc_list": {
+      "value": 2290,
+      "currency": "USD",
+      "value_usd": 2290
+    },
+    "apc_paid": {
+      "value": 2290,
+      "currency": "USD",
+      "value_usd": 2290
+    },
+    "fwci": 2.8262,
+    "has_fulltext": true,
+    "cited_by_count": 8,
+    "citation_normalized_percentile": {
+      "value": 0.90544554,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 97,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "19",
+      "issue": "4",
+      "first_page": "e0302034",
+      "last_page": "e0302034"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10438",
+      "display_name": "Energy, Environment, Economic Growth",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10438",
+        "display_name": "Energy, Environment, Economic Growth",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10471",
+        "display_name": "Climate Change Policy and Economics",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10435",
+        "display_name": "Environmental Impact and Sustainability",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/ecological-footprint",
+        "display_name": "ecological footprint",
+        "score": 0.9259999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/carbon-footprint",
+        "display_name": "carbon footprint",
+        "score": 0.8009999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/climate-technology",
+        "display_name": "climate technology",
+        "score": 0.8659999966621399
+      },
+      {
+        "id": "https://openalex.org/keywords/financial-inclusion",
+        "display_name": "financial inclusion",
+        "score": 0.9789999723434448
+      },
+      {
+        "id": "https://openalex.org/keywords/renewable-energy-consumption",
+        "display_name": "renewable energy consumption",
+        "score": 0.9419999718666077
+      },
+      {
+        "id": "https://openalex.org/keywords/technological-innovation",
+        "display_name": "technological innovation",
+        "score": 0.8690000176429749
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-kuznets-curve",
+        "display_name": "environmental Kuznets curve",
+        "score": 0.9240000247955322
+      },
+      {
+        "id": "https://openalex.org/keywords/pollution-haven-hypothesis",
+        "display_name": "pollution haven hypothesis",
+        "score": 0.9380000233650208
+      },
+      {
+        "id": "https://openalex.org/keywords/economic-growth-and-environment",
+        "display_name": "economic growth and environment",
+        "score": 0.7360000014305115
+      },
+      {
+        "id": "https://openalex.org/keywords/environmental-degradation",
+        "display_name": "environmental degradation",
+        "score": 0.6110000014305115
+      },
+      {
+        "id": "https://openalex.org/keywords/south-asian-economies",
+        "display_name": "South Asian economies",
+        "score": 0.6869999766349792
+      },
+      {
+        "id": "https://openalex.org/keywords/green-technology",
+        "display_name": "environmental technology",
+        "score": 0.6620000004768372
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780481019",
+        "wikidata": "https://www.wikidata.org/wiki/Q1349471",
+        "display_name": "Kuznets curve",
+        "level": 2,
+        "score": 0.6681323051452637
+      },
+      {
+        "id": "https://openalex.org/C2780936489",
+        "wikidata": "https://www.wikidata.org/wiki/Q310667",
+        "display_name": "Carbon footprint",
+        "level": 3,
+        "score": 0.6634800434112549
+      },
+      {
+        "id": "https://openalex.org/C83516724",
+        "wikidata": "https://www.wikidata.org/wiki/Q234173",
+        "display_name": "Ecological footprint",
+        "level": 3,
+        "score": 0.6414697170257568
+      },
+      {
+        "id": "https://openalex.org/C175605778",
+        "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+        "display_name": "Natural resource economics",
+        "level": 1,
+        "score": 0.6386730670928955
+      },
+      {
+        "id": "https://openalex.org/C198428699",
+        "wikidata": "https://www.wikidata.org/wiki/Q1334780",
+        "display_name": "Environmental degradation",
+        "level": 2,
+        "score": 0.6180298924446106
+      },
+      {
+        "id": "https://openalex.org/C66204764",
+        "wikidata": "https://www.wikidata.org/wiki/Q219416",
+        "display_name": "Sustainability",
+        "level": 2,
+        "score": 0.5766928195953369
+      },
+      {
+        "id": "https://openalex.org/C188573790",
+        "wikidata": "https://www.wikidata.org/wiki/Q12705",
+        "display_name": "Renewable energy",
+        "level": 2,
+        "score": 0.5240742564201355
+      },
+      {
+        "id": "https://openalex.org/C2909468537",
+        "wikidata": "https://www.wikidata.org/wiki/Q58734",
+        "display_name": "Environmental pollution",
+        "level": 2,
+        "score": 0.5214042663574219
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.48997464776039124
+      },
+      {
+        "id": "https://openalex.org/C70798638",
+        "wikidata": "https://www.wikidata.org/wiki/Q4575211",
+        "display_name": "Environmental quality",
+        "level": 2,
+        "score": 0.46908560395240784
+      },
+      {
+        "id": "https://openalex.org/C47737302",
+        "wikidata": "https://www.wikidata.org/wiki/Q167336",
+        "display_name": "Greenhouse gas",
+        "level": 2,
+        "score": 0.3978824317455292
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.3705071806907654
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "wikidata": "https://www.wikidata.org/wiki/Q188847",
+        "display_name": "Environmental science",
+        "level": 0,
+        "score": 0.2516214847564697
+      },
+      {
+        "id": "https://openalex.org/C526734887",
+        "wikidata": "https://www.wikidata.org/wiki/Q832237",
+        "display_name": "Environmental protection",
+        "level": 1,
+        "score": 0.24773889780044556
+      },
+      {
+        "id": "https://openalex.org/C50522688",
+        "wikidata": "https://www.wikidata.org/wiki/Q189833",
+        "display_name": "Economic growth",
+        "level": 1,
+        "score": 0.23074820637702942
+      },
+      {
+        "id": "https://openalex.org/C18903297",
+        "wikidata": "https://www.wikidata.org/wiki/Q7150",
+        "display_name": "Ecology",
+        "level": 1,
+        "score": 0.13406041264533997
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000095143",
+        "descriptor_name": "Asia, Southern",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002245",
+        "descriptor_name": "Carbon Dioxide",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D013672",
+        "descriptor_name": "Technology",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D057217",
+        "descriptor_name": "Economic Development",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D058572",
+        "descriptor_name": "Carbon Footprint",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D059205",
+        "descriptor_name": "Renewable Energy",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.1371/journal.pone.0302034",
+        "doi": "https://doi.org/10.1371/journal.pone.0302034",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1371/journal.pone.0302034",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0302034&type=printable",
+        "source": {
+          "id": "https://openalex.org/S202381698",
+          "display_name": "PLoS ONE",
+          "issn_l": "1932-6203",
+          "issn": [
+            "1932-6203"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315706",
+          "host_organization_name": "Public Library of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315706"
+          ],
+          "host_organization_lineage_names": [
+            "Public Library of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLOS ONE",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:11025849",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11025849",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS One",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:38635590",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38635590",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PloS one",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:RePEc:plo:pone00:0302034",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302034",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:1a92eeb254f44658b121f540f32e099f",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/1a92eeb254f44658b121f540f32e099f",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PLoS ONE, Vol 19, Iss 4, p e0302034 (2024)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1371/journal.pone.0302034",
+      "doi": "https://doi.org/10.1371/journal.pone.0302034",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0302034",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0302034&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS ONE",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 1.0,
+        "display_name": "Climate action",
+        "id": "https://metadata.un.org/sdg/13"
+      },
+      {
+        "score": 0.8799999952316284,
+        "display_name": "Responsible consumption and production",
+        "id": "https://metadata.un.org/sdg/12"
+      },
+      {
+        "score": 0.5378999710083008,
+        "display_name": "Industry, innovation and infrastructure",
+        "id": "https://metadata.un.org/sdg/9"
+      },
+      {
+        "score": 0.48510000109672546,
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4394933327.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4394933327.grobid-xml"
+    },
+    "referenced_works_count": 112,
+    "referenced_works": [
+      "https://openalex.org/W1841824908",
+      "https://openalex.org/W2057261747",
+      "https://openalex.org/W2080016128",
+      "https://openalex.org/W2088352305",
+      "https://openalex.org/W2178046143",
+      "https://openalex.org/W2752052872",
+      "https://openalex.org/W2760154708",
+      "https://openalex.org/W2766115462",
+      "https://openalex.org/W2783955785",
+      "https://openalex.org/W2801581560",
+      "https://openalex.org/W2803925347",
+      "https://openalex.org/W2888459087",
+      "https://openalex.org/W2950893532",
+      "https://openalex.org/W2953174837",
+      "https://openalex.org/W2970516730",
+      "https://openalex.org/W2972984905",
+      "https://openalex.org/W2975261737",
+      "https://openalex.org/W2991541671",
+      "https://openalex.org/W2998326865",
+      "https://openalex.org/W3001361436",
+      "https://openalex.org/W3002089509",
+      "https://openalex.org/W3002447307",
+      "https://openalex.org/W3003881918",
+      "https://openalex.org/W3004932561",
+      "https://openalex.org/W3029972894",
+      "https://openalex.org/W3032846844",
+      "https://openalex.org/W3038504037",
+      "https://openalex.org/W3040857322",
+      "https://openalex.org/W3049354952",
+      "https://openalex.org/W3062779682",
+      "https://openalex.org/W3087413156",
+      "https://openalex.org/W3094643834",
+      "https://openalex.org/W3111165780",
+      "https://openalex.org/W3113532175",
+      "https://openalex.org/W3114393045",
+      "https://openalex.org/W3116212669",
+      "https://openalex.org/W3121023863",
+      "https://openalex.org/W3124050301",
+      "https://openalex.org/W3127153472",
+      "https://openalex.org/W3128177989",
+      "https://openalex.org/W3135363121",
+      "https://openalex.org/W3138941223",
+      "https://openalex.org/W3140413211",
+      "https://openalex.org/W3158446840",
+      "https://openalex.org/W3159545786",
+      "https://openalex.org/W3159628151",
+      "https://openalex.org/W3159628400",
+      "https://openalex.org/W3159797044",
+      "https://openalex.org/W3164115947",
+      "https://openalex.org/W3169452752",
+      "https://openalex.org/W3172086208",
+      "https://openalex.org/W3176246976",
+      "https://openalex.org/W3184864642",
+      "https://openalex.org/W3187957424",
+      "https://openalex.org/W3193107794",
+      "https://openalex.org/W3194197630",
+      "https://openalex.org/W3195023532",
+      "https://openalex.org/W3195917169",
+      "https://openalex.org/W3203362931",
+      "https://openalex.org/W3206119721",
+      "https://openalex.org/W3207177090",
+      "https://openalex.org/W3210547955",
+      "https://openalex.org/W3215194942",
+      "https://openalex.org/W3217051979",
+      "https://openalex.org/W4200363605",
+      "https://openalex.org/W4200500614",
+      "https://openalex.org/W4200599296",
+      "https://openalex.org/W4205609379",
+      "https://openalex.org/W4206010871",
+      "https://openalex.org/W4206195925",
+      "https://openalex.org/W4206303794",
+      "https://openalex.org/W4206765135",
+      "https://openalex.org/W4206963674",
+      "https://openalex.org/W4207076442",
+      "https://openalex.org/W4210517739",
+      "https://openalex.org/W4210791947",
+      "https://openalex.org/W4213013996",
+      "https://openalex.org/W4213239256",
+      "https://openalex.org/W4213256473",
+      "https://openalex.org/W4214906719",
+      "https://openalex.org/W4220659710",
+      "https://openalex.org/W4220762597",
+      "https://openalex.org/W4220773824",
+      "https://openalex.org/W4220948930",
+      "https://openalex.org/W4220994109",
+      "https://openalex.org/W4223550762",
+      "https://openalex.org/W4225417794",
+      "https://openalex.org/W4229046699",
+      "https://openalex.org/W4280546559",
+      "https://openalex.org/W4281639668",
+      "https://openalex.org/W4285155833",
+      "https://openalex.org/W4285160929",
+      "https://openalex.org/W4293521528",
+      "https://openalex.org/W4296616786",
+      "https://openalex.org/W4299804923",
+      "https://openalex.org/W4307724064",
+      "https://openalex.org/W4309197513",
+      "https://openalex.org/W4310604640",
+      "https://openalex.org/W4312113027",
+      "https://openalex.org/W4312157438",
+      "https://openalex.org/W4312754995",
+      "https://openalex.org/W4313529889",
+      "https://openalex.org/W4321381291",
+      "https://openalex.org/W4321787242",
+      "https://openalex.org/W4323655162",
+      "https://openalex.org/W4327567237",
+      "https://openalex.org/W4327911997",
+      "https://openalex.org/W4362666192",
+      "https://openalex.org/W4365448545",
+      "https://openalex.org/W4366261932",
+      "https://openalex.org/W4379470735",
+      "https://openalex.org/W4380989791"
+    ],
+    "related_works": [
+      "https://openalex.org/W4323832201",
+      "https://openalex.org/W4409345556",
+      "https://openalex.org/W4389480326",
+      "https://openalex.org/W4383311948",
+      "https://openalex.org/W4390848060",
+      "https://openalex.org/W4387824513",
+      "https://openalex.org/W4294860612",
+      "https://openalex.org/W4313491753",
+      "https://openalex.org/W2972927447",
+      "https://openalex.org/W4405770161"
+    ],
+    "abstract_inverted_index": {
+      "Most": [
+        0
+      ],
+      "South": [
+        1,
+        28
+      ],
+      "Asian": [
+        2,
+        29
+      ],
+      "countries'": [
+        3,
+        72
+      ],
+      "economies": [
+        4,
+        196
+      ],
+      "have": [
+        5
+      ],
+      "grown": [
+        6
+      ],
+      "dramatically": [
+        7
+      ],
+      "during": [
+        8
+      ],
+      "the": [
+        9,
+        21,
+        36,
+        44,
+        53,
+        56,
+        64,
+        67,
+        108,
+        116,
+        135,
+        157,
+        172,
+        179
+      ],
+      "past": [
+        10
+      ],
+      "few": [
+        11
+      ],
+      "decades.": [
+        12
+      ],
+      "However,": [
+        13
+      ],
+      "in": [
+        14,
+        39,
+        115,
+        155,
+        171
+      ],
+      "light": [
+        15
+      ],
+      "of": [
+        16,
+        23,
+        55,
+        66,
+        74,
+        80,
+        85
+      ],
+      "their": [
+        17,
+        200
+      ],
+      "environmental": [
+        18,
+        40,
+        45,
+        89,
+        136,
+        216
+      ],
+      "sustainability": [
+        19
+      ],
+      "goals,": [
+        20
+      ],
+      "quality": [
+        22
+      ],
+      "such": [
+        24
+      ],
+      "growth": [
+        25,
+        130
+      ],
+      "performances": [
+        26
+      ],
+      "by": [
+        27,
+        35,
+        183
+      ],
+      "nations": [
+        30,
+        48
+      ],
+      "is": [
+        31,
+        50
+      ],
+      "called": [
+        32
+      ],
+      "into": [
+        33
+      ],
+      "doubt": [
+        34
+      ],
+      "concurrent": [
+        37
+      ],
+      "degradation": [
+        38
+      ],
+      "quality.": [
+        41,
+        217
+      ],
+      "Consequently,": [
+        42
+      ],
+      "reducing": [
+        43
+      ],
+      "challenges": [
+        46
+      ],
+      "these": [
+        47
+      ],
+      "encounter": [
+        49
+      ],
+      "prioritized": [
+        51
+      ],
+      "on": [
+        52,
+        88
+      ],
+      "agendas": [
+        54
+      ],
+      "relevant": [
+        57
+      ],
+      "authorities.": [
+        58
+      ],
+      "This": [
+        59
+      ],
+      "study": [
+        60
+      ],
+      "aimed": [
+        61
+      ],
+      "to": [
+        62,
+        93,
+        99,
+        106,
+        111,
+        198,
+        207,
+        214
+      ],
+      "analyze": [
+        63
+      ],
+      "effect": [
+        65
+      ],
+      "top": [
+        68
+      ],
+      "11": [
+        69
+      ],
+      "most": [
+        70,
+        118
+      ],
+      "polluted": [
+        71,
+        119
+      ],
+      "levels": [
+        73
+      ],
+      "financial": [
+        75,
+        165,
+        201,
+        212
+      ],
+      "inclusion,": [
+        76
+      ],
+      "technological": [
+        77
+      ],
+      "innovation,": [
+        78
+      ],
+      "consumption": [
+        79
+      ],
+      "renewable": [
+        81,
+        208
+      ],
+      "energy,": [
+        82,
+        209
+      ],
+      "and": [
+        83,
+        131,
+        149,
+        159,
+        164,
+        210
+      ],
+      "adoption": [
+        84
+      ],
+      "climate": [
+        86
+      ],
+      "technology": [
+        87
+      ],
+      "deterioration": [
+        90
+      ],
+      "from": [
+        91
+      ],
+      "2000": [
+        92
+      ],
+      "2022.": [
+        94
+      ],
+      "Therefore,": [
+        95
+      ],
+      "this": [
+        96
+      ],
+      "research": [
+        97
+      ],
+      "aims": [
+        98
+      ],
+      "use": [
+        100
+      ],
+      "cutting-edge": [
+        101
+      ],
+      "panel": [
+        102
+      ],
+      "data": [
+        103
+      ],
+      "econometric": [
+        104
+      ],
+      "techniques": [
+        105
+      ],
+      "investigate": [
+        107
+      ],
+      "factors": [
+        109
+      ],
+      "contributing": [
+        110
+      ],
+      "high": [
+        112
+      ],
+      "carbon": [
+        113,
+        132,
+        153,
+        169,
+        189
+      ],
+      "footprints": [
+        114,
+        154,
+        170
+      ],
+      "world's": [
+        117
+      ],
+      "nations.": [
+        120
+      ],
+      "The": [
+        121,
+        175
+      ],
+      "results": [
+        122,
+        176
+      ],
+      "support": [
+        123
+      ],
+      "an": [
+        124
+      ],
+      "inverted": [
+        125
+      ],
+      "U-shaped": [
+        126
+      ],
+      "relationship": [
+        127
+      ],
+      "between": [
+        128
+      ],
+      "economic": [
+        129
+      ],
+      "footprints,": [
+        133
+      ],
+      "crediting": [
+        134
+      ],
+      "Kuznets": [
+        137
+      ],
+      "curve": [
+        138
+      ],
+      "concept.": [
+        139
+      ],
+      "In": [
+        140
+      ],
+      "addition,": [
+        141
+      ],
+      "it": [
+        142
+      ],
+      "has": [
+        143
+      ],
+      "been": [
+        144
+      ],
+      "shown": [
+        145
+      ],
+      "that": [
+        146,
+        185
+      ],
+      "TECH,": [
+        147
+      ],
+      "REC,": [
+        148
+      ],
+      "CT": [
+        150
+      ],
+      "can": [
+        151
+      ],
+      "reduce": [
+        152
+      ],
+      "both": [
+        156
+      ],
+      "short": [
+        158
+      ],
+      "long": [
+        160,
+        173
+      ],
+      "term,": [
+        161
+      ],
+      "while": [
+        162
+      ],
+      "GDP": [
+        163,
+        186
+      ],
+      "inclusion": [
+        166,
+        213
+      ],
+      "only": [
+        167
+      ],
+      "affect": [
+        168
+      ],
+      "term.": [
+        174
+      ],
+      "further": [
+        177
+      ],
+      "endorsed": [
+        178
+      ],
+      "pollution": [
+        180
+      ],
+      "haven": [
+        181
+      ],
+      "hypothesis": [
+        182
+      ],
+      "showing": [
+        184
+      ],
+      "positively": [
+        187
+      ],
+      "affects": [
+        188
+      ],
+      "footprint.": [
+        190
+      ],
+      "As": [
+        191
+      ],
+      "a": [
+        192
+      ],
+      "result,": [
+        193
+      ],
+      "leading": [
+        194
+      ],
+      "polluting": [
+        195
+      ],
+      "need": [
+        197
+      ],
+      "strengthen": [
+        199
+      ],
+      "sectors,": [
+        202
+      ],
+      "create": [
+        203
+      ],
+      "green": [
+        204
+      ],
+      "technology,": [
+        205
+      ],
+      "migrate": [
+        206
+      ],
+      "limit": [
+        211
+      ],
+      "improve": [
+        215
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2024-04-19T00:00:00"
+  }
+}

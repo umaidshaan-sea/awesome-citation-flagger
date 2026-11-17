@@ -1,0 +1,591 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1126/science.aar6404",
+  "url": "https://api.crossref.org/works/10.1126%2Fscience.aar6404",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:26.482452+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2026-11-04T07:15:22Z",
+      "timestamp": 1793776522547,
+      "version": "4.6.1"
+    },
+    "reference-count": 41,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "6419",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:title>One program to rule them all</jats:title>\n                  <jats:p>\n                    Computers can beat humans at increasingly complex games, including chess and Go. However, these programs are typically constructed for a particular game, exploiting its properties, such as the symmetries of the board on which it is played. Silver\n                    <jats:italic>et al.</jats:italic>\n                    developed a program called AlphaZero, which taught itself to play Go, chess, and shogi (a Japanese version of chess) (see the Editorial, and the Perspective by Campbell). AlphaZero managed to beat state-of-the-art programs specializing in these three games. The ability of AlphaZero to adapt to various game rules is a notable step toward achieving a general game-playing system.\n                  </jats:p>\n                  <jats:p>\n                    <jats:italic>Science</jats:italic>\n                    , this issue p.\n                    <jats:related-article xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"doi\" issue=\"6419\" page=\"1140\" related-article-type=\"in-this-issue\" vol=\"362\" xlink:href=\"10.1126/science.aar6404\">1140</jats:related-article>\n                    ; see also pp.\n                    <jats:related-article xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"doi\" issue=\"6419\" page=\"1087\" related-article-type=\"in-this-issue\" vol=\"362\" xlink:href=\"10.1126/science.aaw2221\">1087</jats:related-article>\n                    and\n                    <jats:related-article xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"doi\" issue=\"6419\" page=\"1118\" related-article-type=\"in-this-issue\" vol=\"362\" xlink:href=\"10.1126/science.aav1175\">1118</jats:related-article>\n                  </jats:p>",
+    "DOI": "10.1126/science.aar6404",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          6
+        ]
+      ],
+      "date-time": "2018-12-06T19:05:32Z",
+      "timestamp": 1544123132000
+    },
+    "page": "1140-1144",
+    "source": "Crossref",
+    "is-referenced-by-count": 2817,
+    "title": [
+      "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play"
+    ],
+    "prefix": "10.1126",
+    "volume": "362",
+    "author": [
+      {
+        "given": "David",
+        "family": "Silver",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          },
+          {
+            "name": "University College London, Gower Street, London WC1E 6BT, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Hubert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julian",
+        "family": "Schrittwieser",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ioannis",
+        "family": "Antonoglou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthew",
+        "family": "Lai",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arthur",
+        "family": "Guez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marc",
+        "family": "Lanctot",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laurent",
+        "family": "Sifre",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5995-5264",
+        "authenticated-orcid": true,
+        "given": "Dharshan",
+        "family": "Kumaran",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3957-0310",
+        "authenticated-orcid": true,
+        "given": "Thore",
+        "family": "Graepel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Timothy",
+        "family": "Lillicrap",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Karen",
+        "family": "Simonyan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Demis",
+        "family": "Hassabis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DeepMind, 6 Pancras Square, London N1C 4AG, UK."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "221",
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0004-3702(01)00129-1"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "unstructured": "F.-H. Hsu Behind Deep Blue: Building the Computer That Defeated the World Chess Champion (Princeton Univ. 2002)."
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8640.1996.tb00258.x"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "first-page": "62",
+        "article-title": "General game playing: overview of the AAAI competition",
+        "volume": "26",
+        "author": "Genesereth M. R.",
+        "year": "2005",
+        "unstructured": "M. R. Genesereth, N. Love, B. Pell, General game playing: overview of the AAAI competition. AI Mag. 26, 62\u201372 (2005).",
+        "journal-title": "AI Mag."
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1147/rd.116.0601"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.1994.6.2.215"
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "unstructured": "C. J. Maddison A. Huang I. Sutskever D. Silver paper presented at the International Conference on Learning Representations 2015 San Diego CA 7 to 9 May 2015."
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature16961"
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature24270"
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "unstructured": "Stockfish: Strong open source chess engine; https://stockfishchess.org/ [accessed 29 November 2017]."
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "unstructured": "D. N. L. Levy M. Newborn How Computers Play Chess (Ishi Press 2009)."
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "unstructured": "V. Allis \u201cSearching for solutions in games and artificial intelligence \u201d Ph.D. thesis Transnational University Limburg Maastricht Netherlands (1994)."
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0004-3702(01)00157-6"
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "unstructured": "Computer Shogi Association Results of the 27th world computer shogi championship; www2.computer-shogi.org/wcsc27/index_e.html [accessed 29 November 2017]."
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "unstructured": "W. Steinitz The Modern Chess Instructor (Edition Olms 1990)."
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "unstructured": "E. Lasker Common Sense in Chess (Dover Publications 1965)."
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "unstructured": "J. Knudsen Essential Chess Quotations (iUniverse 2000)."
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. P. Jouppi C. Young N. Patil D. Patterson G. Agrawal R. Bajwa S. Bates S. Bhatia N. Boden A. Borchers R. Boyle P. Cantin C. Chao C. Clark J. Coriell M. Daley M. Dau J. Dean B. Gelb T. V. Ghaemmaghami R. Gottipati W. Gulland R. Hagmann C. R. Ho D. Hogberg J. Hu R. Hundt D. Hurt J. Ibarz A. Jaffey A. Jaworski A. Kaplan H. Khaitan D. Killebrew A. Koch N. Kumar S. Lacy J. Laudon J. Law D. Le C. Leary Z. Liu K. Lucke A. Lundin G. MacKean A. Maggiore M. Mahony K. Miller R. Nagarajan R. Narayanaswami R. Ni K. Nix T. Norrie M. Omernick N. Penukonda A. Phelps J. Ross M. Ross A. Salek E. Samadiani C. Severn G. Sizikov M. Snelham J. Souter D. Steinberg A. Swing M. Tan G. Thorson B. Tian H. Toma E. Tuttle V. Vasudevan R. Walter W. Wang E. Wilcox D. H. Yoon in Proceedings of the 44th Annual International Symposium on Computer Architecture Toronto Canada 24 to 28 June 2017 (Association for Computing Machinery 2017) pp. 1\u201312.",
+        "DOI": "10.1145/3079856.3080246"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. Coulom in Proceedings of the Sixth International Conference on Computers and Games Beijing China 29 September to 1 October 2008 (Springer 2008) pp. 113\u2013124.",
+        "DOI": "10.1007/978-3-540-87608-3_11"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "unstructured": "Newest available version of Stockfish as of 13 January 2018 (resolved_base b508f9561cc2302c129efe8d60f201ff03ee72c8) from https://github.com/official-stockfish/Stockfish/commit/."
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "unstructured": "Aperyqhapaq\u2019s evaluation files are available at https://github.com/qhapaq-49/qhapaq-bin/releases/tag/eloqhappa."
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14786445008521796"
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "unstructured": "O. Arenz \u201cMonte Carlo chess \u201d master\u2019s thesis Technische Universit\u00e4t Darmstadt (2012)."
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O. E. David N. S. Netanyahu L. Wolf in Artificial Neural Networks and Machine Learning\u2014ICANN 2016 Part II Barcelona Spain 6 to 9 September 2016 (Springer 2016) pp. 88\u201396.",
+        "DOI": "10.1007/978-3-319-44781-0_11"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "unstructured": "T. Marsland Encyclopedia of Artificial Intelligence S. Shapiro Ed. (Wiley 1987)."
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0004-3702(01)00110-2"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "first-page": "1068",
+        "article-title": "On-line policy improvement using Monte-Carlo search",
+        "volume": "9",
+        "author": "Tesauro G.",
+        "year": "1996",
+        "unstructured": "G. Tesauro, G. R. Galperin, On-line policy improvement using Monte-Carlo search. Adv. Neural Inf. Process. Syst. 9, 1068\u20131074 (1996).",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "first-page": "1069",
+        "article-title": "Is learning the n-th thing any easier than learning the first?",
+        "volume": "8",
+        "author": "Thrun S.",
+        "year": "1995",
+        "unstructured": "S. Thrun, Is learning the n-th thing any easier than learning the first? Adv. Neural Inf. Process. Syst. 8, 1069\u20131076 (1995).",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "e_1_3_2_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0020-0255(99)00093-6"
+      },
+      {
+        "key": "e_1_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0304-3975(00)00078-5"
+      },
+      {
+        "key": "e_1_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1007634325138"
+      },
+      {
+        "key": "e_1_3_2_41_2",
+        "first-page": "1937",
+        "article-title": "Bootstrapping from game tree search",
+        "volume": "22",
+        "author": "Veness J.",
+        "year": "2009",
+        "unstructured": "J. Veness, D. Silver, A. Blair, W. Uther, Bootstrapping from game tree search. Adv. Neural Inf. Process. Syst. 22, 1937\u20131945 (2009).",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "e_1_3_2_42_2",
+        "unstructured": "T. Kaneko K. Hoki in Advances in Computer Games \u2013 13th International Conference ACG 2011 Revised Selected Papers Tilburg Netherlands 20 to 22 November 2011 (Springer 2012) pp. 158\u2013169."
+      },
+      {
+        "key": "e_1_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1613/jair.4217"
+      },
+      {
+        "key": "e_1_3_2_44_2",
+        "unstructured": "M. Lai \u201cGiraffe: Using deep reinforcement learning to play chess \u201d master\u2019s thesis Imperial College London (2015)."
+      },
+      {
+        "key": "e_1_3_2_45_2",
+        "first-page": "5366",
+        "article-title": "Thinking fast and slow with Deep Learning and Tree Search",
+        "volume": "30",
+        "author": "Anthony T.",
+        "year": "2017",
+        "unstructured": "T. Anthony, Z. Tian, D. Barber, Thinking fast and slow with Deep Learning and Tree Search. Adv. Neural Inf. Process. Syst. 30, 5366\u20135376 (2017).",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "e_1_3_2_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0004-3702(75)90019-3"
+      },
+      {
+        "key": "e_1_3_2_47_2",
+        "unstructured": "R. Ramanujan A. Sabharwal B. Selman in Proceedings of the 26th Conference on Uncertainty in Artificial Intelligence (UAI 2010) Catalina Island CA 8 to 11 July (AUAI Press 2010)."
+      },
+      {
+        "key": "e_1_3_2_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10472-011-9258-6"
+      },
+      {
+        "key": "e_1_3_2_49_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "K. He X. Zhang S. Ren J. Sun in Computer Vision \u2013 ECCV 2016 14th European Conference Part IV Amsterdam Netherlands 11 to 14 October 2016 (Springer 2016) pp. 630\u2013645.",
+        "DOI": "10.1007/978-3-319-46493-0_38"
+      },
+      {
+        "key": "e_1_3_2_51_2",
+        "unstructured": "365Chess: Chess Games Database Online; https://www.365chess.com/."
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.science.org/doi/pdf/10.1126/science.aar6404",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2026-04-04T09:55:18Z",
+      "timestamp": 1775296518000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.science.org/doi/10.1126/science.aar6404"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          7
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "6419",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            12,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1126/science.aar6404"
+    ],
+    "URL": "https://doi.org/10.1126/science.aar6404",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.734563425.793562967",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0036-8075",
+      "1095-9203"
+    ],
+    "issn-type": [
+      {
+        "value": "0036-8075",
+        "type": "print"
+      },
+      {
+        "value": "1095-9203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          7
+        ]
+      ]
+    }
+  }
+}

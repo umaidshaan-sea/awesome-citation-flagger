@@ -1,0 +1,684 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s12517-021-08071-6",
+  "url": "https://api.crossref.org/works/10.1007%2Fs12517-021-08071-6",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:12.901894+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T12:05:42Z",
+      "timestamp": 1772712342972,
+      "version": "3.50.1"
+    },
+    "reference-count": 23,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "17",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              13
+            ]
+          ],
+          "date-time": "2021-08-13T00:00:00Z",
+          "timestamp": 1628812800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              13
+            ]
+          ],
+          "date-time": "2021-08-13T00:00:00Z",
+          "timestamp": 1628812800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Arab J Geosci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1007/s12517-021-08071-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2021-08-13T18:02:32Z",
+      "timestamp": 1628877752000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "RETRACTED ARTICLE: Experimental study on the mechanical properties of unsaturated soils and the effects of dry-wet cycles\u2014taking coastal cities as examples"
+    ],
+    "prefix": "10.1007",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Qinghai",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mingbao",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lihua",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "8071_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "30",
+        "DOI": "10.4236/jep.2010.11005",
+        "volume": "1",
+        "author": "N Aghazadeh",
+        "year": "2010",
+        "unstructured": "Aghazadeh N, Mogaddam A (2010) Assessment of groundwater quality and its suitability for drinking and agricultural uses in the Oshnavieh Area, Northwest of Iran. J Environ Prot 1:30\u201340",
+        "journal-title": "J Environ Prot"
+      },
+      {
+        "key": "8071_CR2",
+        "first-page": "1",
+        "volume": "1",
+        "author": "S Ahmad",
+        "year": "2005",
+        "unstructured": "Ahmad S (2005) Irrigation and energy nexus-managing energy and water use for reducing subsidy on electric tubewells in Balochistan. Water for Balochistan Policy Briefings 1:1\u201312",
+        "journal-title": "Water for Balochistan Policy Briefings"
+      },
+      {
+        "key": "8071_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "911",
+        "DOI": "10.30541/v46i4IIpp.911-937",
+        "volume": "46",
+        "author": "S Ahmad",
+        "year": "2007",
+        "unstructured": "Ahmad S (2007a) Land and water resources of Pakistan\u2014a critical assessment. Pak Dev Rev 46:911\u2013937",
+        "journal-title": "Pak Dev Rev"
+      },
+      {
+        "key": "8071_CR4",
+        "first-page": "2010",
+        "volume": "3",
+        "author": "S Ahmad",
+        "year": "2007",
+        "unstructured": "Ahmad S (2007b) The persistent drought of Balochistan and impacts on water availability and Agriculture. Water for Balochistan: Policy Briefings 3:2010\u20132011",
+        "journal-title": "Water for Balochistan: Policy Briefings"
+      },
+      {
+        "key": "8071_CR5",
+        "first-page": "1",
+        "volume": "3",
+        "author": "S Ahmad",
+        "year": "2007",
+        "unstructured": "Ahmad S (2007c) Karez\u2013 cultural heritage of natural and agricultural sectors and an interminable system of harvesting groundwater in Balochistan. Water for Balochistan-Policy Brief 3:1\u201313",
+        "journal-title": "Water for Balochistan-Policy Brief"
+      },
+      {
+        "key": "8071_CR6",
+        "first-page": "230",
+        "volume": "56",
+        "author": "HN Ahmed",
+        "year": "2006",
+        "unstructured": "Ahmed HN, Niaz M, Amin MA et al (2006) Typhoid perforation still a common problem: situation in Pakistan in comparison to other countries of low human development. J Pak Med Assoc 56:230",
+        "journal-title": "J Pak Med Assoc"
+      },
+      {
+        "key": "8071_CR7",
+        "first-page": "20",
+        "volume": "10",
+        "author": "R Alam",
+        "year": "2017",
+        "unstructured": "Alam R, Iqbal A, Kamran K et al (2017) Hospital wastes management at different government and private hospitals of Quetta city in Balochistan, Pakistan. J Biodivers Environ Sci 10:20\u201325",
+        "journal-title": "J Biodivers Environ Sci"
+      },
+      {
+        "key": "8071_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1038/srep30012",
+        "volume": "6",
+        "author": "M Alamgir",
+        "year": "2016",
+        "unstructured": "Alamgir M, Campbell MJ, Turton SM et al (2016) Degraded tropical rain forests possess valuable carbon storage opportunities in a complex, forested landscape. Sci Rep 6:1\u201310",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "8071_CR9",
+        "volume-title": "Balochistan\u2019s water. Dawn",
+        "author": "W Ali",
+        "year": "2018",
+        "unstructured": "Ali W, Kakar A (2018) Balochistan\u2019s water. Dawn. Karachi, Pakistan https://www.dawn.com/news/1401324"
+      },
+      {
+        "key": "8071_CR10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ashraf M (2020) Groundwater management in Balochistan, Pakistan: a case study of Karez rehabilitation. The World Bank 1-0",
+        "DOI": "10.1596/33241"
+      },
+      {
+        "key": "8071_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "49",
+        "DOI": "10.1016/j.ijdrr.2013.05.002",
+        "volume": "5",
+        "author": "M Ashraf",
+        "year": "2013",
+        "unstructured": "Ashraf M, Routray JK (2013) Perception and understanding of drought and coping strategies of farming households in north-west Balochistan. Int J Disaster Risk Reduction 5:49\u201360",
+        "journal-title": "Int J Disaster Risk Reduction"
+      },
+      {
+        "key": "8071_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "16",
+        "DOI": "10.3390/su9091611",
+        "volume": "9",
+        "author": "M Baloch",
+        "year": "2017",
+        "unstructured": "Baloch M, Abro S, Kaloi G et al (2017) A research on electricity generation from wind corridors of Pakistan (two provinces): a technical proposal for remote zones. Sustainability 9:16\u201311",
+        "journal-title": "Sustainability"
+      },
+      {
+        "key": "8071_CR13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bhatti S, Khattak M, Roohi R (2008) Planning water resource management in Pishin-Lora river basin of Balochistan using GIS/RS techniques. 2008 2nd International Conference on Advances in Space Technologies, 29-30 November 2008",
+        "DOI": "10.1109/ICAST.2008.4747693"
+      },
+      {
+        "key": "8071_CR14",
+        "unstructured": "Brindha K, Elango L (2011) Fluoride in groundwater: causes, implications and mitigation measures. In: Monroy SD (ed) Fluoride Properties, Applications and Environmental Management, pp 111\u2013136"
+      },
+      {
+        "key": "8071_CR15",
+        "first-page": "133",
+        "volume": "5",
+        "author": "M Butt",
+        "year": "2016",
+        "unstructured": "Butt M, Khair SM (2016) Cost of illness of water-borne diseases: a case study of Quetta. J Appl Emerg Sci 5:133\u2013143",
+        "journal-title": "J Appl Emerg Sci"
+      },
+      {
+        "key": "8071_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1155/2017/7908183",
+        "volume": "2017",
+        "author": "M Daud",
+        "year": "2017",
+        "unstructured": "Daud M, Nafees M, Ali S et al (2017) Drinking water quality status and contamination in Pakistan. Biomed Res Int 2017:1\u201318",
+        "journal-title": "Biomed Res Int"
+      },
+      {
+        "key": "8071_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "38",
+        "DOI": "10.1016/j.kjss.2016.01.008",
+        "volume": "37",
+        "author": "P Doungmanee",
+        "year": "2016",
+        "unstructured": "Doungmanee P (2016) The nexus of agricultural water use and economic development level. Kasetsart J Soc Sci 37:38\u201345",
+        "journal-title": "Kasetsart J Soc Sci"
+      },
+      {
+        "key": "8071_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1023",
+        "DOI": "10.30541/v46i4IIpp.1023-1049",
+        "volume": "46",
+        "author": "U Farooq",
+        "year": "2007",
+        "unstructured": "Farooq U, Ahmad M, Jasra W (2007) Natural resource conservation, poverty alleviation, and farmer partnership. Pak Dev Rev 46:1023\u20131049",
+        "journal-title": "Pak Dev Rev"
+      },
+      {
+        "key": "8071_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "339",
+        "DOI": "10.1007/s10661-007-9872-2",
+        "volume": "140",
+        "author": "S Farooq",
+        "year": "2008",
+        "unstructured": "Farooq S, Hashmi I, Qazi IA, Qaiser S, Rasheed S (2008) Monitoring of coliforms and chlorine residual in water distribution network of Rawalpindi, Pakistan. Environ Monit Assess 140:339\u2013347",
+        "journal-title": "Environ Monit Assess"
+      },
+      {
+        "key": "8071_CR20",
+        "first-page": "127",
+        "volume-title": "Handbook of Engineering Hydrology Modeling, Climate Change and Variability",
+        "author": "MR Farzaneh",
+        "year": "2014",
+        "unstructured": "Farzaneh MR, Eslamian S, Mirnezami SJE (2014) Climate change: uncertainty, impact and adaptation. In: Eslamian S (ed) Handbook of Engineering Hydrology Modeling, Climate Change and Variability, 1st edn. CRC Press, Taylor & Francis Group, London, pp 127\u2013146",
+        "edition": "1"
+      },
+      {
+        "key": "8071_CR21",
+        "first-page": "185",
+        "volume": "12",
+        "author": "M Ghoraba",
+        "year": "2013",
+        "unstructured": "Ghoraba M, Khan D (2013) Hydrochemistry and groundwater quality assessment in Balochistan province, Pakistan. Int J Res Rev Appl Sci 12:185\u2013199",
+        "journal-title": "Int J Res Rev Appl Sci"
+      },
+      {
+        "key": "8071_CR22",
+        "unstructured": "Halcrow (2007) Supporting public resource management in Balochistan. Basin-wideWater Resources Availability and Use. Asian Development Bank: Supporting Public Resource Management in Balochistan"
+      },
+      {
+        "key": "8071_CR23",
+        "volume-title": "Effectiveness of the delay action/storage dams in Balochistan",
+        "author": "H Pakistan",
+        "year": "2008",
+        "unstructured": "Pakistan H, Cameos (2008) Effectiveness of the delay action/storage dams in Balochistan. Supporting Public Resource Management in Balochistan, Quetta"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1007/s12517-021-08471-8",
+        "type": "expression_of_concern",
+        "label": "Expression of concern",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              28
+            ]
+          ],
+          "date-time": "2021-09-28T00:00:00Z",
+          "timestamp": 1632787200000
+        },
+        "record-id": "32932"
+      },
+      {
+        "DOI": "10.1007/s12517-021-09199-1",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              6
+            ]
+          ],
+          "date-time": "2021-12-06T00:00:00Z",
+          "timestamp": 1638748800000
+        },
+        "record-id": "34554"
+      },
+      {
+        "DOI": "10.1007/s12517-021-08071-6",
+        "type": "expression_of_concern",
+        "label": "Expression of concern",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              28
+            ]
+          ],
+          "date-time": "2021-09-28T00:00:00Z",
+          "timestamp": 1632787200000
+        }
+      },
+      {
+        "DOI": "10.1007/s12517-021-08071-6",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              6
+            ]
+          ],
+          "date-time": "2021-12-06T00:00:00Z",
+          "timestamp": 1638748800000
+        }
+      },
+      {
+        "DOI": "10.1007/s12517-021-09199-1",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              6
+            ]
+          ],
+          "date-time": "2021-12-06T00:00:00Z",
+          "timestamp": 1638748800000
+        }
+      },
+      {
+        "DOI": "10.1007/s12517-021-08471-8",
+        "type": "expression_of_concern",
+        "label": "Expression of concern",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              28
+            ]
+          ],
+          "date-time": "2021-09-28T00:00:00Z",
+          "timestamp": 1632787200000
+        }
+      }
+    ],
+    "container-title": [
+      "Arabian Journal of Geosciences"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12517-021-08071-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s12517-021-08071-6",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12517-021-08071-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T11:04:45Z",
+      "timestamp": 1772708685000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s12517-021-08071-6"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          13
+        ]
+      ]
+    },
+    "references-count": 23,
+    "journal-issue": {
+      "issue": "17",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "8071"
+    ],
+    "URL": "https://doi.org/10.1007/s12517-021-08071-6",
+    "relation": {},
+    "ISSN": [
+      "1866-7511",
+      "1866-7538"
+    ],
+    "issn-type": [
+      {
+        "value": "1866-7511",
+        "type": "print"
+      },
+      {
+        "value": "1866-7538",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "11 June 2021",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "19 July 2021",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "13 August 2021",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "6 December 2021",
+        "order": 5,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 6,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This article has been retracted. Please see the Retraction Notice for more detail:",
+        "order": 7,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s12517-021-09199-1",
+        "URL": "https://doi.org/10.1007/s12517-021-09199-1",
+        "order": 8,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "28 September 2021",
+        "order": 9,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "ExpressionOfConcern",
+        "order": 10,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "An Editorial Expression of Concern to this paper has been published:",
+        "order": 11,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1007/s12517-021-08471-8",
+        "URL": "https://doi.org/10.1007/s12517-021-08471-8",
+        "order": 12,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare that they have no competing interests.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      }
+    ],
+    "article-number": "1768"
+  }
+}

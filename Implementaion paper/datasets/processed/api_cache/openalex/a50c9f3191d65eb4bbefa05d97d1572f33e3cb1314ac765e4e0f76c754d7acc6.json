@@ -1,0 +1,1197 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.arabjc.2021.102998",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.arabjc.2021.102998",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:57.706208+00:00",
+  "record": {
+    "id": "https://openalex.org/W3118274196",
+    "doi": "https://doi.org/10.1016/j.arabjc.2021.102998",
+    "title": "RETRACTED: Two Zn(II) coordination polymers: Selective detection Fe3+ ion and inhibitory activity on the liver cancer viability by regulating the prolyl hydroxylase-3",
+    "display_name": "RETRACTED: Two Zn(II) coordination polymers: Selective detection Fe3+ ion and inhibitory activity on the liver cancer viability by regulating the prolyl hydroxylase-3",
+    "publication_year": 2021,
+    "publication_date": "2021-01-14",
+    "ids": {
+      "openalex": "https://openalex.org/W3118274196",
+      "doi": "https://doi.org/10.1016/j.arabjc.2021.102998",
+      "mag": "3118274196"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.arabjc.2021.102998",
+      "doi": "https://doi.org/10.1016/j.arabjc.2021.102998",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.arabjc.2021.102998",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2357026",
+        "display_name": "Arabian Journal of Chemistry",
+        "issn_l": "1878-5352",
+        "issn": [
+          "1878-5352",
+          "1878-5379"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-b",
+          "jufo-1",
+          "poland-70"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Arabian Journal of Chemistry",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.arabjc.2021.102998",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5100697029",
+          "display_name": "Xin Yu",
+          "orcid": "https://orcid.org/0000-0003-0314-9030",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0314-9030"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108480",
+            "display_name": "Second Affiliated Hospital of Nanchang University",
+            "ror": "https://ror.org/01nxv5c88",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xin Yu",
+        "raw_affiliation_strings": [
+          "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5077073059",
+          "display_name": "Tao Jin",
+          "orcid": "https://orcid.org/0000-0003-4523-7688",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4523-7688"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108480",
+            "display_name": "Second Affiliated Hospital of Nanchang University",
+            "ror": "https://ror.org/01nxv5c88",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tao Jin",
+        "raw_affiliation_strings": [
+          "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5065724891",
+          "display_name": "Fei Lu",
+          "orcid": "https://orcid.org/0000-0002-2335-312X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2335-312X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108480",
+            "display_name": "Second Affiliated Hospital of Nanchang University",
+            "ror": "https://ror.org/01nxv5c88",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fei Lu",
+        "raw_affiliation_strings": [
+          "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5102168368",
+          "display_name": "Zhijian Luo",
+          "orcid": "https://orcid.org/0000-0002-5952-9094",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-5952-9094"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108480",
+            "display_name": "Second Affiliated Hospital of Nanchang University",
+            "ror": "https://ror.org/01nxv5c88",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zhi-Jian Luo",
+        "raw_affiliation_strings": [
+          "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100331541",
+          "display_name": "Cong Liu",
+          "orcid": "https://orcid.org/0009-0000-6067-8794",
+          "observed_orcids": [
+            "https://orcid.org/0009-0000-6067-8794",
+            "https://orcid.org/0000-0001-6766-7852"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210108480",
+            "display_name": "Second Affiliated Hospital of Nanchang University",
+            "ror": "https://ror.org/01nxv5c88",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Cong Liu",
+        "raw_affiliation_strings": [
+          "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatobiliary and Pancreatic Surgery, Second Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China",
+            "institution_ids": [
+              "https://openalex.org/I4210108480"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5109474938",
+          "display_name": "Wangxun Jin",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210098734",
+            "display_name": "Zhejiang Cancer Hospital",
+            "ror": "https://ror.org/0144s0951",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210098734"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210165038",
+            "display_name": "University of Chinese Academy of Sciences",
+            "ror": "https://ror.org/05qbk4x57",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210165038"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Wang-Xun Jin",
+        "raw_affiliation_strings": [
+          "Department of Hepatobiliary and Pancreatic Surgery, Zhejiang Cancer Hospital Cancer Hospital of the University of Chinese Academy of Sciences, Hangzhou, Zhejiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatobiliary and Pancreatic Surgery, Zhejiang Cancer Hospital Cancer Hospital of the University of Chinese Academy of Sciences, Hangzhou, Zhejiang, China",
+            "institution_ids": [
+              "https://openalex.org/I4210098734",
+              "https://openalex.org/I4210165038"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5109474938"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210098734",
+      "https://openalex.org/I4210165038"
+    ],
+    "apc_list": {
+      "value": 1250,
+      "currency": "USD",
+      "value_usd": 1250
+    },
+    "apc_paid": {
+      "value": 1250,
+      "currency": "USD",
+      "value_usd": 1250
+    },
+    "fwci": 0.4045,
+    "has_fulltext": false,
+    "cited_by_count": 5,
+    "citation_normalized_percentile": {
+      "value": 0.49168966,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 93,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "14",
+      "issue": "3",
+      "first_page": "102998",
+      "last_page": "102998"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10096",
+      "display_name": "Metal-Organic Frameworks: Synthesis and Applications",
+      "score": 0.9761000275611877,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1604",
+        "display_name": "Inorganic Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10096",
+        "display_name": "Metal-Organic Frameworks: Synthesis and Applications",
+        "score": 0.9761000275611877,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1604",
+          "display_name": "Inorganic Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/16",
+          "display_name": "Chemistry"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10163",
+        "display_name": "Metal complexes synthesis and properties",
+        "score": 0.006800000090152025,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2730",
+          "display_name": "Oncology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11279",
+        "display_name": "Lanthanide and Transition Metal Complexes",
+        "score": 0.005200000014156103,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/zinc-ii-coordination-polymer",
+        "display_name": "zinc(II) coordination polymer",
+        "score": 0.8960000276565552
+      },
+      {
+        "id": "https://openalex.org/keywords/luminescence-quenching",
+        "display_name": "luminescence quenching",
+        "score": 0.9300000071525574
+      },
+      {
+        "id": "https://openalex.org/keywords/prolyl-hydroxylase-3",
+        "display_name": "prolyl hydroxylase 3",
+        "score": 0.8519999980926514
+      },
+      {
+        "id": "https://openalex.org/keywords/liver-cancer",
+        "display_name": "liver cancer",
+        "score": 0.6809999942779541
+      },
+      {
+        "id": "https://openalex.org/keywords/hepg2-cells",
+        "display_name": "HepG2 cells",
+        "score": 0.9539999961853027
+      },
+      {
+        "id": "https://openalex.org/keywords/cell-viability-inhibition",
+        "display_name": "cell viability inhibition",
+        "score": 0.6809999942779541
+      },
+      {
+        "id": "https://openalex.org/keywords/1-2-bis-4-pyridyl-ethane",
+        "display_name": "1,2-bis(4-pyridyl)ethane",
+        "score": 0.972000002861023
+      },
+      {
+        "id": "https://openalex.org/keywords/mixed-ligand-synthesis",
+        "display_name": "mixed-ligand synthesis",
+        "score": 0.7319999933242798
+      },
+      {
+        "id": "https://openalex.org/keywords/blue-emission",
+        "display_name": "blue emission",
+        "score": 0.6959999799728394
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.9401916265487671
+      },
+      {
+        "id": "https://openalex.org/C116569031",
+        "wikidata": "https://www.wikidata.org/wiki/Q899107",
+        "display_name": "Ligand (biochemistry)",
+        "level": 3,
+        "score": 0.7006454467773438
+      },
+      {
+        "id": "https://openalex.org/C2776127813",
+        "wikidata": "https://www.wikidata.org/wiki/Q424003",
+        "display_name": "Carbazole",
+        "level": 2,
+        "score": 0.6417504549026489
+      },
+      {
+        "id": "https://openalex.org/C2781432337",
+        "wikidata": "https://www.wikidata.org/wiki/Q5168035",
+        "display_name": "Coordination polymer",
+        "level": 3,
+        "score": 0.48271581530570984
+      },
+      {
+        "id": "https://openalex.org/C2777454769",
+        "wikidata": "https://www.wikidata.org/wiki/Q11172462",
+        "display_name": "Methylene",
+        "level": 2,
+        "score": 0.47709590196609497
+      },
+      {
+        "id": "https://openalex.org/C148869448",
+        "wikidata": "https://www.wikidata.org/wiki/Q184240",
+        "display_name": "Luminescence",
+        "level": 2,
+        "score": 0.47122159600257874
+      },
+      {
+        "id": "https://openalex.org/C2779191827",
+        "wikidata": "https://www.wikidata.org/wiki/Q422134",
+        "display_name": "Methylene blue",
+        "level": 4,
+        "score": 0.4346998631954193
+      },
+      {
+        "id": "https://openalex.org/C96232424",
+        "wikidata": "https://www.wikidata.org/wiki/Q4118072",
+        "display_name": "Cancer cell",
+        "level": 3,
+        "score": 0.4287763833999634
+      },
+      {
+        "id": "https://openalex.org/C53227056",
+        "wikidata": "https://www.wikidata.org/wiki/Q189152",
+        "display_name": "Viability assay",
+        "level": 3,
+        "score": 0.4214671850204468
+      },
+      {
+        "id": "https://openalex.org/C71240020",
+        "wikidata": "https://www.wikidata.org/wiki/Q186011",
+        "display_name": "Stereochemistry",
+        "level": 1,
+        "score": 0.39933231472969055
+      },
+      {
+        "id": "https://openalex.org/C145148216",
+        "wikidata": "https://www.wikidata.org/wiki/Q36496",
+        "display_name": "Ion",
+        "level": 2,
+        "score": 0.39315223693847656
+      },
+      {
+        "id": "https://openalex.org/C8010536",
+        "wikidata": "https://www.wikidata.org/wiki/Q160398",
+        "display_name": "Crystallography",
+        "level": 1,
+        "score": 0.34018224477767944
+      },
+      {
+        "id": "https://openalex.org/C75473681",
+        "wikidata": "https://www.wikidata.org/wiki/Q188651",
+        "display_name": "Photochemistry",
+        "level": 1,
+        "score": 0.3123093843460083
+      },
+      {
+        "id": "https://openalex.org/C155647269",
+        "wikidata": "https://www.wikidata.org/wiki/Q243455",
+        "display_name": "Medicinal chemistry",
+        "level": 1,
+        "score": 0.2782529592514038
+      },
+      {
+        "id": "https://openalex.org/C170493617",
+        "wikidata": "https://www.wikidata.org/wiki/Q208467",
+        "display_name": "Receptor",
+        "level": 2,
+        "score": 0.25744280219078064
+      },
+      {
+        "id": "https://openalex.org/C121608353",
+        "wikidata": "https://www.wikidata.org/wiki/Q12078",
+        "display_name": "Cancer",
+        "level": 2,
+        "score": 0.23485127091407776
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.15806564688682556
+      },
+      {
+        "id": "https://openalex.org/C1491633281",
+        "wikidata": "https://www.wikidata.org/wiki/Q7868",
+        "display_name": "Cell",
+        "level": 2,
+        "score": 0.15290313959121704
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "wikidata": "https://www.wikidata.org/wiki/Q11351",
+        "display_name": "Organic chemistry",
+        "level": 1,
+        "score": 0.09260189533233643
+      },
+      {
+        "id": "https://openalex.org/C65165184",
+        "wikidata": "https://www.wikidata.org/wiki/Q218831",
+        "display_name": "Photocatalysis",
+        "level": 3,
+        "score": 0.06734588742256165
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C161790260",
+        "wikidata": "https://www.wikidata.org/wiki/Q82264",
+        "display_name": "Catalysis",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C49040817",
+        "wikidata": "https://www.wikidata.org/wiki/Q193091",
+        "display_name": "Optoelectronics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.arabjc.2021.102998",
+        "doi": "https://doi.org/10.1016/j.arabjc.2021.102998",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.arabjc.2021.102998",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2357026",
+          "display_name": "Arabian Journal of Chemistry",
+          "issn_l": "1878-5352",
+          "issn": [
+            "1878-5352",
+            "1878-5379"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "poland-70"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal of Chemistry",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:645c31c69678409b8578ed5548735db9",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/645c31c69678409b8578ed5548735db9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Arabian Journal of Chemistry, Vol 14, Iss 3, Pp 102998- (2021)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.arabjc.2021.102998",
+      "doi": "https://doi.org/10.1016/j.arabjc.2021.102998",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.arabjc.2021.102998",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2357026",
+        "display_name": "Arabian Journal of Chemistry",
+        "issn_l": "1878-5352",
+        "issn": [
+          "1878-5352",
+          "1878-5379"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-b",
+          "jufo-1",
+          "poland-70"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Arabian Journal of Chemistry",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Good health and well-being",
+        "id": "https://metadata.un.org/sdg/3",
+        "score": 0.4043000042438507
+      }
+    ],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G3940848410",
+        "display_name": "FAT10\u975e\u4f9d\u8d56p53\u589e\u5f3a\u809d\u764c\u7ec6\u80de\u5316\u7597\u654f\u611f\u6027\u7684\u7814\u7a76",
+        "funder_award_id": "81360338",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      },
+      {
+        "id": "https://openalex.org/G8202722206",
+        "display_name": null,
+        "funder_award_id": "20192BBG70036",
+        "funder_id": "https://openalex.org/F4320325437",
+        "funder_display_name": "Jiangsu Science and Technology Department"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320321001",
+        "display_name": "National Natural Science Foundation of China",
+        "ror": "https://ror.org/01h0zpd94"
+      },
+      {
+        "id": "https://openalex.org/F4320325437",
+        "display_name": "Jiangsu Science and Technology Department",
+        "ror": null
+      },
+      {
+        "id": "https://openalex.org/F4320326696",
+        "display_name": "Jiangxi Provincial Department of Science and Technology",
+        "ror": "https://ror.org/00t30yz20"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 27,
+    "referenced_works": [
+      "https://openalex.org/W1968814720",
+      "https://openalex.org/W2035390703",
+      "https://openalex.org/W2109974385",
+      "https://openalex.org/W2322520180",
+      "https://openalex.org/W2326151502",
+      "https://openalex.org/W2417238941",
+      "https://openalex.org/W2470425917",
+      "https://openalex.org/W2510098190",
+      "https://openalex.org/W2559386428",
+      "https://openalex.org/W2593170853",
+      "https://openalex.org/W2604682381",
+      "https://openalex.org/W2794780295",
+      "https://openalex.org/W2906455444",
+      "https://openalex.org/W2946591120",
+      "https://openalex.org/W2947170026",
+      "https://openalex.org/W2972086440",
+      "https://openalex.org/W2979492800",
+      "https://openalex.org/W2981526407",
+      "https://openalex.org/W2983471637",
+      "https://openalex.org/W2986469282",
+      "https://openalex.org/W2986505177",
+      "https://openalex.org/W3016449244",
+      "https://openalex.org/W3022640496",
+      "https://openalex.org/W3025679087",
+      "https://openalex.org/W3043585602",
+      "https://openalex.org/W3082285449",
+      "https://openalex.org/W3088697554"
+    ],
+    "related_works": [
+      "https://openalex.org/W2991651583",
+      "https://openalex.org/W3169403866",
+      "https://openalex.org/W3083915416",
+      "https://openalex.org/W2801664180",
+      "https://openalex.org/W2887530714",
+      "https://openalex.org/W3175263529",
+      "https://openalex.org/W4389954335",
+      "https://openalex.org/W3173503054",
+      "https://openalex.org/W4310464270",
+      "https://openalex.org/W3132278176"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0
+      ],
+      "the": [
+        1,
+        42,
+        45,
+        51,
+        53,
+        60,
+        71,
+        76,
+        81,
+        89,
+        92,
+        96,
+        103,
+        117
+      ],
+      "current": [
+        2
+      ],
+      "study,": [
+        3
+      ],
+      "via": [
+        4,
+        70
+      ],
+      "utilizing": [
+        5
+      ],
+      "a": [
+        6,
+        35
+      ],
+      "mixed-ligand": [
+        7
+      ],
+      "method,": [
+        8
+      ],
+      "two": [
+        9
+      ],
+      "new": [
+        10
+      ],
+      "coordination": [
+        11
+      ],
+      "polymers": [
+        12
+      ],
+      "(CPs)": [
+        13
+      ],
+      "of": [
+        14,
+        44,
+        78,
+        91
+      ],
+      "{[Zn5(pmbcd)2(\u03bc3-OH)2(H2O)4(DMF)2]\u00b74DMF}n": [
+        15
+      ],
+      "(1)": [
+        16
+      ],
+      "and": [
+        17,
+        25
+      ],
+      "{[Zn2(pmbcd)(bpea)2]\u00b72H2O\u00b72DMF}n": [
+        18
+      ],
+      "(2)": [
+        19
+      ],
+      "(in": [
+        20
+      ],
+      "which": [
+        21,
+        64
+      ],
+      "bpea": [
+        22
+      ],
+      "=": [
+        23,
+        27
+      ],
+      "1,2-bis(4-pyridyl)ethane": [
+        24
+      ],
+      "H4pmbcd": [
+        26,
+        38
+      ],
+      "9,9\u2032-(1,4-phenylenebis(methylene))bis(9H-carbazole-3,6-dicarboxylic": [
+        28
+      ],
+      "acid))": [
+        29
+      ],
+      "have": [
+        30
+      ],
+      "been": [
+        31
+      ],
+      "successfully": [
+        32
+      ],
+      "prepared": [
+        33
+      ],
+      "using": [
+        34
+      ],
+      "tetracarboxylate": [
+        36
+      ],
+      "ligand": [
+        37
+      ],
+      "without": [
+        39
+      ],
+      "or": [
+        40
+      ],
+      "with": [
+        41
+      ],
+      "present": [
+        43
+      ],
+      "second": [
+        46
+      ],
+      "co-ligand": [
+        47
+      ],
+      "bpea.": [
+        48
+      ],
+      "Furthermore,": [
+        49
+      ],
+      "in": [
+        50,
+        108
+      ],
+      "water,": [
+        52
+      ],
+      "complex": [
+        54
+      ],
+      "1": [
+        55
+      ],
+      "containing": [
+        56
+      ],
+      "Zn5": [
+        57
+      ],
+      "clusters": [
+        58
+      ],
+      "exhibits": [
+        59
+      ],
+      "strong": [
+        61
+      ],
+      "blue": [
+        62
+      ],
+      "luminescence,": [
+        63
+      ],
+      "can": [
+        65
+      ],
+      "only": [
+        66
+      ],
+      "be": [
+        67
+      ],
+      "selectively": [
+        68
+      ],
+      "quenched": [
+        69
+      ],
+      "contaminant": [
+        72
+      ],
+      "Fe3+": [
+        73
+      ],
+      "ion.": [
+        74
+      ],
+      "For": [
+        75
+      ],
+      "treatment": [
+        77
+      ],
+      "liver": [
+        79,
+        98,
+        110
+      ],
+      "cancer,": [
+        80
+      ],
+      "Cell": [
+        82
+      ],
+      "Counting": [
+        83
+      ],
+      "Kit-8": [
+        84
+      ],
+      "assay": [
+        85
+      ],
+      "was": [
+        86,
+        113
+      ],
+      "implemented": [
+        87
+      ],
+      "for": [
+        88
+      ],
+      "assessment": [
+        90
+      ],
+      "compounds\u2019": [
+        93
+      ],
+      "inhibition": [
+        94
+      ],
+      "on": [
+        95
+      ],
+      "HepG2": [
+        97,
+        109
+      ],
+      "cancer": [
+        99,
+        111
+      ],
+      "cells": [
+        100,
+        112
+      ],
+      "viability.": [
+        101
+      ],
+      "Moreover,": [
+        102
+      ],
+      "prolyl": [
+        104
+      ],
+      "hydroxylase-3": [
+        105
+      ],
+      "relative": [
+        106
+      ],
+      "expression": [
+        107
+      ],
+      "also": [
+        114
+      ],
+      "detected": [
+        115
+      ],
+      "by": [
+        116
+      ],
+      "real": [
+        118
+      ],
+      "time": [
+        119
+      ],
+      "reverse": [
+        120
+      ],
+      "transcription": [
+        121
+      ],
+      "polymerase": [
+        122
+      ],
+      "chain": [
+        123
+      ],
+      "reaction.": [
+        124
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2026-10-12T09:40:04.860316",
+    "created_date": "2021-01-18T00:00:00"
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1002/14651858.cd003819",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1002%2F14651858.cd003819",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:34.222084+00:00",
+  "record": {
+    "id": "https://openalex.org/W1646967859",
+    "doi": "https://doi.org/10.1002/14651858.cd003819",
+    "title": "Iodine supplementation for preventing iodine deficiency disorders",
+    "display_name": "Iodine supplementation for preventing iodine deficiency disorders",
+    "publication_year": 2002,
+    "publication_date": "2002-03-31",
+    "ids": {
+      "openalex": "https://openalex.org/W1646967859",
+      "doi": "https://doi.org/10.1002/14651858.cd003819",
+      "mag": "1646967859"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1002/14651858.cd003819",
+      "doi": "https://doi.org/10.1002/14651858.cd003819",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1002/14651858.cd003819",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Cochrane Database of Systematic Reviews (Protocol)",
+      "raw_type": "reference-entry"
+    },
+    "volume": null,
+    "type": "reference-entry",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5076405762",
+          "display_name": "Christine Clar",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210119775",
+            "display_name": "Cochrane",
+            "ror": "https://ror.org/02pvrbg60",
+            "country_code": "BR",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210119775",
+              "https://openalex.org/I72054575"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210139775",
+            "display_name": "Cochrane",
+            "ror": "https://ror.org/048ztsn21",
+            "country_code": "DK",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I4210139775"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210161245",
+            "display_name": "Cochrane Canada",
+            "ror": "https://ror.org/05cf80b72",
+            "country_code": "CA",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210161245",
+              "https://openalex.org/I72054575"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I72054575",
+            "display_name": "Cochrane",
+            "ror": "https://ror.org/00dbkrq51",
+            "country_code": "GB",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I72054575"
+            ]
+          }
+        ],
+        "countries": [
+          "BR",
+          "CA",
+          "DK",
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "C Clar",
+        "raw_affiliation_strings": [
+          "Cochrane Metabolic and Endocrine Disorders Group",
+          "80798 Munich, GERMANY"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cochrane Metabolic and Endocrine Disorders Group",
+            "institution_ids": [
+              "https://openalex.org/I4210119775",
+              "https://openalex.org/I4210139775",
+              "https://openalex.org/I4210161245",
+              "https://openalex.org/I72054575"
+            ]
+          },
+          {
+            "raw_affiliation_string": "80798 Munich, GERMANY",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5049111671",
+          "display_name": "Tong Wu",
+          "orcid": "https://orcid.org/0000-0001-6778-7985",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-6778-7985"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I24185976",
+            "display_name": "Sichuan University",
+            "ror": "https://ror.org/011ashp19",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I24185976"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2800091995",
+            "display_name": "West China Medical Center of Sichuan University",
+            "ror": "https://ror.org/040nggs60",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I24185976",
+              "https://openalex.org/I2800091995"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "T Wu",
+        "raw_affiliation_strings": [
+          "West China Medical Centre, Sichuan University",
+          "80798 Munich, GERMANY"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "West China Medical Centre, Sichuan University",
+            "institution_ids": [
+              "https://openalex.org/I24185976",
+              "https://openalex.org/I2800091995"
+            ]
+          },
+          {
+            "raw_affiliation_string": "80798 Munich, GERMANY",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 5,
+    "institutions_distinct_count": 6,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": null,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": null,
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10293",
+      "display_name": "Thyroid Disorders and Treatments",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2712",
+        "display_name": "Endocrinology, Diabetes and Metabolism"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10293",
+        "display_name": "Thyroid Disorders and Treatments",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2712",
+          "display_name": "Endocrinology, Diabetes and Metabolism"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10596",
+        "display_name": "Child Nutrition and Water Access",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2916",
+          "display_name": "Nutrition and Dietetics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/29",
+          "display_name": "Nursing"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10329",
+        "display_name": "Thyroid Cancer Diagnosis and Treatment",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2712",
+          "display_name": "Endocrinology, Diabetes and Metabolism"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/iodine-supplementation",
+        "display_name": "iodine supplementation",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/iodine-deficiency-disorders",
+        "display_name": "iodine deficiency disorders",
+        "score": 0.9980000257492065
+      },
+      {
+        "id": "https://openalex.org/keywords/iodized-salt",
+        "display_name": "iodized salt",
+        "score": 0.9610000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/iodine-tablets",
+        "display_name": "iodine tablets",
+        "score": 0.9869999885559082
+      },
+      {
+        "id": "https://openalex.org/keywords/hyperthyroidism",
+        "display_name": "hyperthyroidism",
+        "score": 0.8230000138282776
+      },
+      {
+        "id": "https://openalex.org/keywords/anaphylaxis",
+        "display_name": "anaphylaxis",
+        "score": 0.8339999914169312
+      },
+      {
+        "id": "https://openalex.org/keywords/autoimmune-thyroid-disease",
+        "display_name": "autoimmune thyroid disease",
+        "score": 0.7820000052452087
+      },
+      {
+        "id": "https://openalex.org/keywords/adverse-effects",
+        "display_name": "adverse effects",
+        "score": 0.734000027179718
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C539932907",
+        "wikidata": "https://www.wikidata.org/wiki/Q1103",
+        "display_name": "Iodine",
+        "level": 2,
+        "score": 0.8833317756652832
+      },
+      {
+        "id": "https://openalex.org/C163713842",
+        "wikidata": "https://www.wikidata.org/wiki/Q902318",
+        "display_name": "Iodised salt",
+        "level": 4,
+        "score": 0.8226773738861084
+      },
+      {
+        "id": "https://openalex.org/C2778660577",
+        "wikidata": "https://www.wikidata.org/wiki/Q18377123",
+        "display_name": "Iodine deficiency",
+        "level": 3,
+        "score": 0.794634222984314
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.5769069790840149
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.4358443021774292
+      },
+      {
+        "id": "https://openalex.org/C27081682",
+        "wikidata": "https://www.wikidata.org/wiki/Q269829",
+        "display_name": "Placebo",
+        "level": 3,
+        "score": 0.43096059560775757
+      },
+      {
+        "id": "https://openalex.org/C134018914",
+        "wikidata": "https://www.wikidata.org/wiki/Q162606",
+        "display_name": "Endocrinology",
+        "level": 1,
+        "score": 0.4230797290802002
+      },
+      {
+        "id": "https://openalex.org/C42407357",
+        "wikidata": "https://www.wikidata.org/wiki/Q521",
+        "display_name": "Physiology",
+        "level": 1,
+        "score": 0.34730470180511475
+      },
+      {
+        "id": "https://openalex.org/C526584372",
+        "wikidata": "https://www.wikidata.org/wiki/Q16399",
+        "display_name": "Thyroid",
+        "level": 2,
+        "score": 0.2854888439178467
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.2535363435745239
+      },
+      {
+        "id": "https://openalex.org/C142724271",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208",
+        "display_name": "Pathology",
+        "level": 1,
+        "score": 0.08054786920547485
+      },
+      {
+        "id": "https://openalex.org/C204787440",
+        "wikidata": "https://www.wikidata.org/wiki/Q188504",
+        "display_name": "Alternative medicine",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "wikidata": "https://www.wikidata.org/wiki/Q11351",
+        "display_name": "Organic chemistry",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1002/14651858.cd003819",
+        "doi": "https://doi.org/10.1002/14651858.cd003819",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1002/14651858.cd003819",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Cochrane Database of Systematic Reviews (Protocol)",
+        "raw_type": "reference-entry"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Good health and well-being",
+        "score": 0.98580002784729,
+        "id": "https://metadata.un.org/sdg/3"
+      },
+      {
+        "display_name": "Zero hunger",
+        "score": 0.4359000027179718,
+        "id": "https://metadata.un.org/sdg/2"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 20,
+    "referenced_works": [
+      "https://openalex.org/W1969039611",
+      "https://openalex.org/W1982469004",
+      "https://openalex.org/W1986013324",
+      "https://openalex.org/W1986215651",
+      "https://openalex.org/W1996546298",
+      "https://openalex.org/W2003779798",
+      "https://openalex.org/W2011035900",
+      "https://openalex.org/W2017111098",
+      "https://openalex.org/W2022321920",
+      "https://openalex.org/W2053154970",
+      "https://openalex.org/W2058689626",
+      "https://openalex.org/W2072076614",
+      "https://openalex.org/W2077564553",
+      "https://openalex.org/W2085584196",
+      "https://openalex.org/W2106502858",
+      "https://openalex.org/W2124554719",
+      "https://openalex.org/W2146916553",
+      "https://openalex.org/W2417086862",
+      "https://openalex.org/W2473729131",
+      "https://openalex.org/W4214559180"
+    ],
+    "related_works": [
+      "https://openalex.org/W2356689399",
+      "https://openalex.org/W1527046274",
+      "https://openalex.org/W826670357",
+      "https://openalex.org/W2039244506",
+      "https://openalex.org/W7097347403",
+      "https://openalex.org/W4255107935",
+      "https://openalex.org/W2622814241",
+      "https://openalex.org/W3200274871",
+      "https://openalex.org/W1035708480",
+      "https://openalex.org/W4245402631"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "is": [
+        1,
+        59,
+        62
+      ],
+      "a": [
+        2,
+        5,
+        72
+      ],
+      "protocol": [
+        3
+      ],
+      "for": [
+        4,
+        22
+      ],
+      "Cochrane": [
+        6
+      ],
+      "Review": [
+        7
+      ],
+      "(Intervention).": [
+        8
+      ],
+      "The": [
+        9
+      ],
+      "objectives": [
+        10
+      ],
+      "are": [
+        11
+      ],
+      "as": [
+        12,
+        53
+      ],
+      "follows:": [
+        13,
+        54
+      ],
+      "To": [
+        14
+      ],
+      "assess": [
+        15
+      ],
+      "the": [
+        16,
+        43,
+        63
+      ],
+      "effects": [
+        17,
+        80
+      ],
+      "of": [
+        18,
+        45,
+        68
+      ],
+      "iodine": [
+        19,
+        32,
+        46,
+        57,
+        69,
+        83
+      ],
+      "supplementation": [
+        20,
+        58,
+        70,
+        84
+      ],
+      "(using,": [
+        21
+      ],
+      "example,": [
+        23
+      ],
+      "iodised": [
+        24,
+        26,
+        28,
+        30
+      ],
+      "salt,": [
+        25
+      ],
+      "oil,": [
+        27
+      ],
+      "water,": [
+        29
+      ],
+      "bread,": [
+        31
+      ],
+      "tablets)": [
+        33
+      ],
+      "in": [
+        34,
+        71
+      ],
+      "comparison": [
+        35
+      ],
+      "with": [
+        36,
+        39,
+        82
+      ],
+      "placebo": [
+        37
+      ],
+      "or": [
+        38,
+        90
+      ],
+      "each": [
+        40
+      ],
+      "other": [
+        41
+      ],
+      "on": [
+        42
+      ],
+      "incidence": [
+        44
+      ],
+      "deficiency": [
+        47
+      ],
+      "disorders.": [
+        48
+      ],
+      "Additional": [
+        49
+      ],
+      "questions": [
+        50
+      ],
+      "will": [
+        51
+      ],
+      "be": [
+        52
+      ],
+      "1.": [
+        55
+      ],
+      "If": [
+        56
+      ],
+      "effective,": [
+        60
+      ],
+      "what": [
+        61
+      ],
+      "optimum": [
+        64
+      ],
+      "mode": [
+        65
+      ],
+      "and": [
+        66
+      ],
+      "level": [
+        67
+      ],
+      "given": [
+        73
+      ],
+      "situation?": [
+        74
+      ],
+      "2.": [
+        75
+      ],
+      "Are": [
+        76
+      ],
+      "there": [
+        77
+      ],
+      "any": [
+        78
+      ],
+      "adverse": [
+        79
+      ],
+      "associated": [
+        81
+      ],
+      "(e.g.": [
+        85
+      ],
+      "iodine\u2010induced": [
+        86,
+        88
+      ],
+      "hyperthyroidism,": [
+        87
+      ],
+      "anaphylaxis": [
+        89
+      ],
+      "auto\u2010immunity)?": [
+        91
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2013,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-22T18:32:59.640997",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

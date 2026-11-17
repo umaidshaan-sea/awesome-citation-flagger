@@ -1,0 +1,992 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1145/3581789",
+  "url": "https://api.crossref.org/works/10.1145%2F3581789",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:18.119404+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2026-10-25T20:01:35Z",
+      "timestamp": 1792958495371,
+      "version": "4.5.0"
+    },
+    "reference-count": 130,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              6
+            ]
+          ],
+          "date-time": "2023-04-06T00:00:00Z",
+          "timestamp": 1680739200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001602",
+        "name": "Science Foundation Ireland",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "16/RC/3872"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "16/RC/3872"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001602",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "ACM Trans. Knowl. Discov. Data"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          31
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Functional data clustering is to identify heterogeneous morphological patterns in the continuous functions underlying the discrete measurements/observations. Application of functional data clustering has appeared in many publications across various fields of sciences, including but not limited to biology, (bio)chemistry, engineering, environmental science, medical science, psychology, social science, and so on. The phenomenal growth of the application of functional data clustering indicates the urgent need for a systematic approach to develop efficient clustering methods and scalable algorithmic implementations. On the other hand, there is abundant literature on the cluster analysis of time series, trajectory data, spatio-temporal data, and so on, which are all related to functional data. Therefore, an overarching structure of existing functional data clustering methods will enable the cross-pollination of ideas across various research fields. We here conduct a comprehensive review of original clustering methods for functional data. We propose a systematic taxonomy that explores the connections and differences among the existing functional data clustering methods and relates them to the conventional multivariate clustering methods. The structure of the taxonomy is built on three main attributes of a functional data clustering method and therefore is more reliable than existing categorizations. The review aims to bridge the gap between the functional data analysis community and the clustering community and to generate new principles for functional data clustering.</jats:p>",
+    "DOI": "10.1145/3581789",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2023-01-24T12:02:24Z",
+      "timestamp": 1674561744000
+    },
+    "page": "1-34",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "Review of Clustering Methods for Functional Data"
+    ],
+    "prefix": "10.1145",
+    "volume": "17",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3807-297X",
+        "authenticated-orcid": false,
+        "given": "Mimi",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Trinity College Dublin, Dublin, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7956-7939",
+        "authenticated-orcid": false,
+        "given": "Andrew",
+        "family": "Parnell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Maynooth University, Dublin, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9469.00350"
+      },
+      {
+        "key": "e_1_3_3_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sta4.240"
+      },
+      {
+        "key": "e_1_3_3_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.is.2015.04.007"
+      },
+      {
+        "key": "e_1_3_3_5_2",
+        "unstructured": "Elie Aljalbout Vladimir Golkov Yawar Siddiqui Maximilian Strobel and Daniel Cremers. 2018. Clustering with deep learning: Taxonomy and new methods. arXiv:1801.07648. Retrieved from https://arxiv.org/abs/1801.07648."
+      },
+      {
+        "key": "e_1_3_3_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10462-019-09736-1"
+      },
+      {
+        "key": "e_1_3_3_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/S0219691313500033"
+      },
+      {
+        "key": "e_1_3_3_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3161602"
+      },
+      {
+        "key": "e_1_3_3_9_2",
+        "first-page": "228",
+        "volume-title": "Proceedings of the 32nd International Conference on Machine Learning",
+        "author": "Bahadori Mohammad Taha",
+        "year": "2015",
+        "unstructured": "Mohammad Taha Bahadori, David Kale, Yingying Fan, and Yan Liu. 2015. Functional subspace clustering with application to time series. In Proceedings of the 32nd International Conference on Machine Learning. PMLR, Lille, France, 228\u2013237."
+      },
+      {
+        "key": "e_1_3_3_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/09622802211002865"
+      },
+      {
+        "key": "e_1_3_3_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10851-013-0490-z"
+      },
+      {
+        "key": "e_1_3_3_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2018.02.055"
+      },
+      {
+        "key": "e_1_3_3_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03610918.2020.1764033"
+      },
+      {
+        "key": "e_1_3_3_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/15-AOAS861"
+      },
+      {
+        "key": "e_1_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11222-014-9505-x"
+      },
+      {
+        "key": "e_1_3_3_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11634-011-0095-6"
+      },
+      {
+        "key": "e_1_3_3_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/21-AOAS1547"
+      },
+      {
+        "key": "e_1_3_3_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/bimj.201500027"
+      },
+      {
+        "key": "e_1_3_3_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/env.1128"
+      },
+      {
+        "key": "e_1_3_3_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2021.3130535"
+      },
+      {
+        "key": "e_1_3_3_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00357-016-9212-8"
+      },
+      {
+        "key": "e_1_3_3_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/widm.1298"
+      },
+      {
+        "key": "e_1_3_3_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patrec.2020.04.024"
+      },
+      {
+        "key": "e_1_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/biom.12161"
+      },
+      {
+        "key": "e_1_3_3_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03610918.2018.1494280"
+      },
+      {
+        "key": "e_1_3_3_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00357-020-09382-1"
+      },
+      {
+        "key": "e_1_3_3_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9868.2007.00605.x"
+      },
+      {
+        "key": "e_1_3_3_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1198/016214508000000814"
+      },
+      {
+        "key": "e_1_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/16-EJS1198"
+      },
+      {
+        "key": "e_1_3_3_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2006.07.011"
+      },
+      {
+        "key": "e_1_3_3_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jspi.2013.04.002"
+      },
+      {
+        "key": "e_1_3_3_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2006.07.012"
+      },
+      {
+        "key": "e_1_3_3_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/09-AOS741"
+      },
+      {
+        "key": "e_1_3_3_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/rssb.12310"
+      },
+      {
+        "key": "e_1_3_3_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/rssc.12404"
+      },
+      {
+        "key": "e_1_3_3_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03610910903168603"
+      },
+      {
+        "key": "e_1_3_3_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmva.2016.10.008"
+      },
+      {
+        "key": "e_1_3_3_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2018.06.010"
+      },
+      {
+        "key": "e_1_3_3_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/16-AOAS923"
+      },
+      {
+        "key": "e_1_3_3_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2021.107219"
+      },
+      {
+        "key": "e_1_3_3_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2014.09.048"
+      },
+      {
+        "key": "e_1_3_3_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00357-005-0013-8"
+      },
+      {
+        "key": "e_1_3_3_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1541-0420.2012.01828.x"
+      },
+      {
+        "key": "e_1_3_3_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0242197"
+      },
+      {
+        "key": "e_1_3_3_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9574.2012.00522.x"
+      },
+      {
+        "key": "e_1_3_3_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2021.107376"
+      },
+      {
+        "key": "e_1_3_3_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TNNLS.2020.2979444"
+      },
+      {
+        "key": "e_1_3_3_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/rssc.12082"
+      },
+      {
+        "key": "e_1_3_3_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1198/106186007X257296"
+      },
+      {
+        "key": "e_1_3_3_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9868.2008.00656.x"
+      },
+      {
+        "key": "e_1_3_3_51_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1145/3097983.3098060",
+        "volume-title": "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "author": "Hallac David",
+        "year": "2017",
+        "unstructured": "David Hallac, Sagar Vare, Stephen Boyd, and Jure Leskovec. 2017. Toeplitz inverse covariance-based clustering of multivariate time series data. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Association for Computing Machinery, 215\u2013223. DOI:10.1145/3097983.3098060"
+      },
+      {
+        "key": "e_1_3_3_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2009.11.022"
+      },
+      {
+        "key": "e_1_3_3_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.2014.957286"
+      },
+      {
+        "key": "e_1_3_3_54_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1007/978-3-030-47426-3_25",
+        "volume-title": "Proceedings of the Advances in Knowledge Discovery and Data Mining",
+        "author": "Ienco Dino",
+        "year": "2020",
+        "unstructured": "Dino Ienco and Roberto Interdonato. 2020. Deep multivariate time series embedding clustering via attentive-gated autoencoder. In Proceedings of the Advances in Knowledge Discovery and Data Mining. Springer International Publishing, 318\u2013329. DOI:10.1007/978-3-030-47426-3_25"
+      },
+      {
+        "key": "e_1_3_3_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9876.2012.01062.x"
+      },
+      {
+        "key": "e_1_3_3_56_2",
+        "first-page": "1",
+        "article-title": "Covariance-based clustering in multivariate and functional data analysis",
+        "volume": "17",
+        "author": "Ieva Francesca",
+        "year": "2016",
+        "unstructured": "Francesca Ieva, Anna Maria Paganoni, and Nicholas Tarabelloni. 2016. Covariance-based clustering in multivariate and functional data analysis. Journal of Machine Learning Research 17, 143 (2016), 1\u201321.",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "e_1_3_3_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2012.11.042"
+      },
+      {
+        "key": "e_1_3_3_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11634-013-0158-y"
+      },
+      {
+        "key": "e_1_3_3_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2012.12.004"
+      },
+      {
+        "key": "e_1_3_3_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1198/016214503000189"
+      },
+      {
+        "key": "e_1_3_3_61_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cjs.11680"
+      },
+      {
+        "key": "e_1_3_3_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13171-018-0143-9"
+      },
+      {
+        "key": "e_1_3_3_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00357-010-9054-8"
+      },
+      {
+        "key": "e_1_3_3_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03610926.2010.484159"
+      },
+      {
+        "key": "e_1_3_3_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmva.2020.104626"
+      },
+      {
+        "key": "e_1_3_3_66_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/12-AOAS580"
+      },
+      {
+        "key": "e_1_3_3_67_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patrec.2020.12.007"
+      },
+      {
+        "key": "e_1_3_3_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/env.2370"
+      },
+      {
+        "key": "e_1_3_3_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.2020.1764363"
+      },
+      {
+        "key": "e_1_3_3_70_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280220921912"
+      },
+      {
+        "key": "e_1_3_3_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00357-019-09313-9"
+      },
+      {
+        "key": "e_1_3_3_72_2",
+        "first-page": "1",
+        "volume-title": "Proceedings of the 2009 IEEE International Conference on Pervasive Computing and Communications",
+        "author": "Liu Jiayang",
+        "year": "2009",
+        "unstructured": "Jiayang Liu, Zhen Wang, Lin Zhong, Jehan Wickramasuriya, and Venu Vasudevan. 2009. uWave: Accelerometer-based personalized gesture recognition and its applications. In Proceedings of the 2009 IEEE International Conference on Pervasive Computing and Communications. 1\u20139. DOI:10.1109/PERCOM.2009.4912759"
+      },
+      {
+        "key": "e_1_3_3_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2008.11.019"
+      },
+      {
+        "key": "e_1_3_3_74_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1198/016214508000000247"
+      },
+      {
+        "key": "e_1_3_3_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2017.01.006"
+      },
+      {
+        "key": "e_1_3_3_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.8768"
+      },
+      {
+        "key": "e_1_3_3_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/15-STS524"
+      },
+      {
+        "key": "e_1_3_3_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10260-018-00446-6"
+      },
+      {
+        "key": "e_1_3_3_79_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ins.2018.06.035"
+      },
+      {
+        "key": "e_1_3_3_80_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1137/1.9781611974348.41",
+        "volume-title": "Proceedings of the 2016 SIAM International Conference on Data Mining",
+        "author": "Moshtaghi Masud",
+        "year": "2016",
+        "unstructured": "Masud Moshtaghi, Christopher Leckie, and James C. Bezdek. 2016. Online clustering of multivariate time-series. In Proceedings of the 2016 SIAM International Conference on Data Mining. 360\u2013368. DOI:10.1137/1.9781611974348.41"
+      },
+      {
+        "key": "e_1_3_3_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2014.01.011"
+      },
+      {
+        "key": "e_1_3_3_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sam.11366"
+      },
+      {
+        "key": "e_1_3_3_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/10-BA529"
+      },
+      {
+        "key": "e_1_3_3_84_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5705/ss.2008.285"
+      },
+      {
+        "key": "e_1_3_3_85_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/biom.12546"
+      },
+      {
+        "key": "e_1_3_3_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9868.2009.00708.x"
+      },
+      {
+        "key": "e_1_3_3_87_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1145/3416921.3416942",
+        "volume-title": "Proceedings of the 2020 4th International Conference on Cloud and Big Data Computing",
+        "author": "Pokhrel Aakash Raj",
+        "year": "2020",
+        "unstructured": "Aakash Raj Pokhrel and Sujing Wang. 2020. Design of fast and scalable clustering algorithm on spark. In Proceedings of the 2020 4th International Conference on Cloud and Big Data Computing. Association for Computing Machinery, 43\u201347. DOI:10.1145/3416921.3416942"
+      },
+      {
+        "key": "e_1_3_3_88_2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/b98888",
+        "volume-title": "Functional Data Analysis (2nd. ed.)",
+        "author": "Ramsay James O.",
+        "year": "2005",
+        "unstructured": "James O. Ramsay and Bernard Silverman. 2005. Functional Data Analysis (2nd. ed.). Springer New York."
+      },
+      {
+        "key": "e_1_3_3_89_2",
+        "volume-title": "Proceedings of the Advances in Neural Information Processing Systems",
+        "author": "Rasmussen Carl",
+        "year": "2001",
+        "unstructured": "Carl Rasmussen and Zoubin Ghahramani. 2001. Infinite mixtures of gaussian process experts. In Proceedings of the Advances in Neural Information Processing Systems. MIT."
+      },
+      {
+        "key": "e_1_3_3_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9868.2006.00545.x"
+      },
+      {
+        "key": "e_1_3_3_91_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11634-018-0312-7"
+      },
+      {
+        "key": "e_1_3_3_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11222-016-9645-2"
+      },
+      {
+        "key": "e_1_3_3_93_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.spasta.2020.100468"
+      },
+      {
+        "key": "e_1_3_3_94_2",
+        "first-page": "755",
+        "volume-title": "Proceedings of the 21st International Conference on Artificial Intelligence and Statistics",
+        "author": "Saad Feras",
+        "year": "2018",
+        "unstructured": "Feras Saad and Vikash Mansinghka. 2018. Temporally-reweighted chinese restaurant process mixtures for clustering, imputing, and forecasting multivariate time series. In Proceedings of the 21st International Conference on Artificial Intelligence and Statistics. PMLR, 755\u2013764."
+      },
+      {
+        "key": "e_1_3_3_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2009.12.008"
+      },
+      {
+        "key": "e_1_3_3_96_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00180-020-00958-4"
+      },
+      {
+        "key": "e_1_3_3_97_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jag.2012.03.006"
+      },
+      {
+        "key": "e_1_3_3_98_2",
+        "unstructured": "Sarem Seitz. 2021. Mixtures of Gaussian processes for regression under multiple prior distributions. arXiv:2104.09185. Retrieved from https://arxiv.org/abs/2104.09185"
+      },
+      {
+        "key": "e_1_3_3_99_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1541-0420.2011.01714.x"
+      },
+      {
+        "key": "e_1_3_3_100_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11634-020-00432-5"
+      },
+      {
+        "key": "e_1_3_3_101_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acs.744"
+      },
+      {
+        "key": "e_1_3_3_102_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11222-008-9055-1"
+      },
+      {
+        "key": "e_1_3_3_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2012.01.017"
+      },
+      {
+        "key": "e_1_3_3_104_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2010.184"
+      },
+      {
+        "key": "e_1_3_3_105_2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4939-4020-2",
+        "volume-title": "Functional and Shape Data Analysis (1st. ed.)",
+        "author": "Srivastava Anuj",
+        "year": "2016",
+        "unstructured": "Anuj Srivastava and Eric P. Klassen. 2016. Functional and Shape Data Analysis (1st. ed.). Springer New York."
+      },
+      {
+        "key": "e_1_3_3_106_2",
+        "unstructured": "Anuj Srivastava Wei Wu Sebastian Kurtek Eric Klassen and James Stephen Marron. 2011. Registration of functional data using fisher-rao metric. arXiv:1103.3817. Retrieved from https://arxiv.org/abs/1103.3817"
+      },
+      {
+        "key": "e_1_3_3_107_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/14-BA925"
+      },
+      {
+        "key": "e_1_3_3_108_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1198/000313007X171016"
+      },
+      {
+        "key": "e_1_3_3_109_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00357-003-0007-3"
+      },
+      {
+        "key": "e_1_3_3_110_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1109/ICDM51629.2021.00074",
+        "volume-title": "Proceedings of the 2021 IEEE International Conference on Data Mining",
+        "author": "Tobin Joshua",
+        "year": "2021",
+        "unstructured": "Joshua Tobin and Mimi Zhang. 2021. DCF: An efficient and robust density-based clustering method. In Proceedings of the 2021 IEEE International Conference on Data Mining. 629\u2013638. DOI:10.1109/ICDM51629.2021.00074"
+      },
+      {
+        "key": "e_1_3_3_111_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00180-006-0013-0"
+      },
+      {
+        "key": "e_1_3_3_112_2",
+        "first-page": "633",
+        "volume-title": "Proceedings of the Advances in Neural Information Processing Systems.",
+        "author": "Tresp Volker",
+        "year": "2000",
+        "unstructured": "Volker Tresp. 2000. Mixtures of gaussian processes. In Proceedings of the Advances in Neural Information Processing Systems.MIT, 633\u2013639."
+      },
+      {
+        "key": "e_1_3_3_113_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0962280217710050"
+      },
+      {
+        "key": "e_1_3_3_114_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-13-43"
+      },
+      {
+        "key": "e_1_3_3_115_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3150/20-BEJ1246"
+      },
+      {
+        "key": "e_1_3_3_116_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TKDE.2020.3025580"
+      },
+      {
+        "key": "e_1_3_3_117_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11749-020-00733-z"
+      },
+      {
+        "key": "e_1_3_3_118_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TNNLS.2021.3137795"
+      },
+      {
+        "key": "e_1_3_3_119_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03610926.2021.1872636"
+      },
+      {
+        "key": "e_1_3_3_120_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2016.02.010"
+      },
+      {
+        "key": "e_1_3_3_121_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11634-012-0113-3"
+      },
+      {
+        "key": "e_1_3_3_122_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00357-017-9232-z"
+      },
+      {
+        "key": "e_1_3_3_123_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csda.2014.05.010"
+      },
+      {
+        "key": "e_1_3_3_124_2",
+        "volume-title": "Proceedings of the 2017 International Joint Conference on Neural Networks",
+        "author": "Yao Di",
+        "year": "2017",
+        "unstructured": "Di Yao, Chao Zhang, Zhihua Zhu, Jianhui Huang, and Jingping Bi. 2017. Trajectory clustering via deep representation learning. In Proceedings of the 2017 International Joint Conference on Neural Networks. DOI:10.1109/IJCNN.2017.7966345"
+      },
+      {
+        "key": "e_1_3_3_125_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1198/016214504000001745"
+      },
+      {
+        "key": "e_1_3_3_126_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00180-018-0808-9"
+      },
+      {
+        "key": "e_1_3_3_127_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00949655.2022.2053855"
+      },
+      {
+        "key": "e_1_3_3_128_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10618600.2019.1607744"
+      },
+      {
+        "key": "e_1_3_3_129_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patcog.2021.108428"
+      },
+      {
+        "key": "e_1_3_3_130_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2743025"
+      },
+      {
+        "key": "e_1_3_3_131_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/biom.13349"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Knowledge Discovery from Data"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3581789",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3581789",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2025-06-17T16:36:30Z",
+      "timestamp": 1750178190000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3581789"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          6
+        ]
+      ]
+    },
+    "references-count": 130,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            31
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/3581789"
+    ],
+    "URL": "https://doi.org/10.1145/3581789",
+    "relation": {},
+    "ISSN": [
+      "1556-4681",
+      "1556-472X"
+    ],
+    "issn-type": [
+      {
+        "value": "1556-4681",
+        "type": "print"
+      },
+      {
+        "value": "1556-472X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-07-19",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-01-18",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-04-06",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

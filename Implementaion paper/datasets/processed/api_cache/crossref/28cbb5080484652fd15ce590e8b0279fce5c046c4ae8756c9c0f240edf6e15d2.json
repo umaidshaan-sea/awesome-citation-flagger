@@ -1,0 +1,489 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.jpain.2016.01.417",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.jpain.2016.01.417",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:00.838320+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T02:37:36Z",
+      "timestamp": 1767148656743,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1016/j.jpain.2016.01.417",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "record-id": "17788"
+      },
+      {
+        "DOI": "10.1016/j.jpain.2016.01.417",
+        "type": "withdrawal",
+        "label": "Withdrawal",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        }
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2023-09-11T00:00:00Z",
+          "timestamp": 1694390400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 2719,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.com",
+        "jpain.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Journal of Pain"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jpain.2016.01.417",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          24
+        ]
+      ],
+      "date-time": "2016-03-24T00:18:28Z",
+      "timestamp": 1458778708000
+    },
+    "page": "S84",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S",
+    "title": [
+      "WITHDRAWN: (440) Opioid-Induced Nausea and Vomiting (OINV) in Post-Operative Patients: A Comparison of CL-108 to Hydrocodone 7.5 mg/Acetaminophen 325 mg"
+    ],
+    "prefix": "10.1016",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Stephen",
+        "family": "Richardson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kyle",
+        "family": "Patrick",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stephen",
+        "family": "Daniels",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Steven",
+        "family": "Royall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emily",
+        "family": "Schachtel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bing",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Marino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bernard",
+        "family": "Schachtel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.jpain.2016.01.417",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        },
+        "record-id": "17788"
+      },
+      {
+        "DOI": "10.1016/j.jpain.2016.01.417",
+        "type": "withdrawal",
+        "label": "Withdrawal",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2016-04-01T00:00:00Z",
+          "timestamp": 1459468800000
+        }
+      },
+      {
+        "DOI": "10.1016/j.jpain.2016.04.001",
+        "type": "erratum",
+        "label": "Erratum",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2016-06-01T00:00:00Z",
+          "timestamp": 1464739200000
+        }
+      }
+    ],
+    "container-title": [
+      "The Journal of Pain"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1526590016004478?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1526590016004478?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2023-09-16T19:13:05Z",
+      "timestamp": 1694891585000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1526590016004478"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1526590016004478"
+    ],
+    "URL": "https://doi.org/10.1016/j.jpain.2016.01.417",
+    "relation": {},
+    "ISSN": [
+      "1526-5900"
+    ],
+    "issn-type": [
+      {
+        "value": "1526-5900",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "WITHDRAWN: (440) Opioid-Induced Nausea and Vomiting (OINV) in Post-Operative Patients: A Comparison of CL-108 to Hydrocodone 7.5 mg/Acetaminophen 325 mg",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The Journal of Pain",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jpain.2016.01.417",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright \u00a9 2016 Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.earlhumdev.2020.105261",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.earlhumdev.2020.105261",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:11.080780+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T01:53:32Z",
+      "timestamp": 1767146012308,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1016/j.earlhumdev.2020.105261",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2021-03-24T00:00:00Z",
+          "timestamp": 1616544000000
+        },
+        "record-id": "68004"
+      },
+      {
+        "DOI": "10.1016/j.earlhumdev.2020.105261",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2020-11-12T00:00:00Z",
+          "timestamp": 1605139200000
+        }
+      }
+    ],
+    "reference-count": 20,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2020-11-01T00:00:00Z",
+          "timestamp": 1604188800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2020-11-01T00:00:00Z",
+          "timestamp": 1604188800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000781",
+        "name": "European Research Council",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000781",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Early Human Development"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.earlhumdev.2020.105261",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2020-11-12T03:09:27Z",
+      "timestamp": 1605150567000
+    },
+    "page": "105261",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "WITHDRAWN: Dealing with COVID-19 in small European island states: Cyprus, Iceland and Malta"
+    ],
+    "prefix": "10.1016",
+    "author": [
+      {
+        "given": "Sarah",
+        "family": "Cuschieri",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elena",
+        "family": "Pallari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Amalia",
+        "family": "Hatziyianni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rannveig",
+        "family": "Sigurvinsdottir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Inga Dora",
+        "family": "Sigfusdottir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "\u00c1r\u00fan Krist\u00edn",
+        "family": "Sigur\u00f0ard\u00f3ttir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0005",
+        "first-page": "1",
+        "article-title": "COVID-19 panic, solidarity and equity\u2014the Malta exemplary experience",
+        "author": "Cuschieri",
+        "year": "2020",
+        "journal-title": "J. Public Health (Bangkok)"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0010",
+        "author": "University of Cyprus"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0015",
+        "author": "The Directorate of Health"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0020",
+        "series-title": "COVID-19 Public Health Response Team - Ministry for Health, COVID-19 Data Management System",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0025",
+        "series-title": "European Centre for Disease Prevention and Control, COVID-19 situation update for the EU/EEA and the UK, as of 24 September 2020",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1016/S0140-6736(20)30183-5",
+        "article-title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+        "volume": "395",
+        "author": "Huang",
+        "year": "2020",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0035",
+        "first-page": "1",
+        "article-title": "Malta\u2019s healthcare escalation for COVID-19",
+        "author": "Grech",
+        "year": "2020",
+        "journal-title": "J. Vis. Commun. Med."
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0040",
+        "author": "KNEWS"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0050",
+        "author": "Eurocities COVID-News"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0055",
+        "author": "\u00cdsland.is"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0060",
+        "author": "M.O.F.C. Press Office"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0065",
+        "author": "World Health Organization"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1186/s12913-020-5048-3",
+        "article-title": "Re-engineering the Cypriot healthcare service system",
+        "volume": "20",
+        "author": "Pallari",
+        "year": "2020",
+        "journal-title": "BMC Health Serv. Res."
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0075",
+        "first-page": "1",
+        "article-title": "Mass events trigger Malta\u2019s second peak after initial successful pandemic suppression",
+        "author": "Cuschieri",
+        "year": "2020",
+        "journal-title": "J. Community Health"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0080",
+        "author": "Press and Information Office"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.5923/j.economics.20201004.02",
+        "article-title": "The extent of COVID-19 pandemic socio-economic impact on global poverty. A global integrative multidisciplinary review",
+        "volume": "10",
+        "author": "Buheji",
+        "year": "2020",
+        "journal-title": "Am. J. Econ."
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "m2294",
+        "DOI": "10.1136/bmj.m2294",
+        "article-title": "Covid-19: risk of second wave is very real, say researchers",
+        "volume": "369",
+        "author": "Wise",
+        "year": "2020",
+        "journal-title": "BMJ."
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0095",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3233/JRS-200042",
+        "article-title": "A risk balancing act - tourism competition using health leverage in the COVID-19 era",
+        "author": "Grech",
+        "year": "2020",
+        "journal-title": "Int. J. Risk Saf. Med."
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0100",
+        "author": "Young Journalists Club"
+      },
+      {
+        "key": "10.1016/j.earlhumdev.2020.105261_bb0105",
+        "series-title": "Iceland Has Tamed Second Wave",
+        "author": "Ciric",
+        "year": "2020"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.earlhumdev.2020.105261",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2020-11-12T00:00:00Z",
+          "timestamp": 1605139200000
+        }
+      },
+      {
+        "DOI": "10.1016/j.earlhumdev.2020.105261",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2021-03-24T00:00:00Z",
+          "timestamp": 1616544000000
+        },
+        "record-id": "68004"
+      }
+    ],
+    "container-title": [
+      "Early Human Development"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0378378220307659?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0378378220307659?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2025-10-07T13:52:39Z",
+      "timestamp": 1759845159000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378378220307659"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "references-count": 20,
+    "alternative-id": [
+      "S0378378220307659"
+    ],
+    "URL": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+    "relation": {},
+    "ISSN": [
+      "0378-3782"
+    ],
+    "issn-type": [
+      {
+        "value": "0378-3782",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "WITHDRAWN: Dealing with COVID-19 in small European island states: Cyprus, Iceland and Malta",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Early Human Development",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.earlhumdev.2020.105261",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2020 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "105261"
+  }
+}

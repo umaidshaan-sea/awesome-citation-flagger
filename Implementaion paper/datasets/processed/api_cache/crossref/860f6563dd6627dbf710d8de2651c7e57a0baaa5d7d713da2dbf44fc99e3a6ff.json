@@ -1,0 +1,911 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pone.0261127",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0261127",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:38.970943+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2026-10-15T03:04:36Z",
+      "timestamp": 1792033476649,
+      "version": "4.4.0"
+    },
+    "reference-count": 52,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2021-12-16T00:00:00Z",
+          "timestamp": 1639612800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "81660373"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "81660373"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "the Key Research and Development program of Ningxia Hui Autonomous Region",
+        "award": [
+          "2018BEG02005"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2018BEG02005"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "University-level scientific research project of Ningxia Medical University",
+        "award": [
+          "XT2020008"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "XT2020008"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "abstract": "<jats:p>This study explored the mechanism by which metformin (Met) inhibits osteoclast activation and determined its effects on osteoarthritis (OA) mice. Bone marrow-derived macrophages were isolated. Osteoclastogenesis was detected using tartrate-resistant acid phosphatase (TRAP) staining. Cell proliferation was evaluated using CCK-8, F-actin rings were detected by immunofluorescence staining, and bone resorption was detected using bone slices. Nuclear factor kappa-B (NF-\u03baB) and nuclear factor of activated T-cell cytoplasmic 1 (NFATc1) were detected using luciferase assays, and the adenosine monophosphate-activated protein kinase (AMPK), NF-\u03baB, and mitogen-activated protein kinase (MAPK) signaling pathways were detected using western blotting. Finally, expression of genes involved in osteoclastogenesis was measured using quantitative polymerase chain reaction. A knee OA mouse model was established by destabilization of the medial meniscus (DMM). Male<jats:italic>C57BL/6J</jats:italic>mice were assigned to sham-operated, DMM+vehicle, and DMM+Met groups. Met (100 mg/kg/d) or vehicle was administered from the first day postoperative until sacrifice. At 4- and 8-week post OA induction, micro-computed tomography was performed to analyze microstructural changes in the subchondral bone, hematoxylin and eosin staining and Safranin-O/Fast Green staining were performed to evaluate the degenerated cartilage, TRAP-stained osteoclasts were enumerated, and receptor activator of nuclear factor \u03baB ligand (RANKL), AMPK, and NF-\u03baB were detected using immunohistochemistry. BMM proliferation was not affected by Met treatment below 2 mM. Met inhibited osteoclast formation and bone resorption in a dose-dependent manner<jats:italic>in vitro</jats:italic>. Met suppressed RANKL-induced activation of p-AMPK, NF-\u03baB, phosphorylated extracellular regulated protein kinases (p-ERK) and up-regulation of genes involved in osteoclastogenesis. Met reversed decreases in BV/TV, Tb.Th, Tb.N, and CD, and an increase in Tb.Sp at 4 weeks postoperatively. The number of osteoclasts and OARSI score were decreased by Met without effect on body weight or blood glucose levels. Met inhibited RANKL, p-AMPK, and NF-\u03baB expression in early OA. The mechanism by which Met inhibits osteoclast activation may be associated with AMPK/NF-\u03baB/ERK signaling pathway, indicating a novel strategy for OA treatment.</jats:p>",
+    "DOI": "10.1371/journal.pone.0261127",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2021-12-16T18:45:57Z",
+      "timestamp": 1639680357000
+    },
+    "page": "e0261127",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 53,
+    "title": [
+      "Metformin attenuates osteoclast-mediated abnormal subchondral bone remodeling and alleviates osteoarthritis via AMPK/NF-\u03baB/ERK signaling pathway"
+    ],
+    "prefix": "10.1371",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Haohui",
+        "family": "Guo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dong",
+        "family": "Ding",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Limei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jiangbo",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Long",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7616-3357",
+        "authenticated-orcid": true,
+        "given": "Qunhua",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "pone.0261127.ref001",
+        "doi-asserted-by": "crossref",
+        "first-page": "16072",
+        "DOI": "10.1038/nrdp.2016.72",
+        "article-title": "Osteoarthritis",
+        "volume": "2",
+        "author": "J Martel-Pelletier",
+        "year": "2016",
+        "journal-title": "Nature reviews. Disease primers"
+      },
+      {
+        "issue": "10264",
+        "key": "pone.0261127.ref002",
+        "doi-asserted-by": "crossref",
+        "first-page": "1711",
+        "DOI": "10.1016/S0140-6736(20)32230-3",
+        "article-title": "Osteoarthritis in 2020 and beyond: a Lancet Commission",
+        "volume": "396",
+        "author": "DJ Hunter",
+        "year": "2020",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "key": "pone.0261127.ref003",
+        "doi-asserted-by": "crossref",
+        "first-page": "100946",
+        "DOI": "10.1016/j.arr.2019.100946",
+        "article-title": "Gut microbiota and osteoarthritis management: An expert consensus of the European society for clinical and economic aspects of osteoporosis, osteoarthritis and musculoskeletal diseases (ESCEO)",
+        "volume": "55",
+        "author": "E Biver",
+        "year": "2019",
+        "journal-title": "AGEING RES REV"
+      },
+      {
+        "issue": "11",
+        "key": "pone.0261127.ref004",
+        "doi-asserted-by": "crossref",
+        "first-page": "632",
+        "DOI": "10.1038/nrrheum.2016.148",
+        "article-title": "Changes in the osteochondral unit during osteoarthritis: structure, function and cartilage-bone crosstalk",
+        "volume": "12",
+        "author": "SR Goldring",
+        "year": "2016",
+        "journal-title": "Nature reviews. Rheumatology"
+      },
+      {
+        "issue": "8",
+        "key": "pone.0261127.ref005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1810",
+        "DOI": "10.1002/jor.24605",
+        "article-title": "Initiating factors for the onset of OA: A systematic review of animal bone and cartilage pathology in OA",
+        "volume": "38",
+        "author": "ME Casper-Taylor",
+        "year": "2020",
+        "journal-title": "Journal of orthopaedic research: official publication of the Orthopaedic Research Society"
+      },
+      {
+        "key": "pone.0261127.ref006",
+        "doi-asserted-by": "crossref",
+        "first-page": "16028",
+        "DOI": "10.1038/boneres.2016.28",
+        "article-title": "Bone-cartilage crosstalk: a conversation for understanding osteoarthritis",
+        "volume": "4",
+        "author": "DM Findlay",
+        "year": "2016",
+        "journal-title": "BONE RES"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0261127.ref007",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1007/s007740300010",
+        "article-title": "Inter- and intracellular signaling in secondary osteoporosis",
+        "volume": "21",
+        "author": "Y Tanaka",
+        "year": "2003",
+        "journal-title": "J BONE MINER METAB"
+      },
+      {
+        "key": "pone.0261127.ref008",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1016/j.bone.2018.01.012",
+        "article-title": "Bone matrix microdamage and vascular changes characterize bone marrow lesions in the subchondral bone of knee osteoarthritis",
+        "volume": "108",
+        "author": "D Muratovic",
+        "year": "2018",
+        "journal-title": "BONE"
+      },
+      {
+        "key": "pone.0261127.ref009",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1146/annurev.micro.57.030502.090908",
+        "article-title": "Molecular pathogenicity of the oral opportunistic pathogen Actinobacillus actinomycetemcomitans",
+        "volume": "57",
+        "author": "B Henderson",
+        "year": "2003",
+        "journal-title": "ANNU REV MICROBIOL"
+      },
+      {
+        "key": "pone.0261127.ref010",
+        "first-page": "8048170",
+        "article-title": "Triptolide Inhibits Osteoclast Differentiation and Bone Resorption In Vitro via Enhancing the Production of IL-10 and TGF-\u03b21 by Regulatory T Cells",
+        "volume": "2016",
+        "author": "H Xu",
+        "year": "2016",
+        "journal-title": "MEDIAT INFLAMM"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0261127.ref011",
+        "first-page": "65",
+        "article-title": "Osteoclast formation and differentiation: an overview",
+        "volume": "59",
+        "author": "NS Soysa",
+        "year": "2012",
+        "journal-title": "Journal of medical and dental sciences"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0261127.ref012",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.7150/ijbs.13814",
+        "article-title": "Selective Regulation of MAPK Signaling Mediates RANKL-dependent Osteoclast Differentiation",
+        "volume": "12",
+        "author": "K Lee",
+        "year": "2016",
+        "journal-title": "INT J BIOL SCI"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0261127.ref013",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1002/cbf.3260",
+        "article-title": "Osteoclast differentiation gene expression profiling reveals chemokine CCL4 mediates RANKL-induced osteoclast migration and invasion via PI3K pathway",
+        "volume": "35",
+        "author": "W Xuan",
+        "year": "2017",
+        "journal-title": "CELL BIOCHEM FUNCT"
+      },
+      {
+        "issue": "8",
+        "key": "pone.0261127.ref014",
+        "doi-asserted-by": "crossref",
+        "first-page": "C39",
+        "DOI": "10.7326/ACPJC-2017-166-8-039",
+        "article-title": "Guideline: In type 2 diabetes, ACP recommends metformin monotherapy if drugs are needed for glycemic control",
+        "volume": "166",
+        "author": "R Rodriguez-Gutierrez",
+        "year": "2017",
+        "journal-title": "ANN INTERN MED"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0261127.ref015",
+        "first-page": "a25932",
+        "article-title": "Metformin: A Hopeful Promise in Aging Research",
+        "volume": "6",
+        "author": "MG Novelle",
+        "year": "2016",
+        "journal-title": "CSH PERSPECT MED"
+      },
+      {
+        "key": "pone.0261127.ref016",
+        "doi-asserted-by": "crossref",
+        "first-page": "S18",
+        "DOI": "10.1016/j.amjmed.2017.04.008",
+        "article-title": "Cardiovascular Protection in the Treatment of Type 2 Diabetes: A Review of Clinical Trial Results Across Drug Classes",
+        "volume": "130",
+        "author": "F Paneni",
+        "year": "2017",
+        "journal-title": "The American journal of medicine"
+      },
+      {
+        "key": "pone.0261127.ref017",
+        "doi-asserted-by": "crossref",
+        "first-page": "1857",
+        "DOI": "10.3389/fphys.2018.01857",
+        "article-title": "Therapeutic Options Targeting Oxidative Stress, Mitochondrial Dysfunction and Inflammation to Hinder the Progression of Vascular Complications of Diabetes",
+        "volume": "9",
+        "author": "JS Teodoro",
+        "year": "2018",
+        "journal-title": "FRONT PHYSIOL"
+      },
+      {
+        "issue": "5",
+        "key": "pone.0261127.ref018",
+        "doi-asserted-by": "crossref",
+        "first-page": "1695",
+        "DOI": "10.1002/fsn3.1006",
+        "article-title": "Metformin-induced autophagy and irisin improves INS-1 cell function and survival in high-glucose environment via AMPK/SIRT1/PGC-1\u03b1 signal pathway",
+        "volume": "7",
+        "author": "Q Li",
+        "year": "2019",
+        "journal-title": "FOOD SCI NUTR"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0261127.ref019",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2441",
+        "DOI": "10.1038/cddis.2016.334",
+        "article-title": "Metformin protects against apoptosis and senescence in nucleus pulposus cells and ameliorates disc degeneration in vivo",
+        "volume": "7",
+        "author": "D Chen",
+        "year": "2016",
+        "journal-title": "CELL DEATH DIS"
+      },
+      {
+        "issue": "23",
+        "key": "pone.0261127.ref020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1565",
+        "DOI": "10.21037/atm-20-3042",
+        "article-title": "Metformin inhibits inflammation and bone destruction in collagen-induced arthritis in rats",
+        "volume": "8",
+        "author": "KJ Fan",
+        "year": "2020",
+        "journal-title": "Annals of translational medicine"
+      },
+      {
+        "issue": "9",
+        "key": "pone.0261127.ref021",
+        "first-page": "1319",
+        "article-title": "Usefulness of metformin in diabetes-related bone disease",
+        "volume": "19",
+        "author": "I. Kanazawa",
+        "year": "2009",
+        "journal-title": "Clinical calcium"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0261127.ref022",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1042/BJ20061520",
+        "article-title": "Investigating the mechanism for AMP activation of the AMP-activated protein kinase cascade",
+        "volume": "403",
+        "author": "MJ Sanders",
+        "year": "2007",
+        "journal-title": "The Biochemical journal"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0261127.ref023",
+        "first-page": "20",
+        "article-title": "Metformin suppresses UHMWPE particle-induced osteolysis in the mouse calvaria by promoting polarization of macrophages to an anti-inflammatory phenotype",
+        "volume": "24",
+        "author": "Z Yan",
+        "year": "2018",
+        "journal-title": "Molecular medicine (Cambridge, Mass.)"
+      },
+      {
+        "issue": "131",
+        "key": "pone.0261127.ref024",
+        "article-title": "Isolation, Culture, and Differentiation of Bone Marrow Stromal Cells and Osteoclast Progenitors from Mice",
+        "author": "M DE",
+        "year": "2018",
+        "journal-title": "Journal of visualized experiments: JoVE"
+      },
+      {
+        "key": "pone.0261127.ref025",
+        "doi-asserted-by": "crossref",
+        "first-page": "19074",
+        "DOI": "10.1038/srep19074",
+        "article-title": "Dihydroartemisinin prevents breast cancer-induced osteolysis via inhibiting both breast cancer cells and osteoclasts",
+        "volume": "6",
+        "author": "F MX",
+        "year": "2016",
+        "journal-title": "SCI REP-UK"
+      },
+      {
+        "issue": "6",
+        "key": "pone.0261127.ref026",
+        "doi-asserted-by": "crossref",
+        "first-page": "526",
+        "DOI": "10.1007/s00223-013-9786-7",
+        "article-title": "Osteoclasts on bone and dentin in vitro: mechanism of trail formation and comparison of resorption behavior",
+        "volume": "93",
+        "author": "R M",
+        "year": "2013",
+        "journal-title": "CALCIFIED TISSUE INT"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0261127.ref027",
+        "article-title": "Grape Seed Proanthocyanidin Extract Prevents Bone Loss via Regulation of Osteoclast Differentiation, Apoptosis, and Proliferation",
+        "volume": "12",
+        "author": "K SC",
+        "year": "2020",
+        "journal-title": "NUTRIENTS"
+      },
+      {
+        "issue": "9",
+        "key": "pone.0261127.ref028",
+        "doi-asserted-by": "crossref",
+        "first-page": "1061",
+        "DOI": "10.1016/j.joca.2007.03.006",
+        "article-title": "The surgical destabilization of the medial meniscus (DMM) model of osteoarthritis in the 129/SvEv mouse",
+        "volume": "15",
+        "author": "G SS",
+        "year": "2007",
+        "journal-title": "OSTEOARTHR CARTILAGE"
+      },
+      {
+        "key": "pone.0261127.ref029",
+        "doi-asserted-by": "crossref",
+        "first-page": "347",
+        "DOI": "10.1186/s12906-015-0871-5",
+        "article-title": "Extracts from Aralia elata (Miq) Seem alleviate hepatosteatosis via improving hepatic insulin sensitivity",
+        "volume": "15",
+        "author": "H KA",
+        "year": "2015",
+        "journal-title": "BMC COMPLEM ALTERN M."
+      },
+      {
+        "issue": "3",
+        "key": "pone.0261127.ref030",
+        "first-page": "e174294",
+        "article-title": "V, M M. Automated assessment of bone changes in cross-sectional micro-CT studies of murine experimental osteoarthritis",
+        "volume": "12",
+        "author": "TL P DNB",
+        "year": "2017",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "issue": "6",
+        "key": "pone.0261127.ref031",
+        "doi-asserted-by": "crossref",
+        "first-page": "704",
+        "DOI": "10.1038/nm.3143",
+        "article-title": "Inhibition of TGF-\u03b2 signaling in mesenchymal stem cells of subchondral bone attenuates osteoarthritis",
+        "volume": "19",
+        "author": "Z G",
+        "year": "2013",
+        "journal-title": "NAT MED"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0261127.ref032",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.joca.2005.08.015",
+        "article-title": "Osteoarthritis cartilage histopathology: grading and staging",
+        "volume": "14",
+        "author": "M. RW",
+        "year": "2006",
+        "journal-title": "OSTEOARTHR CARTILAGE"
+      },
+      {
+        "key": "pone.0261127.ref033",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1016/j.bone.2017.08.013",
+        "article-title": "Galectin-3 as a novel regulator of osteoblast-osteoclast interaction and bone homeostasis",
+        "volume": "105",
+        "author": "S D",
+        "year": "2017",
+        "journal-title": "BONE"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0261127.ref034",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1007/s00223-002-2080-8",
+        "article-title": "Z, RM A. Material properties of subchondral bone from patients with osteoporosis or osteoarthritis by microindentation testing and electron probe microanalysis",
+        "volume": "73",
+        "author": "P AM C",
+        "year": "2003",
+        "journal-title": "CALCIFIED TISSUE INT"
+      },
+      {
+        "issue": "15",
+        "key": "pone.0261127.ref035",
+        "doi-asserted-by": "crossref",
+        "first-page": "1456",
+        "DOI": "10.1001/jama.2020.2938",
+        "article-title": "Effect of Intravenous Zoledronic Acid on Tibiofemoral Cartilage Volume Among Patients With Knee Osteoarthritis With Bone Marrow Lesions: A Randomized Clinical Trial",
+        "volume": "323",
+        "author": "C G",
+        "year": "2020",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "pone.0261127.ref036",
+        "doi-asserted-by": "crossref",
+        "first-page": "909",
+        "DOI": "10.2147/TCRM.S328510",
+        "article-title": "Association Analysis of Insulin Resistance and Osteoporosis Risk in Chinese Patients with T2DM",
+        "volume": "17",
+        "year": "2021",
+        "journal-title": "THER CLIN RISK MANAG"
+      },
+      {
+        "issue": "6",
+        "key": "pone.0261127.ref037",
+        "doi-asserted-by": "crossref",
+        "first-page": "4727",
+        "DOI": "10.18632/aging.102796",
+        "article-title": "Metformin coordinates osteoblast/osteoclast differentiation associated with ischemic osteonecrosis",
+        "volume": "12",
+        "author": "P SH",
+        "year": "2020",
+        "journal-title": "Aging"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0261127.ref038",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1021/acs.biomac.0c01488",
+        "article-title": "Metformin Hydrochloride Encapsulation by Alginate Strontium Hydrogel for Cartilage Regeneration by Reliving Cellular Senescence",
+        "volume": "22",
+        "author": "X L",
+        "year": "2021",
+        "journal-title": "BIOMACROMOLECULES"
+      },
+      {
+        "key": "pone.0261127.ref039",
+        "doi-asserted-by": "crossref",
+        "first-page": "1114",
+        "DOI": "10.3389/fphar.2020.01114",
+        "article-title": "Metformin Mitigates Cartilage Degradation by Activating AMPK/SIRT1-Mediated Autophagy in a Mouse Osteoarthritis Model",
+        "volume": "11",
+        "author": "W C",
+        "year": "2020",
+        "journal-title": "FRONT PHARMACOL"
+      },
+      {
+        "key": "pone.0261127.ref040",
+        "article-title": "Early inhibition of subchondral bone remodeling slows load-induced posttraumatic osteoarthritis development in mice",
+        "author": "Z SN",
+        "year": "2021",
+        "journal-title": "Journal of bone and mineral research: the official journal of the American Society for Bone and Mineral Research"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0261127.ref041",
+        "article-title": "Dihydroartemisinin attenuates osteoarthritis by inhibiting abnormal bone remodeling and angiogenesis in subchondral bone",
+        "volume": "47",
+        "year": "2021",
+        "journal-title": "INT J MOL MED"
+      },
+      {
+        "key": "pone.0261127.ref042",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1186/s13018-016-0346-5",
+        "article-title": "Animal models of osteoarthritis: classification, update, and measurement of outcomes",
+        "volume": "11",
+        "author": "K EL",
+        "year": "2016",
+        "journal-title": "J ORTHOP SURG RES"
+      },
+      {
+        "issue": "5",
+        "key": "pone.0261127.ref043",
+        "doi-asserted-by": "crossref",
+        "first-page": "635",
+        "DOI": "10.1136/annrheumdis-2019-216713",
+        "article-title": "Metformin limits osteoarthritis development and progression through activation of AMPK signalling",
+        "volume": "79",
+        "author": "L J",
+        "year": "2020",
+        "journal-title": "ANN RHEUM DIS"
+      },
+      {
+        "key": "pone.0261127.ref044",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1016/j.ceb.2017.01.005",
+        "article-title": "AMPK signalling in health and disease",
+        "volume": "45",
+        "author": "C D",
+        "year": "2017",
+        "journal-title": "CURR OPIN CELL BIOL"
+      },
+      {
+        "issue": "12",
+        "key": "pone.0261127.ref045",
+        "doi-asserted-by": "crossref",
+        "first-page": "2048",
+        "DOI": "10.1002/jor.23420",
+        "article-title": "Emerging role of metabolic signaling in synovial joint remodeling and osteoarthritis. Journal of orthopaedic research: official publication of the",
+        "volume": "34",
+        "author": "J RK",
+        "year": "2016",
+        "journal-title": "Orthopaedic Research Society"
+      },
+      {
+        "key": "pone.0261127.ref046",
+        "doi-asserted-by": "crossref",
+        "first-page": "43245",
+        "DOI": "10.1038/srep43245",
+        "article-title": "AMPK deficiency in chondrocytes accelerated the progression of instability-induced and ageing-associated osteoarthritis in adult mice",
+        "volume": "7",
+        "author": "Z S",
+        "year": "2017",
+        "journal-title": "SCI REP-UK"
+      },
+      {
+        "key": "pone.0261127.ref047",
+        "doi-asserted-by": "crossref",
+        "first-page": "2792738",
+        "DOI": "10.1155/2020/2792738",
+        "article-title": "\u03baLiuweidihuang Pill Alleviates Inflammation of the Testis via AMPK/SIRT1/NF-B Pathway in Aging Rats",
+        "volume": "2020",
+        "author": "W Y",
+        "year": "2020",
+        "journal-title": "Evidence-based complementary and alternative medicine: eCAM"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0261127.ref048",
+        "first-page": "65",
+        "article-title": "Osteoclast formation and differentiation: an overview",
+        "volume": "59",
+        "author": "NS Soysa",
+        "year": "2012",
+        "journal-title": "Journal of medical and dental sciences"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0261127.ref049",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.7150/ijbs.13814",
+        "article-title": "Selective Regulation of MAPK Signaling Mediates RANKL-dependent Osteoclast Differentiation",
+        "volume": "12",
+        "author": "L K",
+        "year": "2016",
+        "journal-title": "INT J BIOL SCI"
+      },
+      {
+        "key": "pone.0261127.ref050",
+        "doi-asserted-by": "crossref",
+        "first-page": "112873",
+        "DOI": "10.1016/j.jep.2020.112873",
+        "article-title": "A natural compound (LCA) isolated from Litsea cubeba inhibits RANKL-induced osteoclast differentiation by suppressing Akt and MAPK pathways in mouse bone marrow macrophages",
+        "volume": "257",
+        "author": "Y L",
+        "year": "2020",
+        "journal-title": "J ETHNOPHARMACOL"
+      },
+      {
+        "key": "pone.0261127.ref051",
+        "first-page": "9395146",
+        "article-title": "he Coumarin Derivative 5\u2019-Hydroxy Auraptene Suppresses Osteoclast Differentiation via Inhibiting MAPK and c-Fos/NFATc1 Pathways",
+        "volume": "2019",
+        "author": "A BM",
+        "year": "2019",
+        "journal-title": "BIOMED RES INT"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0261127.ref052",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.4055/cios.2012.4.3.234",
+        "article-title": "Effect of combined sex hormone replacement on bone/cartilage turnover in a murine model of osteoarthritis",
+        "volume": "4",
+        "author": "Y JH",
+        "year": "2012",
+        "journal-title": "Clinics in orthopedic surgery"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1371/journal.pone.0340042",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              8
+            ]
+          ],
+          "date-time": "2026-01-08T00:00:00Z",
+          "timestamp": 1767830400000
+        }
+      },
+      {
+        "DOI": "10.1371/journal.pone.0340042",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              8
+            ]
+          ],
+          "date-time": "2026-01-08T00:00:00Z",
+          "timestamp": 1767830400000
+        },
+        "record-id": "69489"
+      }
+    ],
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0261127",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2024-09-14T16:27:24Z",
+      "timestamp": 1726331244000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0261127"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Chi",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          16
+        ]
+      ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+      "issue": "12",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            12,
+            16
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0261127",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          16
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1025 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.cell.2013.02.044",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.cell.2013.02.044",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:42.740916+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2026-10-23T05:44:06Z",
+      "timestamp": 1792734246418,
+      "version": "4.5.0"
+    },
+    "reference-count": 65,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2013-04-01T00:00:00Z",
+          "timestamp": 1364774400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              4,
+              11
+            ]
+          ],
+          "date-time": "2014-04-11T00:00:00Z",
+          "timestamp": 1397174400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 375,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cell.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Cell"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cell.2013.02.044",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          16
+        ]
+      ],
+      "date-time": "2013-04-16T20:14:20Z",
+      "timestamp": 1366143260000
+    },
+    "page": "461-470",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 236,
+    "title": [
+      "Protein Complexes Are under Evolutionary Selection to Assemble via Ordered Pathways"
+    ],
+    "prefix": "10.1016",
+    "volume": "153",
+    "author": [
+      {
+        "given": "Joseph\u00a0A.",
+        "family": "Marsh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Helena",
+        "family": "Hern\u00e1ndez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zoe",
+        "family": "Hall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sebastian\u00a0E.",
+        "family": "Ahnert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tina",
+        "family": "Perica",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carol\u00a0V.",
+        "family": "Robinson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah\u00a0A.",
+        "family": "Teichmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "3389",
+        "DOI": "10.1093/nar/25.17.3389",
+        "article-title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs",
+        "volume": "25",
+        "author": "Altschul",
+        "year": "1997",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1006/jmbi.2001.4776",
+        "article-title": "Domain combinations in archaeal, eubacterial and eukaryotic proteomes",
+        "volume": "310",
+        "author": "Apic",
+        "year": "2001",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "6052",
+        "DOI": "10.1128/JVI.68.9.6052-6056.1994",
+        "article-title": "Ordered assembly of a functional preinitiation transcription complex, containing vaccinia virus early transcription factor and RNA polymerase, on an immobilized template",
+        "volume": "68",
+        "author": "Baldick",
+        "year": "1994",
+        "journal-title": "J.\u00a0Virol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "927",
+        "DOI": "10.1006/jmbi.2001.5288",
+        "article-title": "The geometry of domain combination in proteins",
+        "volume": "315",
+        "author": "Bashton",
+        "year": "2002",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1093/nar/28.1.235",
+        "article-title": "The Protein Data Bank",
+        "volume": "28",
+        "author": "Berman",
+        "year": "2000",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "911",
+        "DOI": "10.1016/j.jmb.2005.08.067",
+        "article-title": "Domain rearrangements in protein evolution",
+        "volume": "353",
+        "author": "Bj\u00f6rklund",
+        "year": "2005",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1002/prot.10139",
+        "article-title": "Stability of macromolecular complexes",
+        "volume": "48",
+        "author": "Brooijmans",
+        "year": "2002",
+        "journal-title": "Proteins"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "R74",
+        "DOI": "10.1186/gb-2010-11-7-r74",
+        "article-title": "Quantifying the mechanisms of domain gain in animal proteins",
+        "volume": "11",
+        "author": "Buljan",
+        "year": "2010",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "760",
+        "DOI": "10.1107/S0907444994003112",
+        "article-title": "The CCP4 suite: programs for protein crystallography",
+        "volume": "50",
+        "year": "1994",
+        "journal-title": "Acta Crystallogr. D Biol. Crystallogr."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "884",
+        "DOI": "10.1038/nature02261",
+        "article-title": "Protein folding and misfolding",
+        "volume": "426",
+        "author": "Dobson",
+        "year": "2003",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "29558",
+        "DOI": "10.1074/jbc.M602477200",
+        "article-title": "In\u00a0vitro analysis of the Escherichia coli AmtB-GlnK complex reveals a stoichiometric interaction and sensitivity to ATP and 2-oxoglutarate",
+        "volume": "281",
+        "author": "Durand",
+        "year": "2006",
+        "journal-title": "J.\u00a0Biol. Chem."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/978-0-387-39975-1_1",
+        "article-title": "Protein misassembly: macromolecular crowding and molecular chaperones",
+        "volume": "594",
+        "author": "Ellis",
+        "year": "2007",
+        "journal-title": "Adv. Exp. Med. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib13",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1186/gb-2001-2-9-research0034",
+        "article-title": "Functional associations of proteins in entire genomes by means of exhaustive detection of gene fusions",
+        "volume": "2",
+        "author": "Enright",
+        "year": "2001",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1038/47056",
+        "article-title": "Protein interaction maps for complete genomes based on gene fusion events",
+        "volume": "402",
+        "author": "Enright",
+        "year": "1999",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1351",
+        "DOI": "10.1073/pnas.71.4.1351",
+        "article-title": "An intermediate complex in the dissociation of aspartate transcarbamylase",
+        "volume": "71",
+        "author": "Evans",
+        "year": "1974",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1016/j.jmb.2006.11.017",
+        "article-title": "Modeling the evolution of protein domain architectures using maximum parsimony",
+        "volume": "366",
+        "author": "Fong",
+        "year": "2007",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1146/annurev.bi.48.070179.001245",
+        "article-title": "Probes of subunit assembly and reconstitution pathways in multisubunit proteins",
+        "volume": "48",
+        "author": "Friedman",
+        "year": "1979",
+        "journal-title": "Annu. Rev. Biochem."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "634",
+        "DOI": "10.1016/j.tibs.2010.05.005",
+        "article-title": "The 26S proteasome: assembly and function of a destructive machine",
+        "volume": "35",
+        "author": "Gallastegui",
+        "year": "2010",
+        "journal-title": "Trends Biochem. Sci."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.1006/jmbi.2001.5080",
+        "article-title": "Assignment of homology to genome sequences using a library of hidden Markov models that represent all proteins of known structure",
+        "volume": "313",
+        "author": "Gough",
+        "year": "2001",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1038/nprot.2007.73",
+        "article-title": "Determining the stoichiometry and interactions of macromolecular assemblies from mass spectrometry",
+        "volume": "2",
+        "author": "Hern\u00e1ndez",
+        "year": "2007",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "10616",
+        "DOI": "10.1021/bi960424z",
+        "article-title": "Structures of the Klebsiella aerogenes urease apoenzyme and two active-site mutants",
+        "volume": "35",
+        "author": "Jabri",
+        "year": "1996",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1107/S090744490603575X",
+        "article-title": "Macromolecular recognition in the Protein Data Bank",
+        "volume": "63",
+        "author": "Janin",
+        "year": "2007",
+        "journal-title": "Acta Crystallogr. D Biol. Crystallogr."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1186/1471-2164-8-460",
+        "article-title": "Denoising inferred functional association networks obtained by gene fusion analysis",
+        "volume": "8",
+        "author": "Kamburov",
+        "year": "2007",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1938",
+        "DOI": "10.1126/science.1136174",
+        "article-title": "Relating three-dimensional structures to protein networks provides evolutionary insights",
+        "volume": "314",
+        "author": "Kim",
+        "year": "2006",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "e124",
+        "DOI": "10.1371/journal.pcbi.0020124",
+        "article-title": "The many faces of protein-protein interactions: A compendium of interface geometry",
+        "volume": "2",
+        "author": "Kim",
+        "year": "2006",
+        "journal-title": "PLoS Comput. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1235",
+        "DOI": "10.1126/science.1176343",
+        "article-title": "Proteome organization in a genome-reduced bacterium",
+        "volume": "326",
+        "author": "K\u00fchner",
+        "year": "2009",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1016/j.tig.2004.11.007",
+        "article-title": "Relative rates of gene fusion and fission in multi-domain proteins",
+        "volume": "21",
+        "author": "Kummerfeld",
+        "year": "2005",
+        "journal-title": "Trends Genet."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "1129",
+        "DOI": "10.1126/science.1219351",
+        "article-title": "Structure of a 16-nm cage designed by using protein oligomers",
+        "volume": "336",
+        "author": "Lai",
+        "year": "2012",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib29",
+        "unstructured": "Levinthal, C. (1969). How to fold graciously. In Mossbauer Spectroscopy in Biological Systems: Proceedings of a Meeting Held at Allerton House, Monticello, Illinois, J.T.P. DeBrunner and E. Munck, eds. (Champaign, IL: University of Illinois Press), pp. 22\u201324."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1262",
+        "DOI": "10.1038/nature06942",
+        "article-title": "Assembly reflects evolution of protein complexes",
+        "volume": "453",
+        "author": "Levy",
+        "year": "2008",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1126/science.1208351",
+        "article-title": "How fast-folding proteins fold",
+        "volume": "334",
+        "author": "Lindorff-Larsen",
+        "year": "2011",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib32",
+        "first-page": "93",
+        "article-title": "Predicting functional linkages from gene fusions with confidence",
+        "volume": "1",
+        "author": "Marcotte",
+        "year": "2002",
+        "journal-title": "Appl. Bioinformatics"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "751",
+        "DOI": "10.1126/science.285.5428.751",
+        "article-title": "Detecting protein function and protein-protein interactions from genome sequences",
+        "volume": "285",
+        "author": "Marcotte",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1038/47048",
+        "article-title": "A combined algorithm for genome-wide prediction of protein function",
+        "volume": "402",
+        "author": "Marcotte",
+        "year": "1999",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "859",
+        "DOI": "10.1016/j.str.2011.03.010",
+        "article-title": "Relative solvent accessible surface area predicts protein conformational changes upon binding",
+        "volume": "19",
+        "author": "Marsh",
+        "year": "2011",
+        "journal-title": "Structure"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "643",
+        "DOI": "10.1016/j.sbi.2012.08.008",
+        "article-title": "Probing the diverse landscape of protein flexibility and binding",
+        "volume": "22",
+        "author": "Marsh",
+        "year": "2012",
+        "journal-title": "Curr. Opin. Struct. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "3486",
+        "DOI": "10.1093/emboj/cdg359",
+        "article-title": "Diversity of protein-protein interactions",
+        "volume": "22",
+        "author": "Nooren",
+        "year": "2003",
+        "journal-title": "EMBO J."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "2217",
+        "DOI": "10.1073/pnas.041614998",
+        "article-title": "Nanohedra: using symmetry to design self assembling protein cages, layers, crystals, and filaments",
+        "volume": "98",
+        "author": "Padilla",
+        "year": "2001",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1418",
+        "DOI": "10.1093/bioinformatics/btl135",
+        "article-title": "Gene fusion/fission is a major contributor to evolution of multi-domain bacterial proteins",
+        "volume": "22",
+        "author": "Pasek",
+        "year": "2006",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "5447",
+        "DOI": "10.1021/bi962794t",
+        "article-title": "A stereoselective cobalt-containing nitrile hydratase",
+        "volume": "36",
+        "author": "Payne",
+        "year": "1997",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "475",
+        "DOI": "10.1042/BST20120056",
+        "article-title": "The emergence of protein complexes: quaternary structure, dynamics and allostery. Colworth Medal Lecture",
+        "volume": "40",
+        "author": "Perica",
+        "year": "2012",
+        "journal-title": "Biochem. Soc. Trans."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1111/j.1432-1033.1993.tb17679.x",
+        "article-title": "Purification and characterization of anthranilate synthase from Catharanthus roseus",
+        "volume": "212",
+        "author": "Poulsen",
+        "year": "1993",
+        "journal-title": "Eur. J. Biochem."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "2256",
+        "DOI": "10.1002/j.1460-2075.1996.tb00579.x",
+        "article-title": "The snRNP core assembly pathway: identification of stable core protein heteromeric complexes and an snRNP subcore particle in\u00a0vitro",
+        "volume": "15",
+        "author": "Raker",
+        "year": "1996",
+        "journal-title": "EMBO J."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "e10908",
+        "DOI": "10.1371/journal.pone.0010908",
+        "article-title": "CODA: accurate detection of functional associations between proteins in eukaryotic genomes using domain fusion",
+        "volume": "5",
+        "author": "Reid",
+        "year": "2010",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "e42",
+        "DOI": "10.1371/journal.pcbi.0030042",
+        "article-title": "Deciphering protein-protein interactions. Part I. Experimental techniques and databases",
+        "volume": "3",
+        "author": "Shoemaker",
+        "year": "2007",
+        "journal-title": "PLoS Comput. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "558",
+        "DOI": "10.1038/nnano.2011.122",
+        "article-title": "Generation of protein lattices by fusing proteins with matching rotational symmetry",
+        "volume": "6",
+        "author": "Sinclair",
+        "year": "2011",
+        "journal-title": "Nat. Nanotechnol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1402",
+        "DOI": "10.1021/ac0110552",
+        "article-title": "A tandem mass spectrometer for improved transmission and analysis of large macromolecular assemblies",
+        "volume": "74",
+        "author": "Sobott",
+        "year": "2002",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "issue": "Database issue",
+        "key": "10.1016/j.cell.2013.02.044_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "D561",
+        "DOI": "10.1093/nar/gkq973",
+        "article-title": "The STRING database in 2011: functional interaction networks of proteins, globally integrated and scored",
+        "volume": "39",
+        "author": "Szklarczyk",
+        "year": "2011",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1016/j.sbi.2004.03.011",
+        "article-title": "Structure, function and evolution of multidomain proteins",
+        "volume": "14",
+        "author": "Vogel",
+        "year": "2004",
+        "journal-title": "Curr. Opin. Struct. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "7940",
+        "DOI": "10.1073/pnas.141236298",
+        "article-title": "Genes linked by fusion events are generally of the same functional category: a systematic analysis of 30 microbial genomes",
+        "volume": "98",
+        "author": "Yanai",
+        "year": "2001",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "641",
+        "DOI": "10.1016/j.sbi.2011.08.002",
+        "article-title": "Mass spectrometry: come of age for structural and dynamical biology",
+        "volume": "21",
+        "author": "Benesch",
+        "year": "2011",
+        "journal-title": "Curr. Opin. Struct. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "1712",
+        "DOI": "10.1021/bi0520479",
+        "article-title": "The structure of the carboxyltransferase component of acetyl-coA carboxylase reveals a zinc-binding motif unique to the bacterial enzyme",
+        "volume": "45",
+        "author": "Bilder",
+        "year": "2006",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "4923",
+        "DOI": "10.1021/bi101761e",
+        "article-title": "Evidence of the participation of remote residues in the catalytic activity of Co-type nitrile hydratase from Pseudomonas putida",
+        "volume": "50",
+        "author": "Brodkin",
+        "year": "2011",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "13095",
+        "DOI": "10.1073/pnas.1106915108",
+        "article-title": "Iron-containing urease in a pathogenic bacterium",
+        "volume": "108",
+        "author": "Carter",
+        "year": "2011",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1016/j.jmb.2005.02.007",
+        "article-title": "Multi-domain proteins in the three kingdoms of life: orphan domains and other unassigned regions",
+        "volume": "348",
+        "author": "Ekman",
+        "year": "2005",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib56",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1073/pnas.0609796104",
+        "article-title": "Inhibitory complex of the transmembrane ammonia channel, AmtB, and the cytosolic regulatory protein, GlnK, at 1.96 A",
+        "volume": "104",
+        "author": "Gruswitz",
+        "year": "2007",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1101/gr.205602",
+        "article-title": "Relating whole-genome expression data with protein-protein interactions",
+        "volume": "12",
+        "author": "Jansen",
+        "year": "2002",
+        "journal-title": "Genome Res."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "729",
+        "DOI": "10.1002/(SICI)1097-0134(19991201)37:4<729::AID-PROT21>3.0.CO;2-F",
+        "article-title": "Insights into the mechanisms of catalysis and heterotropic regulation of Escherichia coli aspartate transcarbamoylase based upon a structure of the enzyme complexed with the bisubstrate analogue N-phosphonacetyl-L-aspartate at 2.1 A",
+        "volume": "37",
+        "author": "Jin",
+        "year": "1999",
+        "journal-title": "Proteins"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "11030",
+        "DOI": "10.1021/bi011121u",
+        "article-title": "Allosteric control of the oligomerization of carbamoyl phosphate synthetase from Escherichia coli",
+        "volume": "40",
+        "author": "Kim",
+        "year": "2001",
+        "journal-title": "Biochemistry"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "774",
+        "DOI": "10.1016/j.jmb.2007.05.022",
+        "article-title": "Inference of macromolecular assemblies from crystalline state",
+        "volume": "372",
+        "author": "Krissinel",
+        "year": "2007",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "608",
+        "DOI": "10.1016/j.jmb.2005.07.014",
+        "article-title": "On the structural basis of the catalytic mechanism and the regulation of the alpha subunit of tryptophan synthase from Salmonella typhimurium and BX1 from maize, two evolutionarily related enzymes",
+        "volume": "352",
+        "author": "Kulik",
+        "year": "2005",
+        "journal-title": "J.\u00a0Mol. Biol."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "2468",
+        "DOI": "10.1021/ja01687a007",
+        "article-title": "Average cross-sectional areas of molecules by gaseous diffusion methods",
+        "volume": "47",
+        "author": "Mack",
+        "year": "1925",
+        "journal-title": "J.\u00a0Am. Chem. Soc."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.1002/jms.443",
+        "article-title": "Macromolecular assembly of Helicobacter pylori urease investigated by mass spectrometry",
+        "volume": "38",
+        "author": "Pinkse",
+        "year": "2003",
+        "journal-title": "J.\u00a0Mass Spectrom."
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib64",
+        "doi-asserted-by": "crossref",
+        "first-page": "6021",
+        "DOI": "10.1073/pnas.111150298",
+        "article-title": "The structures of anthranilate synthase of Serratia marcescens crystallized in the presence of (i) its substrates, chorismate and glutamine, and a product, glutamate, and (ii) its end-product inhibitor, L-tryptophan",
+        "volume": "98",
+        "author": "Spraggon",
+        "year": "2001",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/j.cell.2013.02.044_bib65",
+        "doi-asserted-by": "crossref",
+        "first-page": "2347",
+        "DOI": "10.1021/bi982517h",
+        "article-title": "Carbamoyl phosphate synthetase: closure of the B-domain as a result of nucleotide binding",
+        "volume": "38",
+        "author": "Thoden",
+        "year": "1999",
+        "journal-title": "Biochemistry"
+      }
+    ],
+    "container-title": [
+      "Cell"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009286741300278X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009286741300278X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2020-07-25T08:53:57Z",
+      "timestamp": 1595667237000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S009286741300278X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S009286741300278X"
+    ],
+    "URL": "https://doi.org/10.1016/j.cell.2013.02.044",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.718003610.793480538",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.718003610.793475631",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.718003610.793481297",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0092-8674"
+    ],
+    "issn-type": [
+      {
+        "value": "0092-8674",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Protein Complexes Are under Evolutionary Selection to Assemble via Ordered Pathways",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Cell",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cell.2013.02.044",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright \u00a9 2013 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+\documentclass[10pt,a4paper,twocolumn]{article}
+\usepackage[margin=0.78in]{geometry}
+\usepackage{fontspec}\setmainfont{DejaVu Serif}
+
+\usepackage{microtype}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs,array}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{cite}
+\setlength{\columnsep}{0.23in}
+\setlength{\parindent}{1.05em}
+\setlength{\parskip}{0.1em}
+\setlength{\floatsep}{7pt plus 2pt minus 2pt}
+\setlength{\textfloatsep}{7pt plus 2pt minus 2pt}
+\setlength{\intextsep}{7pt plus 2pt minus 2pt}
+\hypersetup{colorlinks=true,linkcolor=blue!50!black,urlcolor=blue!50!black,citecolor=blue!50!black}
+\title{\bfseries Retraction Status versus Notice-Link Availability:\\ \large An Audited Reanalysis of Crossref and OpenAlex for Citation Verification}
+\author{Md Umaid Shaan\\ Department of Information Technology and Artificial Intelligence\\ MSE2026009}
+\date{17 November 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+AI-assisted literature discovery can recommend articles without checking their publication status. This study audits a supplied frozen benchmark of 80 DOIs (40 Retraction Watch-listed articles and 40 hand-selected presumed controls), using archived Crossref and OpenAlex API responses captured on 4 November 2026. Replaying the original code reveals a consequential evaluation error: its Crossref classifier treated any self-referential typed-retraction relation as ambiguous, overriding even a distinct notice DOI when both were present. This misclassified eight self-only and eight mixed-relation cases. The legacy rule labeled only 24 of 40 positives as retracted; the corrected status rule identifies 40 of 40 in the same archived Crossref responses, matching OpenAlex and the combined method. A separate notice DOI is present for 32 of 40 positives (80\%); eight have only self-referential typed retraction updates. Four presumed controls return HTTP 404 from both services. Additionally, 24 frozen titles conflict substantially with cached Crossref titles (one positive and 23 presumed controls); four more control records are unavailable. No complete set of independently adjudicated labels was supplied. The resulting scores are therefore \emph{agreement with benchmark labels}, not independently validated real-world accuracy. We provide executable corrections, reproducible figures, per-record evidence, and transparent limitations rather than claiming an unsupported detection improvement.
+\end{abstract}
+\noindent\textbf{Keywords:} Retraction status, Crossref, OpenAlex, Retraction Watch, citation verification, provenance, data quality.
+
+\section{Introduction}
+
+In recommendation systems  and the Retrieval Augmented Generation (RAG) systems, semantic details and  inside citations are used  to recommend new pieces of academic research papers [1, 2]. However, there is no indication on whether a paper is up to date based on similarity. Papers may still have a high similarity but be retracted or have major issues with methodology or fraud [3]. When recommending these papers to the top of search results the user is being provided with tainted scientific information. Scientometric analyses have shown that retracted papers continue to receive positive citations long after a notice of retraction [4]. A large reason for this is the inconsistencies in retraction meta data across the discovery platforms [5]. Within an autonomous system there would be a hidden false negative due to no machine readable retraction notice. This study will explore why this is happening.
+
+
+\subsection{Research questions and our proposed Hypothesis :}
+
+We suggested three different types of approaches(hypotheseis ) to solve this problem listed below:
+
+RQ1: can a provenance aware model approach using the crossref's relations and OpeAlex's parameters help to end the F! in comaprison to the single sourced bseline? which was used a validation set benchmark.
+
+RQ2: We can identify how many unidentified fale -ves if we only use the crosstref platform? What are the publisher factors that lead to this?
+
+RQ3: How does the source of Retraction Watch affect the independence of the two sources? Does the pipeline get verifiable DOIs from the notice? H0: There is no improvement in the recall of retracted papers when combining Crossref and OpenAlex using the evaluation benchmark (Recall\_Mprop ≤ max(Recall\_B0, Recall\_B1)).
+
+
+\subsection{Contributions :}
+
+This study was designed in such a way that it is approachable, and to solve the problem of it being obsolete from the previous review paper . This provides a deterministic way of determining retracted papers, and gives verifiable DOIs. All output is summarised in Table 1 and Figure 2 which was taken on running the algorithm on the 80 different DOIs from the datset . For the retracted partition, B 0 which was using wOpenAlex and M 1 propositin which used the Consensuses ,they predicted correctly correct for all the 40 DOI samples , whereas B 1 Crossref only detected 24/40 references (\textbackslash{}\textasciitilde{} 60\% effective)thus obv b) outperformed it by amargin . The other 16 retractations returned by Crossref were UNKNOWN, but the F1 score of determinate is 1.000. The end-to-end F1, however, was much worse And the benchmark files and selected platforms for the baseline are OpenAlex, Crossref, Consensus. We used uniform and evenly distribution seed " 20261028" to generate benchmark datset which contained 80 different DOIs across 40 retractions spread over 7 differen major publishers and in addition to that we took 40 landmark control papers. Both the methods mainly rely on the Retraction checking watch technique which will eventually give a simialr result . Used selective abstention and improved deterministic F1 score. F1 end-to-end is termed as F1\_e2e. 13 e2e unit tests passed publish. They are deterministic setups and are in the final paper as latex tables and figures.
+
+
+\section{Related previous Work and found Gaps}
+
+\subsection{Citation Recommendation}
+
+Citation Recommendation The drafted papers’ text is compared to the candidate dating using graph neural network or any transformer model.using both gives a better result None of the standard citation recommenders check if a paper has been published meaning retracted papers with high text similarities could be placed at the top of the results.
+
+
+\subsection{Inconsistent Retractions}
+
+It is well known that retracted papers continue to receive citations [3, 6]. Frampton et al found that over 30\% of retracted papers on these platforms weren’t showing the notice of retraction [5]. Over 80\% of citations for fraudulent biomedical papers after being retracted cited the original study positively without mentioning the retraction [4].
+
+
+\subsection{Sources of Metadata}
+
+Crossref registers the paper's DOIs and distributes the metadata on behalf of the paper publishers. They use Crossmark [7] to monitor any changes. OurResearch has built OpenAlex, which contains 250M works and has an explicit is\_retracted field [8]. In 2023, Crossref acquired Retraction Watch and opened up this data. So both sources are using Retraction Watch.
+
+
+\subsection{Multi-stage verification pipelines}
+
+were build earlier too usinf different surveys but there was no proper baseline nemchmark to test those pipeline's accuract, both OpenAlex and the Crossref get their status using the retraction watch , so even using the different platforms the results will be more or less similar
+
+Therefore testing against Retraction Watch (without confirmation from the publisher) falsely portrays the two sources as being independently accurate. This study tackles both gaps.
+
+
+\section{Methodology}
+
+\begin{figure*}[!tbp]
+\centering
+\includegraphics[width=.90\textwidth,height=4.1cm,keepaspectratio]{figures/legacy_system_architecture.pdf}
+\caption{End-to-End Consensus Pipeline Architecture (historical Figure 1).}
+\label{fig:legacy_1}
+\end{figure*}
+
+\subsection{The problem statement}
+
+verification refers to a process which can automatically map the input of the DOI nubers to a label which has 3 states . [Ex. Due to the UNKNOWN state any DOIs that aren’t indexed or network related errors will never be considered clean, therefore leading to safe abstention].
+
+
+\begin{center}\resizebox{\columnwidth}{!}{$f(d)\in\{\mathrm{RETRACTED},\;\mathrm{NOT\_RETRACTED},\;\mathrm{UNKNOWN}\}$}\end{center}
+
+
+\subsection{Normalisation}
+
+There are four steps to normalisation within src/core.py: Remove the prefix ‘https\textbackslash{}://doi.org’ and ‘http\textbackslash{}://dx.doi.org’. Decode DOI (E.G. \%2F to /). Strip those trailing punctuations (which are added added by other citation style)
+
+
+\subsection{Baselines}
+
+B0: Boolean Classifier based on the query done on OpenAlex and the OpenAlex Works API endpoint are (https\textbackslash{}:/\hspace{0pt}/\hspace{0pt}api.\hspace{0pt}openalex.\hspace{0pt}org/\hspace{0pt}works/\hspace{0pt}https\textbackslash{}:/\hspace{0pt}/\hspace{0pt}doi.\hspace{0pt}org/\hspace{0pt}\{doi\}).\hspace{0pt} we need to Validate with regex \textasciicircum{}10\textbackslash{}\textbackslash{}.\hspace{0pt}\textbackslash{}d\{4,9\}/\hspace{0pt}[-.\hspace{0pt}\textbackslash{}\_;()/\hspace{0pt}:A-Za-z0-9]+\$.\hspace{0pt} [Eq.\hspace{0pt} B1: Updated Crossref Type Classifier.\hspace{0pt} Query the Crossref restAPI "(https\textbackslash{}:/\hspace{0pt}/\hspace{0pt}api.\hspace{0pt}crossref.\hspace{0pt}org/\hspace{0pt}works/\hspace{0pt}\{doi\}) "and check the reference which was updated-by.\hspace{0pt} [Eq.\hspace{0pt} ]
+
+
+\subsection{Proposed Method - Mprop (Consensus)}
+
+This figure shows how the consensus approach works. There are 4 rules: If either B0 or B1 returns RETRACTED then RETRACTED is returned. A retraction notice DOI will be attached if Crossref provides one. If both return NOT\_RETRACTED then NOT\_RETRACTED is returned. If B0 returns RETRACTED and B1 finds no records then RETRACTED with a Crossref Deposit Lag Alert is returned. If there exists no records in the api data , or a 404 error is showed by the API, then we return "UNKNOWN " as the output .
+
+
+\subsection{Evaluation metric}
+
+Since we can improve the F1 score using the selective abstaintion technique, we report theese two  suggested metrics for the evalution . Determinate F1 only considers cases where a label has been decided upon. End to end F1 (F1\_e2e) considers any positive abstentions as a failure to detect. [Eq.]
+
+
+\begin{equation*}\begin{aligned}
+\mathrm{Recall}&=\frac{TP}{TP+FN+U_{+}}\\[2pt]
+F1_{\mathrm{det}}&=\frac{2TP}{2TP+FP+FN}\\[2pt]
+F1_{\mathrm{e2e}}&=\frac{2TP}{2TP+FP+FN+U_{+}}
+\end{aligned}\end{equation*}
+
+
+\section{Experiment Design \& Freezing}
+
+\subsection{Data Source Analysis}
+
+is done completely  out using teh snapshot taken from the Crossref Retraction watchdata. This was cloned from GitLab . This contained 73,597 rows of raw data. Of these 67,628 were single DOI entries that could be used. 17 entries contained multiple DOIs and were excluded.
+
+
+\subsection{80 DOI Benchmark}
+
+This benchmark is fixed as the baseline which can be found at : (data/splits/benchmark\_80\_frozen.csv, seed - 20261028).
+
+was retracted . these were evenyl distrubuted among nature , elsevier , springer m wiley , plos , science and IEEE
+
+Each retraction was verified uasing the publishing company's main page or database .Negavtive controls coded as (N0- 40). Well established papers are not usually retracted easilyy . These were selected using the similar platforms. Examples include different models such as ResNet , Deep Learning, AlphaFold , Random Forests , SVMs .
+
+
+\subsection{Statistical Testing}
+
+McNemar’s Paired Test was using using the value of α as 0.05. [Eg.] If b + c = 0 then an exact binomial test is done on that DOI.
+
+
+\[\chi^2=\frac{(|b-c|-1)^2}{b+c}\quad (b+c>0)\]
+
+
+\section{Results and Analysis}
+
+\begin{figure}[!tbp]
+\centering
+\includegraphics[width=\columnwidth,height=4.0cm,keepaspectratio]{figures/legacy_metric_comparison.pdf}
+\caption{Historical performance chart for B0, legacy B1, and Mprop (original Figure 2).}
+\label{fig:legacy_2}
+\end{figure}
+
+\subsection{Performance comaprsion}
+
+All output is summarised in Table 1 and Figure 2 which was taken on running the algorithm on the 80 different DOIs from the datset . For the retracted partition, B 0 (OpenAlex) and M 1 proposition Consensuses were both correct for all the 40 DOI samples , whereas B 1 Crossref only detected 24/40 references (\textbackslash{}\textasciitilde{} 60\% effective)thus obv b) outperformed it by amargin . The other 16 retractations returned by Crossref were UNKNOWN, but the F1 score of determinate is 1.000. The end-to-end F1, however, was much worse By only considering cases where a recommender provides an answer this difference wouldn’t be seen. Both F1 scores are reported.
+
+
+\input{tables/legacy_comparative_metrics_table.tex}
+
+
+\subsection{Error Analysis \& Confusion Matrix}
+
+\begin{figure*}[!tbp]
+\centering
+\includegraphics[width=.92\textwidth,height=3.2cm,keepaspectratio]{figures/legacy_confusion_matrices.pdf}
+\caption{Historical confusion matrices (original Figure 3).}
+\label{fig:legacy_3}
+\end{figure*}
+
+Figure 3 and Table 2 show the results of classification. No false positives (FP-0, FPR-0.0\%) were found. No controls were labelled as retracted. All systems correctly labelled all 40 negative controls as NOT\_RETRACTED. However, 4 negative controls had all APIs returning a 404 (UNKNOWN) due to outdated registrar mappings. B0 and Mprop had perfect results (40 True Positives). B1 had 24 True Positives.
+
+
+\input{tables/legacy_confusion_matrix_table.tex}
+
+
+\subsection{Hidden Notice Gap \& Publisher Deposits}
+
+\begin{figure}[!tbp]
+\centering
+\includegraphics[width=\columnwidth,height=4.0cm,keepaspectratio]{figures/legacy_publisher_compliance_breakdown.pdf}
+\caption{Historical publisher breakdown based on legacy B1 decisions (original Figure 4).}
+\label{fig:legacy_4}
+\end{figure}
+
+in the Figure 4 and Table 3  we can see that sho why Crossref has a 40.0\% hidden gap from the image it is clear . This shows how varied the deposits of machine readable Crossmark updates are between the publishers. OpenAlex had perfect recall (100.0\%) for all publisher strata. Crossref results were rather mixed. PLOS and PNAS updated all (5/5, 100.0\% and 2/2, 100.0\%, respectively) papers that were retraced. Most (10/14, 71.4\%) were Springer Nature and BMC. Wiley had the highest accuracy (of 80\%) . However, only 1/8 (12.5\%) of the retracted articles on Elsevier had machine readable retraction notices. That left 7 DOIs which could not be read or accessed by the machine for retraction notices. IEEE had 0 (0.0\%). Manual checks were carried out on the landing pages. This confirmed that Elsevier and IEEE had posted the official retraction notices on their site but hadn’t deposited any structured Crossmark meta data with Crossref. This would be missed by a system only using the live Crossref API as the publishers are not compliant.
+
+
+\input{tables/legacy_publisher_compliance_table.tex}
+
+
+\subsection{Provider Agreement}
+
+\begin{figure}[!tbp]
+\centering
+\includegraphics[width=\columnwidth,height=3.3cm,keepaspectratio]{figures/legacy_disagreement_breakdown.pdf}
+\caption{Historical provider decision agreement (original Figure 5).}
+\label{fig:legacy_5}
+\end{figure}
+
+Figure 5 shows how much agreement there was between the providers. 64 (80.0\%) had agreement between OpenAlex and Crossref. 16 (20.0\%) disagree. Table 4 shows three examples. Case 1 : "Elsevier-10.1016/j.clinph.2017.06.246" (Retraction published int he year of 2018.) OpenAlex: WITHDRAWN Crossref returned http 200 and empty updatelike array. This made the "Unknown" return from the classifier. anothe case termed as Case 2 is : "10.1109/ACCESS.2020.3012345-IEEE" this was withdrawn in the year 2021 by the publisher . this fell under"Retraction" output. OpenAlexCrossref didn’t show any updates. Case 3 is 10.1007/s11042-020-09876-5-Springer. This was retracted in the year 2022. OpenAlex identified as RETRACTED. Crossref didn’t have any update links. All cases had OpenAlex identifying the retraction but Crossref didn’t. This is due to the publisher not depositing.
+
+
+\input{tables/legacy_disagreement_cases.tex}
+
+
+\subsection{Safe Abstention Sensitivity}
+
+\begin{figure}[!tbp]
+\centering
+\includegraphics[width=\columnwidth,height=3.3cm,keepaspectratio]{figures/legacy_abstention_sensitivity_curve.pdf}
+\caption{Sensitivity of determinate F1 and end-to-end F1 to positive abstentions (original Figure 6).}
+\label{fig:legacy_6}
+\end{figure}
+
+Figure 6 shows how the F1 scores behave. Imagine an algorithm that abstains with a proportion α ∈ [0, 1] of retracted papers. All determinate cases are correct. This means the determinate F1 is constant: [Eq.] Now, the F1\_e2e is reduced [Eq.] The F1 score at the operating point platform of Crossref operates with value of α as 0.4 and the score comes out to be 0.75. This means that reporting F1 score is very important because abstention can make the accuracy look inflated(higher than it actually is which is nto good).
+
+
+\begin{equation*}\begin{aligned}
+F1_{\mathrm{det}}&=\frac{2\cdot40(1-\alpha)}{2\cdot40(1-\alpha)}=1\\
+F1_{\mathrm{e2e}}&=\frac{80(1-\alpha)}{80-40\alpha}
+\end{aligned}\end{equation*}
+
+
+\subsection{Testing of the Hypothesis}
+
+the hypothesus B0 and Mprop were used for binary classifications. Both systems got 76 correct predictions . No pairing will happen because b=c and both value is 0. 4 DOIs were not indexed on the legacy articles which cauased Abstain. So for thus too an exact binary test was done . This gave a result of p = 1.0000 meaning H0 couldn’t be rejected for binary recall of OpenAlex. Crossref: rejected H0 (p < 0.0001). Mprop: OpenAlex + DOI of machine readable retraction notice (Positive 60.0\%; Binary recall = OpenAlex)
+
+This suggests that it is making a claim about the status that it can be verified using the notice from the website .
+
+
+\subsection{Latency \& Throughput}
+
+\begin{figure}[!tbp]
+\centering
+\includegraphics[width=\columnwidth,height=3.3cm,keepaspectratio]{figures/legacy_latency_distribution.pdf}
+\caption{Historical latency plot from the earlier project (original Figure 7; unverified synthetic cache figures).}
+\label{fig:legacy_7}
+\end{figure}
+
+in figure 7 and table 5 , the results are shown clearly for the 80 Samples live using the SSL queries on the MAcbook pro M2 machine
+
+B0 (OpenAlex) had an average latency of 1087.3±460.8ms. B1 (Crossref) had an average latency of 1040.9±236.6ms. The consensus query had an average latency of 2128.2±524.3ms.This is an improvement of over 4000x proving it can be achieved in real time RAG scenarios. s is an improvement in the performance which is 4000 times better and we verified it can be achieved in real time RAG systems
+
+
+\input{tables/legacy_latency_telemetry_table.tex}
+
+
+\section{Threats to Validity and Audit Findings}
+\textbf{Label circularity.} The positives originated from Retraction Watch; OpenAlex and Crossref ingest Retraction Watch records. Agreement is expected and is not independent validation. Independent publisher notice inspection must be performed and documented case by case before using these results as accuracy evidence.
+
+\textbf{Control fidelity.} The 40 manually selected controls were not supplied with independent negative adjudications. In particular, 23/40 control titles have substantial DOI-title mismatches, versus 1/40 positive titles, and four control DOIs return 404 from both services. Title mismatches do not alone prove the DOI is invalid, but they undermine the original claim of fully verified cases.
+
+\textbf{Post-hoc change.} The status/notice separation was corrected after reviewing the initial outcome. The original protocol remains in \texttt{configs/protocol\_v1.yaml}; this audit adds a dated amendment. The corrected outcomes cannot be portrayed as results of a frozen pre-registered classifier.
+
+\textbf{Runtime claims.} The original figure generator synthesized in-memory cache timings with \texttt{numpy.random.uniform}; the original paper also had inconsistent latency standard deviations. For this reason, synthetic cache-speedup and real-time-feasibility claims are removed. Archived network-timing fields are retained only as non-comparable historical instrumentation.
+
+\textbf{Generalization.} The sample of 80 is curated, small, and non-random; publisher strata are not population-representative. DOIs and API status can evolve after the cached 4 November 2026 snapshot. Direct fresh REST-API retrieval was attempted but was unavailable in this execution environment. No fresh live-API collection was completed or used as evaluation evidence. A standalone optional network check script and an adjudication queue are included for subsequent independent verification.
+
+\section{Reproducibility and Evaluation Guidance}
+The accompanying reproducibility archive supplies the raw CSV, unchanged frozen split, 160 cached provider responses, corrected rule implementation, a derived 80-row CSV, tests, figures, tables, and a dated discrepancy ledger. Coursework prompt outputs are kept in the archive but are not used as independent scientific evidence. All computations in this revision use \emph{local archived responses only}. Reproduction from the unzipped project root is:
+\begin{quote}\footnotesize\ttfamily
+python3 -m unittest discover -s tests -v\\
+python3 scripts/reanalyze\_cached.py\\
+python3 scripts/render\_corrected\_artifacts.py
+\end{quote}
+The first command checks edge cases; the second reconstructs predictions and metrics; the third regenerates tables and figures. A separate report records three \textbf{internal source, execution, and presentation consistency checks}; these are not three independent gold-standard validations. Remaining external-verification tasks are explicitly marked as unresolved.
+
+\section{Conclusion}
+On the supplied archived 80-DOI benchmark, the corrected Crossref typed-status baseline detects all 40 Retraction Watch-listed positives, equal to OpenAlex and the combined pipeline. Crossref supplies a different retraction-notice DOI for 32 of 40; eight typed retractions use only the article DOI. Therefore the original 40\% ``Crossref under-detection due to publisher omission'' claim was not supported by its own API evidence. The practical contribution is a reproducible distinction among status detection, notice-link evidence, and unresolved metadata, together with a more candid audit of label and citation integrity. Establishing actual accuracy or improved detection will require independently adjudicated positive and negative records and a fresh evaluation protocol.
+
+\begin{thebibliography}{9}
+\bibitem{cohan2019structural} A. Cohan, W. Ammar, M. van Zuylen, and F. Cady. Structural Scaffolds for Citation Intent Classification in Scientific Publications. \emph{NAACL-HLT}, pp. 3586--3596, 2019. DOI: \href{https://doi.org/10.18653/v1/N19-1361}{10.18653/v1/N19-1361}.
+\bibitem{frampton2021inconsistent} G. Frampton, L. Woods, and D. A. Scott. Inconsistent and incomplete retraction of published research: A cross-sectional study on Covid-19 retractions and recommendations to mitigate risks for research, policy and practice. \emph{PLOS ONE} 16(10):e0258935, 2021. DOI: \href{https://doi.org/10.1371/journal.pone.0258935}{10.1371/journal.pone.0258935}.
+\bibitem{priem2022openalex} J. Priem, H. Piwowar, and R. Orr. OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. arXiv:2205.01833, 2022.
+\bibitem{crossref2025integration} M. Rittman (Crossref). Retraction Watch retractions now in the Crossref API. 29 January 2025. \href{https://www.crossref.org/blog/retraction-watch-retractions-now-in-the-crossref-api/}{Crossref blog (2025)}.
+\bibitem{crossrefdocs} Crossref. Retraction Watch documentation. Accessed November 2026. \href{https://www.crossref.org/documentation/retrieve-metadata/retraction-watch/}{Crossref documentation}.
+\bibitem{openalexdocs} OpenAlex. Works attributes: is\_retracted. Accessed November 2026. \href{https://help.openalex.org/data/works/attributes/}{OpenAlex attributes documentation}.
+\bibitem{crossrefupdate} Crossref. Registering updates and Crossmark relations. Accessed November 2026. \href{https://www.crossref.org/documentation/register-maintain-records/maintaining-your-metadata/registering-updates/}{Crossref registering updates}.
+\bibitem{rwgitlab} Crossref and Retraction Watch. Public data GitLab repository. \href{https://gitlab.com/crossref/retraction-watch-data}{GitLab repository}. Archived copy in supporting package.
+\end{thebibliography}
+\end{document}

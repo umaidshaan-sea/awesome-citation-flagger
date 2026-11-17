@@ -1,0 +1,478 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1111/1744-1633.12160",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1111%2F1744-1633.12160",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:30.130197+00:00",
+  "record": {
+    "id": "https://openalex.org/W1899447715",
+    "doi": "https://doi.org/10.1111/1744-1633.12160",
+    "title": "Retraction",
+    "display_name": "Retraction",
+    "publication_year": 2015,
+    "publication_date": "2015-11-04",
+    "ids": {
+      "openalex": "https://openalex.org/W1899447715",
+      "doi": "https://doi.org/10.1111/1744-1633.12160",
+      "mag": "1899447715"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1111/1744-1633.12160",
+      "doi": "https://doi.org/10.1111/1744-1633.12160",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/1744-1633.12160",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1744-1633.12160",
+      "source": {
+        "id": "https://openalex.org/S101670428",
+        "display_name": "Surgical Practice",
+        "issn_l": "1744-1625",
+        "issn": [
+          "1744-1625",
+          "1744-1633"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "jufo-1",
+          "norway-1",
+          "poland-20",
+          "russia-white-list-3"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Surgical Practice",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "retraction",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1744-1633.12160",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": {
+      "value": 2760,
+      "currency": "USD",
+      "value_usd": 2760
+    },
+    "apc_paid": null,
+    "fwci": null,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": null,
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "20",
+      "issue": "1",
+      "first_page": "55",
+      "last_page": "55"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": null,
+    "topics": [],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/conflict-of-interest",
+        "display_name": "conflicts of interest",
+        "score": 0.9800000190734863
+      },
+      {
+        "id": "https://openalex.org/keywords/author-affiliation",
+        "display_name": "author affiliation",
+        "score": 0.5789999961853027
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.6130157709121704
+      },
+      {
+        "id": "https://openalex.org/C2778805511",
+        "wikidata": "https://www.wikidata.org/wiki/Q1713",
+        "display_name": "Citation",
+        "level": 2,
+        "score": 0.5289803743362427
+      },
+      {
+        "id": "https://openalex.org/C161191863",
+        "wikidata": "https://www.wikidata.org/wiki/Q199655",
+        "display_name": "Library science",
+        "level": 1,
+        "score": 0.37691962718963623
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.1516827940940857
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1111/1744-1633.12160",
+        "doi": "https://doi.org/10.1111/1744-1633.12160",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1111/1744-1633.12160",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1744-1633.12160",
+        "source": {
+          "id": "https://openalex.org/S101670428",
+          "display_name": "Surgical Practice",
+          "issn_l": "1744-1625",
+          "issn": [
+            "1744-1625",
+            "1744-1633"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-20",
+            "russia-white-list-3"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Surgical Practice",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1111/1744-1633.12160",
+      "doi": "https://doi.org/10.1111/1744-1633.12160",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/1744-1633.12160",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1744-1633.12160",
+      "source": {
+        "id": "https://openalex.org/S101670428",
+        "display_name": "Surgical Practice",
+        "issn_l": "1744-1625",
+        "issn": [
+          "1744-1625",
+          "1744-1633"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "jufo-1",
+          "norway-1",
+          "poland-20",
+          "russia-white-list-3"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Surgical Practice",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": false
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W1899447715.pdf"
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W4237454456",
+      "https://openalex.org/W4242010755",
+      "https://openalex.org/W6984863961",
+      "https://openalex.org/W3093094351",
+      "https://openalex.org/W2774743562",
+      "https://openalex.org/W7054686099",
+      "https://openalex.org/W2791798053",
+      "https://openalex.org/W7095865808",
+      "https://openalex.org/W4308201781",
+      "https://openalex.org/W7095850084"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        52
+      ],
+      "following": [
+        1
+      ],
+      "article,": [
+        2
+      ],
+      "published": [
+        3
+      ],
+      "online": [
+        4
+      ],
+      "as": [
+        5,
+        61
+      ],
+      "an": [
+        6
+      ],
+      "Accepted": [
+        7
+      ],
+      "Article": [
+        8
+      ],
+      "on": [
+        9,
+        15,
+        23
+      ],
+      "4": [
+        10
+      ],
+      "November": [
+        11
+      ],
+      "2015": [
+        12
+      ],
+      "and": [
+        13,
+        22,
+        45,
+        74
+      ],
+      "appears": [
+        14
+      ],
+      "the": [
+        16,
+        34,
+        36,
+        39,
+        55,
+        79
+      ],
+      "Surgical": [
+        17
+      ],
+      "Practice": [
+        18
+      ],
+      "journal": [
+        19
+      ],
+      "web": [
+        20
+      ],
+      "site": [
+        21
+      ],
+      "Wiley": [
+        24,
+        47
+      ],
+      "Online": [
+        25
+      ],
+      "Library": [
+        26
+      ],
+      "(wileyonlinelibrary.com)": [
+        27
+      ],
+      "has": [
+        28
+      ],
+      "been": [
+        29
+      ],
+      "retracted": [
+        30
+      ],
+      "by": [
+        31
+      ],
+      "agreement": [
+        32
+      ],
+      "between": [
+        33,
+        70
+      ],
+      "authors,": [
+        35
+      ],
+      "Editorial": [
+        37
+      ],
+      "Committee,": [
+        38
+      ],
+      "College": [
+        40
+      ],
+      "of": [
+        41,
+        57,
+        64,
+        68
+      ],
+      "Surgeons": [
+        42
+      ],
+      "Hong": [
+        43
+      ],
+      "Kong": [
+        44
+      ],
+      "John": [
+        46
+      ],
+      "&": [
+        48
+      ],
+      "Sons": [
+        49
+      ],
+      "Australia,": [
+        50
+      ],
+      "Ltd.": [
+        51
+      ],
+      "authors": [
+        53
+      ],
+      "initiated": [
+        54
+      ],
+      "retraction": [
+        56
+      ],
+      "their": [
+        58,
+        71,
+        75
+      ],
+      "own": [
+        59
+      ],
+      "accord": [
+        60
+      ],
+      "a": [
+        62,
+        65
+      ],
+      "result": [
+        63
+      ],
+      "potential": [
+        66
+      ],
+      "conflict": [
+        67
+      ],
+      "interest": [
+        69
+      ],
+      "current": [
+        72
+      ],
+      "institution": [
+        73
+      ],
+      "previous": [
+        76
+      ],
+      "affiliation": [
+        77
+      ],
+      "where": [
+        78
+      ],
+      "work": [
+        80
+      ],
+      "was": [
+        81
+      ],
+      "originally": [
+        82
+      ],
+      "carried": [
+        83
+      ],
+      "out.": [
+        84
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-11-03T10:50:19.383937",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

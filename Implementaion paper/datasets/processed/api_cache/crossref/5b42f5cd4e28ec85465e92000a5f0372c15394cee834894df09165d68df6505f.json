@@ -1,0 +1,1275 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pone.0258935",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0258935",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:07.235842+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T22:34:43Z",
+      "timestamp": 1791326083443,
+      "version": "4.3.1"
+    },
+    "reference-count": 122,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2021-10-27T00:00:00Z",
+          "timestamp": 1635292800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "abstract": "<jats:sec id=\"sec001\">\n                    <jats:title>Background</jats:title>\n                    <jats:p>Retraction of published research can reduce the dissemination of incorrect or misleading information, but concerns have been raised about the clarity and rigor of the retraction process. Failure to clearly and consistently retract research has several risks, for example discredited or erroneous research may inform health research studies (e.g. clinical trials), policies and practices, potentially rendering these unreliable.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"sec002\">\n                    <jats:title>Objective</jats:title>\n                    <jats:p>To investigate consistency and clarity of research retraction, based on a case study of retracted Covid-19 research.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"sec003\">\n                    <jats:title>Study design</jats:title>\n                    <jats:p>\n                      A cross-sectional study of retracted Covid-19 articles reporting empirical research findings, based on searches of Medline, Embase and Scopus on 10\n                      <jats:sup>th</jats:sup>\n                      July and 19\n                      <jats:sup>th</jats:sup>\n                      December 2020.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"sec004\">\n                    <jats:title>Key results</jats:title>\n                    <jats:p>We included 46 retracted Covid-19 articles. The number eligible for inclusion nearly doubled, from 26 to 46, in five months. Most articles (67%) were retracted from scientific journals and the remainder from preprint servers. Key findings: (1) reasons for retraction were not reported in 33% (15/46) of cases; (2) time from publication to retraction could not be determined in 43% (20/46) of cases; (3) More than half (59%) of retracted Covid-19 articles (27/46) remained available as original unmarked electronic documents after retraction (33% as full text and 26% as an abstract only). Sources of articles post-retraction were preprint servers, ResearchGate and, less commonly, websites including PubMed Central and the World Health Organization. A retracted journal article which controversially claimed a link between 5G technology and Covid-19 remains available in its original full text from at least 60 different websites.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"sec005\">\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>The retraction process is inconsistent and often ambiguous, with more than half of retracted Covid-19 research articles remaining available, unmarked, from a wide range of online sources. There is an urgent need to improve guidance on the retraction process and to extend this to cover preprint servers. We provide structured recommendations to address these concerns and to reduce the risks that arise when retracted research is inappropriately cited.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1371/journal.pone.0258935",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2021-10-27T13:25:35Z",
+      "timestamp": 1635341135000
+    },
+    "page": "e0258935",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 39,
+    "title": [
+      "Inconsistent and incomplete retraction of published research: A cross-sectional study on Covid-19 retractions and recommendations to mitigate risks for research, policy and practice"
+    ],
+    "prefix": "10.1371",
+    "volume": "16",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2005-0497",
+        "authenticated-orcid": true,
+        "given": "Geoff",
+        "family": "Frampton",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lois",
+        "family": "Woods",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David Alexander",
+        "family": "Scott",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "pone.0258935.ref001",
+        "article-title": "What a massive database of retracted papers reveals about science publishing\u2019s \u2018death penalty\u2019",
+        "author": "J Brainard",
+        "year": "2018",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "6413",
+        "key": "pone.0258935.ref002",
+        "doi-asserted-by": "crossref",
+        "first-page": "390",
+        "DOI": "10.1126/science.362.6413.390",
+        "article-title": "Rethinking retractions",
+        "volume": "362",
+        "author": "J Brainard",
+        "year": "2018",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0258935.ref003",
+        "doi-asserted-by": "crossref",
+        "first-page": "3855",
+        "DOI": "10.1128/IAI.05661-11",
+        "article-title": "Retracted Science and the Retraction Index",
+        "volume": "79",
+        "author": "FC Fang",
+        "year": "2011",
+        "journal-title": "Infection and Immunity"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0258935.ref004",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1128/jmbe.v15i2.855",
+        "article-title": "What studies of retractions tell us",
+        "volume": "15",
+        "author": "A Marcus",
+        "year": "2014",
+        "journal-title": "Journal of Microbiology & Biology Education"
+      },
+      {
+        "issue": "5",
+        "key": "pone.0258935.ref005",
+        "first-page": "1",
+        "article-title": "Retractions in cancer research: a systematic survey",
+        "volume": "2",
+        "author": "A Bozzo",
+        "year": "2017",
+        "journal-title": "Research Integrity and Peer Review"
+      },
+      {
+        "key": "pone.0258935.ref006",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1038/478026a",
+        "article-title": "Science publishing: the trouble with retractions",
+        "volume": "478",
+        "author": "R Van Noorden",
+        "year": "2011",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "42",
+        "key": "pone.0258935.ref007",
+        "doi-asserted-by": "crossref",
+        "first-page": "17028",
+        "DOI": "10.1073/pnas.1212247109",
+        "article-title": "Misconduct accounts for the majority of retracted scientific publications",
+        "volume": "109",
+        "author": "FC Fang",
+        "year": "2012",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0258935.ref008",
+        "doi-asserted-by": "crossref",
+        "first-page": "e44118",
+        "DOI": "10.1371/journal.pone.0044118",
+        "article-title": "A comprehensive survey of retracted articles from the scholarly literature",
+        "volume": "7",
+        "author": "ML Grieneisen",
+        "year": "2012",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "6",
+        "key": "pone.0258935.ref009",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0217918",
+        "DOI": "10.1371/journal.pone.0217918",
+        "article-title": "Post retraction citations among manuscripts reporting a radiology-imaging diagnostic method",
+        "volume": "14",
+        "author": "SD Bolboac\u0103",
+        "year": "2019",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "9",
+        "key": "pone.0258935.ref010",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1136/jme.2010.040964",
+        "article-title": "Why and how do journals retract articles? An analysis of Medline retractions 1988\u20132008",
+        "volume": "37",
+        "author": "E Wager",
+        "year": "2011",
+        "journal-title": "Journal of Medical Ethics"
+      },
+      {
+        "key": "pone.0258935.ref011",
+        "doi-asserted-by": "crossref",
+        "first-page": "2381",
+        "DOI": "10.1186/1756-0500-6-238",
+        "article-title": "Visibility of retractions: a cross-sectional one-year study",
+        "volume": "6",
+        "author": "E Decullier",
+        "year": "2013",
+        "journal-title": "BMC Research Notes"
+      },
+      {
+        "key": "pone.0258935.ref012",
+        "doi-asserted-by": "crossref",
+        "first-page": "296",
+        "DOI": "10.1001/jama.280.3.296",
+        "article-title": "Phenomena of retraction: reasons for retraction and citations to the publications",
+        "volume": "280",
+        "author": "JM Budd",
+        "year": "1998",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "pone.0258935.ref013",
+        "doi-asserted-by": "crossref",
+        "first-page": "152",
+        "DOI": "10.5694/j.1326-5377.2006.tb00504.x",
+        "article-title": "Retractions in the research literature: misconduct or mistakes?",
+        "volume": "185",
+        "author": "SB Nath",
+        "year": "2006",
+        "journal-title": "Medical Journal of Australia"
+      },
+      {
+        "key": "pone.0258935.ref014",
+        "doi-asserted-by": "crossref",
+        "first-page": "807",
+        "DOI": "10.1136/jme.2007.023069",
+        "article-title": "Empirical developments in retraction",
+        "volume": "34",
+        "author": "BK Redman",
+        "year": "2008",
+        "journal-title": "Journal of Medical Ethics"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0258935.ref015",
+        "first-page": "e01635881",
+        "article-title": "Characteristics of retractions from Korean medical journals in the KoreaMed database: A bibliometric analysis",
+        "volume": "11",
+        "author": "S Huh",
+        "year": "2016",
+        "journal-title": "PloS One"
+      },
+      {
+        "key": "pone.0258935.ref016",
+        "first-page": "31461",
+        "article-title": "The retraction penalty: evidence from the web of science",
+        "volume": "3",
+        "author": "SF Lu",
+        "year": "2013",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0258935.ref017",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1136/jme.2010.040923",
+        "article-title": "Retractions in the scientific literature: is the incidence of research fraud increasing?",
+        "volume": "37",
+        "author": "RG Steen",
+        "year": "2011",
+        "journal-title": "Journal of Medical Ethics"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0258935.ref018",
+        "first-page": "437",
+        "article-title": "Effects of article retraction on citation and practice in medicine",
+        "volume": "87",
+        "author": "JM Budd",
+        "year": "1999",
+        "journal-title": "Bulletin of the Medical Library Association"
+      },
+      {
+        "key": "pone.0258935.ref019",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vuong Q-H. The limitations of retraction notices and the heroic acts of authors who correct the scholarly record: An analysis of retractions of papers published from 1975 to 2019. Learned Publishing. 2020;33(2):119\u201330.",
+        "DOI": "10.1002/leap.1282"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0258935.ref020",
+        "doi-asserted-by": "crossref",
+        "first-page": "122",
+        "DOI": "10.6087/kcse.172",
+        "article-title": "How many retracted articles indexed in KoreaMed were cited 1 year after retraction notification",
+        "volume": "6",
+        "author": "SY Kim",
+        "year": "2019",
+        "journal-title": "Science Editing"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0258935.ref021",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1097/00001888-199202000-00014",
+        "article-title": "Medical school libraries\u2019 handling of articles that report invalid science",
+        "volume": "67",
+        "author": "MP Pfeiffer",
+        "year": "1992",
+        "journal-title": "Academic Medicine"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0258935.ref022",
+        "doi-asserted-by": "crossref",
+        "first-page": "184",
+        "DOI": "10.3163/1536-5050.100.3.008",
+        "article-title": "The persistence of error: a study of retracted articles on the Internet and in personal libraries",
+        "volume": "100",
+        "author": "P Davis",
+        "year": "2012",
+        "journal-title": "Journal of the Medical Library Association"
+      },
+      {
+        "key": "pone.0258935.ref023",
+        "doi-asserted-by": "crossref",
+        "first-page": "251",
+        "DOI": "10.1007/s11948-009-9151-4",
+        "article-title": "Analysis of citations to biomedical articles affected by scientific misconduct",
+        "volume": "16",
+        "author": "AV Neale",
+        "year": "2010",
+        "journal-title": "Science and Engineering Ethics"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0258935.ref024",
+        "doi-asserted-by": "crossref",
+        "first-page": "843",
+        "DOI": "10.1185/03007991003603804",
+        "article-title": "How long does it take for the scientific literature to purge itself of fraudulent material?: the Breuning case revisited",
+        "volume": "26",
+        "author": "KM Korpela",
+        "year": "2010",
+        "journal-title": "Current Medical Research and Opinion"
+      },
+      {
+        "issue": "19",
+        "key": "pone.0258935.ref025",
+        "first-page": "255",
+        "article-title": "How to avoid spreading error. Scientists must search for corrections",
+        "volume": "1",
+        "author": "E Garfield",
+        "year": "1987",
+        "journal-title": "The Scientist"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0258935.ref026",
+        "doi-asserted-by": "crossref",
+        "first-page": "1420",
+        "DOI": "10.1001/jama.1990.03440100140020",
+        "article-title": "The continued use of retracted, invalid scientific literature",
+        "volume": "263",
+        "author": "MP Pfeifer",
+        "year": "1990",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "pone.0258935.ref027",
+        "doi-asserted-by": "crossref",
+        "first-page": "2877",
+        "DOI": "10.1007/s11192-020-03631-1",
+        "article-title": "Continued post-retraction citation of a fraudulent clinical trial report, 11 years after it was retracted for falsifying data",
+        "volume": "125",
+        "author": "J Schneider",
+        "year": "2020",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "issue": "6413",
+        "key": "pone.0258935.ref028",
+        "doi-asserted-by": "crossref",
+        "first-page": "394",
+        "DOI": "10.1126/science.362.6413.394-a",
+        "article-title": "A scientist\u2019s fraudulent studies put patients at risk",
+        "volume": "362",
+        "author": "A Marcus",
+        "year": "2018",
+        "journal-title": "Science"
+      },
+      {
+        "key": "pone.0258935.ref029",
+        "unstructured": "Committee on Publication Ethics (COPE). Retraction Guidelines. Version 2 2009. https://publicationethics.org/node/19896"
+      },
+      {
+        "key": "pone.0258935.ref030",
+        "unstructured": "Retraction Watch. Retraction Watch. Tracking retractions as a window into the scientific process: Center for Scientific Integrity; 2020 [11th January 2020]. https://retractionwatch.com/."
+      },
+      {
+        "key": "pone.0258935.ref031",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fraser N, Brierley L, Dey G, Polka JK, P\u00e1lfy M, Nanni F, et al. Preprinting the COVID-19 pandemic [preprint pending peer review]. bioRxiv preprint server. 2020:1\u201334.",
+        "DOI": "10.1101/2020.05.22.111294"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0258935.ref032",
+        "doi-asserted-by": "crossref",
+        "first-page": "2542",
+        "DOI": "10.1111/all.14409",
+        "article-title": "COVID-19 Clinical trials: Quality matters more than quantity",
+        "volume": "75",
+        "author": "S Bonini",
+        "year": "2020",
+        "journal-title": "Allergy"
+      },
+      {
+        "key": "pone.0258935.ref033",
+        "doi-asserted-by": "crossref",
+        "first-page": "S304",
+        "DOI": "10.1016/j.jcot.2020.04.030",
+        "article-title": "Unprecedented surge in publications related to COVID-19 in the first three months of pandemic: A bibliometric analytic report",
+        "volume": "11",
+        "author": "SBS Kambhampati",
+        "year": "2020",
+        "journal-title": "Journal of Clinical Orthopaedics and Trauma"
+      },
+      {
+        "key": "pone.0258935.ref034",
+        "unstructured": "PRIMER. COVID-19 Primer 2021 [14th January 2021]. https://covid19primer.com/dashboard."
+      },
+      {
+        "key": "pone.0258935.ref035",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1016/j.jclinepi.2020.04.016",
+        "article-title": "COVID-19 coronavirus research has overall low methodological quality thus far: case in point for chloroquine/hydroxychloroquine",
+        "volume": "123",
+        "author": "PE Alexander",
+        "year": "2020",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "key": "pone.0258935.ref036",
+        "first-page": "m18471",
+        "article-title": "Waste in Covid-19 research",
+        "volume": "369",
+        "author": "P Glasziou",
+        "year": "2020",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0258935.ref037",
+        "first-page": "e132231",
+        "article-title": "Coronavirus disease 2019: the harms of exaggerated information and non-evidence-based measures",
+        "volume": "50",
+        "author": "JPA Ioannidis",
+        "year": "2020",
+        "journal-title": "European Journal of Clinical Investigation"
+      },
+      {
+        "key": "pone.0258935.ref038",
+        "first-page": "1",
+        "article-title": "An alarming retraction rate for scientific publications on Coronavirus Disease 2019 (COVID-19)",
+        "author": "NSL Yeo-Teh",
+        "year": "2020",
+        "journal-title": "Accountability in Research"
+      },
+      {
+        "key": "pone.0258935.ref039",
+        "doi-asserted-by": "crossref",
+        "first-page": "803",
+        "DOI": "10.1136/medethics-2020-106494",
+        "article-title": "The carnage of substandard research during the COVID-19 pandemic: a call for quality",
+        "volume": "46",
+        "author": "KA Bramstedt",
+        "year": "2020",
+        "journal-title": "Journal of Medical Ethics"
+      },
+      {
+        "key": "pone.0258935.ref040",
+        "article-title": "Silently withdrawn or retracted preprints related to Covid-19 are a scholarly threat and a potential public health risk: theoretical arguments and suggested recommendations",
+        "author": "JA Teixeira da Silva",
+        "year": "2020",
+        "journal-title": "Online Information Review"
+      },
+      {
+        "issue": "6496",
+        "key": "pone.0258935.ref041",
+        "doi-asserted-by": "crossref",
+        "first-page": "1167",
+        "DOI": "10.1126/science.368.6496.1167",
+        "article-title": "Authors, elite journals under fire after major retractions",
+        "volume": "368",
+        "author": "C Piller",
+        "year": "2020",
+        "journal-title": "Science (New York, NY)"
+      },
+      {
+        "key": "pone.0258935.ref042",
+        "doi-asserted-by": "crossref",
+        "first-page": "819",
+        "DOI": "10.1007/s11192-020-03661-9",
+        "article-title": "Retracted COVID-19 articles: a side-effect of the hot race to publication",
+        "volume": "125",
+        "author": "P Soltani",
+        "year": "2020",
+        "journal-title": "Scientometrics"
+      },
+      {
+        "key": "pone.0258935.ref043",
+        "first-page": "1",
+        "article-title": "Optimizing peer review to minimize the risk of retracting COVID-19-related literature",
+        "volume": "20",
+        "author": "JA Teixeira da Silva",
+        "year": "2020",
+        "journal-title": "Medicine, Health Care, and Philosophy"
+      },
+      {
+        "key": "pone.0258935.ref044",
+        "unstructured": "Retraction Watch. Retraction Watch 2020. https://retractionwatch.com/."
+      },
+      {
+        "key": "pone.0258935.ref045",
+        "first-page": "25",
+        "article-title": "Retraction in the era of COVID-19 and its influence on evidence-based medicine: is science in jeopardy?",
+        "volume": "25",
+        "author": "MN Boschiero",
+        "year": "2020",
+        "journal-title": "Pulmonology"
+      },
+      {
+        "key": "pone.0258935.ref046",
+        "unstructured": "EPPI Centre. COVID-19: a living systematic map of the evidence 2020 [cited 2020]. http://eppi.ioe.ac.uk/cms/Projects/DepartmentofHealthandSocialCare/Publishedreviews/COVID-19Livingsystematicmapoftheevidence/tabid/3765/Default.aspx."
+      },
+      {
+        "key": "pone.0258935.ref047",
+        "unstructured": "CDC Library. COVID-19 Scopus search alert: Centers for Disease Control and Prevention; 2020 [cited 2020 10/07/2020]. https://www.cdc.gov/library/researchguides/2019novelcoronavirus/scopussearchalert.html."
+      },
+      {
+        "key": "pone.0258935.ref048",
+        "first-page": "1",
+        "article-title": "Preprint manuscripts and servers in the era of coronavirus disease 2019",
+        "volume": "2020",
+        "author": "S Navabi Nouri",
+        "year": "2020",
+        "journal-title": "Journal of Evaluation in Clinical Practice"
+      },
+      {
+        "key": "pone.0258935.ref049",
+        "unstructured": "The Economist. High speed science 2020 [updated 9th May 2020; cited 2021]. 64\u201365. https://www.economist.com/leaders/2020/05/09/speeding-up-science-during-the-pandemic."
+      },
+      {
+        "issue": "18",
+        "key": "pone.0258935.ref050",
+        "doi-asserted-by": "crossref",
+        "first-page": "1840",
+        "DOI": "10.1001/jama.2020.20674",
+        "article-title": "Preprints Involving Medical Research\u2014Do the Benefits Outweigh the Challenges?",
+        "volume": "324",
+        "author": "A Flanagin",
+        "year": "2020",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "pone.0258935.ref051",
+        "doi-asserted-by": "crossref",
+        "first-page": "e627",
+        "DOI": "10.1016/S2214-109X(20)30113-3",
+        "article-title": "Early in the epidemic: impact of preprints on global discourse about COVID-19 transmissibility",
+        "volume": "8",
+        "author": "MS Majumder",
+        "year": "2020",
+        "journal-title": "Lancet Global Health"
+      },
+      {
+        "key": "pone.0258935.ref052",
+        "first-page": "l23011",
+        "article-title": "New preprint server for medical research",
+        "volume": "365",
+        "author": "C Rawlinson",
+        "year": "2019",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "9",
+        "key": "pone.0258935.ref053",
+        "first-page": "14",
+        "article-title": "SARS-CoV-2 was unexpectedly deadlier than push-scooters: could hydroxychloroquine be the unique solution?",
+        "volume": "18",
+        "author": "W Oodendijk",
+        "year": "2020",
+        "journal-title": "Asian Journal of Medicine and Health"
+      },
+      {
+        "key": "pone.0258935.ref054",
+        "unstructured": "Retraction Watch. Retracted coronavirus (COVID-19) papers 2020 [7 July 2020]. https://retractionwatch.com/retracted-coronavirus-covid-19-papers/."
+      },
+      {
+        "issue": "3",
+        "key": "pone.0258935.ref055",
+        "first-page": "299",
+        "article-title": "[RETRACTED] Clinical characteristics and blood test results in COVID-19 patients",
+        "volume": "50",
+        "author": "X-S An",
+        "year": "2020",
+        "journal-title": "Annals of Clinical and Laboratory Science"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0258935.ref056",
+        "first-page": "350",
+        "article-title": "WITHDRAWN: How perceived threat of Covid-19 causes turnover intention among Pakistani nurses: A moderation and mediation analysis",
+        "volume": "30",
+        "author": "M Irshad",
+        "year": "2020",
+        "journal-title": "International Journal of Mental Health Nursing"
+      },
+      {
+        "key": "pone.0258935.ref057",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sever R, Roeder T, Hindle S, Sussman L, Black K-J, Argentine J, et al. bioRxiv: the preprint server for biology. bioRxiv [Preprint Server]. 2019:833400.",
+        "DOI": "10.1101/833400"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0258935.ref058",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1080/13548506.2020.1754438",
+        "article-title": "[RETRACTED] Mental health burden for the public affected by the COVID-19 outbreak in China: Who will be the high-risk group?",
+        "volume": "26",
+        "author": "Y Huang",
+        "year": "2020",
+        "journal-title": "Psychology, Health & Medicine"
+      },
+      {
+        "key": "pone.0258935.ref059",
+        "doi-asserted-by": "crossref",
+        "first-page": "1020521",
+        "DOI": "10.1016/j.ajp.2020.102052",
+        "article-title": "RETRACTED: Chinese mental health burden during the COVID-19 pandemic",
+        "volume": "51",
+        "author": "Y Huang",
+        "year": "2020",
+        "journal-title": "Asian Journal of Psychiatry"
+      },
+      {
+        "key": "pone.0258935.ref060",
+        "doi-asserted-by": "crossref",
+        "first-page": "151529",
+        "DOI": "10.1016/j.anndiagpath.2020.151529",
+        "article-title": "WITHDRAWN: A mechanistic analysis placental intravascular thrombus formation in COVID-19 patients",
+        "volume": "46",
+        "author": "JJ Mulvey",
+        "year": "2020",
+        "journal-title": "Annals of Diagnostic Pathology"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0258935.ref061",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.4097/kja.20227",
+        "article-title": "[RETRACTED] Noninvasive versus invasive ventilation: One modality cannot fit all during COVID-19 outbreak",
+        "volume": "73",
+        "author": "A Singh",
+        "year": "2020",
+        "journal-title": "Korean Journal of Anesthesiology"
+      },
+      {
+        "key": "pone.0258935.ref062",
+        "article-title": "WITHDRAWN: Association of initial viral load in SARS-CoV-2 patients with outcome and symptoms",
+        "author": "KV Argyropoulos",
+        "year": "2020",
+        "journal-title": "American Journal of Pathology"
+      },
+      {
+        "issue": "9",
+        "key": "pone.0258935.ref063",
+        "first-page": "1351",
+        "article-title": "Complete Heart Block, Severe Ventricular Dysfunction, and Myocardial Inflammation in a Child With COVID-19 Infection",
+        "volume": "2",
+        "author": "I El-Assaad",
+        "year": "2020",
+        "journal-title": "JACC: Case Reports"
+      },
+      {
+        "key": "pone.0258935.ref064",
+        "article-title": "WITHDRAWN: Community pharmacists: On the frontline of health service against COVID-19 in LMICs",
+        "author": "EW Hedima",
+        "year": "2020",
+        "journal-title": "Research in Social and Administrative Pharmacy"
+      },
+      {
+        "key": "pone.0258935.ref065",
+        "article-title": "RETRACTED: Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis",
+        "author": "MR Mehra",
+        "year": "2020",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "pone.0258935.ref066",
+        "article-title": "Retraction: Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19",
+        "author": "MR Mehra",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "6495",
+        "key": "pone.0258935.ref067",
+        "doi-asserted-by": "crossref",
+        "first-page": "1041",
+        "DOI": "10.1126/science.368.6495.1041",
+        "article-title": "The pandemic\u2019s first major research scandal erupts",
+        "volume": "368",
+        "author": "K Servick",
+        "year": "2020",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0258935.ref068",
+        "first-page": "485",
+        "article-title": "[WITHDRAWN: Potential false-positive rate among the \u2019asymptomatic infected individuals\u2019 in close contacts of COVID-19 patients",
+        "volume": "41",
+        "author": "GH Zhuang",
+        "year": "2020",
+        "journal-title": "Zhonghua Liu Xing Bing Xue Za Zhi"
+      },
+      {
+        "key": "pone.0258935.ref069",
+        "doi-asserted-by": "crossref",
+        "first-page": "101665",
+        "DOI": "10.1016/j.tmaid.2020.101665",
+        "article-title": "WITHDRAWN: Mortality of a pregnant patient diagnosed with COVID-19: A case report with clinical, radiological, and histopathological findings",
+        "author": "P Karami",
+        "year": "2020",
+        "journal-title": "Travel Medicine and Infectious Disease"
+      },
+      {
+        "key": "pone.0258935.ref070",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Patel A, Desai S. [RETRACTED] Ivermectin in COVID-19 Related Critical Illness. SSRN Preprint Server. 2020. Watermarked retracted document at: https://www.isglobal.org/documents/10179/6022921/Patel+et+al.+2020+version+1.pdf",
+        "DOI": "10.2139/ssrn.3570270"
+      },
+      {
+        "key": "pone.0258935.ref071",
+        "unstructured": "Patel AN, Desai SS, Grainger DW, Mehra MR. [RETRACTED] Usefulness of ivermectin in Covid-19 illness. Online source. 2020. Watermarked retracted document at: https://www.isglobal.org/documents/10179/6022921/Patel+et+al.+2020+version+2.pdf/"
+      },
+      {
+        "key": "pone.0258935.ref072",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Raharusuna P, Priambada S, Budiarti C, Agung E, Budi C. [RETRACTED] Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study. SSRN Preprint server. 2020. No retraction notice available.",
+        "DOI": "10.2139/ssrn.3585561"
+      },
+      {
+        "key": "pone.0258935.ref073",
+        "first-page": "24",
+        "article-title": "WITHDRAWN: Subsegmental Thrombus in COVID-19 Pneumonia: Immuno-Thrombosis or Pulmonary Embolism? Data Analysis of Hospitalized Patients with Coronavirus Disease",
+        "volume": "24",
+        "author": "M Dumantepe",
+        "year": "2020",
+        "journal-title": "Heart, Lung & Circulation"
+      },
+      {
+        "key": "pone.0258935.ref074",
+        "unstructured": "Luowei L, Zheng H, Shanliang X, Hao Y, Xinping J, Hui W, et al. [A new coronal form of aerosol transmission in public transportation Epidemiological investigation of viral pneumonia cluster epidemic situation.] [Practical Preventive Medicine]. 2020;1\u20133. No withdrawal notice available"
+      },
+      {
+        "key": "pone.0258935.ref075",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kanwar BA. WITHDRAWN: Proposal for Initiative of Evidence-based Treatment of COVID-19 Patients with Worsening Hypoxia. American Journal of Respiratory and Critical Care Medicine. 2020;Online ahead of print. Withdrawal notice at: https://pubmed.ncbi.nlm.nih.gov/33026820/",
+        "DOI": "10.1164/rccm.202009-3684CP"
+      },
+      {
+        "key": "pone.0258935.ref076",
+        "doi-asserted-by": "crossref",
+        "first-page": "103635",
+        "DOI": "10.1016/j.ijnurstu.2020.103635",
+        "article-title": "WITHDRAWN: Nurses reports of actual work hours and preferred work hours per shift among frontline nurses during coronavirus disease 2019 (COVID-19) epidemic: A cross-sectional survey",
+        "author": "X Zhang",
+        "year": "2020",
+        "journal-title": "International Journal of Nursing Studies"
+      },
+      {
+        "key": "pone.0258935.ref077",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Etemadifar M, Aghababaee A, Sedaghat N, Rayani M, Nouri H, Abhari A, et al. WITHDRAWN: Incidence and mortality of COVID-19 in Iranian multiple sclerosis patients treated with disease-modifying therapies. Revue Neurologique. 2020;Online ahead of print. Withdrawal notice at: https://doi.org/10.1016/j.neurol.2020.08.001",
+        "DOI": "10.1016/j.neurol.2020.08.001"
+      },
+      {
+        "key": "pone.0258935.ref078",
+        "first-page": "15",
+        "article-title": "WITHDRAWN: Selenium\u2014associated gene signatures within the SARS-CoV-2\u2014host genomic interaction interface",
+        "volume": "15",
+        "author": "GD Vavougios",
+        "year": "2020",
+        "journal-title": "Free Radical Biology & Medicine"
+      },
+      {
+        "key": "pone.0258935.ref079",
+        "article-title": "WITHDRAWN: Can Traditional Chinese Medicine provide insights into controlling the COVID-19 pandemic: Serpentinization-induced lithospheric long-wavelength magnetic anomalies in Proterozoic bedrocks in a weakened geomagnetic field mediate the aberrant transformation of biogenic molecules in COVID-19 via magnetic catalysis",
+        "author": "MT Bility",
+        "year": "2020",
+        "journal-title": "Science of the Total Environment"
+      },
+      {
+        "key": "pone.0258935.ref080",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.amsu.2020.06.008",
+        "article-title": "WITHDRAWN: Mechanical ventilation in COVID-19: Is it due to patient or virology factors?",
+        "author": "AaA Alhowary",
+        "year": "2020",
+        "journal-title": "Annals of Medicine and Surgery"
+      },
+      {
+        "key": "pone.0258935.ref081",
+        "article-title": "WITHDRAWN: Analysis of thin-section CT in patients with coronavirus disease (COVID-19) after hospital discharge",
+        "author": "J Wei",
+        "year": "2020",
+        "journal-title": "Clinical Imaging"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0258935.ref082",
+        "article-title": "[RETRACTED] Corona Virus Killed by Sound Vibrations Produced by Thali or Ghanti: A Potential Hypothesis",
+        "volume": "2",
+        "author": "D Kumar",
+        "year": "2020",
+        "journal-title": "Journal of Molecular Pharmaceuticals and Regulatory Affairs"
+      },
+      {
+        "issue": "0",
+        "key": "pone.0258935.ref083",
+        "first-page": "E008",
+        "article-title": "Retracted: Clinical and epidemiological characteristics of 34 children with 2019 novel coronavirus infection in Shenzhen",
+        "volume": "58",
+        "author": "XF Wang",
+        "year": "2020",
+        "journal-title": "Zhonghua Er Ke Za Zhi"
+      },
+      {
+        "key": "pone.0258935.ref084",
+        "first-page": "22",
+        "article-title": "TEMPORARY REMOVAL: Hospital factors associated with SARS-CoV-2 infection among healthcare personnel in Greece",
+        "volume": "22",
+        "author": "HC Maltezou",
+        "year": "2020",
+        "journal-title": "Journal of Hospital Infection"
+      },
+      {
+        "key": "pone.0258935.ref085",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gaibazzi N, Martini C, Mattioli M, Tuttolomondo D, Guidorrossi A, Suma S, et al. [WITHDRAWN] Lung disease severity, coronary artery calcium, coronary inflammation and mortality in Coronavirus disease 2019. medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.05.01.20087114v3",
+        "DOI": "10.1101/2020.05.01.20087114"
+      },
+      {
+        "key": "pone.0258935.ref086",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gaibazzi N, Tuttolomondo D, Guidorossi A, Botti A, Tedeschi A, Martini C, et al. [WITHDRAWN] Smoking Prevalence is Low in Symptomatic Patients Admitted for COVID-19. medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.05.05.20092015v3",
+        "DOI": "10.1101/2020.05.05.20092015"
+      },
+      {
+        "key": "pone.0258935.ref087",
+        "unstructured": "Chen Z, Zhang W, Lu Y, Guo C, Guo Z, Liao C, et al. [WITHDRAWN] From SARS-CoV to Wuhan 2019-nCoV: Will History Repeat Itself? bioRxiv Preprint Server. 2020:2020.01.24.919241. Withdrawal notice at: https://www.biorxiv.org/content/10.1101/2020.01.24.919241v4.article-info"
+      },
+      {
+        "key": "pone.0258935.ref088",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Parves MR, Riza YM, Mahmud S, Islam R, Ahmed S, Evy BA, et al. [WITHDRAWN] Analysis of Ten Microsecond simulation data of SARS-CoV-2 dimeric main protease. bioRxiv Preprint Server. 2020. Withdrawal notice at: https://www.biorxiv.org/content/10.1101/2020.04.10.036020v2",
+        "DOI": "10.1101/2020.04.10.036020"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0258935.ref089",
+        "article-title": "RETRACTED: 5G Technology and induction of coronavirus in skin cells",
+        "volume": "34",
+        "author": "M Fioranelli",
+        "year": "2020",
+        "journal-title": "Journal of Biological Regulators and Homeostatic Agents"
+      },
+      {
+        "key": "pone.0258935.ref090",
+        "article-title": "RETRACTED: No deleterious effect of lockdown due to COVID-19 pandemic on glycaemic control, measured by glucose monitoring, in adults with type 1 diabetes",
+        "author": "PI Beato-Vibora",
+        "year": "2020",
+        "journal-title": "Diabetes Technology and Therapeutics"
+      },
+      {
+        "key": "pone.0258935.ref091",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cercy SP. [WITHDRAWN] Psychiatric predictors of COVID-19 outcomes in a skilled nursing facility cohort. medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.05.23.20099671v2",
+        "DOI": "10.1101/2020.05.23.20099671"
+      },
+      {
+        "key": "pone.0258935.ref092",
+        "unstructured": "Editor and Publisher of International Journal of Mental Health Nursing. Withdrawn: How perceived threat of Covid-19 causes turnover intention among Pakistani nurses: A moderation and mediation analysis. International Journal of Mental Health Nursing. 2020."
+      },
+      {
+        "key": "pone.0258935.ref093",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chu P, Zhou Z, Gao Z, Cai R, Wu S, Sun Z, et al. [WITHDRAWN] Computational analysis suggests putative intermediate animal hosts of the SARS-CoV-2. bioRxiv Preprint Server. 2020. Withdrawal notice at: https://www.biorxiv.org/content/10.1101/2020.04.04.025080v2",
+        "DOI": "10.1101/2020.04.04.025080"
+      },
+      {
+        "key": "pone.0258935.ref094",
+        "unstructured": "Siyu C, Xia M, Wen W, Cui L, Yang W, Liu S, et al. [WITHDRAWN] Mental health status and coping strategy of medical workers in China during The COVID-19 outbreak. medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.02.23.20026872v2"
+      },
+      {
+        "key": "pone.0258935.ref095",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Davido B, Lansaman T, Bessis S, Lawrence C, Alvarez J-C, Mascitti H, et al. [WITHDRAWN] Hydroxychloroquine plus azithromycin: a potential interest in reducing in-hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)? medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.05.05.20088757v2",
+        "DOI": "10.1101/2020.05.05.20088757"
+      },
+      {
+        "key": "pone.0258935.ref096",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pradhan P, Pandey AK, Mishra A, Gupta P, Tripathi PK, Menon MB, et al. [WITHDRAWN] Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag. bioRxiv Preprint Server. 2020. Withdrawal notice at: https://www.biorxiv.org/content/10.1101/2020.01.30.927871v2",
+        "DOI": "10.1101/2020.01.30.927871"
+      },
+      {
+        "key": "pone.0258935.ref097",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang Y, Lu Q, Liu M, Wang Y, Zhang A, Jalali N, et al. [WITHDRAWN] Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.02.10.20021675v2",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "pone.0258935.ref098",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Adjodah D, Dinakar K, Fraiberger SP, Rutherford GW, Glidden DV, Gandhi M. [WITHDRAWN] Decrease in Hospitalizations for COVID-19 after Mask Mandates in 1083 U.S. Counties. medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.10.21.20208728v2.",
+        "DOI": "10.1101/2020.10.21.20208728"
+      },
+      {
+        "key": "pone.0258935.ref099",
+        "unstructured": "Chen P, Lei J, Wy Y, Liu G, B Z. [WITHDRAWN] Liver impairment associated with disease progression in COVID 19 patients. Liver International. 2020;Online ahead of print. Withdrawal notice at: https://onlinelibrary.wiley.com/doi/abs/10.1111/liv.14481 and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7262073/"
+      },
+      {
+        "key": "pone.0258935.ref100",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kim MS, Jang S-W, Park Y-K, Kim B-o, Hwang T-H, Kang SH, et al. [WITHDRAWN] Treatment response to hydroxychloroquine, lopinavir/ritonavir, and antibiotics for moderate COVID 19: A first report on the pharmacological outcomes from South Korea. medRxiv Preprint Server. 2020. Withdrawal notice at: https://www.medrxiv.org/content/10.1101/2020.05.13.20094193v2",
+        "DOI": "10.1101/2020.05.13.20094193"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0258935.ref101",
+        "doi-asserted-by": "crossref",
+        "first-page": "W22",
+        "DOI": "10.7326/M20-1342",
+        "article-title": "[RETRACTED] Effectiveness of Surgical and Cotton Masks in Blocking SARS-CoV-2: A Controlled Comparison in 4 Patients",
+        "volume": "173",
+        "author": "S Bae",
+        "year": "2020",
+        "journal-title": "Annals of Internal Medicine"
+      },
+      {
+        "key": "pone.0258935.ref102",
+        "article-title": "RETRACTED ARTICLE: SARS-CoV-2 infects T lymphocytes through its spike protein-mediated membrane fusion",
+        "author": "X Wang",
+        "year": "2020",
+        "journal-title": "Cellular & Molecular Immunology"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0258935.ref103",
+        "doi-asserted-by": "crossref",
+        "first-page": "54503",
+        "DOI": "10.25796/bdd.v3i1.54503",
+        "article-title": "[RETRACTED] First viral replication of Covid-19 identified in the peritoneal dialysis fluid of a symptomatic patient",
+        "volume": "3",
+        "author": "M Nouvier",
+        "year": "2020",
+        "journal-title": "Bulletin de la Dialyse \u00e0 Domicile"
+      },
+      {
+        "key": "pone.0258935.ref104",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Adjodah D, Dinakar K, Fraiberger S, Rutherford GW, Glidden DV, Gandhi M. Decrease in Hospitalizations for COVID-19 after Mask Mandates in 1083 U.S. Counties. WHO COVID-19 Global literature on coronavirus disease. 2020;Article ID ppmedrxiv-20208728.",
+        "DOI": "10.1101/2020.10.21.20208728"
+      },
+      {
+        "key": "pone.0258935.ref105",
+        "article-title": "5G Technology and induction of coronavirus in skin cells",
+        "author": "M Fioranelli",
+        "year": "2020",
+        "journal-title": "WHO COVID-19 Global literature on coronavirus disease"
+      },
+      {
+        "key": "pone.0258935.ref106",
+        "doi-asserted-by": "crossref",
+        "first-page": "2462",
+        "DOI": "10.1056/NEJMe2012924",
+        "article-title": "Inhibitors of the renin\u2013angiotensin\u2013aldosterone system and Covid-19",
+        "volume": "382",
+        "author": "JA Jarcho",
+        "year": "2020",
+        "journal-title": "NEJM"
+      },
+      {
+        "issue": "7811",
+        "key": "pone.0258935.ref107",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1038/d41586-020-01695-w",
+        "article-title": "High-profile coronavirus retractions raise concerns about data oversight",
+        "volume": "582",
+        "author": "H Ledford",
+        "year": "2020",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "2",
+        "key": "pone.0258935.ref108",
+        "doi-asserted-by": "crossref",
+        "first-page": "670",
+        "DOI": "10.1016/j.athoracsur.2008.07.108",
+        "article-title": "Citation of retracted articles: A call for vigilance",
+        "volume": "87",
+        "author": "NE Drury",
+        "year": "2009",
+        "journal-title": "The Annals of Thoracic Surgery"
+      },
+      {
+        "key": "pone.0258935.ref109",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1111/jebm.12426",
+        "article-title": "The mass production of systematic reviews about COVID-19:An analysis of PROSPERO records",
+        "volume": "14",
+        "author": "L Dotto",
+        "year": "2021",
+        "journal-title": "Journal of Evidence Based Medicine"
+      },
+      {
+        "key": "pone.0258935.ref110",
+        "unstructured": "Crossref. Crossmark factsheet. 2021. https://www.crossref.org/pdfs/about-crossmark.pdf"
+      },
+      {
+        "key": "pone.0258935.ref111",
+        "unstructured": "Zotero. Retracted item notifications with Retraction Watch integration 2021 [11th January 2021]. https://www.zotero.org/blog/retracted-item-notifications/."
+      },
+      {
+        "key": "pone.0258935.ref112",
+        "first-page": "n1601",
+        "article-title": "PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews",
+        "volume": "372",
+        "author": "MJ Page",
+        "year": "2021",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "pone.0258935.ref113",
+        "doi-asserted-by": "crossref",
+        "first-page": "c332",
+        "DOI": "10.1136/bmj.c332",
+        "article-title": "CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials",
+        "volume": "340",
+        "author": "CONSORT Group",
+        "year": "2010",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "10",
+        "key": "pone.0258935.ref114",
+        "doi-asserted-by": "crossref",
+        "first-page": "e296",
+        "DOI": "10.1371/journal.pmed.0040296",
+        "article-title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+        "volume": "4",
+        "author": "E von Elm",
+        "year": "2007",
+        "journal-title": "PLoS Medicine"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0258935.ref115",
+        "doi-asserted-by": "crossref",
+        "first-page": "200",
+        "DOI": "10.7326/0003-4819-158-3-201302050-00583",
+        "article-title": "SPIRIT 2013 Statement: Defining standard protocol items for clinical trials",
+        "volume": "158",
+        "author": "A-W Chan",
+        "year": "2013",
+        "journal-title": "Annals of Internal Medicine"
+      },
+      {
+        "key": "pone.0258935.ref116",
+        "unstructured": "EQUATOR Network. EQUATOR Network. Enhancing the quality and transparency of health research. Reporting guidelines 2021 [May 2021]. https://www.equator-network.org/reporting-guidelines/"
+      },
+      {
+        "key": "pone.0258935.ref117",
+        "unstructured": "Lefebvre C, Glanville J, Briscoe S, Littlewood A, Marshall C, Metzendorf M-I, et al. Chapter 4: Searching for and selecting studies May 2021. https://training.cochrane.org/resource/tsc-induction-mentoring-training-guide/trials-search-co-ordinator-handbook/9-professional-0"
+      },
+      {
+        "key": "pone.0258935.ref118",
+        "unstructured": "PLOS. Community Comments Continued: An update on the preprint commenting pilot at PLOS: PLOS (Public Library of Science); 2020 [cited 2021]. from: https://theplosblog.plos.org/2020/10/community-comments-continued-an-update-on-the-preprint-commenting-pilot-at-plos/."
+      },
+      {
+        "issue": "10139",
+        "key": "pone.0258935.ref119",
+        "doi-asserted-by": "crossref",
+        "first-page": "2482",
+        "DOI": "10.1016/S0140-6736(18)31125-5",
+        "article-title": "Preprints with The Lancet: joining online research discussion platforms",
+        "volume": "391",
+        "author": "S Kleinert",
+        "year": "2018",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "10254",
+        "key": "pone.0258935.ref120",
+        "doi-asserted-by": "crossref",
+        "first-page": "805",
+        "DOI": "10.1016/S0140-6736(20)31950-4",
+        "article-title": "Preprints with The Lancet are here to stay",
+        "volume": "396",
+        "author": "S Kleinert",
+        "year": "2020",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "pone.0258935.ref121",
+        "doi-asserted-by": "crossref",
+        "first-page": "1403",
+        "DOI": "10.2147/CLEP.S288677",
+        "article-title": "Retraction of COVID-19 pharmacoepidemiology research could have been avoided by effective use of reporting guidelines",
+        "volume": "12",
+        "author": "EI Benchimol",
+        "year": "2020",
+        "journal-title": "Clinical Epidemiology"
+      },
+      {
+        "issue": "9",
+        "key": "pone.0258935.ref122",
+        "first-page": "e02386791",
+        "article-title": "Lung ultrasound score in establishing the timing of intubation in COVID-19 interstitial pneumonia: A preliminary retrospective observational study",
+        "volume": "15",
+        "author": "X Lu",
+        "year": "2020",
+        "journal-title": "PLoS One"
+      }
+    ],
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0258935",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2021-10-27T13:27:10Z",
+      "timestamp": 1635341230000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0258935"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Eleanor",
+        "family": "Ochodo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    },
+    "references-count": 122,
+    "journal-issue": {
+      "issue": "10",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            10,
+            27
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0258935",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          27
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1796 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1038/s41598-019-55563-3",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1038%2Fs41598-019-55563-3",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:49.739619+00:00",
+  "record": {
+    "id": "https://openalex.org/W3114117387",
+    "doi": "https://doi.org/10.1038/s41598-019-55563-3",
+    "title": "RETRACTED ARTICLE: The diagnostic nomogram of platelet-based score models for hepatic alveolar echinococcosis and atypical liver cancer",
+    "display_name": "RETRACTED ARTICLE: The diagnostic nomogram of platelet-based score models for hepatic alveolar echinococcosis and atypical liver cancer",
+    "publication_year": 2019,
+    "publication_date": "2019-12-18",
+    "ids": {
+      "openalex": "https://openalex.org/W3114117387",
+      "doi": "https://doi.org/10.1038/s41598-019-55563-3",
+      "mag": "3114117387",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/31852926",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/6920149"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1038/s41598-019-55563-3",
+      "doi": "https://doi.org/10.1038/s41598-019-55563-3",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41598-019-55563-3",
+      "pdf_url": "https://www.nature.com/articles/s41598-019-55563-3.pdf",
+      "source": {
+        "id": "https://openalex.org/S196734849",
+        "display_name": "Scientific Reports",
+        "issn_l": "2045-2322",
+        "issn": [
+          "2045-2322"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific Reports",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/s41598-019-55563-3.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5110790351",
+          "display_name": "Qiancheng Du",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116953780",
+            "display_name": "Tongji University",
+            "ror": "https://ror.org/03rc6as71",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116953780"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Qiancheng Du",
+        "raw_affiliation_strings": [
+          "Department of General Surgery, Shanghai Fourth People's Hospital Affiliated to Tongji University School of Medicine, Shanghai, 200081, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of General Surgery, Shanghai Fourth People's Hospital Affiliated to Tongji University School of Medicine, Shanghai, 200081, China",
+            "institution_ids": [
+              "https://openalex.org/I116953780"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Yanyan Wang",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197869895",
+            "display_name": "Anhui Medical University",
+            "ror": "https://ror.org/03xb04968",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197869895"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yanyan Wang",
+        "raw_affiliation_strings": [
+          "Department of Hematology, Fuyang Hospital of Anhui Medical University, Fuyang, 236000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hematology, Fuyang Hospital of Anhui Medical University, Fuyang, 236000, China",
+            "institution_ids": [
+              "https://openalex.org/I197869895"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5020801666",
+          "display_name": "Shihao Guan",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I24943067",
+            "display_name": "Fudan University",
+            "ror": "https://ror.org/013q1eq08",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I24943067"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210127074",
+            "display_name": "Zhongshan Hospital",
+            "ror": "https://ror.org/032x22645",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210127074"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shihao Guan",
+        "raw_affiliation_strings": [
+          "Department of Plastic surgery, the Qingpu Branch of Zhongshan Hospital Affiliated to Fudan University, Shanghai, 201700, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Plastic surgery, the Qingpu Branch of Zhongshan Hospital Affiliated to Fudan University, Shanghai, 201700, China",
+            "institution_ids": [
+              "https://openalex.org/I24943067",
+              "https://openalex.org/I4210127074"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5017958443",
+          "display_name": "Chenliang Hu",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116265982",
+            "display_name": "Qinghai University",
+            "ror": "https://ror.org/05h33bt13",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116265982"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210086866",
+            "display_name": "Qinghai University Affiliated Hospital",
+            "ror": "https://ror.org/000j1tr86",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210086866"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Chenliang Hu",
+        "raw_affiliation_strings": [
+          "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key Laboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key Laboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China",
+            "institution_ids": [
+              "https://openalex.org/I116265982",
+              "https://openalex.org/I4210086866"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101544068",
+          "display_name": "Mengxuan Li",
+          "orcid": "https://orcid.org/0000-0003-4411-4790",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4411-4790"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116265982",
+            "display_name": "Qinghai University",
+            "ror": "https://ror.org/05h33bt13",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116265982"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210086866",
+            "display_name": "Qinghai University Affiliated Hospital",
+            "ror": "https://ror.org/000j1tr86",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210086866"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mengxuan Li",
+        "raw_affiliation_strings": [
+          "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key Laboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key Laboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China",
+            "institution_ids": [
+              "https://openalex.org/I116265982",
+              "https://openalex.org/I4210086866"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101849153",
+          "display_name": "Ling Zhou",
+          "orcid": "https://orcid.org/0000-0003-2290-3756",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2290-3756"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116953780",
+            "display_name": "Tongji University",
+            "ror": "https://ror.org/03rc6as71",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116953780"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ling Zhou",
+        "raw_affiliation_strings": [
+          "Department of General Surgery, Shanghai Fourth People's Hospital Affiliated to Tongji University School of Medicine, Shanghai, 200081, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of General Surgery, Shanghai Fourth People's Hospital Affiliated to Tongji University School of Medicine, Shanghai, 200081, China",
+            "institution_ids": [
+              "https://openalex.org/I116953780"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5079094007",
+          "display_name": "Mengzhao Zhang",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116265982",
+            "display_name": "Qinghai University",
+            "ror": "https://ror.org/05h33bt13",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116265982"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mengzhao Zhang",
+        "raw_affiliation_strings": [
+          "The Graduate School, Qinghai University, Xining, 810000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The Graduate School, Qinghai University, Xining, 810000, China",
+            "institution_ids": [
+              "https://openalex.org/I116265982"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5102351472",
+          "display_name": "Yichong Chen",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116265982",
+            "display_name": "Qinghai University",
+            "ror": "https://ror.org/05h33bt13",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116265982"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yichong Chen",
+        "raw_affiliation_strings": [
+          "The Graduate School, Qinghai University, Xining, 810000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The Graduate School, Qinghai University, Xining, 810000, China",
+            "institution_ids": [
+              "https://openalex.org/I116265982"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5024174661",
+          "display_name": "Xuepeng Mei",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116265982",
+            "display_name": "Qinghai University",
+            "ror": "https://ror.org/05h33bt13",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116265982"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xuepeng Mei",
+        "raw_affiliation_strings": [
+          "The Graduate School, Qinghai University, Xining, 810000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The Graduate School, Qinghai University, Xining, 810000, China",
+            "institution_ids": [
+              "https://openalex.org/I116265982"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101926933",
+          "display_name": "Jian Sun",
+          "orcid": "https://orcid.org/0000-0003-4858-7448",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4858-7448"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116953780",
+            "display_name": "Tongji University",
+            "ror": "https://ror.org/03rc6as71",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116953780"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jian Sun",
+        "raw_affiliation_strings": [
+          "Department of General Surgery, Shanghai Fourth People's Hospital Affiliated to Tongji University School of Medicine, Shanghai, 200081, China. 13311856338@163.com",
+          "Department of General Surgery, Shanghai Fourth People\u2019s Hospital Affiliated to Tongji University School of\nMedicine, Shanghai, 200081, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4858-7448",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of General Surgery, Shanghai Fourth People's Hospital Affiliated to Tongji University School of Medicine, Shanghai, 200081, China. 13311856338@163.com",
+            "institution_ids": [
+              "https://openalex.org/I116953780"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of General Surgery, Shanghai Fourth People\u2019s Hospital Affiliated to Tongji University School of\nMedicine, Shanghai, 200081, China",
+            "institution_ids": [
+              "https://openalex.org/I116953780"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5026577079",
+          "display_name": "Ying Zhou",
+          "orcid": "https://orcid.org/0000-0003-4553-4367",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4553-4367"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I116265982",
+            "display_name": "Qinghai University",
+            "ror": "https://ror.org/05h33bt13",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I116265982"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210086866",
+            "display_name": "Qinghai University Affiliated Hospital",
+            "ror": "https://ror.org/000j1tr86",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210086866"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ying Zhou",
+        "raw_affiliation_strings": [
+          "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key Laboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China. 17697227511@163.com",
+          "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key\nLaboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4553-4367",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key Laboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China. 17697227511@163.com",
+            "institution_ids": [
+              "https://openalex.org/I116265982",
+              "https://openalex.org/I4210086866"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Hepatopancreatobiliary Surgery, the Affiliated Hospital of Qinghai University and Qinghai Province Key\nLaboratory of Hydatid Disease Research, Qinghai University, Xining, 81000, China",
+            "institution_ids": [
+              "https://openalex.org/I116265982",
+              "https://openalex.org/I4210086866"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 6,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5026577079",
+      "https://openalex.org/A5101926933"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I116265982",
+      "https://openalex.org/I116953780",
+      "https://openalex.org/I4210086866"
+    ],
+    "apc_list": {
+      "value": 1790,
+      "currency": "USD",
+      "value_usd": 1790
+    },
+    "apc_paid": {
+      "value": 1790,
+      "currency": "USD",
+      "value_usd": 1790
+    },
+    "fwci": 0.6375,
+    "has_fulltext": true,
+    "cited_by_count": 6,
+    "citation_normalized_percentile": {
+      "value": 0.70468549,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "9",
+      "issue": "1",
+      "first_page": "19403",
+      "last_page": "19403"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10073",
+      "display_name": "Hepatocellular Carcinoma Treatment and Prognosis",
+      "score": 0.4683000147342682,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2721",
+        "display_name": "Hepatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10073",
+        "display_name": "Hepatocellular Carcinoma Treatment and Prognosis",
+        "score": 0.4683000147342682,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2721",
+          "display_name": "Hepatology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11154",
+        "display_name": "Parasitic infections in humans and animals",
+        "score": 0.12210000306367874,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2734",
+          "display_name": "Pathology and Forensic Medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11355",
+        "display_name": "Inflammatory Biomarkers in Disease Prognosis",
+        "score": 0.06509999930858612,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2730",
+          "display_name": "Oncology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/hepatic-alveolar-echinococcosis",
+        "display_name": "hepatic alveolar echinococcosis",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/differential-diagnosis",
+        "display_name": "differential diagnosis",
+        "score": 0.8769999742507935
+      },
+      {
+        "id": "https://openalex.org/keywords/diagnostic-nomogram",
+        "display_name": "diagnostic nomogram",
+        "score": 0.9120000004768372
+      },
+      {
+        "id": "https://openalex.org/keywords/preoperative-diagnosis",
+        "display_name": "preoperative diagnosis",
+        "score": 0.6940000057220459
+      },
+      {
+        "id": "https://openalex.org/keywords/liver-fibrosis",
+        "display_name": "liver fibrosis",
+        "score": 0.574999988079071
+      },
+      {
+        "id": "https://openalex.org/keywords/fib-4-index",
+        "display_name": "FIB-4",
+        "score": 0.8420000076293945
+      },
+      {
+        "id": "https://openalex.org/keywords/retracted-article",
+        "display_name": "retracted article",
+        "score": 0.6579999923706055
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C34626388",
+        "wikidata": "https://www.wikidata.org/wiki/Q721129",
+        "display_name": "Nomogram",
+        "level": 2,
+        "score": 0.9159632325172424
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.6446878910064697
+      },
+      {
+        "id": "https://openalex.org/C58471807",
+        "wikidata": "https://www.wikidata.org/wiki/Q327120",
+        "display_name": "Receiver operating characteristic",
+        "level": 2,
+        "score": 0.5844578742980957
+      },
+      {
+        "id": "https://openalex.org/C2776231280",
+        "wikidata": "https://www.wikidata.org/wiki/Q623031",
+        "display_name": "Liver cancer",
+        "level": 3,
+        "score": 0.4693984091281891
+      },
+      {
+        "id": "https://openalex.org/C126838900",
+        "wikidata": "https://www.wikidata.org/wiki/Q77604",
+        "display_name": "Radiology",
+        "level": 1,
+        "score": 0.3642617464065552
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "level": 1,
+        "score": 0.35767555236816406
+      },
+      {
+        "id": "https://openalex.org/C121608353",
+        "wikidata": "https://www.wikidata.org/wiki/Q12078",
+        "display_name": "Cancer",
+        "level": 2,
+        "score": 0.3305184841156006
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.32576245069503784
+      },
+      {
+        "id": "https://openalex.org/C143998085",
+        "wikidata": "https://www.wikidata.org/wiki/Q162555",
+        "display_name": "Oncology",
+        "level": 1,
+        "score": 0.325400173664093
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.1460312008857727
+      }
+    ],
+    "mesh": [],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.1038/s41598-019-55563-3",
+        "doi": "https://doi.org/10.1038/s41598-019-55563-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-019-55563-3",
+        "pdf_url": "https://www.nature.com/articles/s41598-019-55563-3.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:5872984",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6920149",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:6920149",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6920149",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sci Rep",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:31852926",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31852926",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific reports",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:112a847ac25148dda6e7005a36f1da2c",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://doaj.org/article/112a847ac25148dda6e7005a36f1da2c",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Scientific Reports, Vol 9, Iss 1, Pp 1-9 (2019)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1038/s41598-019-55563-3",
+      "doi": "https://doi.org/10.1038/s41598-019-55563-3",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s41598-019-55563-3",
+      "pdf_url": "https://www.nature.com/articles/s41598-019-55563-3.pdf",
+      "source": {
+        "id": "https://openalex.org/S196734849",
+        "display_name": "Scientific Reports",
+        "issn_l": "2045-2322",
+        "issn": [
+          "2045-2322"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific Reports",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "display_name": "Good health and well-being",
+        "score": 0.98580002784729
+      }
+    ],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/observational-study",
+        "display_name": "Observational Study"
+      }
+    ],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320326280",
+        "display_name": "Qinghai University",
+        "ror": "https://ror.org/05h33bt13"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W3114117387.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W3114117387.grobid-xml"
+    },
+    "referenced_works_count": 41,
+    "referenced_works": [
+      "https://openalex.org/W73713727",
+      "https://openalex.org/W166253647",
+      "https://openalex.org/W271328514",
+      "https://openalex.org/W1605655296",
+      "https://openalex.org/W1876104997",
+      "https://openalex.org/W1990035320",
+      "https://openalex.org/W1997448584",
+      "https://openalex.org/W2007463346",
+      "https://openalex.org/W2009575651",
+      "https://openalex.org/W2026901643",
+      "https://openalex.org/W2040458407",
+      "https://openalex.org/W2047261897",
+      "https://openalex.org/W2048823992",
+      "https://openalex.org/W2049572339",
+      "https://openalex.org/W2054193584",
+      "https://openalex.org/W2064387090",
+      "https://openalex.org/W2067761112",
+      "https://openalex.org/W2091415498",
+      "https://openalex.org/W2114800408",
+      "https://openalex.org/W2116825686",
+      "https://openalex.org/W2136404658",
+      "https://openalex.org/W2152407292",
+      "https://openalex.org/W2153505392",
+      "https://openalex.org/W2166339706",
+      "https://openalex.org/W2168051713",
+      "https://openalex.org/W2190954851",
+      "https://openalex.org/W2192133820",
+      "https://openalex.org/W2346343836",
+      "https://openalex.org/W2430833041",
+      "https://openalex.org/W2498175129",
+      "https://openalex.org/W2594262320",
+      "https://openalex.org/W2736104915",
+      "https://openalex.org/W2786603205",
+      "https://openalex.org/W2910460615",
+      "https://openalex.org/W2921209779",
+      "https://openalex.org/W2922476123",
+      "https://openalex.org/W2939040895",
+      "https://openalex.org/W2945687189",
+      "https://openalex.org/W2955254161",
+      "https://openalex.org/W4245403358",
+      "https://openalex.org/W4294541781"
+    ],
+    "related_works": [
+      "https://openalex.org/W4404893560",
+      "https://openalex.org/W3214885850",
+      "https://openalex.org/W3214938751",
+      "https://openalex.org/W4403377862",
+      "https://openalex.org/W3082303424",
+      "https://openalex.org/W4399134701",
+      "https://openalex.org/W4407046329",
+      "https://openalex.org/W4383998143",
+      "https://openalex.org/W2962931873",
+      "https://openalex.org/W4408291529"
+    ],
+    "abstract_inverted_index": {
+      "Hepatic": [
+        0
+      ],
+      "alveolar": [
+        1
+      ],
+      "echinococcosis": [
+        2
+      ],
+      "(HAE)": [
+        3
+      ],
+      "and": [
+        4,
+        14,
+        46,
+        77,
+        84,
+        105,
+        127,
+        134,
+        144,
+        166,
+        195,
+        214,
+        241,
+        258,
+        303
+      ],
+      "liver": [
+        5,
+        73,
+        196,
+        304
+      ],
+      "cancer": [
+        6,
+        74
+      ],
+      "had": [
+        7,
+        267,
+        281
+      ],
+      "similarities": [
+        8
+      ],
+      "in": [
+        9,
+        65,
+        183
+      ],
+      "imaging": [
+        10
+      ],
+      "results,": [
+        11
+      ],
+      "clinical": [
+        12,
+        145
+      ],
+      "characteristics,": [
+        13
+      ],
+      "so": [
+        15
+      ],
+      "on.": [
+        16
+      ],
+      "And": [
+        17
+      ],
+      "it": [
+        18
+      ],
+      "is": [
+        19
+      ],
+      "difficult": [
+        20
+      ],
+      "for": [
+        21
+      ],
+      "clinicians": [
+        22
+      ],
+      "to": [
+        23,
+        34,
+        50,
+        89,
+        98,
+        121,
+        295
+      ],
+      "distinguish": [
+        24
+      ],
+      "them": [
+        25
+      ],
+      "before": [
+        26
+      ],
+      "operation.": [
+        27
+      ],
+      "The": [
+        28,
+        54,
+        179,
+        224,
+        244
+      ],
+      "aim": [
+        29
+      ],
+      "of": [
+        30,
+        147,
+        193,
+        199,
+        205,
+        235,
+        251,
+        261,
+        301
+      ],
+      "our": [
+        31,
+        277
+      ],
+      "study": [
+        32
+      ],
+      "was": [
+        33,
+        57,
+        80,
+        96,
+        119,
+        172,
+        187,
+        256
+      ],
+      "build": [
+        35
+      ],
+      "a": [
+        36,
+        123,
+        227,
+        232,
+        268
+      ],
+      "differential": [
+        37,
+        191,
+        278,
+        288
+      ],
+      "diagnosis": [
+        38,
+        192,
+        202,
+        279,
+        289,
+        300
+      ],
+      "nomogram": [
+        39,
+        203,
+        255,
+        266,
+        280,
+        290
+      ],
+      "based": [
+        40,
+        109
+      ],
+      "on": [
+        41,
+        110
+      ],
+      "platelet": [
+        42
+      ],
+      "(PLT)": [
+        43
+      ],
+      "score": [
+        44
+      ],
+      "model": [
+        45,
+        56,
+        95,
+        108,
+        150,
+        225
+      ],
+      "use": [
+        47
+      ],
+      "internal": [
+        48,
+        170,
+        239
+      ],
+      "validation": [
+        49,
+        171
+      ],
+      "check": [
+        51
+      ],
+      "the": [
+        52,
+        60,
+        111,
+        130,
+        139,
+        148,
+        154,
+        176,
+        200,
+        206,
+        209,
+        247,
+        259,
+        287,
+        297
+      ],
+      "model.": [
+        53
+      ],
+      "predicting": [
+        55
+      ],
+      "constructed": [
+        58,
+        217
+      ],
+      "by": [
+        59,
+        82,
+        153,
+        175,
+        218
+      ],
+      "retrospective": [
+        61
+      ],
+      "database": [
+        62
+      ],
+      "that": [
+        63,
+        264,
+        276
+      ],
+      "included": [
+        64
+      ],
+      "153": [
+        66
+      ],
+      "patients": [
+        67
+      ],
+      "with": [
+        68,
+        190,
+        231
+      ],
+      "HAE": [
+        69,
+        194,
+        302
+      ],
+      "(66": [
+        70
+      ],
+      "cases)": [
+        71
+      ],
+      "or": [
+        72
+      ],
+      "(87": [
+        75
+      ],
+      "cases),": [
+        76
+      ],
+      "all": [
+        78
+      ],
+      "cases": [
+        79
+      ],
+      "confirmed": [
+        81
+      ],
+      "clinicopathology": [
+        83
+      ],
+      "collected": [
+        85
+      ],
+      "from": [
+        86
+      ],
+      "November": [
+        87
+      ],
+      "2011": [
+        88
+      ],
+      "December": [
+        90
+      ],
+      "2018.": [
+        91
+      ],
+      "Lasso": [
+        92
+      ],
+      "regression": [
+        93,
+        117
+      ],
+      "analysis": [
+        94,
+        118,
+        274
+      ],
+      "used": [
+        97
+      ],
+      "construct": [
+        99,
+        122
+      ],
+      "data": [
+        100
+      ],
+      "dimensionality": [
+        101
+      ],
+      "reduction,": [
+        102
+      ],
+      "elements": [
+        103
+      ],
+      "selection,": [
+        104
+      ],
+      "building": [
+        106
+      ],
+      "prediction": [
+        107,
+        125,
+        254
+      ],
+      "9": [
+        112
+      ],
+      "PLT-based": [
+        113,
+        132
+      ],
+      "scores.": [
+        114
+      ],
+      "A": [
+        115
+      ],
+      "multi-factor": [
+        116
+      ],
+      "performed": [
+        120,
+        294
+      ],
+      "simplified": [
+        124,
+        149,
+        180,
+        201,
+        253
+      ],
+      "model,": [
+        126,
+        181
+      ],
+      "we": [
+        128
+      ],
+      "added": [
+        129
+      ],
+      "selected": [
+        131,
+        185
+      ],
+      "scores": [
+        133
+      ],
+      "relevant": [
+        135
+      ],
+      "clinicopathologic": [
+        136
+      ],
+      "features": [
+        137
+      ],
+      "into": [
+        138
+      ],
+      "nomogram.": [
+        140
+      ],
+      "Identification": [
+        141
+      ],
+      "capability,": [
+        142,
+        230
+      ],
+      "calibration,": [
+        143
+      ],
+      "serviceability": [
+        146
+      ],
+      "were": [
+        151
+      ],
+      "evaluated": [
+        152,
+        174
+      ],
+      "Harrell's": [
+        155
+      ],
+      "concordance": [
+        156
+      ],
+      "index": [
+        157,
+        216
+      ],
+      "(C-index),": [
+        158
+      ],
+      "calibration": [
+        159
+      ],
+      "plot,": [
+        160
+      ],
+      "receiver": [
+        161
+      ],
+      "operating": [
+        162
+      ],
+      "characteristic": [
+        163
+      ],
+      "curve": [
+        164,
+        248,
+        273
+      ],
+      "(ROC),": [
+        165
+      ],
+      "decision": [
+        167
+      ],
+      "curve.": [
+        168
+      ],
+      "An": [
+        169
+      ],
+      "also": [
+        173
+      ],
+      "bootstrap": [
+        177
+      ],
+      "resampling.": [
+        178
+      ],
+      "including": [
+        182
+      ],
+      "4": [
+        184
+      ],
+      "factors,": [
+        186
+      ],
+      "significantly": [
+        188
+      ],
+      "associated": [
+        189
+      ],
+      "cancer.": [
+        197,
+        305
+      ],
+      "Predictors": [
+        198
+      ],
+      "consisted": [
+        204
+      ],
+      "API": [
+        207
+      ],
+      "index,": [
+        208,
+        211
+      ],
+      "FIB-4": [
+        210
+      ],
+      "fibro-quotent": [
+        212
+      ],
+      "(FibroQ),": [
+        213
+      ],
+      "fibrosis": [
+        215
+      ],
+      "King's": [
+        219
+      ],
+      "College": [
+        220
+      ],
+      "Hospital": [
+        221
+      ],
+      "(King's": [
+        222
+      ],
+      "score).": [
+        223
+      ],
+      "presented": [
+        226
+      ],
+      "perfect": [
+        228
+      ],
+      "identification": [
+        229,
+        283
+      ],
+      "high": [
+        233
+      ],
+      "C-index": [
+        234
+      ],
+      "0.929": [
+        236
+      ],
+      "(0.919": [
+        237
+      ],
+      "through": [
+        238
+      ],
+      "validation),": [
+        240
+      ],
+      "good": [
+        242,
+        269
+      ],
+      "calibration.": [
+        243
+      ],
+      "area": [
+        245
+      ],
+      "under": [
+        246
+      ],
+      "(AUC)": [
+        249
+      ],
+      "values": [
+        250
+      ],
+      "this": [
+        252,
+        265
+      ],
+      "0.929,": [
+        257
+      ],
+      "result": [
+        260
+      ],
+      "ROC": [
+        262
+      ],
+      "indicated": [
+        263
+      ],
+      "predictive": [
+        270
+      ],
+      "value.": [
+        271
+      ],
+      "Decision": [
+        272
+      ],
+      "showed": [
+        275
+      ],
+      "clinically": [
+        282
+      ],
+      "capability.": [
+        284
+      ],
+      "In": [
+        285
+      ],
+      "conclusion,": [
+        286
+      ],
+      "could": [
+        291
+      ],
+      "be": [
+        292
+      ],
+      "feasibly": [
+        293
+      ],
+      "verify": [
+        296
+      ],
+      "preoperative": [
+        298
+      ],
+      "individualized": [
+        299
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-10-30T12:39:25.321706",
+    "created_date": "2021-01-05T00:00:00"
+  }
+}

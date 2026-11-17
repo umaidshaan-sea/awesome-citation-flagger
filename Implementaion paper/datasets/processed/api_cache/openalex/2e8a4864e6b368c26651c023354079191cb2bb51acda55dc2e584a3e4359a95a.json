@@ -1,0 +1,1735 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.2991/jegh.k.201009.001",
+  "url": "https://api.openalex.org/works/https://doi.org/10.2991%2Fjegh.k.201009.001",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:41.437411+00:00",
+  "record": {
+    "id": "https://openalex.org/W3092706387",
+    "doi": "https://doi.org/10.2991/jegh.k.201009.001",
+    "title": "Screening Strategy of Active Pulmonary Tuberculosis in Sheltered Homeless People in Marseille, 2019",
+    "display_name": "Screening Strategy of Active Pulmonary Tuberculosis in Sheltered Homeless People in Marseille, 2019",
+    "publication_year": 2020,
+    "publication_date": "2020-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W3092706387",
+      "doi": "https://doi.org/10.2991/jegh.k.201009.001",
+      "mag": "3092706387",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/33605113",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/7958279"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.2991/jegh.k.201009.001",
+      "doi": "https://doi.org/10.2991/jegh.k.201009.001",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2991/jegh.k.201009.001",
+      "pdf_url": "https://www.atlantis-press.com/article/125944952.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764371953",
+        "display_name": "Journal of Epidemiology and Global Health",
+        "issn_l": "2210-6006",
+        "issn": [
+          "2210-6006",
+          "2210-6014"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "dongbi-d",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-40",
+          "russia-white-list-1"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Epidemiology and Global Health",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.atlantis-press.com/article/125944952.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5034435726",
+          "display_name": "Tran Duc Anh Ly",
+          "orcid": "https://orcid.org/0000-0001-8432-8254",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8432-8254"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille Universit\u00e9",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210087217",
+            "display_name": "M\u00e9diterran\u00e9e Infection Foundation",
+            "ror": "https://ror.org/0068ff141",
+            "country_code": "FR",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4210087487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166444",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/05q3vnk25",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405269175",
+            "display_name": "Risques Infectieux Tropicaux Microorganismes EmergentS",
+            "ror": "https://ror.org/03anav932",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I3203470602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tran Duc Anh Ly",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+          "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+          "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I4210087217"
+            ]
+          },
+          {
+            "raw_affiliation_string": "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)",
+            "institution_ids": [
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5049775874",
+          "display_name": "Floriane Holi-Jamovski",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Floriane Holi-Jamovski",
+        "raw_affiliation_strings": [
+          "Centres de Lutte Antituberculeuse, Marseille, France"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Centres de Lutte Antituberculeuse, Marseille, France",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015077227",
+          "display_name": "Van Thuan Hoang",
+          "orcid": "https://orcid.org/0000-0003-1369-8615",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1369-8615"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille Universit\u00e9",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210087217",
+            "display_name": "M\u00e9diterran\u00e9e Infection Foundation",
+            "ror": "https://ror.org/0068ff141",
+            "country_code": "FR",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4210087487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210143793",
+            "display_name": "Thai Binh University of Medicine and Pharmacy",
+            "ror": "https://ror.org/04wtn5j93",
+            "country_code": "VN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210143793"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166444",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/05q3vnk25",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405269175",
+            "display_name": "Risques Infectieux Tropicaux Microorganismes EmergentS",
+            "ror": "https://ror.org/03anav932",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I3203470602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ],
+        "countries": [
+          "FR",
+          "VN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Van Thuan Hoang",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+          "Family Medicine Department, Thai Binh University of Medicine and Pharmacy, Vietnam",
+          "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+          "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Family Medicine Department, Thai Binh University of Medicine and Pharmacy, Vietnam",
+            "institution_ids": [
+              "https://openalex.org/I4210143793"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I4210087217"
+            ]
+          },
+          {
+            "raw_affiliation_string": "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)",
+            "institution_ids": [
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5047763209",
+          "display_name": "Ndiaw Goumballa",
+          "orcid": "https://orcid.org/0000-0002-6114-2905",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6114-2905"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille Universit\u00e9",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210087217",
+            "display_name": "M\u00e9diterran\u00e9e Infection Foundation",
+            "ror": "https://ror.org/0068ff141",
+            "country_code": "FR",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4210087487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210108561",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/015q23935",
+            "country_code": "SN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210108561",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166444",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/05q3vnk25",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405269175",
+            "display_name": "Risques Infectieux Tropicaux Microorganismes EmergentS",
+            "ror": "https://ror.org/03anav932",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I3203470602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ],
+        "countries": [
+          "FR",
+          "SN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ndiaw Goumballa",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+          "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+          "VITROME, Campus International IRD-UCAD de l'IRD, Dakar, Senegal",
+          "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I4210087217"
+            ]
+          },
+          {
+            "raw_affiliation_string": "VITROME, Campus International IRD-UCAD de l'IRD, Dakar, Senegal",
+            "institution_ids": [
+              "https://openalex.org/I4210108561",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "raw_affiliation_string": "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)",
+            "institution_ids": [
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5065648530",
+          "display_name": "Meriem Louni",
+          "orcid": "https://orcid.org/0000-0003-0086-6990",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0086-6990"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille Universit\u00e9",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210087217",
+            "display_name": "M\u00e9diterran\u00e9e Infection Foundation",
+            "ror": "https://ror.org/0068ff141",
+            "country_code": "FR",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4210087487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166444",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/05q3vnk25",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405269175",
+            "display_name": "Risques Infectieux Tropicaux Microorganismes EmergentS",
+            "ror": "https://ror.org/03anav932",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I3203470602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Meriem Louni",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+          "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+          "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I4210087217"
+            ]
+          },
+          {
+            "raw_affiliation_string": "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)",
+            "institution_ids": [
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5061153301",
+          "display_name": "Thi Loi Dao",
+          "orcid": "https://orcid.org/0000-0001-7129-3785",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7129-3785"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille Universit\u00e9",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210087217",
+            "display_name": "M\u00e9diterran\u00e9e Infection Foundation",
+            "ror": "https://ror.org/0068ff141",
+            "country_code": "FR",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4210087487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210143793",
+            "display_name": "Thai Binh University of Medicine and Pharmacy",
+            "ror": "https://ror.org/04wtn5j93",
+            "country_code": "VN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210143793"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166444",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/05q3vnk25",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405269175",
+            "display_name": "Risques Infectieux Tropicaux Microorganismes EmergentS",
+            "ror": "https://ror.org/03anav932",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I3203470602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ],
+        "countries": [
+          "FR",
+          "VN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Thi Loi Dao",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+          "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+          "Pneumology Department, Thai Binh University of Medicine and Pharmacy, Vietnam",
+          "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I4210087217"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Pneumology Department, Thai Binh University of Medicine and Pharmacy, Vietnam",
+            "institution_ids": [
+              "https://openalex.org/I4210143793"
+            ]
+          },
+          {
+            "raw_affiliation_string": "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)",
+            "institution_ids": [
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5064706278",
+          "display_name": "Michel Drancourt",
+          "orcid": "https://orcid.org/0000-0003-0768-1139",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0768-1139"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille Universit\u00e9",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210087217",
+            "display_name": "M\u00e9diterran\u00e9e Infection Foundation",
+            "ror": "https://ror.org/0068ff141",
+            "country_code": "FR",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4210087487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405267177",
+            "display_name": "Microbes Evolution Phylog\u00e9nie et Infections",
+            "ror": "https://ror.org/01hcfhk13",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4405267177"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Michel Drancourt",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, MEPHI, Marseille, France",
+          "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+          "MEPHI - Microbes \u00e9volution phylog\u00e9nie et infections (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aix Marseille Univ, MEPHI, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I4210087217"
+            ]
+          },
+          {
+            "raw_affiliation_string": "MEPHI - Microbes \u00e9volution phylog\u00e9nie et infections (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)",
+            "institution_ids": [
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4405267177"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5012924666",
+          "display_name": "Philippe Gautret",
+          "orcid": "https://orcid.org/0000-0002-1664-958X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1664-958X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I21491767",
+            "display_name": "Aix-Marseille Universit\u00e9",
+            "ror": "https://ror.org/035xkbk20",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I21491767"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210087217",
+            "display_name": "M\u00e9diterran\u00e9e Infection Foundation",
+            "ror": "https://ror.org/0068ff141",
+            "country_code": "FR",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4210087487"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166444",
+            "display_name": "Institut de Recherche pour le D\u00e9veloppement",
+            "ror": "https://ror.org/05q3vnk25",
+            "country_code": "FR",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405269175",
+            "display_name": "Risques Infectieux Tropicaux Microorganismes EmergentS",
+            "ror": "https://ror.org/03anav932",
+            "country_code": "FR",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I2802818602",
+              "https://openalex.org/I3203470602",
+              "https://openalex.org/I4210090127",
+              "https://openalex.org/I4210131494",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Philippe Gautret",
+        "raw_affiliation_strings": [
+          "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+          "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+          "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I21491767",
+              "https://openalex.org/I4210166444",
+              "https://openalex.org/I4405269175"
+            ]
+          },
+          {
+            "raw_affiliation_string": "IHU-M\u00e9diterran\u00e9e Infection, Marseille, France",
+            "institution_ids": [
+              "https://openalex.org/I4210087217"
+            ]
+          },
+          {
+            "raw_affiliation_string": "VITROME - Vecteurs - Infections tropicales et m\u00e9diterran\u00e9ennes (IHU M\u00e9diterran\u00e9e Infection\r\n19-21 Bd Jean Moulin\r\n13005 Marseille - France)",
+            "institution_ids": [
+              "https://openalex.org/I4210087217",
+              "https://openalex.org/I4405269175"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 3,
+    "institutions_distinct_count": 7,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5012924666"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I21491767",
+      "https://openalex.org/I4210087217",
+      "https://openalex.org/I4210166444",
+      "https://openalex.org/I4405269175"
+    ],
+    "apc_list": {
+      "value": 2690,
+      "currency": "USD",
+      "value_usd": 2690
+    },
+    "apc_paid": {
+      "value": 2690,
+      "currency": "USD",
+      "value_usd": 2690
+    },
+    "fwci": 0.0328,
+    "has_fulltext": true,
+    "cited_by_count": 6,
+    "citation_normalized_percentile": {
+      "value": 0.46953956,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "11",
+      "issue": "1",
+      "first_page": "124",
+      "last_page": "124"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10038",
+      "display_name": "Tuberculosis Research and Epidemiology",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10038",
+        "display_name": "Tuberculosis Research and Epidemiology",
+        "score": 0.9940999746322632,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2725",
+          "display_name": "Infectious Diseases"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13586",
+        "display_name": "HIV, TB, and STIs Epidemiology",
+        "score": 0.0012000000569969416,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3300",
+          "display_name": "General Social Sciences"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11464",
+        "display_name": "Homelessness and Social Issues",
+        "score": 0.0008999999845400453,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/active-pulmonary-tuberculosis",
+        "display_name": "active pulmonary tuberculosis",
+        "score": 0.9929999709129333
+      },
+      {
+        "id": "https://openalex.org/keywords/homeless-people",
+        "display_name": "homeless people",
+        "score": 0.7459999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/tuberculosis-screening",
+        "display_name": "tuberculosis screening",
+        "score": 0.7129999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/screening-questionnaire",
+        "display_name": "screening questionnaire",
+        "score": 0.8059999942779541
+      },
+      {
+        "id": "https://openalex.org/keywords/chest-x-ray",
+        "display_name": "chest radiography",
+        "score": 0.7450000047683716
+      },
+      {
+        "id": "https://openalex.org/keywords/migrants",
+        "display_name": "migrants",
+        "score": 0.574999988079071
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.9278087615966797
+      },
+      {
+        "id": "https://openalex.org/C2776301714",
+        "wikidata": "https://www.wikidata.org/wiki/Q259346",
+        "display_name": "Sputum",
+        "level": 3,
+        "score": 0.757744312286377
+      },
+      {
+        "id": "https://openalex.org/C2781069245",
+        "wikidata": "https://www.wikidata.org/wiki/Q12204",
+        "display_name": "Tuberculosis",
+        "level": 2,
+        "score": 0.7394911050796509
+      },
+      {
+        "id": "https://openalex.org/C2777975735",
+        "wikidata": "https://www.wikidata.org/wiki/Q130971",
+        "display_name": "Mycobacterium tuberculosis",
+        "level": 3,
+        "score": 0.6298617720603943
+      },
+      {
+        "id": "https://openalex.org/C2908647359",
+        "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+        "display_name": "Population",
+        "level": 2,
+        "score": 0.534163773059845
+      },
+      {
+        "id": "https://openalex.org/C2908628106",
+        "wikidata": "https://www.wikidata.org/wiki/Q12204",
+        "display_name": "Pulmonary tuberculosis",
+        "level": 3,
+        "score": 0.5205891728401184
+      },
+      {
+        "id": "https://openalex.org/C3020808697",
+        "wikidata": "https://www.wikidata.org/wiki/Q1163564",
+        "display_name": "Case finding",
+        "level": 3,
+        "score": 0.5140494108200073
+      },
+      {
+        "id": "https://openalex.org/C2779912665",
+        "wikidata": "https://www.wikidata.org/wiki/Q7581635",
+        "display_name": "Sputum culture",
+        "level": 4,
+        "score": 0.44327327609062195
+      },
+      {
+        "id": "https://openalex.org/C40993552",
+        "wikidata": "https://www.wikidata.org/wiki/Q514654",
+        "display_name": "Gold standard (test)",
+        "level": 2,
+        "score": 0.44323891401290894
+      },
+      {
+        "id": "https://openalex.org/C512399662",
+        "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+        "display_name": "Family medicine",
+        "level": 1,
+        "score": 0.3360186219215393
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.3252875506877899
+      },
+      {
+        "id": "https://openalex.org/C142724271",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208",
+        "display_name": "Pathology",
+        "level": 1,
+        "score": 0.262315571308136
+      },
+      {
+        "id": "https://openalex.org/C99454951",
+        "wikidata": "https://www.wikidata.org/wiki/Q932068",
+        "display_name": "Environmental health",
+        "level": 1,
+        "score": 0.11251768469810486
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000293",
+        "descriptor_name": "Adolescent",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000328",
+        "descriptor_name": "Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000368",
+        "descriptor_name": "Aged",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000369",
+        "descriptor_name": "Aged, 80 and over",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005602",
+        "descriptor_name": "France",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006703",
+        "descriptor_name": "Ill-Housed Persons",
+        "qualifier_ui": "Q000706",
+        "qualifier_name": "statistics & numerical data",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008403",
+        "descriptor_name": "Mass Screening",
+        "qualifier_ui": "Q000379",
+        "qualifier_name": "methods",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008875",
+        "descriptor_name": "Middle Aged",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011795",
+        "descriptor_name": "Surveys and Questionnaires",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012189",
+        "descriptor_name": "Retrospective Studies",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D014397",
+        "descriptor_name": "Tuberculosis, Pulmonary",
+        "qualifier_ui": "Q000175",
+        "qualifier_name": "diagnosis",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D015203",
+        "descriptor_name": "Reproducibility of Results",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D055815",
+        "descriptor_name": "Young Adult",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.2991/jegh.k.201009.001",
+        "doi": "https://doi.org/10.2991/jegh.k.201009.001",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2991/jegh.k.201009.001",
+        "pdf_url": "https://www.atlantis-press.com/article/125944952.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764371953",
+          "display_name": "Journal of Epidemiology and Global Health",
+          "issn_l": "2210-6006",
+          "issn": [
+            "2210-6006",
+            "2210-6014"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Epidemiology and Global Health",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:7958279",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7958279",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "J Epidemiol Glob Health",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:33605113",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33605113",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of epidemiology and global health",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:HAL:hal-03243172v1",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://amu.hal.science/hal-03243172",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4406922393",
+          "display_name": "HAL AMU",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Journal of Epidemiology and Global Health, 2021, 11 (1), pp.124. &#x27E8;10.2991/jegh.k.201009.001&#x27E9;",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:92df3ed68bcd45e68afa4d4c142b740a",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/92df3ed68bcd45e68afa4d4c142b740a",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Journal of Epidemiology and Global Health, Vol 11, Iss 1 (2020)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.2991/jegh.k.201009.001",
+      "doi": "https://doi.org/10.2991/jegh.k.201009.001",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2991/jegh.k.201009.001",
+      "pdf_url": "https://www.atlantis-press.com/article/125944952.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764371953",
+        "display_name": "Journal of Epidemiology and Global Health",
+        "issn_l": "2210-6006",
+        "issn": [
+          "2210-6006",
+          "2210-6014"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "dongbi-d",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-40",
+          "russia-white-list-1"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Epidemiology and Global Health",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "display_name": "Good health and well-being",
+        "score": 1.0
+      }
+    ],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/observational-study",
+        "display_name": "Observational Study"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W3092706387.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W3092706387.grobid-xml"
+    },
+    "referenced_works_count": 11,
+    "referenced_works": [
+      "https://openalex.org/W1928950269",
+      "https://openalex.org/W2081472509",
+      "https://openalex.org/W2133649018",
+      "https://openalex.org/W2142809794",
+      "https://openalex.org/W2616381384",
+      "https://openalex.org/W2736949192",
+      "https://openalex.org/W2762681837",
+      "https://openalex.org/W2884084733",
+      "https://openalex.org/W2923996158",
+      "https://openalex.org/W2948080529",
+      "https://openalex.org/W3033759350"
+    ],
+    "related_works": [
+      "https://openalex.org/W2620672073",
+      "https://openalex.org/W2616381384",
+      "https://openalex.org/W2411595037",
+      "https://openalex.org/W2399078301",
+      "https://openalex.org/W15005568",
+      "https://openalex.org/W4322489171",
+      "https://openalex.org/W2060555634",
+      "https://openalex.org/W2432787791",
+      "https://openalex.org/W2404288648",
+      "https://openalex.org/W95668976"
+    ],
+    "abstract_inverted_index": {
+      "=": [
+        0
+      ],
+      "383": [
+        1
+      ],
+      "HP)": [
+        2
+      ],
+      "was": [
+        3,
+        38
+      ],
+      "predominantly": [
+        4
+      ],
+      "migrants": [
+        5
+      ],
+      "(87%).": [
+        6
+      ],
+      "Forty-seven": [
+        7
+      ],
+      "individuals": [
+        8
+      ],
+      "(11.7%)": [
+        9
+      ],
+      "had": [
+        10,
+        58
+      ],
+      "positive": [
+        11,
+        44,
+        60,
+        99
+      ],
+      "screening": [
+        12,
+        61,
+        98
+      ],
+      "questionnaire": [
+        13,
+        62,
+        69
+      ],
+      "scores": [
+        14
+      ],
+      "and": [
+        15,
+        36,
+        66,
+        75,
+        94
+      ],
+      "four": [
+        16
+      ],
+      "(2.4%)": [
+        17
+      ],
+      "displayed": [
+        18
+      ],
+      "abnormal": [
+        19
+      ],
+      "CXR": [
+        20
+      ],
+      "features": [
+        21
+      ],
+      "consistent": [
+        22
+      ],
+      "with": [
+        23,
+        54
+      ],
+      "APTB.": [
+        24
+      ],
+      "Three": [
+        25
+      ],
+      "of": [
+        26,
+        68
+      ],
+      "them": [
+        27
+      ],
+      "three": [
+        28
+      ],
+      "underwent": [
+        29
+      ],
+      "CT": [
+        30
+      ],
+      "scanning": [
+        31
+      ],
+      "that": [
+        32
+      ],
+      "ruled": [
+        33
+      ],
+      "out": [
+        34
+      ],
+      "APTB": [
+        35,
+        57,
+        72
+      ],
+      "one": [
+        37
+      ],
+      "lost": [
+        39
+      ],
+      "to": [
+        40,
+        95
+      ],
+      "follow-up.": [
+        41
+      ],
+      "None": [
+        42
+      ],
+      "tested": [
+        43
+      ],
+      "through": [
+        45
+      ],
+      "microbiological": [
+        46
+      ],
+      "investigation.": [
+        47
+      ],
+      "Fifteen": [
+        48
+      ],
+      "(of": [
+        49
+      ],
+      "16,": [
+        50
+      ],
+      "93.8%)": [
+        51
+      ],
+      "hospitalised": [
+        52
+      ],
+      "patients": [
+        53
+      ],
+      "biologically": [
+        55
+      ],
+      "confirmed": [
+        56,
+        71
+      ],
+      "a": [
+        59,
+        84,
+        101
+      ],
+      "score.": [
+        63
+      ],
+      "The": [
+        64
+      ],
+      "sensitivity": [
+        65
+      ],
+      "specificity": [
+        67
+      ],
+      "for": [
+        70,
+        100
+      ],
+      "were": [
+        73
+      ],
+      "93.8%": [
+        74
+      ],
+      "87.7%,": [
+        76
+      ],
+      "respectively.": [
+        77
+      ],
+      "Screening": [
+        78
+      ],
+      "questionnaires": [
+        79
+      ],
+      "can": [
+        80
+      ],
+      "be": [
+        81
+      ],
+      "used": [
+        82
+      ],
+      "as": [
+        83
+      ],
+      "first": [
+        85
+      ],
+      "assessment": [
+        86
+      ],
+      "tool": [
+        87
+      ],
+      "in": [
+        88
+      ],
+      "people": [
+        89
+      ],
+      "arriving": [
+        90
+      ],
+      "at": [
+        91
+      ],
+      "homeless": [
+        92
+      ],
+      "shelters": [
+        93
+      ],
+      "refer": [
+        96
+      ],
+      "those": [
+        97
+      ],
+      "CXR.": [
+        102
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2020-10-22T00:00:00"
+  }
+}

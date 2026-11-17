@@ -1,0 +1,428 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/s0893-6080(05)80023-1",
+  "url": "https://api.crossref.org/works/10.1016%2Fs0893-6080%2805%2980023-1",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:47.772450+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2026-11-04T15:31:26Z",
+      "timestamp": 1793806286913,
+      "version": "4.6.1"
+    },
+    "reference-count": 29,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1992,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1992-01-01T00:00:00Z",
+          "timestamp": 694224000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Neural Networks"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1992,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0893-6080(05)80023-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2005-10-19T13:38:58Z",
+      "timestamp": 1129729138000
+    },
+    "page": "241-259",
+    "source": "Crossref",
+    "is-referenced-by-count": 7372,
+    "title": [
+      "Stacked generalization"
+    ],
+    "prefix": "10.1016",
+    "volume": "5",
+    "author": [
+      {
+        "given": "David H.",
+        "family": "Wolpert",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1007/BF00204596",
+        "article-title": "On the ability of neural networks to perform generalization by induction",
+        "volume": "61",
+        "author": "Anshelevich",
+        "year": "1989",
+        "journal-title": "Biological Cybernetics"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib2",
+        "series-title": "Informal speech",
+        "author": "Carterette",
+        "year": "1974"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/0167-2789(89)90074-2",
+        "article-title": "Non-linear prediction of chaotic time-series",
+        "volume": "35",
+        "author": "Casdagli",
+        "year": "1989",
+        "journal-title": "Physica D"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1146/annurev.cs.04.060190.001351",
+        "article-title": "Machine learning",
+        "volume": "4",
+        "author": "Dietterich",
+        "year": "1990",
+        "journal-title": "Annual Review of Computer Science"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib5",
+        "series-title": "Hierarchical training of neural networks and prediction of chaotic time series",
+        "author": "Deppisch",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1137/1021092",
+        "article-title": "Computers and the theory of statistics: thinking the unthinkable",
+        "volume": "21",
+        "author": "Efron",
+        "year": "1979",
+        "journal-title": "Siam Review"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib7",
+        "series-title": "Exploiting chaos to predict the future and reduce noise",
+        "author": "Farmer",
+        "year": "1988"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib8",
+        "article-title": "Neural network for interpolation and extrapolation",
+        "author": "Gustafson",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib9",
+        "series-title": "Adaptation in natural and artificial systems",
+        "author": "Holland",
+        "year": "1975"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib10",
+        "series-title": "Neural information processing systems",
+        "article-title": "How neural nets work, Proceedings of the 187 IEEE Denver conference on neural networks",
+        "author": "Lapedes",
+        "year": "1988"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1352",
+        "DOI": "10.1214/aos/1176349742",
+        "article-title": "From Stein's unbiased risk estimates to the method of generalized cross-validation",
+        "volume": "13",
+        "author": "Li",
+        "year": "1985",
+        "journal-title": "The Annals of Statistics"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib12",
+        "series-title": "Methods for solving incorrectly posed problems",
+        "author": "Morozov",
+        "year": "1984"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib13",
+        "article-title": "Efficient algorithms with neural network behavior",
+        "author": "Omohundro",
+        "year": "1987"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib14",
+        "series-title": "Proceedings of the image understanding workshop",
+        "first-page": "111",
+        "article-title": "MIT progress in understanding images",
+        "author": "Poggio",
+        "year": "1988"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1007/BF00116251",
+        "article-title": "Induction of decision trees",
+        "volume": "1",
+        "author": "Quinlan",
+        "year": "1986",
+        "journal-title": "Machine Learning"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1080",
+        "DOI": "10.1214/aos/1176350051",
+        "article-title": "Stochastic complexity and modeling",
+        "volume": "14",
+        "author": "Rissanen",
+        "year": "1986",
+        "journal-title": "The Annals of Statistics"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib17",
+        "volume": "volumes I and II",
+        "author": "Rumelhart",
+        "year": "1986"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1038/250140a0",
+        "article-title": "Comparison of predicted and experimentally determined secondary structure of adenyl kinase",
+        "volume": "250",
+        "author": "Schulz",
+        "year": "1974",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib19",
+        "series-title": "NETtalk: A parallel network that learns to read aloud",
+        "author": "Sejnowski",
+        "year": "1988"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1213",
+        "DOI": "10.1145/7902.7906",
+        "article-title": "Toward memory-based reasoning",
+        "volume": "29",
+        "author": "Stanfill",
+        "year": "1986",
+        "journal-title": "Communications of the ACM"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1093/biomet/64.1.29",
+        "article-title": "Asymptotics for and against cross-validation",
+        "volume": "64",
+        "author": "Stone",
+        "year": "1977",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1134",
+        "DOI": "10.1145/1968.1972",
+        "article-title": "A theory of the learnable",
+        "volume": "27",
+        "author": "Valiant",
+        "year": "1984",
+        "journal-title": "Communications of the ACM"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1007/BF00203178",
+        "article-title": "A benchmark for how well neural nets generalize",
+        "volume": "61",
+        "author": "Wolpert",
+        "year": "1989",
+        "journal-title": "Biological Cybernetics"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib24",
+        "first-page": "319",
+        "article-title": "The relationship between Occam's razor and convergent guess",
+        "volume": "4",
+        "author": "Wolpert",
+        "year": "1990",
+        "journal-title": "Complex Systems"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1016/0893-6080(90)90027-I",
+        "article-title": "Constructing a generalizer superior to NET-talk via a mathematical theory of generalization",
+        "volume": "3",
+        "author": "Wolpert",
+        "year": "1990",
+        "journal-title": "Neural Networks"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib26",
+        "first-page": "151",
+        "article-title": "A mathematical theory of generalization: Part I",
+        "volume": "4",
+        "author": "Wolpert",
+        "year": "1990",
+        "journal-title": "Complex Systems"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib27",
+        "first-page": "200",
+        "article-title": "A mathematical theory of generalization: Part II",
+        "volume": "4",
+        "author": "Wolpert",
+        "year": "1990",
+        "journal-title": "Complex Systems"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib28",
+        "series-title": "Improving the performance of generalizers via time-series-like preprocessing of the learning set",
+        "author": "Wolpert",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/S0893-6080(05)80023-1_bib29",
+        "article-title": "Nonlinear time series modeling by self-organizing methods",
+        "author": "Xiangdong",
+        "year": "1990"
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0893608005800231?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0893608005800231?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2019-01-21T13:20:31Z",
+      "timestamp": 1548076831000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0893608005800231"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1992,
+          1
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1992,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0893608005800231"
+    ],
+    "URL": "https://doi.org/10.1016/s0893-6080(05)80023-1",
+    "relation": {},
+    "ISSN": [
+      "0893-6080"
+    ],
+    "issn-type": [
+      {
+        "value": "0893-6080",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1992,
+          1
+        ]
+      ]
+    }
+  }
+}

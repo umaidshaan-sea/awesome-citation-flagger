@@ -1,0 +1,630 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.enganabound.2022.03.025",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.enganabound.2022.03.025",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:05.962960+00:00",
+  "record": {
+    "id": "https://openalex.org/W4224066399",
+    "doi": "https://doi.org/10.1016/j.enganabound.2022.03.025",
+    "title": "RETRACTED: Meshfree vibrational scrutiny of arbitrary placed straight triple-wire-nanosystems carrying direct electric currents using surface elasticity theory",
+    "display_name": "RETRACTED: Meshfree vibrational scrutiny of arbitrary placed straight triple-wire-nanosystems carrying direct electric currents using surface elasticity theory",
+    "publication_year": 2022,
+    "publication_date": "2022-04-16",
+    "ids": {
+      "openalex": "https://openalex.org/W4224066399",
+      "doi": "https://doi.org/10.1016/j.enganabound.2022.03.025"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.enganabound.2022.03.025",
+      "doi": "https://doi.org/10.1016/j.enganabound.2022.03.025",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.enganabound.2022.03.025",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S5226199",
+        "display_name": "Engineering Analysis with Boundary Elements",
+        "issn_l": "0955-7997",
+        "issn": [
+          "0955-7997",
+          "1873-197X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-d",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Engineering Analysis with Boundary Elements",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5037984263",
+          "display_name": "Jiafeng Chu",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405279212",
+            "display_name": "Henan Institute of Economics and Trade",
+            "ror": "https://ror.org/014z6dk11",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405279212"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jiafeng Chu",
+        "raw_affiliation_strings": [
+          "Henan Engineering Research Center of Remote Monitoring and Control on Environment in Smart Agriculture, Zhengzhou 450000, China",
+          "Henan Institute of Economics and Trade, Zhengzhou 450000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Henan Engineering Research Center of Remote Monitoring and Control on Environment in Smart Agriculture, Zhengzhou 450000, China",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Henan Institute of Economics and Trade, Zhengzhou 450000, China",
+            "institution_ids": [
+              "https://openalex.org/I4405279212"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5109548902",
+          "display_name": "Qingjian Jiang",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405279212",
+            "display_name": "Henan Institute of Economics and Trade",
+            "ror": "https://ror.org/014z6dk11",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405279212"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Qingjian Jiang",
+        "raw_affiliation_strings": [
+          "Henan Engineering Research Center of Remote Monitoring and Control on Environment in Smart Agriculture, Zhengzhou 450000, China",
+          "Henan Institute of Economics and Trade, Zhengzhou 450000, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Henan Engineering Research Center of Remote Monitoring and Control on Environment in Smart Agriculture, Zhengzhou 450000, China",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Henan Institute of Economics and Trade, Zhengzhou 450000, China",
+            "institution_ids": [
+              "https://openalex.org/I4405279212"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5021102688",
+          "display_name": "Keivan Kiani",
+          "orcid": "https://orcid.org/0000-0003-0962-009X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0962-009X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I80543232",
+            "display_name": "K. N. Toosi University of Technology",
+            "ror": "https://ror.org/0433abe34",
+            "country_code": "IR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I80543232"
+            ]
+          }
+        ],
+        "countries": [
+          "IR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Keivan Kiani",
+        "raw_affiliation_strings": [
+          "Department of Civil Engineering, K.N. Toosi University of Technology, Valiasr Ave., P.O. Box 15875-4416, Tehran, Iran"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Civil Engineering, K.N. Toosi University of Technology, Valiasr Ave., P.O. Box 15875-4416, Tehran, Iran",
+            "institution_ids": [
+              "https://openalex.org/I80543232"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5021102688"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I80543232"
+    ],
+    "apc_list": {
+      "value": 3010,
+      "currency": "USD",
+      "value_usd": 3010
+    },
+    "apc_paid": null,
+    "fwci": 0.6329,
+    "has_fulltext": false,
+    "cited_by_count": 10,
+    "citation_normalized_percentile": {
+      "value": 0.56865723,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "140",
+      "issue": null,
+      "first_page": "113",
+      "last_page": "131"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11646",
+      "display_name": "Nonlocal and gradient elasticity in micro/nano structures",
+      "score": 0.9976000189781189,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11646",
+        "display_name": "Nonlocal and gradient elasticity in micro/nano structures",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11565",
+        "display_name": "Thermoelastic and Magnetoelastic Phenomena",
+        "score": 0.001500000013038516,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12206",
+        "display_name": "Vibration and Dynamic Analysis",
+        "score": 0.0003000000142492354,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2207",
+          "display_name": "Control and Systems Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/surface-elasticity",
+        "display_name": "surface elasticity",
+        "score": 0.6520000100135803
+      },
+      {
+        "id": "https://openalex.org/keywords/lateral-vibration",
+        "display_name": "transverse vibration",
+        "score": 0.9900000095367432
+      },
+      {
+        "id": "https://openalex.org/keywords/natural-frequencies",
+        "display_name": "natural frequencies",
+        "score": 0.8420000076293945
+      },
+      {
+        "id": "https://openalex.org/keywords/meshless-methods",
+        "display_name": "meshless methods",
+        "score": 0.6639999747276306
+      },
+      {
+        "id": "https://openalex.org/keywords/galerkin-method",
+        "display_name": "Galerkin method",
+        "score": 0.777999997138977
+      },
+      {
+        "id": "https://openalex.org/keywords/euler-bernoulli-beam",
+        "display_name": "Euler-Bernoulli beam",
+        "score": 0.847000002861023
+      },
+      {
+        "id": "https://openalex.org/keywords/timoshenko-beam",
+        "display_name": "Timoshenko beam theory",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/electric-current",
+        "display_name": "electric current",
+        "score": 0.5460000038146973
+      },
+      {
+        "id": "https://openalex.org/keywords/shear-deformation",
+        "display_name": "shear deformation",
+        "score": 0.7440000176429749
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C186899397",
+        "wikidata": "https://www.wikidata.org/wiki/Q1491980",
+        "display_name": "Galerkin method",
+        "level": 3,
+        "score": 0.5504303574562073
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.5176241993904114
+      },
+      {
+        "id": "https://openalex.org/C198394728",
+        "wikidata": "https://www.wikidata.org/wiki/Q3695508",
+        "display_name": "Vibration",
+        "level": 2,
+        "score": 0.5081644058227539
+      },
+      {
+        "id": "https://openalex.org/C57879066",
+        "wikidata": "https://www.wikidata.org/wiki/Q41217",
+        "display_name": "Mechanics",
+        "level": 1,
+        "score": 0.48384609818458557
+      },
+      {
+        "id": "https://openalex.org/C74650414",
+        "wikidata": "https://www.wikidata.org/wiki/Q11397",
+        "display_name": "Classical mechanics",
+        "level": 1,
+        "score": 0.4634093940258026
+      },
+      {
+        "id": "https://openalex.org/C28062496",
+        "wikidata": "https://www.wikidata.org/wiki/Q1145653",
+        "display_name": "Hamilton's principle",
+        "level": 3,
+        "score": 0.4593193531036377
+      },
+      {
+        "id": "https://openalex.org/C14037181",
+        "wikidata": "https://www.wikidata.org/wiki/Q215007",
+        "display_name": "Equations of motion",
+        "level": 2,
+        "score": 0.45413005352020264
+      },
+      {
+        "id": "https://openalex.org/C190699663",
+        "wikidata": "https://www.wikidata.org/wiki/Q2435044",
+        "display_name": "Timoshenko beam theory",
+        "level": 3,
+        "score": 0.4199722409248352
+      },
+      {
+        "id": "https://openalex.org/C134306372",
+        "wikidata": "https://www.wikidata.org/wiki/Q7754",
+        "display_name": "Mathematical analysis",
+        "level": 1,
+        "score": 0.3455794155597687
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.2820615768432617
+      },
+      {
+        "id": "https://openalex.org/C135628077",
+        "wikidata": "https://www.wikidata.org/wiki/Q220184",
+        "display_name": "Finite element method",
+        "level": 2,
+        "score": 0.1938452124595642
+      },
+      {
+        "id": "https://openalex.org/C24890656",
+        "wikidata": "https://www.wikidata.org/wiki/Q82811",
+        "display_name": "Acoustics",
+        "level": 1,
+        "score": 0.1429794430732727
+      },
+      {
+        "id": "https://openalex.org/C97355855",
+        "wikidata": "https://www.wikidata.org/wiki/Q11473",
+        "display_name": "Thermodynamics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.enganabound.2022.03.025",
+        "doi": "https://doi.org/10.1016/j.enganabound.2022.03.025",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.enganabound.2022.03.025",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S5226199",
+          "display_name": "Engineering Analysis with Boundary Elements",
+          "issn_l": "0955-7997",
+          "issn": [
+            "0955-7997",
+            "1873-197X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-d",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Engineering Analysis with Boundary Elements",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 80,
+    "referenced_works": [
+      "https://openalex.org/W315422211",
+      "https://openalex.org/W751384803",
+      "https://openalex.org/W1965735161",
+      "https://openalex.org/W1965973023",
+      "https://openalex.org/W1968191163",
+      "https://openalex.org/W1973882729",
+      "https://openalex.org/W1978086014",
+      "https://openalex.org/W1978699573",
+      "https://openalex.org/W1979996748",
+      "https://openalex.org/W1981937109",
+      "https://openalex.org/W1993378267",
+      "https://openalex.org/W1995988223",
+      "https://openalex.org/W2001448779",
+      "https://openalex.org/W2002551224",
+      "https://openalex.org/W2003530927",
+      "https://openalex.org/W2003689599",
+      "https://openalex.org/W2006134182",
+      "https://openalex.org/W2008196290",
+      "https://openalex.org/W2013243143",
+      "https://openalex.org/W2013986166",
+      "https://openalex.org/W2015248366",
+      "https://openalex.org/W2018069496",
+      "https://openalex.org/W2019600579",
+      "https://openalex.org/W2023870567",
+      "https://openalex.org/W2027285490",
+      "https://openalex.org/W2028606986",
+      "https://openalex.org/W2042820071",
+      "https://openalex.org/W2043020575",
+      "https://openalex.org/W2043659685",
+      "https://openalex.org/W2044411607",
+      "https://openalex.org/W2047565194",
+      "https://openalex.org/W2049274318",
+      "https://openalex.org/W2051407386",
+      "https://openalex.org/W2054732436",
+      "https://openalex.org/W2055516122",
+      "https://openalex.org/W2056964737",
+      "https://openalex.org/W2058941104",
+      "https://openalex.org/W2059850212",
+      "https://openalex.org/W2064968408",
+      "https://openalex.org/W2075913035",
+      "https://openalex.org/W2081736857",
+      "https://openalex.org/W2082369159",
+      "https://openalex.org/W2082902836",
+      "https://openalex.org/W2088082765",
+      "https://openalex.org/W2090425637",
+      "https://openalex.org/W2091166549",
+      "https://openalex.org/W2091458120",
+      "https://openalex.org/W2118197157",
+      "https://openalex.org/W2118962721",
+      "https://openalex.org/W2128525789",
+      "https://openalex.org/W2143296563",
+      "https://openalex.org/W2159482704",
+      "https://openalex.org/W2162425471",
+      "https://openalex.org/W2169966124",
+      "https://openalex.org/W2170935072",
+      "https://openalex.org/W2202925710",
+      "https://openalex.org/W2227539937",
+      "https://openalex.org/W2335156180",
+      "https://openalex.org/W2409856907",
+      "https://openalex.org/W2464023902",
+      "https://openalex.org/W2469583961",
+      "https://openalex.org/W2561211561",
+      "https://openalex.org/W2590500586",
+      "https://openalex.org/W2594355207",
+      "https://openalex.org/W2727880857",
+      "https://openalex.org/W2751158277",
+      "https://openalex.org/W2760188946",
+      "https://openalex.org/W2770808942",
+      "https://openalex.org/W2884098749",
+      "https://openalex.org/W2913514544",
+      "https://openalex.org/W2981841636",
+      "https://openalex.org/W2999243963",
+      "https://openalex.org/W3014504159",
+      "https://openalex.org/W3037366600",
+      "https://openalex.org/W3110634837",
+      "https://openalex.org/W3115120131",
+      "https://openalex.org/W3155265528",
+      "https://openalex.org/W3213329192",
+      "https://openalex.org/W4200434698",
+      "https://openalex.org/W4245796559"
+    ],
+    "related_works": [
+      "https://openalex.org/W2472402180",
+      "https://openalex.org/W2482408684",
+      "https://openalex.org/W3037366600",
+      "https://openalex.org/W2202925710",
+      "https://openalex.org/W7100149154",
+      "https://openalex.org/W2046941778",
+      "https://openalex.org/W2197623957",
+      "https://openalex.org/W2469583961",
+      "https://openalex.org/W4417454799",
+      "https://openalex.org/W2066077159"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-16T09:59:22.235173",
+    "created_date": "2022-04-19T00:00:00"
+  }
+}

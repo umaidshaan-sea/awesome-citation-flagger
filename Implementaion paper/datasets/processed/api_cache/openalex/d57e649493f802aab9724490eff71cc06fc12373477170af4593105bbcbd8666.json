@@ -1,0 +1,1764 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1186/s12885-019-5593-5",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1186%2Fs12885-019-5593-5",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:14.074534+00:00",
+  "record": {
+    "id": "https://openalex.org/W2947755469",
+    "doi": "https://doi.org/10.1186/s12885-019-5593-5",
+    "title": "RETRACTED ARTICLE: Hsa_circ_0005379 regulates malignant behavior of oral squamous cell carcinoma through the EGFR pathway",
+    "display_name": "RETRACTED ARTICLE: Hsa_circ_0005379 regulates malignant behavior of oral squamous cell carcinoma through the EGFR pathway",
+    "publication_year": 2019,
+    "publication_date": "2019-04-29",
+    "ids": {
+      "openalex": "https://openalex.org/W2947755469",
+      "doi": "https://doi.org/10.1186/s12885-019-5593-5",
+      "mag": "2947755469",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/31035951",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/6489207"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1186/s12885-019-5593-5",
+      "doi": "https://doi.org/10.1186/s12885-019-5593-5",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s12885-019-5593-5",
+      "pdf_url": "https://bmccancer.biomedcentral.com/counter/pdf/10.1186/s12885-019-5593-5",
+      "source": {
+        "id": "https://openalex.org/S192926780",
+        "display_name": "BMC Cancer",
+        "issn_l": "1471-2407",
+        "issn": [
+          "1471-2407"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "oarl",
+          "poland-100",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC Cancer",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmccancer.biomedcentral.com/counter/pdf/10.1186/s12885-019-5593-5",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101826233",
+          "display_name": "Wen Su",
+          "orcid": "https://orcid.org/0000-0002-0278-9186",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0278-9186"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I197869895",
+            "display_name": "Anhui Medical University",
+            "ror": "https://ror.org/03xb04968",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I197869895"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210128628",
+            "display_name": "Peking University Shenzhen Hospital",
+            "ror": "https://ror.org/03kkjyb15",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wen Su",
+        "raw_affiliation_strings": [
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China",
+          "Peking University Shenzhen Hospital Clinical College, Anhui Medical University, Hefei, Anhui, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Peking University Shenzhen Hospital Clinical College, Anhui Medical University, Hefei, Anhui, China",
+            "institution_ids": [
+              "https://openalex.org/I197869895",
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100679749",
+          "display_name": "Yufan Wang",
+          "orcid": "https://orcid.org/0009-0000-5306-6749",
+          "observed_orcids": [
+            "https://orcid.org/0009-0000-5306-6749"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210128628",
+            "display_name": "Peking University Shenzhen Hospital",
+            "ror": "https://ror.org/03kkjyb15",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yufan Wang",
+        "raw_affiliation_strings": [
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100741399",
+          "display_name": "Feng Wang",
+          "orcid": "https://orcid.org/0000-0002-7547-3115",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7547-3115",
+            "https://orcid.org/0000-0002-0461-6940"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210128628",
+            "display_name": "Peking University Shenzhen Hospital",
+            "ror": "https://ror.org/03kkjyb15",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Feng Wang",
+        "raw_affiliation_strings": [
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5004241462",
+          "display_name": "Shuai Sun",
+          "orcid": "https://orcid.org/0000-0002-8721-3062",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-8721-3062"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210128628",
+            "display_name": "Peking University Shenzhen Hospital",
+            "ror": "https://ror.org/03kkjyb15",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shuai Sun",
+        "raw_affiliation_strings": [
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100633767",
+          "display_name": "Minghua Li",
+          "orcid": "https://orcid.org/0000-0003-0409-5214",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0409-5214"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210128628",
+            "display_name": "Peking University Shenzhen Hospital",
+            "ror": "https://ror.org/03kkjyb15",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Minghua Li",
+        "raw_affiliation_strings": [
+          "Central laboratory, Peking University Shenzhen Hospital, Shenzhen, Guangdong, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Central laboratory, Peking University Shenzhen Hospital, Shenzhen, Guangdong, China",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5067315247",
+          "display_name": "Yuehong Shen",
+          "orcid": "https://orcid.org/0000-0001-8080-7039",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8080-7039"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210128628",
+            "display_name": "Peking University Shenzhen Hospital",
+            "ror": "https://ror.org/03kkjyb15",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yuehong Shen",
+        "raw_affiliation_strings": [
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China. yuehongshen@hotmail.com",
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-8080-7039",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China. yuehongshen@hotmail.com",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5014378227",
+          "display_name": "Hongyu Yang",
+          "orcid": "https://orcid.org/0000-0002-0367-4938",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0367-4938"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210128628",
+            "display_name": "Peking University Shenzhen Hospital",
+            "ror": "https://ror.org/03kkjyb15",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Hongyu Yang",
+        "raw_affiliation_strings": [
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China. hyyang192@hotmail.com",
+          "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-0367-4938",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China. hyyang192@hotmail.com",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Oral and Maxillofacial Surgery, Peking University Shenzhen Hospital, No. 1120 Lianhua Road, Shenzhen, 518001, Guangdong, China",
+            "institution_ids": [
+              "https://openalex.org/I4210128628"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5014378227",
+      "https://openalex.org/A5067315247"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210128628"
+    ],
+    "apc_list": {
+      "value": 2390,
+      "currency": "USD",
+      "value_usd": 2390
+    },
+    "apc_paid": {
+      "value": 2390,
+      "currency": "USD",
+      "value_usd": 2390
+    },
+    "fwci": 2.7286,
+    "has_fulltext": true,
+    "cited_by_count": 46,
+    "citation_normalized_percentile": {
+      "value": 0.91814338,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "19",
+      "issue": "1",
+      "first_page": "400",
+      "last_page": "400"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11765",
+      "display_name": "Circular RNAs in diseases",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11765",
+        "display_name": "Circular RNAs in diseases",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10515",
+        "display_name": "Cancer-related molecular mechanisms research",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1306",
+          "display_name": "Cancer Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10307",
+        "display_name": "Head and Neck Cancer Studies",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2733",
+          "display_name": "Otorhinolaryngology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/circular-rna",
+        "display_name": "circular RNA",
+        "score": 0.9039999842643738
+      },
+      {
+        "id": "https://openalex.org/keywords/oral-squamous-cell-carcinoma",
+        "display_name": "oral squamous cell carcinoma",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/egfr-signaling",
+        "display_name": "EGFR signaling",
+        "score": 0.8579999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/tumor-cell-migration-and-invasion",
+        "display_name": "tumor cell migration and invasion",
+        "score": 0.722000002861023
+      },
+      {
+        "id": "https://openalex.org/keywords/cell-proliferation",
+        "display_name": "cell proliferation",
+        "score": 0.7549999952316284
+      },
+      {
+        "id": "https://openalex.org/keywords/therapeutic-target",
+        "display_name": "therapeutic target",
+        "score": 0.7720000147819519
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C502942594",
+        "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+        "display_name": "Cancer research",
+        "level": 1,
+        "score": 0.7237846255302429
+      },
+      {
+        "id": "https://openalex.org/C2779399171",
+        "wikidata": "https://www.wikidata.org/wiki/Q1483951",
+        "display_name": "Malignancy",
+        "level": 2,
+        "score": 0.6329324841499329
+      },
+      {
+        "id": "https://openalex.org/C2779438470",
+        "wikidata": "https://www.wikidata.org/wiki/Q424401",
+        "display_name": "Epidermal growth factor receptor",
+        "level": 3,
+        "score": 0.6217299699783325
+      },
+      {
+        "id": "https://openalex.org/C2779998722",
+        "wikidata": "https://www.wikidata.org/wiki/Q420296",
+        "display_name": "Cetuximab",
+        "level": 4,
+        "score": 0.5817556381225586
+      },
+      {
+        "id": "https://openalex.org/C553184892",
+        "wikidata": "https://www.wikidata.org/wiki/Q1141429",
+        "display_name": "Flow cytometry",
+        "level": 2,
+        "score": 0.5480773448944092
+      },
+      {
+        "id": "https://openalex.org/C62112901",
+        "wikidata": "https://www.wikidata.org/wiki/Q189159",
+        "display_name": "Cell growth",
+        "level": 2,
+        "score": 0.507314145565033
+      },
+      {
+        "id": "https://openalex.org/C2776415932",
+        "wikidata": "https://www.wikidata.org/wiki/Q48743",
+        "display_name": "Western blot",
+        "level": 3,
+        "score": 0.4734351634979248
+      },
+      {
+        "id": "https://openalex.org/C207001950",
+        "wikidata": "https://www.wikidata.org/wiki/Q141124",
+        "display_name": "In vivo",
+        "level": 2,
+        "score": 0.44297581911087036
+      },
+      {
+        "id": "https://openalex.org/C81885089",
+        "wikidata": "https://www.wikidata.org/wiki/Q189082",
+        "display_name": "Cell culture",
+        "level": 2,
+        "score": 0.43540021777153015
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.4266579747200012
+      },
+      {
+        "id": "https://openalex.org/C162317418",
+        "wikidata": "https://www.wikidata.org/wiki/Q252857",
+        "display_name": "Transcriptome",
+        "level": 4,
+        "score": 0.4130555987358093
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.3852885961532593
+      },
+      {
+        "id": "https://openalex.org/C142724271",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208",
+        "display_name": "Pathology",
+        "level": 1,
+        "score": 0.2733845114707947
+      },
+      {
+        "id": "https://openalex.org/C121608353",
+        "wikidata": "https://www.wikidata.org/wiki/Q12078",
+        "display_name": "Cancer",
+        "level": 2,
+        "score": 0.2615172863006592
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.23820480704307556
+      },
+      {
+        "id": "https://openalex.org/C153911025",
+        "wikidata": "https://www.wikidata.org/wiki/Q7202",
+        "display_name": "Molecular biology",
+        "level": 1,
+        "score": 0.20607200264930725
+      },
+      {
+        "id": "https://openalex.org/C150194340",
+        "wikidata": "https://www.wikidata.org/wiki/Q26972",
+        "display_name": "Gene expression",
+        "level": 3,
+        "score": 0.1492571234703064
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.11965933442115784
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C150903083",
+        "wikidata": "https://www.wikidata.org/wiki/Q7108",
+        "display_name": "Biotechnology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C526805850",
+        "wikidata": "https://www.wikidata.org/wiki/Q188874",
+        "display_name": "Colorectal cancer",
+        "level": 3,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C54355233",
+        "wikidata": "https://www.wikidata.org/wiki/Q7162",
+        "display_name": "Genetics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000068818",
+        "descriptor_name": "Cetuximab",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000074322",
+        "descriptor_name": "Antineoplastic Agents, Immunological",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000079962",
+        "descriptor_name": "RNA, Circular",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002294",
+        "descriptor_name": "Carcinoma, Squamous Cell",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D002294",
+        "descriptor_name": "Carcinoma, Squamous Cell",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002294",
+        "descriptor_name": "Carcinoma, Squamous Cell",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002460",
+        "descriptor_name": "Cell Line",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002470",
+        "descriptor_name": "Cell Survival",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002470",
+        "descriptor_name": "Cell Survival",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002478",
+        "descriptor_name": "Cells, Cultured",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005260",
+        "descriptor_name": "Female",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008807",
+        "descriptor_name": "Mice, Inbred BALB C",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008819",
+        "descriptor_name": "Mice, Nude",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008875",
+        "descriptor_name": "Middle Aged",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009062",
+        "descriptor_name": "Mouth Neoplasms",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D009062",
+        "descriptor_name": "Mouth Neoplasms",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009062",
+        "descriptor_name": "Mouth Neoplasms",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012313",
+        "descriptor_name": "RNA",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D014183",
+        "descriptor_name": "Transplantation, Heterologous",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015398",
+        "descriptor_name": "Signal Transduction",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015972",
+        "descriptor_name": "Gene Expression Regulation, Neoplastic",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D045744",
+        "descriptor_name": "Cell Line, Tumor",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D047368",
+        "descriptor_name": "Tumor Burden",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D066246",
+        "descriptor_name": "ErbB Receptors",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D066246",
+        "descriptor_name": "ErbB Receptors",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.1186/s12885-019-5593-5",
+        "doi": "https://doi.org/10.1186/s12885-019-5593-5",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1186/s12885-019-5593-5",
+        "pdf_url": "https://bmccancer.biomedcentral.com/counter/pdf/10.1186/s12885-019-5593-5",
+        "source": {
+          "id": "https://openalex.org/S192926780",
+          "display_name": "BMC Cancer",
+          "issn_l": "1471-2407",
+          "issn": [
+            "1471-2407"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "oarl",
+            "poland-100",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320256",
+          "host_organization_name": "BioMed Central",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320256",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "BioMed Central",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "BMC Cancer",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:5527515",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6489207",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:6489207",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6489207",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "BMC Cancer",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:31035951",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31035951",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "BMC cancer",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:b6f2d1d0118343eea853013164d28e2d",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/b6f2d1d0118343eea853013164d28e2d",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "BMC Cancer, Vol 19, Iss 1, Pp 1-13 (2019)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1186/s12885-019-5593-5",
+      "doi": "https://doi.org/10.1186/s12885-019-5593-5",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s12885-019-5593-5",
+      "pdf_url": "https://bmccancer.biomedcentral.com/counter/pdf/10.1186/s12885-019-5593-5",
+      "source": {
+        "id": "https://openalex.org/S192926780",
+        "display_name": "BMC Cancer",
+        "issn_l": "1471-2407",
+        "issn": [
+          "1471-2407"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "oarl",
+          "poland-100",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC Cancer",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "display_name": "Good health and well-being",
+        "score": 0.98580002784729
+      }
+    ],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G4410643392",
+        "display_name": null,
+        "funder_award_id": "JCYJ20160428173933559",
+        "funder_id": "https://openalex.org/F4320326705",
+        "funder_display_name": "Science, Technology and Innovation Commission of Shenzhen Municipality"
+      },
+      {
+        "id": "https://openalex.org/G4723958467",
+        "display_name": null,
+        "funder_award_id": "JCYJ20160428173933559, JCYJ20150403091443303",
+        "funder_id": "https://openalex.org/F4320326705",
+        "funder_display_name": "Science, Technology and Innovation Commission of Shenzhen Municipality"
+      },
+      {
+        "id": "https://openalex.org/G5626792603",
+        "display_name": null,
+        "funder_award_id": "JCYJ20150403091443286 and SZBC2017023",
+        "funder_id": "https://openalex.org/F4320326705",
+        "funder_display_name": "Science, Technology and Innovation Commission of Shenzhen Municipality"
+      },
+      {
+        "id": "https://openalex.org/G6028096282",
+        "display_name": null,
+        "funder_award_id": "JCYJ20150403091443303",
+        "funder_id": "https://openalex.org/F4320326705",
+        "funder_display_name": "Science, Technology and Innovation Commission of Shenzhen Municipality"
+      },
+      {
+        "id": "https://openalex.org/G8467015686",
+        "display_name": null,
+        "funder_award_id": "81572654",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320321001",
+        "display_name": "National Natural Science Foundation of China",
+        "ror": "https://ror.org/01h0zpd94"
+      },
+      {
+        "id": "https://openalex.org/F4320324787",
+        "display_name": "Peking University",
+        "ror": "https://ror.org/02v51f717"
+      },
+      {
+        "id": "https://openalex.org/F4320326705",
+        "display_name": "Science, Technology and Innovation Commission of Shenzhen Municipality",
+        "ror": null
+      },
+      {
+        "id": "https://openalex.org/F4320335767",
+        "display_name": "Sanming Project of Medicine in Shenzhen",
+        "ror": null
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2947755469.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2947755469.grobid-xml"
+    },
+    "referenced_works_count": 37,
+    "referenced_works": [
+      "https://openalex.org/W1565276921",
+      "https://openalex.org/W1976044794",
+      "https://openalex.org/W1988207354",
+      "https://openalex.org/W1988581256",
+      "https://openalex.org/W1991082489",
+      "https://openalex.org/W2004650521",
+      "https://openalex.org/W2020830322",
+      "https://openalex.org/W2036363901",
+      "https://openalex.org/W2054431802",
+      "https://openalex.org/W2101995865",
+      "https://openalex.org/W2106787323",
+      "https://openalex.org/W2110696072",
+      "https://openalex.org/W2147806662",
+      "https://openalex.org/W2152719653",
+      "https://openalex.org/W2167807253",
+      "https://openalex.org/W2268572259",
+      "https://openalex.org/W2298162930",
+      "https://openalex.org/W2331419903",
+      "https://openalex.org/W2426293953",
+      "https://openalex.org/W2529923216",
+      "https://openalex.org/W2558715088",
+      "https://openalex.org/W2562634188",
+      "https://openalex.org/W2563351911",
+      "https://openalex.org/W2581834730",
+      "https://openalex.org/W2605363845",
+      "https://openalex.org/W2741267269",
+      "https://openalex.org/W2766353015",
+      "https://openalex.org/W2773034167",
+      "https://openalex.org/W2791983109",
+      "https://openalex.org/W2792821195",
+      "https://openalex.org/W2793114790",
+      "https://openalex.org/W2794009201",
+      "https://openalex.org/W2804985859",
+      "https://openalex.org/W2809626498",
+      "https://openalex.org/W2884626935",
+      "https://openalex.org/W2887110217",
+      "https://openalex.org/W2896302183"
+    ],
+    "related_works": [
+      "https://openalex.org/W3082439456",
+      "https://openalex.org/W3087424312",
+      "https://openalex.org/W2914082629",
+      "https://openalex.org/W3155313276",
+      "https://openalex.org/W2981577588",
+      "https://openalex.org/W4252270427",
+      "https://openalex.org/W2892020728",
+      "https://openalex.org/W4281642838",
+      "https://openalex.org/W4399788374",
+      "https://openalex.org/W3107095301"
+    ],
+    "abstract_inverted_index": {
+      "BACKGROUND:": [
+        0
+      ],
+      "Oral": [
+        1
+      ],
+      "squamous": [
+        2
+      ],
+      "cell": [
+        3,
+        70
+      ],
+      "carcinoma": [
+        4
+      ],
+      "(OSCC)": [
+        5
+      ],
+      "is": [
+        6,
+        103,
+        116
+      ],
+      "an": [
+        7
+      ],
+      "oral": [
+        8
+      ],
+      "and": [
+        9,
+        69,
+        80,
+        93,
+        115,
+        121,
+        130,
+        137,
+        194
+      ],
+      "maxillofacial": [
+        10
+      ],
+      "malignancy": [
+        11,
+        193
+      ],
+      "with": [
+        12,
+        118
+      ],
+      "a": [
+        13,
+        25,
+        53,
+        197
+      ],
+      "high": [
+        14,
+        169
+      ],
+      "incidence": [
+        15
+      ],
+      "worldwide.": [
+        16
+      ],
+      "Accumulating": [
+        17
+      ],
+      "evidence": [
+        18,
+        188
+      ],
+      "indicates": [
+        19
+      ],
+      "that": [
+        20,
+        99,
+        149,
+        168,
+        189
+      ],
+      "circular": [
+        21
+      ],
+      "RNAs": [
+        22
+      ],
+      "(circRNAs)": [
+        23
+      ],
+      "play": [
+        24
+      ],
+      "vital": [
+        26
+      ],
+      "role": [
+        27
+      ],
+      "in": [
+        28,
+        38,
+        58,
+        106,
+        135,
+        141,
+        144,
+        154
+      ],
+      "modulating": [
+        29
+      ],
+      "tumor": [
+        30,
+        91,
+        119
+      ],
+      "development.": [
+        31
+      ],
+      "However,": [
+        32
+      ],
+      "the": [
+        33,
+        155,
+        158,
+        176,
+        181
+      ],
+      "mechanism": [
+        34
+      ],
+      "of": [
+        35,
+        56,
+        63,
+        124,
+        132,
+        157,
+        171,
+        178
+      ],
+      "circRNA": [
+        36,
+        64,
+        100
+      ],
+      "action": [
+        37
+      ],
+      "human": [
+        39,
+        59
+      ],
+      "OSCC": [
+        40,
+        67,
+        107,
+        133,
+        139,
+        179,
+        192,
+        202
+      ],
+      "remains": [
+        41
+      ],
+      "largely": [
+        42
+      ],
+      "unknown.": [
+        43
+      ],
+      "METHODS:": [
+        44
+      ],
+      "By": [
+        45
+      ],
+      "using": [
+        46
+      ],
+      "high-throughput": [
+        47
+      ],
+      "transcriptome": [
+        48
+      ],
+      "sequencing": [
+        49
+      ],
+      "technology,": [
+        50
+      ],
+      "we": [
+        51,
+        166
+      ],
+      "conducted": [
+        52
+      ],
+      "comprehensive": [
+        54
+      ],
+      "study": [
+        55
+      ],
+      "circRNAs": [
+        57
+      ],
+      "OSCC.": [
+        60
+      ],
+      "The": [
+        61
+      ],
+      "effect": [
+        62
+      ],
+      "hsa_circ_0005379": [
+        65,
+        101,
+        125,
+        150,
+        172,
+        190
+      ],
+      "on": [
+        66
+      ],
+      "tissues": [
+        68
+      ],
+      "lines": [
+        71
+      ],
+      "was": [
+        72
+      ],
+      "monitored": [
+        73
+      ],
+      "by": [
+        74
+      ],
+      "qRT-PCR,": [
+        75
+      ],
+      "Transwell": [
+        76
+      ],
+      "assay,": [
+        77
+      ],
+      "flow": [
+        78
+      ],
+      "cytometry,": [
+        79
+      ],
+      "western": [
+        81
+      ],
+      "blot": [
+        82
+      ],
+      "analysis.": [
+        83
+      ],
+      "Xenograft": [
+        84
+      ],
+      "mouse": [
+        85
+      ],
+      "models": [
+        86
+      ],
+      "were": [
+        87
+      ],
+      "used": [
+        88
+      ],
+      "to": [
+        89,
+        110,
+        180
+      ],
+      "assess": [
+        90
+      ],
+      "growth": [
+        92,
+        140,
+        160
+      ],
+      "animal": [
+        94
+      ],
+      "survival.": [
+        95
+      ],
+      "RESULTS:": [
+        96
+      ],
+      "We": [
+        97
+      ],
+      "found": [
+        98,
+        167
+      ],
+      "expression": [
+        102,
+        170
+      ],
+      "significantly": [
+        104,
+        174
+      ],
+      "lower": [
+        105
+      ],
+      "tissue": [
+        108,
+        114
+      ],
+      "compared": [
+        109
+      ],
+      "paired": [
+        111
+      ],
+      "non-cancerous": [
+        112
+      ],
+      "matched": [
+        113
+      ],
+      "associated": [
+        117
+      ],
+      "size": [
+        120
+      ],
+      "differentiation.": [
+        122
+      ],
+      "Overexpression": [
+        123
+      ],
+      "effectively": [
+        126
+      ],
+      "inhibits": [
+        127
+      ],
+      "migration,": [
+        128
+      ],
+      "invasion,": [
+        129
+      ],
+      "proliferation": [
+        131
+      ],
+      "cells": [
+        134
+      ],
+      "vitro": [
+        136
+      ],
+      "suppresses": [
+        138
+      ],
+      "nude": [
+        142
+      ],
+      "mice": [
+        143
+      ],
+      "vivo.": [
+        145
+      ],
+      "Mechanistic": [
+        146
+      ],
+      "studies": [
+        147
+      ],
+      "revealed": [
+        148
+      ],
+      "may": [
+        151,
+        195
+      ],
+      "be": [
+        152,
+        196
+      ],
+      "involved": [
+        153
+      ],
+      "regulation": [
+        156
+      ],
+      "epidermal": [
+        159
+      ],
+      "factor": [
+        161
+      ],
+      "receptor": [
+        162
+      ],
+      "(EGFR)": [
+        163
+      ],
+      "pathway.": [
+        164
+      ],
+      "Furthermore,": [
+        165
+      ],
+      "could": [
+        173
+      ],
+      "enhance": [
+        175
+      ],
+      "sensitivity": [
+        177
+      ],
+      "cetuximab": [
+        182
+      ],
+      "drug.": [
+        183
+      ],
+      "CONCLUSIONS:": [
+        184
+      ],
+      "Our": [
+        185
+      ],
+      "findings": [
+        186
+      ],
+      "provide": [
+        187
+      ],
+      "regulates": [
+        191
+      ],
+      "new": [
+        198
+      ],
+      "therapeutic": [
+        199
+      ],
+      "target": [
+        200
+      ],
+      "for": [
+        201
+      ],
+      "treatment.": [
+        203
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2019-06-07T00:00:00"
+  }
+}

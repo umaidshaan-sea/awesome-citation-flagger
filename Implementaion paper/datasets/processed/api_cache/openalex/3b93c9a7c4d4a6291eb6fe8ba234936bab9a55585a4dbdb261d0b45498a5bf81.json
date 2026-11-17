@@ -1,0 +1,776 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.jes.2024.02.028",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.jes.2024.02.028",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:07.877545+00:00",
+  "record": {
+    "id": "https://openalex.org/W4392968038",
+    "doi": "https://doi.org/10.1016/j.jes.2024.02.028",
+    "title": "RETRACTED: Application of new tetra-cationic imidazolium ionic liquids for capture and conversion of CO2 to amphiphilic calcium carbonate nanoparticles as a green additive in water based drilling fluids",
+    "display_name": "RETRACTED: Application of new tetra-cationic imidazolium ionic liquids for capture and conversion of CO2 to amphiphilic calcium carbonate nanoparticles as a green additive in water based drilling fluids",
+    "publication_year": 2024,
+    "publication_date": "2024-03-18",
+    "ids": {
+      "openalex": "https://openalex.org/W4392968038",
+      "doi": "https://doi.org/10.1016/j.jes.2024.02.028",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/39306393"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.jes.2024.02.028",
+      "doi": "https://doi.org/10.1016/j.jes.2024.02.028",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jes.2024.02.028",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S35825460",
+        "display_name": "Journal of Environmental Sciences",
+        "issn_l": "1001-0742",
+        "issn": [
+          "1001-0742",
+          "1878-7320"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-b",
+          "jufo-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Environmental Sciences",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5049299674",
+          "display_name": "Ayman M. Atta",
+          "orcid": "https://orcid.org/0000-0002-9613-3099",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9613-3099"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I88126159",
+            "display_name": "Egyptian Petroleum Research Institute",
+            "ror": "https://ror.org/044panr52",
+            "country_code": "EG",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ],
+        "countries": [
+          "EG"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ayman M. Atta",
+        "raw_affiliation_strings": [
+          "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt. Electronic address: aatta@epri.sci.eg",
+          "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-9613-3099",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt. Electronic address: aatta@epri.sci.eg",
+            "institution_ids": [
+              "https://openalex.org/I88126159"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt",
+            "institution_ids": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5011609010",
+          "display_name": "Eman A. Ghiaty",
+          "orcid": "https://orcid.org/0000-0002-8026-9880",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-8026-9880"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I88126159",
+            "display_name": "Egyptian Petroleum Research Institute",
+            "ror": "https://ror.org/044panr52",
+            "country_code": "EG",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ],
+        "countries": [
+          "EG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Eman A. Ghiaty",
+        "raw_affiliation_strings": [
+          "Department of Petrochemicals, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8026-9880",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Petrochemicals, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt",
+            "institution_ids": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5022232131",
+          "display_name": "Samir H. Shafek",
+          "orcid": "https://orcid.org/0000-0002-6008-6307",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6008-6307"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I88126159",
+            "display_name": "Egyptian Petroleum Research Institute",
+            "ror": "https://ror.org/044panr52",
+            "country_code": "EG",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ],
+        "countries": [
+          "EG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Samir H. Shafek",
+        "raw_affiliation_strings": [
+          "Department of Petrochemicals, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6008-6307",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Petrochemicals, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt",
+            "institution_ids": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5010665609",
+          "display_name": "Abeer A. El-Segaey",
+          "orcid": "https://orcid.org/0000-0002-0894-6189",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0894-6189"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I88126159",
+            "display_name": "Egyptian Petroleum Research Institute",
+            "ror": "https://ror.org/044panr52",
+            "country_code": "EG",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ],
+        "countries": [
+          "EG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Abeer A. El-Segaey",
+        "raw_affiliation_strings": [
+          "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt",
+            "institution_ids": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5043958041",
+          "display_name": "Amany K. Gaffer",
+          "orcid": "https://orcid.org/0000-0003-0713-8507",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0713-8507"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I88126159",
+            "display_name": "Egyptian Petroleum Research Institute",
+            "ror": "https://ror.org/044panr52",
+            "country_code": "EG",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ],
+        "countries": [
+          "EG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Amany K. Gaffer",
+        "raw_affiliation_strings": [
+          "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Petroleum Application, Egyptian Petroleum Research Institute, Nasr City, Cairo 11727, Egypt",
+            "institution_ids": [
+              "https://openalex.org/I88126159"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5049299674"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I88126159"
+    ],
+    "apc_list": {
+      "value": 3000,
+      "currency": "USD",
+      "value_usd": 3000
+    },
+    "apc_paid": null,
+    "fwci": 0.3907,
+    "has_fulltext": false,
+    "cited_by_count": 6,
+    "citation_normalized_percentile": {
+      "value": 0.40244359,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "150",
+      "issue": null,
+      "first_page": "159",
+      "last_page": "176"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10480",
+      "display_name": "Ionic liquids properties and applications",
+      "score": 0.8485999703407288,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1503",
+        "display_name": "Catalysis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/15",
+        "display_name": "Chemical Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10480",
+        "display_name": "Ionic liquids properties and applications",
+        "score": 0.8485999703407288,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1503",
+          "display_name": "Catalysis"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/15",
+          "display_name": "Chemical Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11593",
+        "display_name": "Carbon dioxide utilization in catalysis",
+        "score": 0.07620000094175339,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1508",
+          "display_name": "Process Chemistry and Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/15",
+          "display_name": "Chemical Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10892",
+        "display_name": "Drilling and Well Engineering",
+        "score": 0.02419999986886978,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/co2-capture",
+        "display_name": "CO2 capture",
+        "score": 0.8579999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/co2-conversion",
+        "display_name": "CO2 conversion",
+        "score": 0.7239999771118164
+      },
+      {
+        "id": "https://openalex.org/keywords/water-based-drilling-fluids",
+        "display_name": "water-based drilling fluids",
+        "score": 0.7480000257492065
+      },
+      {
+        "id": "https://openalex.org/keywords/filter-loss",
+        "display_name": "filter loss",
+        "score": 0.597000002861023
+      },
+      {
+        "id": "https://openalex.org/keywords/rheology",
+        "display_name": "rheology",
+        "score": 0.8939999938011169
+      },
+      {
+        "id": "https://openalex.org/keywords/capping-agents",
+        "display_name": "capping agents",
+        "score": 0.6880000233650208
+      },
+      {
+        "id": "https://openalex.org/keywords/co2-absorption-and-desorption",
+        "display_name": "CO2 absorption and desorption",
+        "score": 0.7009999752044678
+      },
+      {
+        "id": "https://openalex.org/keywords/seawater",
+        "display_name": "seawater",
+        "score": 0.4580000042915344
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C154881586",
+        "wikidata": "https://www.wikidata.org/wiki/Q898579",
+        "display_name": "Ionic liquid",
+        "level": 3,
+        "score": 0.6381202936172485
+      },
+      {
+        "id": "https://openalex.org/C2778039128",
+        "wikidata": "https://www.wikidata.org/wiki/Q23767",
+        "display_name": "Calcium carbonate",
+        "level": 2,
+        "score": 0.5653542876243591
+      },
+      {
+        "id": "https://openalex.org/C67407626",
+        "wikidata": "https://www.wikidata.org/wiki/Q5723218",
+        "display_name": "Amphiphile",
+        "level": 4,
+        "score": 0.5503230094909668
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.511658251285553
+      },
+      {
+        "id": "https://openalex.org/C155672457",
+        "wikidata": "https://www.wikidata.org/wiki/Q61231",
+        "display_name": "Nanoparticle",
+        "level": 2,
+        "score": 0.489479660987854
+      },
+      {
+        "id": "https://openalex.org/C183882617",
+        "wikidata": "https://www.wikidata.org/wiki/Q3046749",
+        "display_name": "Cationic polymerization",
+        "level": 2,
+        "score": 0.4770036041736603
+      },
+      {
+        "id": "https://openalex.org/C179104552",
+        "wikidata": "https://www.wikidata.org/wiki/Q11165",
+        "display_name": "Inorganic chemistry",
+        "level": 1,
+        "score": 0.4535762071609497
+      },
+      {
+        "id": "https://openalex.org/C42360764",
+        "wikidata": "https://www.wikidata.org/wiki/Q83588",
+        "display_name": "Chemical engineering",
+        "level": 1,
+        "score": 0.4275764524936676
+      },
+      {
+        "id": "https://openalex.org/C192562407",
+        "wikidata": "https://www.wikidata.org/wiki/Q228736",
+        "display_name": "Materials science",
+        "level": 0,
+        "score": 0.3347311019897461
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "wikidata": "https://www.wikidata.org/wiki/Q11351",
+        "display_name": "Organic chemistry",
+        "level": 1,
+        "score": 0.29915040731430054
+      },
+      {
+        "id": "https://openalex.org/C171250308",
+        "wikidata": "https://www.wikidata.org/wiki/Q11468",
+        "display_name": "Nanotechnology",
+        "level": 1,
+        "score": 0.11776134371757507
+      },
+      {
+        "id": "https://openalex.org/C161790260",
+        "wikidata": "https://www.wikidata.org/wiki/Q82264",
+        "display_name": "Catalysis",
+        "level": 2,
+        "score": 0.11381378769874573
+      },
+      {
+        "id": "https://openalex.org/C521977710",
+        "wikidata": "https://www.wikidata.org/wiki/Q81163",
+        "display_name": "Polymer",
+        "level": 2,
+        "score": 0.0896475613117218
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C15920480",
+        "wikidata": "https://www.wikidata.org/wiki/Q421281",
+        "display_name": "Copolymer",
+        "level": 3,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D002119",
+        "descriptor_name": "Calcium Carbonate",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D002245",
+        "descriptor_name": "Carbon Dioxide",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D007093",
+        "descriptor_name": "Imidazoles",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D052578",
+        "descriptor_name": "Ionic Liquids",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D053758",
+        "descriptor_name": "Nanoparticles",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.jes.2024.02.028",
+        "doi": "https://doi.org/10.1016/j.jes.2024.02.028",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.jes.2024.02.028",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S35825460",
+          "display_name": "Journal of Environmental Sciences",
+          "issn_l": "1001-0742",
+          "issn": [
+            "1001-0742",
+            "1878-7320"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Environmental Sciences",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:39306393",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39306393",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of environmental sciences (China)",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G7628906197",
+        "display_name": null,
+        "funder_award_id": "47062",
+        "funder_id": "https://openalex.org/F4320321655",
+        "funder_display_name": "Science and Technology Development Fund"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320321655",
+        "display_name": "Science and Technology Development Fund",
+        "ror": "https://ror.org/044vr6g03"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 65,
+    "referenced_works": [
+      "https://openalex.org/W325827356",
+      "https://openalex.org/W1801156806",
+      "https://openalex.org/W1965720531",
+      "https://openalex.org/W1979014625",
+      "https://openalex.org/W1979872108",
+      "https://openalex.org/W1983045788",
+      "https://openalex.org/W1987051884",
+      "https://openalex.org/W1989947640",
+      "https://openalex.org/W2014464559",
+      "https://openalex.org/W2015590681",
+      "https://openalex.org/W2017025727",
+      "https://openalex.org/W2023152482",
+      "https://openalex.org/W2023440319",
+      "https://openalex.org/W2024299279",
+      "https://openalex.org/W2024837889",
+      "https://openalex.org/W2037682164",
+      "https://openalex.org/W2037823489",
+      "https://openalex.org/W2048829417",
+      "https://openalex.org/W2053176177",
+      "https://openalex.org/W2053329683",
+      "https://openalex.org/W2059134629",
+      "https://openalex.org/W2061127345",
+      "https://openalex.org/W2063719203",
+      "https://openalex.org/W2065794769",
+      "https://openalex.org/W2075132619",
+      "https://openalex.org/W2081462317",
+      "https://openalex.org/W2081738772",
+      "https://openalex.org/W2094127965",
+      "https://openalex.org/W2096042571",
+      "https://openalex.org/W2144754980",
+      "https://openalex.org/W2190367259",
+      "https://openalex.org/W2317885640",
+      "https://openalex.org/W2327992839",
+      "https://openalex.org/W2331032332",
+      "https://openalex.org/W2333178950",
+      "https://openalex.org/W2534970352",
+      "https://openalex.org/W2549951218",
+      "https://openalex.org/W2557787092",
+      "https://openalex.org/W2574568617",
+      "https://openalex.org/W2599335055",
+      "https://openalex.org/W2620635741",
+      "https://openalex.org/W2749161909",
+      "https://openalex.org/W2764246269",
+      "https://openalex.org/W2781522266",
+      "https://openalex.org/W2802921452",
+      "https://openalex.org/W2896037162",
+      "https://openalex.org/W2910420717",
+      "https://openalex.org/W2935344334",
+      "https://openalex.org/W2944162389",
+      "https://openalex.org/W2981431652",
+      "https://openalex.org/W3004842105",
+      "https://openalex.org/W3005730531",
+      "https://openalex.org/W3093873165",
+      "https://openalex.org/W3094210405",
+      "https://openalex.org/W3164334438",
+      "https://openalex.org/W3188996705",
+      "https://openalex.org/W4220966023",
+      "https://openalex.org/W4255459208",
+      "https://openalex.org/W4285796732",
+      "https://openalex.org/W4287881524",
+      "https://openalex.org/W4292566219",
+      "https://openalex.org/W4298386547",
+      "https://openalex.org/W4303628763",
+      "https://openalex.org/W4320341431",
+      "https://openalex.org/W6850244744"
+    ],
+    "related_works": [
+      "https://openalex.org/W2535557364",
+      "https://openalex.org/W4318473548",
+      "https://openalex.org/W3183251679",
+      "https://openalex.org/W2077688983",
+      "https://openalex.org/W2805746694",
+      "https://openalex.org/W2114548439",
+      "https://openalex.org/W6903416619",
+      "https://openalex.org/W2722655544",
+      "https://openalex.org/W1992803850",
+      "https://openalex.org/W2607001449"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2024-03-20T00:00:00"
+  }
+}

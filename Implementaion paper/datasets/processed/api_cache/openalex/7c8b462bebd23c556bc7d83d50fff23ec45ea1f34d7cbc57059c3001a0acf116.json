@@ -1,0 +1,562 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1109/icbbe.2011.5781606",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1109%2Ficbbe.2011.5781606",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:01.030789+00:00",
+  "record": {
+    "id": "https://openalex.org/W1749848610",
+    "doi": "https://doi.org/10.1109/icbbe.2011.5781606",
+    "title": "Notice of Retraction: Study on the Biodegradability of Oxidized Sulfiting Vegetable Oil Fatliquor",
+    "display_name": "Notice of Retraction: Study on the Biodegradability of Oxidized Sulfiting Vegetable Oil Fatliquor",
+    "publication_year": 2011,
+    "publication_date": "2011-05-01",
+    "ids": {
+      "openalex": "https://openalex.org/W1749848610",
+      "doi": "https://doi.org/10.1109/icbbe.2011.5781606",
+      "mag": "1749848610"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1109/icbbe.2011.5781606",
+      "doi": "https://doi.org/10.1109/icbbe.2011.5781606",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/icbbe.2011.5781606",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210228711",
+        "display_name": "International Conference on Bioinformatics and Biomedical Engineering",
+        "issn_l": "2151-7614",
+        "issn": [
+          "2151-7614",
+          "2151-7622"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "conference"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
+      "raw_type": "proceedings-article"
+    },
+    "volume": null,
+    "type": "conference-paper",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5017081742",
+          "display_name": "Taotao Qiang",
+          "orcid": "https://orcid.org/0000-0003-3505-2049",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3505-2049"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51622183",
+            "display_name": "Shaanxi University of Science and Technology",
+            "ror": "https://ror.org/034t3zs45",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Taotao Qiang",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+          "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Min Luo",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51622183",
+            "display_name": "Shaanxi University of Science and Technology",
+            "ror": "https://ror.org/034t3zs45",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Min Luo",
+        "raw_affiliation_strings": [
+          "Shaanxi University of Science and Technology, Xi'an, Shaanxi, CN",
+          "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Shaanxi University of Science and Technology, Xi'an, Shaanxi, CN",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5073873121",
+          "display_name": "Xuechuan Wang",
+          "orcid": "https://orcid.org/0000-0003-1413-2779",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1413-2779"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51622183",
+            "display_name": "Shaanxi University of Science and Technology",
+            "ror": "https://ror.org/034t3zs45",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xuechuan Wang",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+          "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5113654932",
+          "display_name": "Yongqiang Ren",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51622183",
+            "display_name": "Shaanxi University of Science and Technology",
+            "ror": "https://ror.org/034t3zs45",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yongqiang Ren",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+          "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5103037150",
+          "display_name": "Longfang Ren",
+          "orcid": "https://orcid.org/0000-0002-2641-870X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2641-870X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51622183",
+            "display_name": "Shaanxi University of Science and Technology",
+            "ror": "https://ror.org/034t3zs45",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Longfang Ren",
+        "raw_affiliation_strings": [
+          "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+          "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Key Laboratory of Aids Chemistry & Technology for Light Chemical Industry, Ministry of Education Shaanxi University of Science & Technology, Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Key Lab. of Aids Chem. & Technol. for Light Chem. Ind., Shaanxi Univ. of Sci. & Technol., Xi'an, China",
+            "institution_ids": [
+              "https://openalex.org/I51622183"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I51622183"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.09432146,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": "1",
+      "last_page": "4"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13092",
+      "display_name": "Environmental Chemistry and Analysis",
+      "score": 0.8910999894142151,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2304",
+        "display_name": "Environmental Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13092",
+        "display_name": "Environmental Chemistry and Analysis",
+        "score": 0.8910999894142151,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2304",
+          "display_name": "Environmental Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10721",
+        "display_name": "Surfactants and Colloidal Systems",
+        "score": 0.07429999858140945,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1605",
+          "display_name": "Organic Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/16",
+          "display_name": "Chemistry"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11511",
+        "display_name": "Dyeing and Modifying Textile Fibers",
+        "score": 0.00989999994635582,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2215",
+          "display_name": "Building and Construction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/biodegradability",
+        "display_name": "biodegradability",
+        "score": 0.9240000247955322
+      },
+      {
+        "id": "https://openalex.org/keywords/fatliquor",
+        "display_name": "fatliquor",
+        "score": 0.8119999766349792
+      },
+      {
+        "id": "https://openalex.org/keywords/retraction",
+        "display_name": "retraction",
+        "score": 0.6320000290870667
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779913896",
+        "wikidata": "https://www.wikidata.org/wiki/Q7063001",
+        "display_name": "Notice",
+        "level": 2,
+        "score": 0.8823399543762207
+      },
+      {
+        "id": "https://openalex.org/C157021035",
+        "wikidata": "https://www.wikidata.org/wiki/Q696715",
+        "display_name": "Biodegradation",
+        "level": 2,
+        "score": 0.7838855981826782
+      },
+      {
+        "id": "https://openalex.org/C2779096019",
+        "wikidata": "https://www.wikidata.org/wiki/Q4739805",
+        "display_name": "Vegetable oil",
+        "level": 2,
+        "score": 0.4903240501880646
+      },
+      {
+        "id": "https://openalex.org/C528095902",
+        "wikidata": "https://www.wikidata.org/wiki/Q2283886",
+        "display_name": "Pulp and paper industry",
+        "level": 1,
+        "score": 0.38414159417152405
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.3436645567417145
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.3366193175315857
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "wikidata": "https://www.wikidata.org/wiki/Q11351",
+        "display_name": "Organic chemistry",
+        "level": 1,
+        "score": 0.2707448899745941
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.13715031743049622
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.11072000861167908
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.06880801916122437
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1109/icbbe.2011.5781606",
+        "doi": "https://doi.org/10.1109/icbbe.2011.5781606",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/icbbe.2011.5781606",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210228711",
+          "display_name": "International Conference on Bioinformatics and Biomedical Engineering",
+          "issn_l": "2151-7614",
+          "issn": [
+            "2151-7614",
+            "2151-7622"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2011 5th International Conference on Bioinformatics and Biomedical Engineering",
+        "raw_type": "proceedings-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/12",
+        "score": 0.6000000238418579,
+        "display_name": "Responsible consumption and production"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 5,
+    "referenced_works": [
+      "https://openalex.org/W2026778535",
+      "https://openalex.org/W2087029246",
+      "https://openalex.org/W2354885750",
+      "https://openalex.org/W2369434165",
+      "https://openalex.org/W7071603193"
+    ],
+    "related_works": [
+      "https://openalex.org/W1821345431",
+      "https://openalex.org/W1856911305",
+      "https://openalex.org/W2074890672",
+      "https://openalex.org/W2981269067"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2026-10-27T15:51:10.671819",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

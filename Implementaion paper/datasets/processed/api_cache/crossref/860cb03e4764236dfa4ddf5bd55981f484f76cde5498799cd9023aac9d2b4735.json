@@ -1,0 +1,1366 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1007/s00521-020-04874-y",
+  "url": "https://api.crossref.org/works/10.1007%2Fs00521-020-04874-y",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:04.759330+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T00:09:53Z",
+      "timestamp": 1792800593867,
+      "version": "4.5.0"
+    },
+    "reference-count": 113,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "20",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              11
+            ]
+          ],
+          "date-time": "2020-05-11T00:00:00Z",
+          "timestamp": 1589155200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              11
+            ]
+          ],
+          "date-time": "2020-05-11T00:00:00Z",
+          "timestamp": 1589155200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Neural Comput &amp; Applic"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00521-020-04874-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2020-05-11T00:02:31Z",
+      "timestamp": 1589155351000
+    },
+    "page": "16205-16233",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 256,
+    "title": [
+      "Machine learning and data analytics for the IoT"
+    ],
+    "prefix": "10.1007",
+    "volume": "32",
+    "author": [
+      {
+        "given": "Erwin",
+        "family": "Adi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adnan",
+        "family": "Anwar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zubair",
+        "family": "Baig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sherali",
+        "family": "Zeadally",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "4874_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "278",
+        "DOI": "10.1016/j.future.2018.04.057",
+        "volume": "87",
+        "author": "M Aazam",
+        "year": "2018",
+        "unstructured": "Aazam M, Zeadally S, Harras KA (2018) Offloading in fog computing for iot: review, enabling technologies, and research opportunities. Future Generat Comput Syst 87:278\u2013289",
+        "journal-title": "Future Generat Comput Syst"
+      },
+      {
+        "key": "4874_CR2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Akbar A, Carrez F, Moessner K, Sancho J, Rico J (2015) Context-aware stream processing for distributed IoT applications. In: 2015 IEEE 2nd World Forum on Internet of Things (WF-IoT), IEEE, pp 663\u2013668",
+        "DOI": "10.1109/WF-IoT.2015.7389133"
+      },
+      {
+        "issue": "5",
+        "key": "4874_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1571",
+        "DOI": "10.1109/JIOT.2017.2712672",
+        "volume": "4",
+        "author": "A Akbar",
+        "year": "2017",
+        "unstructured": "Akbar A, Khan A, Carrez F, Moessner K (2017) Predictive analytics for complex iot data streams. IEEE Internet of Things J 4(5):1571\u20131582. https://doi.org/10.1109/JIOT.2017.2712672",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "426",
+        "DOI": "10.1109/TCE.2017.015014",
+        "volume": "63",
+        "author": "AR Al-Ali",
+        "year": "2017",
+        "unstructured": "Al-Ali AR, Zualkernan IA, Rashid M, Gupta R, Alikarar M (2017) A smart home energy management system using IoT and big data analytics approach. IEEE Trans Consum Electron 63(4):426\u2013434. https://doi.org/10.1109/TCE.2017.015014",
+        "journal-title": "IEEE Trans Consum Electron"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2347",
+        "DOI": "10.1109/COMST.2015.2444095",
+        "volume": "17",
+        "author": "A Al-Fuqaha",
+        "year": "2015",
+        "unstructured": "Al-Fuqaha A, Guizani M, Mohammadi M, Aledhari M, Ayyash M (2015) Internet of things: a survey on enabling technologies, protocols, and applications. IEEE Commun Surv Tutor 17(4):2347\u20132376",
+        "journal-title": "IEEE Commun Surv Tutor"
+      },
+      {
+        "issue": "1",
+        "key": "4874_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1109/TII.2015.2414355",
+        "volume": "12",
+        "author": "D Alahakoon",
+        "year": "2016",
+        "unstructured": "Alahakoon D, Yu X (2016) Smart electricity meter data intelligence for future energy systems: a survey. IEEE Trans Ind Inform 12(1):425\u2013436. https://doi.org/10.1109/TII.2015.2414355",
+        "journal-title": "IEEE Trans Ind Inform"
+      },
+      {
+        "key": "4874_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1016/j.is.2014.12.001",
+        "volume": "53",
+        "author": "A Anwar",
+        "year": "2015",
+        "unstructured": "Anwar A, Mahmood AN, Tari Z (2015) Identification of vulnerable node clusters against false data injection attack in an ami based smart grid. Inf Syst 53:201\u2013212",
+        "journal-title": "Inf Syst"
+      },
+      {
+        "issue": "1",
+        "key": "4874_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "58",
+        "DOI": "10.1016/j.jcss.2016.04.005",
+        "volume": "83",
+        "author": "A Anwar",
+        "year": "2017",
+        "unstructured": "Anwar A, Mahmood AN, Pickering M (2017) Modeling and performance evaluation of stealthy false data injection attacks on smart grid in the presence of corrupted measurements. J Comput Syst Sci 83(1):58\u201372. https://doi.org/10.1016/j.jcss.2016.04.005",
+        "journal-title": "J Comput Syst Sci"
+      },
+      {
+        "issue": "6",
+        "key": "4874_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "3299",
+        "DOI": "10.1109/TII.2017.2740324",
+        "volume": "13",
+        "author": "A Anwar",
+        "year": "2017",
+        "unstructured": "Anwar A, Mahmood AN, Tari Z (2017) Ensuring data integrity of opf module and energy database by detecting changes in power flow patterns in smart grids. IEEE Trans Ind Inform 13(6):3299\u20133311",
+        "journal-title": "IEEE Trans Ind Inform"
+      },
+      {
+        "key": "4874_CR10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ara A, Ara A (2017) Case study: integrating iot, streaming analytics and machine learning to improve intelligent diabetes management system. In: 2017 International conference on energy. Communication, data analytics and soft computing (ICECDS), IEEE, pp 3179\u20133182",
+        "DOI": "10.1109/ICECDS.2017.8390043"
+      },
+      {
+        "key": "4874_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1007/978-3-319-75681-3_3",
+        "volume-title": "Measuring and analysing the use of ontologies",
+        "author": "J Ashraf",
+        "year": "2018",
+        "unstructured": "Ashraf J, Hussain OK, Hussain FK, Chang EJ (2018) Ontology usage analysis framework (ousaf). Measuring and analysing the use of ontologies. Springer, Berlin, pp 49\u201362"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1061/(ASCE)LM.1943-5630.0000127",
+        "volume": "11",
+        "author": "S Azhar",
+        "year": "2011",
+        "unstructured": "Azhar S (2011) Building information modeling (bim): trends, benefits, risks, and challenges for the AEC industry. Leadersh Manag Eng 11(3):241\u2013252",
+        "journal-title": "Leadersh Manag Eng"
+      },
+      {
+        "key": "4874_CR13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bajer M (2017) Building an iot data hub with elasticsearch, logstash and kibana. In: 2017 5th international conference on future internet of things and cloud workshops (FiCloudW), IEEE, pp 63\u201368",
+        "DOI": "10.1109/FiCloudW.2017.101"
+      },
+      {
+        "key": "4874_CR14",
+        "volume-title": "A treatise concerning the principles of human knowledge",
+        "author": "G Berkeley",
+        "year": "1881",
+        "unstructured": "Berkeley G (1881) A treatise concerning the principles of human knowledge. JB Lippincott & Company, Philadelphia"
+      },
+      {
+        "issue": "5",
+        "key": "4874_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1038/scientificamerican0501-34",
+        "volume": "284",
+        "author": "T Berners-Lee",
+        "year": "2001",
+        "unstructured": "Berners-Lee T, Hendler J, Lassila O et al (2001) The semantic web. Sci Am 284(5):28\u201337",
+        "journal-title": "Sci Am"
+      },
+      {
+        "key": "4874_CR16",
+        "unstructured": "Bigquery: Cloud data warehouse. Google Cloud (2020). https://cloud.google.com/bigquery/. Accessed 18 Oct 2019"
+      },
+      {
+        "key": "4874_CR17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bonomi F, Milito R, Zhu J, Addepalli S (2012) Fog computing and its role in the internet of things. In: Proceedings of the First Edition of the MCC Workshop on Mobile Cloud Computing, ACM, New York, NY, USA, MCC \u201912, pp 13\u201316",
+        "DOI": "10.1145/2342509.2342513"
+      },
+      {
+        "key": "4874_CR18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bottaccioli L, Aliberti A, Ugliotti F, Patti E, Osello A, Macii E, Acquaviva A (2017) Building energy modelling and monitoring by integration of IoT devices and building information models. In: 2017 IEEE 41st annual computer software and applications conference (COMPSAC), IEEE, vol 1, pp 914\u2013922",
+        "DOI": "10.1109/COMPSAC.2017.75"
+      },
+      {
+        "issue": "10",
+        "key": "4874_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "5648",
+        "DOI": "10.1109/TII.2019.2906886",
+        "volume": "15",
+        "author": "KN Bui",
+        "year": "2019",
+        "unstructured": "Bui KN, Jung JJ (2019) Aco-based dynamic decision making for connected vehicles in iot system. IEEE Trans Ind Inform 15(10):5648\u20135655. https://doi.org/10.1109/TII.2019.2906886",
+        "journal-title": "IEEE Trans Ind Inform"
+      },
+      {
+        "key": "4874_CR20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Burmeister D, Schrader A (2018) Runtime generation and delivery of guidance for smart object ensembles. In: International conference on applied human factors and ergonomics. Springer, New York, pp 287\u2013296",
+        "DOI": "10.1007/978-3-319-94866-9_29"
+      },
+      {
+        "key": "4874_CR21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Byabazaire J, Olariu C, Taneja M, Davy A (2019) Lameness detection as a service: application of machine learning to an internet of cattle. In: 2019 16th IEEE annual consumer communications & networking conference (CCNC), IEEE, pp 1\u20136",
+        "DOI": "10.1109/CCNC.2019.8651681"
+      },
+      {
+        "key": "4874_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "71749",
+        "DOI": "10.1109/ACCESS.2019.2919514",
+        "volume": "7",
+        "author": "H Cao",
+        "year": "2019",
+        "unstructured": "Cao H, Wachowicz M, Renso C, Carlini E (2019) Analytics everywhere: generating insights from the internet of things. IEEE Access 7:71749\u201371769. https://doi.org/10.1109/ACCESS.2019.2919514",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "2",
+        "key": "4874_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.3390/s18020436",
+        "volume": "18",
+        "author": "WF Cheung",
+        "year": "2018",
+        "unstructured": "Cheung WF, Lin TH, Lin YC (2018) A real-time construction safety monitoring system for hazardous gas integrating wireless sensor network and building information modeling technologies. Sensors 18(2):436",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "4874_CR24",
+        "unstructured": "Coremetrics is part of ibm. IBM (2020). https://www.ibm.com/au-en/digital-marketing/coremetrics-software. Accessed 18 Oct 2019"
+      },
+      {
+        "issue": "5",
+        "key": "4874_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "3701",
+        "DOI": "10.1109/JIOT.2017.2690902",
+        "volume": "5",
+        "author": "J Contreras-Castillo",
+        "year": "2018",
+        "unstructured": "Contreras-Castillo J, Zeadally S, Guerrero-Iba\u00f1ez JA (2018) Internet of vehicles: architecture, protocols, and security. IEEE Internet of Things J 5(5):3701\u20133709",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "key": "4874_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1186/s40537-019-0217-0",
+        "volume": "6",
+        "author": "S Dash",
+        "year": "2019",
+        "unstructured": "Dash S, Shakyawar SK, Sharma M et al (2019) Big data in healthcare: management, analysis and future prospects. J Big Data 6:54",
+        "journal-title": "J Big Data"
+      },
+      {
+        "issue": "2",
+        "key": "4874_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1109/MPOT.2018.2852564",
+        "volume": "38",
+        "author": "P Deligiannis",
+        "year": "2019",
+        "unstructured": "Deligiannis P, Koutroubinas S, Koronias G (2019) Predicting energy consumption through machine learning using a smart-metering architecture. IEEE Potentials 38(2):29\u201334",
+        "journal-title": "IEEE Potentials"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1007/s00766-015-0222-6",
+        "volume": "21",
+        "author": "D Dermeval",
+        "year": "2016",
+        "unstructured": "Dermeval D, Vilela J, Bittencourt II, Castro J, Isotani S, Brito P, Silva A (2016) Applications of ontologies in requirements engineering: a systematic review of the literature. Requir Eng 21(4):405\u2013437",
+        "journal-title": "Requir Eng"
+      },
+      {
+        "key": "4874_CR29",
+        "volume-title": "Ren\u00e9 Descartes: meditations on first philosophy: with selections from the objections and replies",
+        "author": "R Descartes",
+        "year": "2013",
+        "unstructured": "Descartes R (2013) Ren\u00e9 Descartes: meditations on first philosophy: with selections from the objections and replies. Cambridge University Press, Cambridge"
+      },
+      {
+        "key": "4874_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dey A, Ling X, Syed A, Zheng Y, Landowski B, Anderson D, Stuart K, Tolentino ME (2016) Namatad: Inferring occupancy from building sensors using machine learning. In: 2016 IEEE 3rd World Forum on Internet of Things (WF-IoT), IEEE, pp 478\u2013483",
+        "DOI": "10.1109/WF-IoT.2016.7845462"
+      },
+      {
+        "key": "4874_CR31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Djuedja JFT, Karray MH, Foguem BK, Magniont C, Abanda FH (2019) Interoperability challenges in building information modelling (bim). In: Enterprise Interoperability VIII, Springer, pp 275\u2013282",
+        "DOI": "10.1007/978-3-030-13693-2_23"
+      },
+      {
+        "issue": "1",
+        "key": "4874_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1186/s40537-019-0271-7",
+        "volume": "6",
+        "author": "A Ed-daoudy",
+        "year": "2019",
+        "unstructured": "Ed-daoudy A, Maalmi K (2019) A new internet of things architecture for real-time prediction of various diseases using machine learning on big data environment. J Big Data 6(1):104",
+        "journal-title": "J Big Data"
+      },
+      {
+        "issue": "5",
+        "key": "4874_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "3758",
+        "DOI": "10.1109/JIOT.2018.2844296",
+        "volume": "5",
+        "author": "O Elijah",
+        "year": "2018",
+        "unstructured": "Elijah O, Rahman TA, Orikumhi I, Leow CY, Hindia MN (2018) An overview of internet of things (iot) and data analytics in agriculture: benefits and challenges. IEEE Internet of Things J 5(5):3758\u20133773. https://doi.org/10.1109/JIOT.2018.2844296",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "key": "4874_CR34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Endler M, Briot JP, e\u00a0Silva FS, de\u00a0Almeida VP, Haeusler EH (2017) Towards stream-based reasoning and machine learning for iot applications. In: 2017 Intelligent Systems Conference (IntelliSys), IEEE, pp 202\u2013209",
+        "DOI": "10.1109/IntelliSys.2017.8324292"
+      },
+      {
+        "key": "4874_CR35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fadlullah ZM, Pathan ASK, Gacanin H (2018) On delay-sensitive healthcare data analytics at the network edge based on deep learning. In: 2018 14th international wireless communications & mobile computing conference (IWCMC), IEEE, pp 388\u2013393",
+        "DOI": "10.1109/IWCMC.2018.8450475"
+      },
+      {
+        "key": "4874_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "156237",
+        "DOI": "10.1109/ACCESS.2019.2949703",
+        "volume": "7",
+        "author": "MS Farooq",
+        "year": "2019",
+        "unstructured": "Farooq MS, Riaz S, Abid A, Abid K, Naeem MA (2019) A survey on the role of iot in agriculture for the implementation of smart farming. IEEE Access 7:156237\u2013156271",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "12",
+        "key": "4874_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "2965",
+        "DOI": "10.1109/TCAD.2018.2801227",
+        "volume": "37",
+        "author": "F Firouzi",
+        "year": "2018",
+        "unstructured": "Firouzi F, Farahani B, Ibrahim M, Chakrabarty K (2018) Keynote paper: from eda to iot ehealth: promises, challenges, and solutions. IEEE Trans Comput Aided Des Integr Circuits Syst 37(12):2965\u20132978. https://doi.org/10.1109/TCAD.2018.2801227",
+        "journal-title": "IEEE Trans Comput Aided Des Integr Circuits Syst"
+      },
+      {
+        "key": "4874_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.jss.2016.06.011",
+        "volume": "127",
+        "author": "I Flouris",
+        "year": "2017",
+        "unstructured": "Flouris I, Giatrakos N, Deligiannakis A, Garofalakis M, Kamp M, Mock M (2017) Issues in complex event processing: status and prospects in the big data era. J Syst Softw 127:217\u2013236",
+        "journal-title": "J Syst Softw"
+      },
+      {
+        "key": "4874_CR39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fortino G, Guerrieri A, Russo W (2012) Agent-oriented smart objects development. In: Proceedings of the 2012 IEEE 16th international conference on computer supported cooperative work in design (CSCWD), IEEE, pp 907\u2013912",
+        "DOI": "10.1109/CSCWD.2012.6221929"
+      },
+      {
+        "key": "4874_CR40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fortino G, Guerrieri A, Russo W, Savaglio C (2015) Towards a development methodology for smart object-oriented IoT systems: a metamodel approach. In: 2015 IEEE international conference on systems, man, and cybernetics, IEEE, pp 1297\u20131302",
+        "DOI": "10.1109/SMC.2015.231"
+      },
+      {
+        "key": "4874_CR41",
+        "unstructured": "Fog computing and the internet of things: extend the cloud to where the things are (2015). https://www.cisco.com/c/dam/en_us/solutions/trends/iot/docs/computing-overview.pdf. Accessed 18 Oct 2019"
+      },
+      {
+        "key": "4874_CR42",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1109/ACCESS.2017.2764467",
+        "volume": "6",
+        "author": "I Garc\u00eda-Magari\u00f1o",
+        "year": "2017",
+        "unstructured": "Garc\u00eda-Magari\u00f1o I, Lacuesta R, Lloret J (2017) Agent-based simulation of smart beds with internet-of-things for exploring big data analytics. IEEE Access 6:366\u2013379",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "4874_CR43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gonzalez-Mendoza M, Velasco-Bermeo N, Orozco OJL (2017) The traffic status and pollutant status ontologies for the smart city domain. In: Mexican international conference on artificial intelligence, Springer, pp 95\u2013101",
+        "DOI": "10.1007/978-3-030-02840-4_8"
+      },
+      {
+        "key": "4874_CR44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Granados J, Chu H, Zou Z, Zheng LR (2019) Towards workload-balanced, live deep learning analytics for confidentiality-aware IoT medical platforms. In: 2019 IEEE international conference on artificial intelligence circuits and systems (AICAS), IEEE, pp 62\u201366",
+        "DOI": "10.1109/AICAS.2019.8771558"
+      },
+      {
+        "issue": "6",
+        "key": "4874_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1109/MIM.2018.8573590",
+        "volume": "21",
+        "author": "F Griffiths",
+        "year": "2018",
+        "unstructured": "Griffiths F, Ooi M (2018) The fourth industrial revolution-industry 4.0 and IoT [trends in future i&m]. IEEE Instrum Meas Mag 21(6):29\u201343",
+        "journal-title": "IEEE Instrum Meas Mag"
+      },
+      {
+        "key": "4874_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "107094",
+        "DOI": "10.1016/j.comnet.2019.107094",
+        "volume": "169",
+        "author": "MZ Gunduz",
+        "year": "2020",
+        "unstructured": "Gunduz MZ, Das R (2020) Cyber-security on smart grid: threats and potential solutions. Comput Netw 169:107094",
+        "journal-title": "Comput Netw"
+      },
+      {
+        "key": "4874_CR47",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hassanalieragh M, Page A, Soyata T, Sharma G, Aktas M, Mateos G, Kantarci B, Andreescu S (2015) Health monitoring and management using internet-of-things (IoT) sensing with cloud-based processing: opportunities and challenges. In: 2015 IEEE international conference on services computing, IEEE, pp 285\u2013292",
+        "DOI": "10.1109/SCC.2015.47"
+      },
+      {
+        "issue": "2",
+        "key": "4874_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "1587",
+        "DOI": "10.1109/TII.2014.2299233",
+        "volume": "10",
+        "author": "W He",
+        "year": "2014",
+        "unstructured": "He W, Yan G, Xu LD (2014) Developing vehicular data cloud services in the iot environment. IEEE Trans Ind Inform 10(2):1587\u20131595. https://doi.org/10.1109/TII.2014.2299233",
+        "journal-title": "IEEE Trans Ind Inform"
+      },
+      {
+        "issue": "5",
+        "key": "4874_CR49",
+        "doi-asserted-by": "crossref",
+        "first-page": "2505",
+        "DOI": "10.1109/TSG.2017.2703842",
+        "volume": "8",
+        "author": "Y He",
+        "year": "2017",
+        "unstructured": "He Y, Mendis GJ, Wei J (2017) Real-time detection of false data injection attacks in smart grid: a deep learning-based intelligent mechanism. IEEE Trans Smart Grid 8(5):2505\u20132516",
+        "journal-title": "IEEE Trans Smart Grid"
+      },
+      {
+        "key": "4874_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "13960",
+        "DOI": "10.1109/ACCESS.2019.2894819",
+        "volume": "7",
+        "author": "E Hossain",
+        "year": "2019",
+        "unstructured": "Hossain E, Khan I, Un-Noor F, Sikander SS, Sunny MSH (2019) Application of big data and machine learning in smart grid, and associated security concerns: A review. IEEE Access 7:13960\u201313988. https://doi.org/10.1109/ACCESS.2019.2894819",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "2399",
+        "DOI": "10.1109/JIOT.2017.2772959",
+        "volume": "5",
+        "author": "MS Hossain",
+        "year": "2018",
+        "unstructured": "Hossain MS, Muhammad G (2018) Emotion-aware connected healthcare big data towards 5G. IEEE Internet of Things J 5(4):2399\u20132406. https://doi.org/10.1109/JIOT.2017.2772959",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "key": "4874_CR52",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hua W, Wang Z, Wang H, Zheng K, Zhou X (2015) Short text understanding through lexical-semantic analysis. In: 2015 IEEE 31st international conference on data engineering, IEEE, pp 495\u2013506",
+        "DOI": "10.1109/ICDE.2015.7113309"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR53",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1109/MCOM.2017.1600611CM",
+        "volume": "55",
+        "author": "D Hussein",
+        "year": "2017",
+        "unstructured": "Hussein D, Bertin E, Frey V (2017) A community-driven access control approach in distributed IoT environments. IEEE Commun Mag 55(3):146\u2013153",
+        "journal-title": "IEEE Commun Mag"
+      },
+      {
+        "key": "4874_CR54",
+        "unstructured": "Internet of things forecast mobility report (2019). https://www.ericsson.com/en/mobility-report/internet-of-things-forecast. Accessed 18 Oct 2019"
+      },
+      {
+        "issue": "8",
+        "key": "4874_CR55",
+        "doi-asserted-by": "crossref",
+        "first-page": "898",
+        "DOI": "10.3390/electronics8080898",
+        "volume": "8",
+        "author": "SN Islam",
+        "year": "2019",
+        "unstructured": "Islam SN (2019) A new pricing scheme for intra-microgrid and inter-microgrid local energy trading. Electronics 8(8):898",
+        "journal-title": "Electronics"
+      },
+      {
+        "issue": "12",
+        "key": "4874_CR56",
+        "doi-asserted-by": "crossref",
+        "first-page": "6522",
+        "DOI": "10.1109/TII.2019.2931436",
+        "volume": "15",
+        "author": "SN Islam",
+        "year": "2019",
+        "unstructured": "Islam SN, Baig Z, Zeadally S (2019) Physical layer security for the smart grid: vulnerabilities, threats, and countermeasures. IEEE Trans Ind Inform 15(12):6522\u20136530",
+        "journal-title": "IEEE Trans Ind Inform"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "76",
+        "DOI": "10.1109/MIS.2015.67",
+        "volume": "30",
+        "author": "S Ivanov",
+        "year": "2015",
+        "unstructured": "Ivanov S, Bhargava K, Donnelly W (2015) Precision farming: sensor analytics. IEEE Intell Syst 30(4):76\u201380. https://doi.org/10.1109/MIS.2015.67",
+        "journal-title": "IEEE Intell Syst"
+      },
+      {
+        "key": "4874_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "42450",
+        "DOI": "10.1109/ACCESS.2019.2907965",
+        "volume": "7",
+        "author": "SU Jan",
+        "year": "2019",
+        "unstructured": "Jan SU, Ahmed S, Shakhov V, Koo I (2019) Toward a lightweight intrusion detection system for the internet of things. IEEE Access 7:42450\u201342471. https://doi.org/10.1109/ACCESS.2019.2907965",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "4874_CR59",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.engappai.2019.05.011",
+        "volume": "84",
+        "author": "ZH Janjua",
+        "year": "2019",
+        "unstructured": "Janjua ZH, Vecchio M, Antonini M, Antonelli F (2019) Irese: an intelligent rare-event detection system using unsupervised learning on the IoT edge. Eng Appl Artif Intell 84:41\u201350",
+        "journal-title": "Eng Appl Artif Intell"
+      },
+      {
+        "issue": "11",
+        "key": "4874_CR60",
+        "doi-asserted-by": "crossref",
+        "first-page": "2534",
+        "DOI": "10.3390/s19112534",
+        "volume": "19",
+        "author": "Y Jeong",
+        "year": "2019",
+        "unstructured": "Jeong Y, Son S, Lee B (2019) The lightweight autonomous vehicle self-diagnosis (lavs) using machine learning based on sensors and multi-protocol iot gateway. Sensors 19(11):2534",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "4640",
+        "DOI": "10.1109/JIOT.2018.2874398",
+        "volume": "6",
+        "author": "T Jiang",
+        "year": "2019",
+        "unstructured": "Jiang T, Fang H, Wang H (2019) Blockchain-based internet of vehicles: distributed network architecture and performance analysis. IEEE Internet of Things J 6(3):4640\u20134649. https://doi.org/10.1109/JIOT.2018.2874398",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "key": "4874_CR62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Joshi J, Reddy J, Reddy P, Agarwal A, Agarwal R, Bagga A, Bhargava A (2016) Cloud computing based smart garbage monitoring system. In: 2016 3rd international conference on electronic design (ICED), IEEE, pp 70\u201375",
+        "DOI": "10.1109/ICED.2016.7804609"
+      },
+      {
+        "key": "4874_CR63",
+        "first-page": "370",
+        "volume-title": "Critique of pure reason. Modern Classical Philosophers",
+        "author": "I Kant",
+        "year": "1781",
+        "unstructured": "Kant I (1781) Critique of pure reason. Modern Classical Philosophers. Houghton Mifflin, Cambridge, pp 370\u2013456"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "1654",
+        "DOI": "10.1109/TASE.2017.2785241",
+        "volume": "15",
+        "author": "XTR Kong",
+        "year": "2018",
+        "unstructured": "Kong XTR, Xu SX, Cheng M, Huang GQ (2018) Iot-enabled parking space sharing and allocation mechanisms. IEEE Trans Autom Sci Eng 15(4):1654\u20131664. https://doi.org/10.1109/TASE.2017.2785241",
+        "journal-title": "IEEE Trans Autom Sci Eng"
+      },
+      {
+        "key": "4874_CR65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Krylovskiy A (2015) Internet of things gateways meet linux containers: performance evaluation and discussion. In: 2015 IEEE 2nd world forum on internet of things (WF-IoT), IEEE, pp 222\u2013227",
+        "DOI": "10.1109/WF-IoT.2015.7389056"
+      },
+      {
+        "key": "4874_CR66",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Laftchiev E, Nikovski D (2016) An iot system to estimate personal thermal comfort. In: 2016 IEEE 3rd world forum on internet of things (WF-IoT), IEEE, pp 672\u2013677",
+        "DOI": "10.1109/WF-IoT.2016.7845401"
+      },
+      {
+        "issue": "5",
+        "key": "4874_CR67",
+        "doi-asserted-by": "crossref",
+        "first-page": "1532",
+        "DOI": "10.3390/s18051532",
+        "volume": "18",
+        "author": "M Lavassani",
+        "year": "2018",
+        "unstructured": "Lavassani M, Forsstr\u00f6m S, Jennehag U, Zhang T (2018) Combining fog computing with sensor mote machine learning for industrial iot. Sensors 18(5):1532",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "1",
+        "key": "4874_CR68",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1109/MNET.2018.1700202",
+        "volume": "32",
+        "author": "H Li",
+        "year": "2018",
+        "unstructured": "Li H, Ota K, Dong M (2018) Learning iot in edge: deep learning for the internet of things with edge computing. IEEE Netw 32(1):96\u2013101",
+        "journal-title": "IEEE Netw"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "5531",
+        "DOI": "10.1109/JIOT.2019.2903281",
+        "volume": "6",
+        "author": "W Li",
+        "year": "2019",
+        "unstructured": "Li W, Logenthiran T, Phan V, Woo WL (2019) A novel smart energy theft system (sets) for iot-based smart home. IEEE Internet of Things J 6(3):5531\u20135539. https://doi.org/10.1109/JIOT.2019.2903281",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "key": "4874_CR70",
+        "volume-title": "An Essay Concerning Human Understanding",
+        "author": "J Locke",
+        "year": "1993",
+        "unstructured": "Locke J, Yolton JW (1993) An Essay Concerning Human Understanding. Dent, London"
+      },
+      {
+        "key": "4874_CR71",
+        "volume-title": "Event processing for business: organizing the real-time enterprise",
+        "author": "DC Luckham",
+        "year": "2011",
+        "unstructured": "Luckham DC (2011) Event processing for business: organizing the real-time enterprise. Wiley, New York"
+      },
+      {
+        "key": "4874_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "55290",
+        "DOI": "10.1109/ACCESS.2019.2913288",
+        "volume": "7",
+        "author": "X Luo",
+        "year": "2019",
+        "unstructured": "Luo X, Zhang H, Zhang Z, Yu Y, Li K (2019) A new framework of intelligent public transportation system based on the internet of things. IEEE Access 7:55290\u201355304. https://doi.org/10.1109/ACCESS.2019.2913288",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "4874_CR73",
+        "series-title": "C. West Churchman and related works series",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-36506-0_7",
+        "volume-title": "Wisdom, knowledge, and management",
+        "author": "D Matthews",
+        "year": "2006",
+        "unstructured": "Matthews D (2006) Epistemic Humility. In: van Gigch JP (ed) Wisdom, knowledge, and management, vol 2. C. West Churchman and related works series. Springer, New York. https://doi.org/10.1007/978-0-387-36506-0_7"
+      },
+      {
+        "key": "4874_CR74",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1016/j.procs.2015.09.168",
+        "volume": "61",
+        "author": "N Mehdiyev",
+        "year": "2015",
+        "unstructured": "Mehdiyev N, Krumeich J, Enke D, Werth D, Loos P (2015) Determination of rule patterns in complex event processing using machine learning techniques. Proc Comput Sci 61:395\u2013401",
+        "journal-title": "Proc Comput Sci"
+      },
+      {
+        "issue": "1",
+        "key": "4874_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "4",
+        "DOI": "10.1109/MWC.2010.5416341",
+        "volume": "17",
+        "author": "W Merrill",
+        "year": "2010",
+        "unstructured": "Merrill W (2010) Where is the return on investment in wireless sensor networks? IEEE Wirel Commun 17(1):4\u20136. https://doi.org/10.1109/MWC.2010.5416341",
+        "journal-title": "IEEE Wirel Commun"
+      },
+      {
+        "key": "4874_CR76",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Naik N (2017) Choice of effective messaging protocols for IoT systems: MQTT, CoAP, AMQP and HTTP. In: 2017 IEEE international systems engineering symposium (ISSE), IEEE, pp 1\u20137",
+        "DOI": "10.1109/SysEng.2017.8088251"
+      },
+      {
+        "key": "4874_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "11101",
+        "DOI": "10.1109/ACCESS.2018.2803439",
+        "volume": "6",
+        "author": "AJV Neto",
+        "year": "2018",
+        "unstructured": "Neto AJV, Zhao Z, Rodrigues JJPC, Camboim HB, Braun T (2018) Fog-based crime-assistance in smart iot transportation system. IEEE Access 6:11101\u201311111. https://doi.org/10.1109/ACCESS.2018.2803439",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR78",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.3390/s19030603",
+        "volume": "19",
+        "author": "L N\u00f3brega",
+        "year": "2019",
+        "unstructured": "N\u00f3brega L, Gon\u00e7alves P, Pedreiras P, Pereira J (2019) An iot-based solution for intelligent farming. Sensors 19(3):603",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "4874_CR79",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paw\u0142owicz B, Salach M, Trybus B (2018) Smart city traffic monitoring system based on 5g cellular network, rfid and machine learning. In: KKIO software engineering conference, Springer, pp 151\u2013165",
+        "DOI": "10.1007/978-3-319-99617-2_10"
+      },
+      {
+        "key": "4874_CR80",
+        "unstructured": "Predictive analytics history & current advances. SAS. https://www.sas.com/en_au/insights/analytics/predictive-analytics.html. Accessed 15 Jan 2020"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR81",
+        "doi-asserted-by": "publisher",
+        "first-page": "1400",
+        "DOI": "10.1109/JSEN.2018.2880736",
+        "volume": "19",
+        "author": "V Priyashman",
+        "year": "2019",
+        "unstructured": "Priyashman V, Ismail W (2019) Signal strength and read rate prediction modeling using machine learning algorithms for vehicular access control and identification. IEEE Sensors J 19(4):1400\u20131411. https://doi.org/10.1109/JSEN.2018.2880736",
+        "journal-title": "IEEE Sensors J"
+      },
+      {
+        "key": "4874_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "61876",
+        "DOI": "10.1109/ACCESS.2018.2875242",
+        "volume": "6",
+        "author": "MA Rahman",
+        "year": "2018",
+        "unstructured": "Rahman MA, Hassanain E, Rashid MM, Barnes SJ, Hossain MS (2018) Spatial blockchain-based secure mass screening framework for children with dyslexia. IEEE Access 6:61876\u201361885. https://doi.org/10.1109/ACCESS.2018.2875242",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "4874_CR83",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.3233/SW-180314",
+        "volume": "10",
+        "author": "M Ruta",
+        "year": "2019",
+        "unstructured": "Ruta M, Scioscia F, Loseto G, Pinto A, Di Sciascio E (2019) Machine learning in the internet of things: a semantic-enhanced approach. Semantic Web 10:183\u2013204",
+        "journal-title": "Semantic Web"
+      },
+      {
+        "key": "4874_CR84",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Salhi L, Silverston T, Yamazaki T, Miyoshi T (2019) Early detection system for gas leakage and fire in smart home using machine learning. In: 2019 IEEE international conference on consumer electronics (ICCE), IEEE, pp 1\u20136",
+        "DOI": "10.1109/ICCE.2019.8661990"
+      },
+      {
+        "key": "4874_CR85",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sebastian AJ, Islam SN, Mahmud A, Oo AMT (2019) Optimum local energy trading considering priorities in a microgrid. In: 2019 IEEE international conference on communications, control, and computing technologies for smart grids (SmartGridComm)",
+        "DOI": "10.1109/SmartGridComm.2019.8909771"
+      },
+      {
+        "key": "4874_CR86",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sewak M, Singh S (2016) Iot and distributed machine learning powered optimal state recommender solution. In: 2016 international conference on internet of things and applications (IOTA), IEEE, pp 101\u2013106",
+        "DOI": "10.1109/IOTA.2016.7562703"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR87",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1109/MIS.2006.62",
+        "volume": "21",
+        "author": "N Shadbolt",
+        "year": "2006",
+        "unstructured": "Shadbolt N, Berners-Lee T, Hall W (2006) The semantic web revisited. IEEE Intell Syst 21(3):96\u2013101",
+        "journal-title": "IEEE Intell Syst"
+      },
+      {
+        "key": "4874_CR88",
+        "doi-asserted-by": "crossref",
+        "first-page": "91885",
+        "DOI": "10.1109/ACCESS.2019.2928233",
+        "volume": "7",
+        "author": "SA Shah",
+        "year": "2019",
+        "unstructured": "Shah SA, Seker DZ, Rathore MM, Hameed S, Ben Yahia S, Draheim D (2019) Towards disaster resilient smart cities: Can internet of things and big data analytics be the game changers? IEEE Access 7:91885\u201391903",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "4874_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "4621",
+        "DOI": "10.1109/ACCESS.2017.2682640",
+        "volume": "5",
+        "author": "SK Sharma",
+        "year": "2017",
+        "unstructured": "Sharma SK, Wang X (2017) Live data analytics with collaborative edge and cloud processing in wireless iot networks. IEEE Access 5:4621\u20134635. https://doi.org/10.1109/ACCESS.2017.2682640",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "5",
+        "key": "4874_CR90",
+        "doi-asserted-by": "publisher",
+        "first-page": "637",
+        "DOI": "10.1109/JIOT.2016.2579198",
+        "volume": "3",
+        "author": "W Shi",
+        "year": "2016",
+        "unstructured": "Shi W, Cao J, Zhang Q, Li Y, Xu L (2016) Edge computing: vision and challenges. IEEE Internet of Things J 3(5):637\u2013646. https://doi.org/10.1109/JIOT.2016.2579198",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR91",
+        "doi-asserted-by": "publisher",
+        "first-page": "1056",
+        "DOI": "10.1109/JIOT.2017.2722358",
+        "volume": "4",
+        "author": "J Siryani",
+        "year": "2017",
+        "unstructured": "Siryani J, Tanju B, Eveleigh TJ (2017) A machine learning decision-support system improves the internet of things\u2019 smart meter operations. IEEE Internet of Things J 4(4):1056\u20131066. https://doi.org/10.1109/JIOT.2017.2722358",
+        "journal-title": "IEEE Internet of Things J"
+      },
+      {
+        "key": "4874_CR92",
+        "doi-asserted-by": "crossref",
+        "first-page": "1967",
+        "DOI": "10.1016/j.snb.2017.08.220",
+        "volume": "255",
+        "author": "ME Solmaz",
+        "year": "2018",
+        "unstructured": "Solmaz ME, Mutlu AY, Alankus G, K\u0131l\u0131\u00e7 V, Bayram A, Horzum N (2018) Quantifying colorimetric tests using a smartphone app based on machine learning classifiers. Sens Actuators B Chem 255:1967\u20131973",
+        "journal-title": "Sens Actuators B Chem"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR93",
+        "doi-asserted-by": "publisher",
+        "first-page": "3453",
+        "DOI": "10.1109/COMST.2018.2855563",
+        "volume": "20",
+        "author": "I Stellios",
+        "year": "2018",
+        "unstructured": "Stellios I, Kotzanikolaou P, Psarakis M, Alcaraz C, Lopez J (2018) A survey of iot-enabled cyberattacks: assessing attack paths to critical infrastructures and services. IEEE Commun Surv Tutor 20(4):3453\u20133495. https://doi.org/10.1109/COMST.2018.2855563",
+        "journal-title": "IEEE Commun Surv Tutor"
+      },
+      {
+        "key": "4874_CR94",
+        "unstructured": "Suenbuel A, Waldinger R, Sikka V, Richardson K (2019) Systems and methods for natural language processing using machine-oriented inference rules. US Patent 10,515,154"
+      },
+      {
+        "key": "4874_CR95",
+        "doi-asserted-by": "publisher",
+        "first-page": "766",
+        "DOI": "10.1109/ACCESS.2016.2529723",
+        "volume": "4",
+        "author": "Y Sun",
+        "year": "2016",
+        "unstructured": "Sun Y, Song H, Jara AJ, Bie R (2016) Internet of things and big data analytics for smart and connected communities. IEEE Access 4:766\u2013773. https://doi.org/10.1109/ACCESS.2016.2529723",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR96",
+        "doi-asserted-by": "publisher",
+        "first-page": "390",
+        "DOI": "10.1109/TCE.2018.2867802",
+        "volume": "64",
+        "author": "P Sundaravadivel",
+        "year": "2018",
+        "unstructured": "Sundaravadivel P, Kesavan K, Kesavan L, Mohanty SP, Kougianos E (2018) Smart-log: a deep-learning based automated nutrition monitoring system in the iot. IEEE Trans Consum Electron 64(3):390\u2013398. https://doi.org/10.1109/TCE.2018.2867802",
+        "journal-title": "IEEE Trans Consum Electron"
+      },
+      {
+        "key": "4874_CR97",
+        "unstructured": "Terry GA, Harriger JD, Koepf W, Jonnalagadda SR, Webb-Purkis WD, Gainor MS, Griffin PD (2019) Systems and methods for enhanced natural language processing for machine learning conversations. US Patent App. 16/365,668"
+      },
+      {
+        "issue": "1",
+        "key": "4874_CR98",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1109/SURV.2013.103013.00206",
+        "volume": "16",
+        "author": "CW Tsai",
+        "year": "2013",
+        "unstructured": "Tsai CW, Lai CF, Chiang MC, Yang LT (2013) Data mining for internet of things: a survey. IEEE Commun Surv Tutor 16(1):77\u201397",
+        "journal-title": "IEEE Commun Surv Tutor"
+      },
+      {
+        "issue": "9",
+        "key": "4874_CR99",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1145/2629612",
+        "volume": "57",
+        "author": "M Tsikerdekis",
+        "year": "2014",
+        "unstructured": "Tsikerdekis M, Zeadally S (2014) Online deception in social media. Commun ACM 57(9):72\u201380",
+        "journal-title": "Commun ACM"
+      },
+      {
+        "issue": "3",
+        "key": "4874_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "1457",
+        "DOI": "10.1109/COMST.2017.2694469",
+        "volume": "19",
+        "author": "S Verma",
+        "year": "2017",
+        "unstructured": "Verma S, Kawamoto Y, Fadlullah ZM, Nishiyama H, Kato N (2017) A survey on network methodologies for real-time analytics of massive iot data and open research issues. IEEE Commun Surv Tutor 19(3):1457\u20131477. https://doi.org/10.1109/COMST.2017.2694469",
+        "journal-title": "IEEE Commun Surv Tutor"
+      },
+      {
+        "key": "4874_CR101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ett.3789",
+        "author": "DL Vu",
+        "year": "2019",
+        "unstructured": "Vu DL, Nguyen TK, Nguyen TV, Nguyen TN, Massacci F, Phung PH (2019) Hit4mal: hybrid image transformation for malware classification. Trans Emerg Telecommun Technol. https://doi.org/10.1002/ett.3789",
+        "journal-title": "Trans Emerg Telecommun Technol"
+      },
+      {
+        "issue": "1",
+        "key": "4874_CR102",
+        "first-page": "186",
+        "volume": "7",
+        "author": "DA Vyas",
+        "year": "2016",
+        "unstructured": "Vyas DA, Bhatt D, Jha D (2016) IoT: trends, challenges and future scope. Int J Comput Sci Commun 7(1):186\u2013197",
+        "journal-title": "Int J Comput Sci Commun"
+      },
+      {
+        "key": "4874_CR103",
+        "first-page": "42",
+        "volume": "46",
+        "author": "D Wang",
+        "year": "2019",
+        "unstructured": "Wang D, Wang X, Zhang Y, Jin L (2019) Detection of power grid disturbances and cyber-attacks based on machine learning. J Inf Secur Appl 46:42\u201352",
+        "journal-title": "J Inf Secur Appl"
+      },
+      {
+        "issue": "2",
+        "key": "4874_CR104",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1017/S0269888900008122",
+        "volume": "10",
+        "author": "M Wooldridge",
+        "year": "1995",
+        "unstructured": "Wooldridge M, Jennings NR (1995) Intelligent agents: Theory and practice. Knowl Eng Rev 10(2):115\u2013152",
+        "journal-title": "Knowl Eng Rev"
+      },
+      {
+        "key": "4874_CR105",
+        "doi-asserted-by": "crossref",
+        "first-page": "397",
+        "DOI": "10.1007/s10619-011-7084-9",
+        "volume": "29",
+        "author": "Y Wu",
+        "year": "2011",
+        "unstructured": "Wu Y, Ranasinghe DC, Sheng QZ, Zeadally S, Yu J (2011) Rfid enabled traceability networks: a survey. Distrib Parallel Databases 29:397\u2013443",
+        "journal-title": "Distrib Parallel Databases"
+      },
+      {
+        "issue": "11",
+        "key": "4874_CR106",
+        "doi-asserted-by": "crossref",
+        "first-page": "9623",
+        "DOI": "10.1109/TVT.2017.2737035",
+        "volume": "66",
+        "author": "G Xie",
+        "year": "2017",
+        "unstructured": "Xie G, Zeng G, Kurachi R, Takada H, Li Z, Li R, Li K (2017) Wcrt analysis of can messages in gateway-integrated in-vehicle networks. IEEE Trans Veh Technol 66(11):9623\u20139637",
+        "journal-title": "IEEE Trans Veh Technol"
+      },
+      {
+        "key": "4874_CR107",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yacchirema D, de\u00a0Puga JS, Palau C, Esteve M (2019) Fall detection system for elderly people using iot and ensemble machine learning algorithm. In: Personal and Ubiquitous Computing, pp 1\u201317",
+        "DOI": "10.1007/s00779-018-01196-8"
+      },
+      {
+        "key": "4874_CR108",
+        "doi-asserted-by": "crossref",
+        "first-page": "35988",
+        "DOI": "10.1109/ACCESS.2018.2849822",
+        "volume": "6",
+        "author": "DC Yacchirema",
+        "year": "2018",
+        "unstructured": "Yacchirema DC, Sarabia-J\u00e1come D, Palau CE, Esteve M (2018) A smart system for sleep monitoring by integrating iot with big data analytics. IEEE Access 6:35988\u201336001",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "4874_CR109",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zeadally S, Bello O (2019) Harnessing the power of internet of things based connectivity to improve healthcare. Internet of Things, Article ID: 100074",
+        "DOI": "10.1016/j.iot.2019.100074"
+      },
+      {
+        "key": "4874_CR110",
+        "doi-asserted-by": "crossref",
+        "first-page": "23817",
+        "DOI": "10.1109/ACCESS.2020.2968045",
+        "volume": "8",
+        "author": "S Zeadally",
+        "year": "2020",
+        "unstructured": "Zeadally S, Adi E, Baig Z, Khan I (2020) Harnessing artificial intelligence capabilities to improve cybersecurity. IEEE Access 8:23817\u201323837",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "4874_CR111",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zekveld M, Hancke GP (2018) Vibration condition monitoring using machine learning. In: IECON 2018-44th annual conference of the IEEE industrial electronics society, IEEE, pp 4742\u20134747",
+        "DOI": "10.1109/IECON.2018.8591167"
+      },
+      {
+        "key": "4874_CR112",
+        "doi-asserted-by": "crossref",
+        "first-page": "340",
+        "DOI": "10.1016/j.procs.2012.06.045",
+        "volume": "10",
+        "author": "F Zeshan",
+        "year": "2012",
+        "unstructured": "Zeshan F, Mohamad R (2012) Medical ontology in the dynamic healthcare environment. Proc Comput Sci 10:340\u2013348",
+        "journal-title": "Proc Comput Sci"
+      },
+      {
+        "issue": "4",
+        "key": "4874_CR113",
+        "doi-asserted-by": "publisher",
+        "first-page": "2431",
+        "DOI": "10.1109/JIOT.2018.2844287",
+        "volume": "5",
+        "author": "H Zhang",
+        "year": "2018",
+        "unstructured": "Zhang H, Zhang Q, Liu J, Guo H (2018) Fault detection and repairing for intelligent connected vehicles based on dynamic bayesian network model. IEEE Internet of Things J 5(4):2431\u20132440. https://doi.org/10.1109/JIOT.2018.2844287",
+        "journal-title": "IEEE Internet of Things J"
+      }
+    ],
+    "container-title": [
+      "Neural Computing and Applications"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00521-020-04874-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s00521-020-04874-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00521-020-04874-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          10
+        ]
+      ],
+      "date-time": "2021-05-10T20:58:59Z",
+      "timestamp": 1620680339000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s00521-020-04874-y"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          11
+        ]
+      ]
+    },
+    "references-count": 113,
+    "journal-issue": {
+      "issue": "20",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "4874"
+    ],
+    "URL": "https://doi.org/10.1007/s00521-020-04874-y",
+    "relation": {
+      "is-referenced-by": [
+        {
+          "id-type": "doi",
+          "id": "10.1007/s42979-025-04428-w",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0941-0643",
+      "1433-3058"
+    ],
+    "issn-type": [
+      {
+        "value": "0941-0643",
+        "type": "print"
+      },
+      {
+        "value": "1433-3058",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "17 January 2020",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "20 March 2020",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "11 May 2020",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ]
+  }
+}

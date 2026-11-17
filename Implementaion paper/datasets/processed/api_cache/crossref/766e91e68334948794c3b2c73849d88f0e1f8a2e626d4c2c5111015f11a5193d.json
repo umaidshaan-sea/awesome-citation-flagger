@@ -1,0 +1,226 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1109/cctae.2010.5544537",
+  "url": "https://api.crossref.org/works/10.1109%2Fcctae.2010.5544537",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:59.903746+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T06:18:32Z",
+      "timestamp": 1767161912086,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1109/cctae.2010.5544537",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              12
+            ]
+          ],
+          "date-time": "2010-08-12T00:00:00Z",
+          "timestamp": 1281571200000
+        },
+        "record-id": "13028"
+      }
+    ],
+    "reference-count": 5,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1109/cctae.2010.5544537",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2010-08-18T14:15:55Z",
+      "timestamp": 1282140955000
+    },
+    "page": "207-210",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Notice of Retraction: Idea and strategy of urban public transport sustainable development in Chongqing"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "family": "Wang Peng",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref4",
+        "volume": "8",
+        "author": "ma",
+        "year": "2005",
+        "journal-title": "Modern Urban Management"
+      },
+      {
+        "key": "ref3",
+        "first-page": "47",
+        "article-title": "Complexity Analysis of Urban Road Traffic Management System",
+        "volume": "3",
+        "author": "shao",
+        "year": "2005",
+        "journal-title": "Hubei Police College Press"
+      },
+      {
+        "key": "ref5",
+        "first-page": "40",
+        "article-title": "Urban Management Innovation Driven",
+        "volume": "1",
+        "author": "guo",
+        "year": "2004",
+        "journal-title": "Urban Management"
+      },
+      {
+        "key": "ref2",
+        "article-title": "The Research of the Structure Mode of Urban Transportation",
+        "volume": "3",
+        "author": "xu",
+        "year": "2001",
+        "journal-title": "Urban Transportation Planning"
+      },
+      {
+        "key": "ref1",
+        "volume": "4",
+        "author": "zhenming",
+        "year": "2005",
+        "journal-title": "Urban Management [M]"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1109/cctae.2010.5544537",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              12
+            ]
+          ],
+          "date-time": "2010-08-12T00:00:00Z",
+          "timestamp": 1281571200000
+        },
+        "record-id": "13028"
+      }
+    ],
+    "event": {
+      "name": "2010 International Conference on Computer and Communication Technologies in Agriculture Engineering (CCTAE 2010)",
+      "location": "Chengdu",
+      "start": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            12
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            13
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2010 International Conference on Computer and Communication Technologies in Agriculture Engineering"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/5523764/5543180/05544537.pdf?arnumber=5544537",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2021-12-23T11:26:04Z",
+      "timestamp": 1640258764000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/5544537/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    },
+    "references-count": 5,
+    "URL": "https://doi.org/10.1109/cctae.2010.5544537",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    }
+  }
+}

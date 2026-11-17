@@ -1,0 +1,711 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1371/journal.pcbi.1005871",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1371%2Fjournal.pcbi.1005871",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:08.633284+00:00",
+  "record": {
+    "id": "https://openalex.org/W2781968731",
+    "doi": "https://doi.org/10.1371/journal.pcbi.1005871",
+    "title": "Ten simple rules for biologists learning to program",
+    "display_name": "Ten simple rules for biologists learning to program",
+    "publication_year": 2018,
+    "publication_date": "2018-01-04",
+    "ids": {
+      "openalex": "https://openalex.org/W2781968731",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1005871",
+      "mag": "2781968731",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/29300745",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/5754048"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1371/journal.pcbi.1005871",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1005871",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pcbi.1005871",
+      "pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005871&type=printable",
+      "source": {
+        "id": "https://openalex.org/S86033158",
+        "display_name": "PLoS Computational Biology",
+        "issn_l": "1553-734X",
+        "issn": [
+          "1553-734X",
+          "1553-7358"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "ccf-b",
+          "cwts-core",
+          "doaj",
+          "dongbi-b",
+          "doyens",
+          "jufo-3",
+          "ki-jl-2",
+          "medline",
+          "norway-2",
+          "oarl",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS Computational Biology",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "editorial",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005871&type=printable",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5051818041",
+          "display_name": "Maureen A. Carey",
+          "orcid": "https://orcid.org/0000-0003-2890-5445",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2890-5445"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51556381",
+            "display_name": "University of Virginia",
+            "ror": "https://ror.org/0153tk833",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51556381"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Maureen A. Carey",
+        "raw_affiliation_strings": [
+          "Department of Microbiology, Immunology, and Cancer Biology, University of Virginia School of Medicine, Charlottesville, Virginia, United States of America"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-2890-5445",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Microbiology, Immunology, and Cancer Biology, University of Virginia School of Medicine, Charlottesville, Virginia, United States of America",
+            "institution_ids": [
+              "https://openalex.org/I51556381"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5000119406",
+          "display_name": "Jason A. Papin",
+          "orcid": "https://orcid.org/0000-0002-2769-5805",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2769-5805"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I51556381",
+            "display_name": "University of Virginia",
+            "ror": "https://ror.org/0153tk833",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I51556381"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Jason A. Papin",
+        "raw_affiliation_strings": [
+          "Department of Biomedical Engineering, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Biomedical Engineering, University of Virginia, Charlottesville, Virginia, United States of America",
+            "institution_ids": [
+              "https://openalex.org/I51556381"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5000119406"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I51556381"
+    ],
+    "apc_list": {
+      "value": 3043,
+      "currency": "USD",
+      "value_usd": 3043
+    },
+    "apc_paid": {
+      "value": 3043,
+      "currency": "USD",
+      "value_usd": 3043
+    },
+    "fwci": null,
+    "has_fulltext": true,
+    "cited_by_count": 61,
+    "citation_normalized_percentile": null,
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "14",
+      "issue": "1",
+      "first_page": "e1005871",
+      "last_page": "e1005871"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13937",
+      "display_name": "Genetics, Bioinformatics, and Biomedical Research",
+      "score": 0.9824000000953674,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13937",
+        "display_name": "Genetics, Bioinformatics, and Biomedical Research",
+        "score": 0.9824000000953674,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10533",
+        "display_name": "Teaching and Learning Programming",
+        "score": 0.01269999984651804,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1706",
+          "display_name": "Computer Science Applications"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11986",
+        "display_name": "Scientific Computing and Data Management",
+        "score": 0.003700000001117587,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1802",
+          "display_name": "Information Systems and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/computational-biology",
+        "display_name": "computational biology",
+        "score": 0.5889999866485596
+      },
+      {
+        "id": "https://openalex.org/keywords/programming-skills",
+        "display_name": "programming skills",
+        "score": 0.44200000166893005
+      },
+      {
+        "id": "https://openalex.org/keywords/bioinformatics",
+        "display_name": "bioinformatics",
+        "score": 0.43299999833106995
+      },
+      {
+        "id": "https://openalex.org/keywords/software-development",
+        "display_name": "software development",
+        "score": 0.32100000977516174
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780586882",
+        "wikidata": "https://www.wikidata.org/wiki/Q7520643",
+        "display_name": "Simple (philosophy)",
+        "level": 2,
+        "score": 0.7467563152313232
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.5409409403800964
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.3466564416885376
+      },
+      {
+        "id": "https://openalex.org/C70721500",
+        "wikidata": "https://www.wikidata.org/wiki/Q177005",
+        "display_name": "Computational biology",
+        "level": 1,
+        "score": 0.34036165475845337
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.2586213946342468
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D003197",
+        "descriptor_name": "Computer Literacy",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D007858",
+        "descriptor_name": "Learning",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011381",
+        "descriptor_name": "Programming Languages",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D012984",
+        "descriptor_name": "Software",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D019295",
+        "descriptor_name": "Computational Biology",
+        "qualifier_ui": "Q000193",
+        "qualifier_name": "education",
+        "is_major_topic": true
+      }
+    ],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.1371/journal.pcbi.1005871",
+        "doi": "https://doi.org/10.1371/journal.pcbi.1005871",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1371/journal.pcbi.1005871",
+        "pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005871&type=printable",
+        "source": {
+          "id": "https://openalex.org/S86033158",
+          "display_name": "PLoS Computational Biology",
+          "issn_l": "1553-734X",
+          "issn": [
+            "1553-734X",
+            "1553-7358"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "ccf-b",
+            "cwts-core",
+            "doaj",
+            "dongbi-b",
+            "doyens",
+            "jufo-3",
+            "ki-jl-2",
+            "medline",
+            "norway-2",
+            "oarl",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315706",
+          "host_organization_name": "Public Library of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315706"
+          ],
+          "host_organization_lineage_names": [
+            "Public Library of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLOS Computational Biology",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:4689336",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5754048",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:5754048",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5754048",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS Comput Biol",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:29300745",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/29300745",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS computational biology",
+        "raw_type": "Editorial"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:3c702868524e4a25808b67ec65e16cf2",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/3c702868524e4a25808b67ec65e16cf2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PLoS Computational Biology, Vol 14, Iss 1, p e1005871 (2018)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1371/journal.pcbi.1005871",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1005871",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pcbi.1005871",
+      "pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005871&type=printable",
+      "source": {
+        "id": "https://openalex.org/S86033158",
+        "display_name": "PLoS Computational Biology",
+        "issn_l": "1553-734X",
+        "issn": [
+          "1553-734X",
+          "1553-7358"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "ccf-b",
+          "cwts-core",
+          "doaj",
+          "dongbi-b",
+          "doyens",
+          "jufo-3",
+          "ki-jl-2",
+          "medline",
+          "norway-2",
+          "oarl",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS Computational Biology",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G811066594",
+        "display_name": "Training in Cell and Molecular Biology",
+        "funder_award_id": "T32GM008136",
+        "funder_id": "https://openalex.org/F4320337354",
+        "funder_display_name": "National Institute of General Medical Sciences"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320337354",
+        "display_name": "National Institute of General Medical Sciences",
+        "ror": "https://ror.org/04q48ey07"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2781968731.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2781968731.grobid-xml"
+    },
+    "referenced_works_count": 16,
+    "referenced_works": [
+      "https://openalex.org/W1558849540",
+      "https://openalex.org/W1768179097",
+      "https://openalex.org/W1944280926",
+      "https://openalex.org/W1972074052",
+      "https://openalex.org/W2036318837",
+      "https://openalex.org/W2041746984",
+      "https://openalex.org/W2057078985",
+      "https://openalex.org/W2090469606",
+      "https://openalex.org/W2121473846",
+      "https://openalex.org/W2171804472",
+      "https://openalex.org/W2510799396",
+      "https://openalex.org/W2549065936",
+      "https://openalex.org/W2557994837",
+      "https://openalex.org/W2594490426",
+      "https://openalex.org/W2890886522",
+      "https://openalex.org/W4232767781"
+    ],
+    "related_works": [
+      "https://openalex.org/W3133607277",
+      "https://openalex.org/W3024486232",
+      "https://openalex.org/W7117463833",
+      "https://openalex.org/W2163185915",
+      "https://openalex.org/W4307442067",
+      "https://openalex.org/W4412352611",
+      "https://openalex.org/W2942967593",
+      "https://openalex.org/W2970752949",
+      "https://openalex.org/W6906319130",
+      "https://openalex.org/W2749319771"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 16
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2018-01-12T00:00:00"
+  }
+}

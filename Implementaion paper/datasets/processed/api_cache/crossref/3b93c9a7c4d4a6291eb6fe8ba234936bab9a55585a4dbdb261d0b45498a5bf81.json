@@ -1,0 +1,1060 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1016/j.jes.2024.02.028",
+  "url": "https://api.crossref.org/works/10.1016%2Fj.jes.2024.02.028",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:08.787270+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          12
+        ]
+      ],
+      "date-time": "2026-06-12T15:10:25Z",
+      "timestamp": 1781277025827,
+      "version": "3.54.1"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1016/j.jes.2024.02.028",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2025-04-01T00:00:00Z",
+          "timestamp": 1743465600000
+        }
+      }
+    ],
+    "reference-count": 63,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2025-04-01T00:00:00Z",
+          "timestamp": 1743465600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2025-04-01T00:00:00Z",
+          "timestamp": 1743465600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003009",
+        "name": "STDF",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "47062"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "47062"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003009",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Environmental Sciences"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jes.2024.02.028",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          18
+        ]
+      ],
+      "date-time": "2024-03-18T22:49:44Z",
+      "timestamp": 1710802184000
+    },
+    "page": "159-176",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "special_numbering": "C",
+    "title": [
+      "RETRACTED: Application of new tetra-cationic imidazolium ionic liquids for capture and conversion of CO2 to amphiphilic calcium carbonate nanoparticles as a green additive in water based drilling fluids"
+    ],
+    "prefix": "10.1016",
+    "volume": "150",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9613-3099",
+        "authenticated-orcid": false,
+        "given": "Ayman M.",
+        "family": "Atta",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8026-9880",
+        "authenticated-orcid": false,
+        "given": "Eman A.",
+        "family": "Ghiaty",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6008-6307",
+        "authenticated-orcid": false,
+        "given": "Samir H.",
+        "family": "Shafek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abeer A.",
+        "family": "El-Segaey",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Amany K.",
+        "family": "Gaffer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "20355",
+        "DOI": "10.1021/jp046895+",
+        "article-title": "High-pressure phase behavior of carbon dioxide with imidazolium-based ionic liquids",
+        "volume": "108",
+        "author": "Aki",
+        "year": "2004",
+        "journal-title": "J. Phys. Chem. B"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jes.2024.02.028_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "593",
+        "DOI": "10.1021/ja046521u",
+        "article-title": "Structure and properties of high stability geminal dicationic ionic liquids",
+        "volume": "127",
+        "author": "Anderson",
+        "year": "2005",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "15398",
+        "DOI": "10.1021/jp807484g",
+        "article-title": "Modeling the solubility behavior of CO2, H2, and Xe in [C n-mim][Tf2N] ionic liquids",
+        "volume": "112",
+        "author": "Andreu",
+        "year": "2008",
+        "journal-title": "J. Phys. Chem. B"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "7315",
+        "DOI": "10.1021/jp020631a",
+        "article-title": "Solubilities and thermodynamic properties of gases in the ionic liquid 1-n-butyl-3-methylimidazolium hexafluorophosphate",
+        "volume": "106",
+        "author": "Anthony",
+        "year": "2002",
+        "journal-title": "J. Phys. Chem. B"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1016/j.porgcoat.2016.10.008",
+        "article-title": "Characterization of superhydrophobic epoxy coatings embedded by modified calcium carbonate nanoparticles",
+        "volume": "101",
+        "author": "Atta",
+        "year": "2016",
+        "journal-title": "Prog. Org. Coat."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "2829",
+        "DOI": "10.1021/acsomega.9b03610",
+        "article-title": "Methylene blue catalytic degradation using silver and magnetite nanoparticles functionalized with a poly (ionic liquid) based on quaternized dialkylethanolamine with 2-acrylamido-2-methylpropane sulfonate-co-vinylpyrrolidone",
+        "volume": "5",
+        "author": "Atta",
+        "year": "2020",
+        "journal-title": "ACS Omega"
+      },
+      {
+        "issue": "29",
+        "key": "10.1016/j.jes.2024.02.028_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "8645",
+        "DOI": "10.1021/jp802179j",
+        "article-title": "On the self-aggregation and fluorescence quenching aptitude of surfactant ionic liquids",
+        "volume": "112",
+        "author": "Blesic",
+        "year": "2008",
+        "journal-title": "J. Phys. Chem. B."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1016/j.reactfunctpolym.2018.01.003",
+        "article-title": "Synthesis and characterization of poly (ionic liquid) derivatives of N-alkyl quaternized poly (4-vinylpyridine)",
+        "volume": "124",
+        "author": "Briones",
+        "year": "2018",
+        "journal-title": "J. Reac. Funct. Polym."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "5300",
+        "DOI": "10.1021/ja039615x",
+        "article-title": "Why is CO2 so soluble in imidazolium-based ionic liquids",
+        "volume": "126",
+        "author": "Cadena",
+        "year": "2004",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "2544",
+        "DOI": "10.1039/C9GC00827F",
+        "article-title": "Conversion of CO2 to value-added products mediated by ionic liquids",
+        "volume": "21",
+        "author": "Chen",
+        "year": "2019",
+        "journal-title": "Green Chem."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "222",
+        "DOI": "10.1021/ef0101715",
+        "article-title": "Review of PM2.5 and PM10 apportionment for fossil fuel combustion and other sources by the chemical mass balance receptor model",
+        "volume": "16",
+        "author": "Chow",
+        "year": "2002",
+        "journal-title": "J. Energy Fuels"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jes.2024.02.028_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/s42452-019-1446-8",
+        "article-title": "Performance of carbonate calcium nanoparticles as filtration loss control agent of water-based drilling fluid",
+        "volume": "1",
+        "author": "Dehghani",
+        "year": "2019",
+        "journal-title": "SN Appl. Sci."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0012",
+        "doi-asserted-by": "crossref",
+        "first-page": "410",
+        "DOI": "10.1016/j.powtec.2018.04.056",
+        "article-title": "Controllable synthesis of all the anhydrous CaCO3 polymorphs with various morphologies in CaCl2-NH3-CO2 aqueous system",
+        "volume": "333",
+        "author": "Ding",
+        "year": "2018",
+        "journal-title": "Powder Technol."
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.jes.2024.02.028_bib0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "1401",
+        "DOI": "10.3390/cryst12101401",
+        "article-title": "Effect of alkyl chain length on the phase situation of glass-forming liquid crystals",
+        "volume": "12",
+        "author": "Drzewicz",
+        "year": "2021",
+        "journal-title": "Crystals"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "475",
+        "DOI": "10.1007/s11144-013-0659-x",
+        "article-title": "Theoretical interpretation of the role of the ionic liquid phase in the (R)-Ru-BINAP catalyzed hydrogenation of methylacetoacetate",
+        "volume": "111",
+        "author": "Dytrych",
+        "year": "2014",
+        "journal-title": "React. Kinet. Mech. Catal."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "474",
+        "DOI": "10.1007/s003960050106",
+        "article-title": "A temperature study on critical micellization concentration (CMC), solubility, and degree of counterion binding of -sulfonatomyristic acid methyl ester in water by electroconductivity measurements",
+        "volume": "275",
+        "author": "Fujiwara",
+        "year": "1997",
+        "journal-title": "J. Colloid Polym. Sci."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0016",
+        "first-page": "950",
+        "article-title": "A review of ionic liquids, their limits and applications",
+        "volume": "2014",
+        "author": "Ghandi",
+        "year": "2014",
+        "journal-title": "J. Green Sustain. Chem."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "15318",
+        "DOI": "10.1021/am503811t",
+        "article-title": "Halogen-free Bis(imidazolium)/Bis(ammonium)-Di[bis(salicylato)borate] ionic liquids as energy-efficient and environmentally friendly lubricant additives",
+        "volume": "6",
+        "author": "Gusain",
+        "year": "2014",
+        "journal-title": "ACS Appl. Mater. Interfaces"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.memsci.2008.01.029",
+        "article-title": "CO2 separation facilitated by task-specific ionic liquids using a supported liquid membrane",
+        "volume": "314",
+        "author": "Hanioka",
+        "year": "2008",
+        "journal-title": "J. Membr. Sci."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "18238",
+        "DOI": "10.1039/C5CP01620G",
+        "article-title": "Nanoparticles in ionic liquids: interactions and organization",
+        "volume": "17",
+        "author": "He",
+        "year": "2015",
+        "journal-title": "Phys. Chem. Chem. Phys."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "729",
+        "DOI": "10.1016/j.rser.2005.07.005",
+        "article-title": "Decentralized energy planning; modeling and application\u2014a review",
+        "volume": "11",
+        "author": "Hiremath",
+        "year": "2007",
+        "journal-title": "Renew. Sustain. Energy Rev."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1007/s11269-006-9111-6",
+        "article-title": "Challenges to manage the risk of water scarcity and climate change in the Mediterranean",
+        "volume": "21",
+        "author": "Iglesias",
+        "year": "2007",
+        "journal-title": "Water Resour. Manag."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.molliq.2022.118904",
+        "article-title": "A thermodynamic investigation of the effect of cationic structure on the self-aggregation behavior of Surface-Active ionic liquids in the presence of an amino acid",
+        "volume": "354",
+        "author": "Kaur",
+        "year": "2022",
+        "journal-title": "J. Mol. Liq."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/j.cep.2016.11.004",
+        "article-title": "Molecular structure effects of [NR,222][Tf2N] ionic liquids on their flow properties in the microfluidic chip reactor\u2014A complete validation study",
+        "volume": "111",
+        "author": "Kluson",
+        "year": "2017",
+        "journal-title": "Chem. Eng. Process. Process Intensif."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "5263",
+        "DOI": "10.1021/acs.jpcc.0c00319",
+        "article-title": "Reversibly physisorbed and chemisorbed water on carboxylic salt surfaces under atmospheric conditions",
+        "volume": "124",
+        "author": "Kong",
+        "year": "2020",
+        "journal-title": "J. Phys. Chem. C"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "228",
+        "DOI": "10.1016/j.seppur.2015.05.026",
+        "article-title": "Comparative study of CO2 absorption in packed column using imidazolium based ionic liquids and MEA solution",
+        "volume": "149",
+        "author": "Krupiczka",
+        "year": "2015",
+        "journal-title": "Sep. Purif. Technol."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0026",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.memsci.2021.119652",
+        "article-title": "Graphene oxide reinforced facilitated transport membrane with poly (ionic liquid) and ionic liquid carriers for CO2/N2 separation",
+        "volume": "638",
+        "author": "Lee",
+        "year": "2021",
+        "journal-title": "J. Membr. Sci."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1016/j.ccr.2017.09.027",
+        "article-title": "Exploration of porous metal\u2013organic frameworks for gas separation and purification",
+        "volume": "378",
+        "author": "Lin",
+        "year": "2019",
+        "journal-title": "Coord. Chem. Rev."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "1911",
+        "DOI": "10.1039/C5CP05713B",
+        "article-title": "Understanding the mechanism of CO2 capture by 1,3 di-substituted imidazolium acetate based ionic liquids",
+        "volume": "18",
+        "author": "Mao",
+        "year": "2016",
+        "journal-title": "Phys. Chem. Chem. Phys."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jes.2024.02.028_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "5935",
+        "DOI": "10.3390/ijms22115935",
+        "article-title": "Influence of alkyl chain length on thermal properties, structure, and self-diffusion coefficients of alkyltriethylammonium-based ionic liquids",
+        "volume": "22",
+        "author": "Markiewicz",
+        "year": "2021",
+        "journal-title": "Int. J. Mol. Sci."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0031",
+        "doi-asserted-by": "crossref",
+        "first-page": "521",
+        "DOI": "10.1515/revce-2014-0045",
+        "article-title": "A review of different solvents, mass transfer, and hydrodynamics for postcombustion CO2 capture",
+        "volume": "31",
+        "author": "Mirzaei",
+        "year": "2015",
+        "journal-title": "Rev. Chem. Eng."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0032",
+        "doi-asserted-by": "crossref",
+        "first-page": "9001",
+        "DOI": "10.1021/jp071897q",
+        "article-title": "Improving carbon dioxide solubility in ionic liquids",
+        "volume": "111",
+        "author": "Muldoon",
+        "year": "2007",
+        "journal-title": "J. Phys. Chem. B"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0033",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1016/j.molliq.2018.10.046",
+        "article-title": "Synthesis and characterization of silver nanoparticles in aqueous solutions of surface active imidazolium-based ionic liquids and traditional surfactants SDS and DTAB",
+        "volume": "273",
+        "author": "Naderi",
+        "year": "2019",
+        "journal-title": "J. Mol. Liq."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0034",
+        "doi-asserted-by": "crossref",
+        "first-page": "2524",
+        "DOI": "10.1021/ie201529d",
+        "article-title": "pH control of ionic liquids with carbon dioxide and water: 1-Ethyl-3-methylimidazolium Acetate",
+        "volume": "51",
+        "author": "Ober",
+        "year": "2012",
+        "journal-title": "Ind. Eng.Chem. Res."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "7925",
+        "DOI": "10.1021/acs.energyfuels.2c00964",
+        "article-title": "Mini-review on recent advances in the application of surface-active ionic liquids: petroleum industry perspective",
+        "volume": "36",
+        "author": "Pillai",
+        "year": "2022",
+        "journal-title": "Energy Fuels"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0036",
+        "doi-asserted-by": "crossref",
+        "first-page": "6947",
+        "DOI": "10.1039/C7SM01464C",
+        "article-title": "Self-segregated nanostructure in room temperature ionic liquids",
+        "volume": "13",
+        "author": "Pontoni",
+        "year": "2017",
+        "journal-title": "Soft Matter"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0037",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1016/j.rser.2017.01.011",
+        "article-title": "Pollution to solution: capture and sequestration of carbon dioxide (CO2) and its utilization as a renewable energy source for a sustainable future",
+        "volume": "71",
+        "author": "Rahman",
+        "year": "2017",
+        "journal-title": "Renew. Sustain. Energy Rev."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0038",
+        "doi-asserted-by": "crossref",
+        "first-page": "8149",
+        "DOI": "10.1021/ie3003705",
+        "article-title": "State-of-the-art of CO2 capture with ionic liquids",
+        "volume": "51",
+        "author": "Ramdin",
+        "year": "2012",
+        "journal-title": "Ind. Eng. Chem. Res."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0039",
+        "doi-asserted-by": "crossref",
+        "first-page": "14656",
+        "DOI": "10.1021/ja0374877",
+        "article-title": "Biosynthesis of CaCO3 crystals of complex morphology using a fungus and an actinomycete",
+        "volume": "125",
+        "author": "Rautaray",
+        "year": "2003",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "7901",
+        "DOI": "10.1021/ie2028415",
+        "article-title": "Preparation and CO2 sorption/desorption of N-(3-aminopropyl) aminoethyl tributylphosphonium amino acid salt ionic liquids supported into porous silica particles",
+        "volume": "51",
+        "author": "Ren",
+        "year": "2012",
+        "journal-title": "Ind. Eng. Chem. Res."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0041",
+        "doi-asserted-by": "crossref",
+        "first-page": "305",
+        "DOI": "10.1016/j.jct.2009.08.018",
+        "article-title": "High-pressure phase equilibria of {carbon dioxide (CO2)+ n-alkyl-imidazolium bis (trifluoromethylsulfonyl) amide} ionic liquids",
+        "volume": "42",
+        "author": "Ren",
+        "year": "2010",
+        "journal-title": "J. Chem. Thermodyn."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0042",
+        "doi-asserted-by": "crossref",
+        "first-page": "813",
+        "DOI": "10.1016/0196-8904(95)00128-Z",
+        "article-title": "International perspectives and the results of carbon dioxide capture disposal and utilisation studies",
+        "volume": "36",
+        "author": "Riemer",
+        "year": "1995",
+        "journal-title": "Energy Convers. Manag."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0043",
+        "series-title": "Surfactants and Interfacial Phenomena",
+        "first-page": "277",
+        "article-title": "Foaming and antifoaming by aqueous solutions of surfactants",
+        "author": "Rosen",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0044",
+        "doi-asserted-by": "crossref",
+        "first-page": "851",
+        "DOI": "10.1007/s10311-020-01118-2",
+        "article-title": "Capture of carbon dioxide using solid carbonaceous and non-carbonaceous adsorbents: a review",
+        "volume": "19",
+        "author": "Sharma",
+        "year": "2021",
+        "journal-title": "Environ. Chem. Lett."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/j.fluid.2010.01.013",
+        "article-title": "Separation of CO2 and H2S using room-temperature ionic liquid [bmim][PF6]",
+        "volume": "294",
+        "author": "Shiflett",
+        "year": "2010",
+        "journal-title": "Fluid Phase Equilibr."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0046",
+        "article-title": "A review of encapsulated ionic liquids for CO2 capture",
+        "volume": "374",
+        "author": "Solangi",
+        "year": "2023",
+        "journal-title": "J. Mol. Liq."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0047",
+        "doi-asserted-by": "crossref",
+        "first-page": "1080",
+        "DOI": "10.1016/j.rser.2017.03.109",
+        "article-title": "Carbon capture by absorption\u2013Path covered and ahead",
+        "volume": "76",
+        "author": "Sreedhar",
+        "year": "2017",
+        "journal-title": "Renew. Sustain. Energy Rev."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jes.2024.02.028_bib0048",
+        "doi-asserted-by": "crossref",
+        "first-page": "829",
+        "DOI": "10.1039/C1CS15146K",
+        "article-title": "Surface tension of ionic liquids and ionic liquid solutions",
+        "volume": "41",
+        "author": "Tariq",
+        "year": "2012",
+        "journal-title": "Chem. Soc. Rev."
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.jes.2024.02.028_bib0049",
+        "doi-asserted-by": "crossref",
+        "first-page": "9276",
+        "DOI": "10.1021/la1001336",
+        "article-title": "Cationic ester-containing gemini surfactants: physical\u2212 chemical properties",
+        "volume": "26",
+        "author": "Tehrani-Bagha",
+        "year": "2010",
+        "journal-title": "Langmuir"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1007/s00396-010-2332-5",
+        "article-title": "Surface active and aggregation behavior of methylimidazolium-based ionic liquids of type [Cn mim][X], n= 4, 6, 8 and [X]= Cl\u2212, Br\u2212, and I\u2212 in water",
+        "volume": "289",
+        "author": "Vaghela",
+        "year": "2011",
+        "journal-title": "Colloid Polym. Sci."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0051",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1016/j.molliq.2017.06.006",
+        "article-title": "Ionic liquids composed of linear amphiphilic anions: synthesis, physicochemical characterization, hydrophilicity and interaction with carbon dioxide",
+        "volume": "241",
+        "author": "Vieira",
+        "year": "2017",
+        "journal-title": "J. Mol. Liq."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0052",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.colsurfa.2022.129801",
+        "article-title": "Use of synthetic calcium carbonate particles as an additive in water-based drilling fluids",
+        "volume": "652",
+        "author": "Villada",
+        "year": "2022",
+        "journal-title": "Colloids Surf. Physicochem. Eng. Asp."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0053",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1007/s10570-020-03502-1",
+        "article-title": "Di-carboxylic acid cellulose nanofibril (DCA-CNF) as an additive in water-based drilling fluids (WBMs) applied to shale formations",
+        "volume": "28",
+        "author": "Villada",
+        "year": "2020",
+        "journal-title": "Cellulose"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0054",
+        "doi-asserted-by": "crossref",
+        "first-page": "2019",
+        "DOI": "10.1039/c0gc00070a",
+        "article-title": "Equimolar CO2 capture by imidazolium-based ionic liquids and superbase systems",
+        "volume": "12",
+        "author": "Wang",
+        "year": "2010",
+        "journal-title": "Green Chem."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.molliq.2018.12.066",
+        "article-title": "Relationship between structure and biodegradability of gemini imidazolium surface active ionic liquids",
+        "volume": "278",
+        "author": "Wang",
+        "year": "2019",
+        "journal-title": "J. Mol. Liq."
+      },
+      {
+        "issue": "34",
+        "key": "10.1016/j.jes.2024.02.028_bib0056",
+        "doi-asserted-by": "crossref",
+        "first-page": "29804",
+        "DOI": "10.1021/acsomega.2c02601",
+        "article-title": "Infrared and terahertz spectroscopic investigation of imidazolium, pyridinium, and tetraalkylammonium tetrafluoroborate ionic liquids",
+        "volume": "7",
+        "author": "Yamada",
+        "year": "2022",
+        "journal-title": "ACS Omega"
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0057",
+        "doi-asserted-by": "crossref",
+        "first-page": "545",
+        "DOI": "10.1039/c1ra00307k",
+        "article-title": "CO2 chemistry: task-specific ionic liquids for CO2 capture/activation and subsequent conversion",
+        "volume": "1",
+        "author": "Yang",
+        "year": "2011",
+        "journal-title": "RSC Adv."
+      },
+      {
+        "issue": "21",
+        "key": "10.1016/j.jes.2024.02.028_bib0058",
+        "doi-asserted-by": "crossref",
+        "first-page": "2411",
+        "DOI": "10.1002/polb.10298",
+        "article-title": "Multiple melting behavior of poly (butylene succinate). I. Thermal analysis of melt-crystallized samples",
+        "volume": "40",
+        "author": "Yasuniwa",
+        "year": "2002",
+        "journal-title": "J. Polym. Sci. Part B Polym. Phys."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0059",
+        "doi-asserted-by": "crossref",
+        "first-page": "745",
+        "DOI": "10.4209/aaqr.2012.05.0132",
+        "article-title": "A review of CO2 capture by absorption and adsorption",
+        "volume": "12",
+        "author": "Yu",
+        "year": "2012",
+        "journal-title": "Aerosol Air Qual. Res."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "2875",
+        "DOI": "10.1021/ie050975y",
+        "article-title": "Design of task-specific ionic liquids for capturing CO2: a molecular orbital study",
+        "volume": "45",
+        "author": "Yu",
+        "year": "2006",
+        "journal-title": "Ind. Eng. Chem. Res."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0061",
+        "doi-asserted-by": "crossref",
+        "first-page": "1637",
+        "DOI": "10.1007/s13204-019-01046-w",
+        "article-title": "Experimental study of nano-drilling fluid based on nano temporary plugging technology and its application mechanism in shale drilling",
+        "volume": "9",
+        "author": "Zhang",
+        "year": "2019",
+        "journal-title": "Appl. Nanosci."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0062",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1016/j.cej.2012.07.108",
+        "article-title": "Characterization and absorption of carbon dioxide into aqueous solution of amino acid ionic liquid [N1111][Gly] and 2-amino-2-methyl-1-propanol",
+        "volume": "204",
+        "author": "Zhou",
+        "year": "2012",
+        "journal-title": "Chem. Eng. J."
+      },
+      {
+        "key": "10.1016/j.jes.2024.02.028_bib0063",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1007/s11743-010-1226-3",
+        "article-title": "Influence of spacer nature on the aggregation properties of anionic gemini surfactants in aqueous solutions",
+        "volume": "14",
+        "author": "Zhu",
+        "year": "2011",
+        "journal-title": "J. Surfactants Deterg."
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1016/j.jes.2024.02.028",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2025-04-01T00:00:00Z",
+          "timestamp": 1743465600000
+        }
+      },
+      {
+        "DOI": "10.1016/j.jes.2025.10.012",
+        "type": "erratum",
+        "label": "Erratum",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        }
+      },
+      {
+        "DOI": "10.1016/j.jes.2025.10.012",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              27
+            ]
+          ],
+          "date-time": "2025-12-27T00:00:00Z",
+          "timestamp": 1766793600000
+        },
+        "record-id": "70108"
+      }
+    ],
+    "container-title": [
+      "Journal of Environmental Sciences"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1001074224001190?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1001074224001190?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2026-01-21T07:29:09Z",
+      "timestamp": 1768980549000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1001074224001190"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "references-count": 63,
+    "alternative-id": [
+      "S1001074224001190"
+    ],
+    "URL": "https://doi.org/10.1016/j.jes.2024.02.028",
+    "relation": {},
+    "ISSN": [
+      "1001-0742"
+    ],
+    "issn-type": [
+      {
+        "value": "1001-0742",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "RETRACTED: Application of new tetra-cationic imidazolium ionic liquids for capture and conversion of CO2 to amphiphilic calcium carbonate nanoparticles as a green additive in water based drilling fluids",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Environmental Sciences",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jes.2024.02.028",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2024 The Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

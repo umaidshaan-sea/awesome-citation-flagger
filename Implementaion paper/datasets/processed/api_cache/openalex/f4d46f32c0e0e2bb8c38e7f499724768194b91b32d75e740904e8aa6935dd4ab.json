@@ -1,0 +1,1478 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1073/pnas.0909353106",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1073%2Fpnas.0909353106",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:48.637200+00:00",
+  "record": {
+    "id": "https://openalex.org/W2004941068",
+    "doi": "https://doi.org/10.1073/pnas.0909353106",
+    "title": "RETRACTED: Acriflavine inhibits HIF-1 dimerization, tumor growth, and vascularization",
+    "display_name": "RETRACTED: Acriflavine inhibits HIF-1 dimerization, tumor growth, and vascularization",
+    "publication_year": 2009,
+    "publication_date": "2009-10-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2004941068",
+      "doi": "https://doi.org/10.1073/pnas.0909353106",
+      "mag": "2004941068",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/19805192",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/2764905"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1073/pnas.0909353106",
+      "doi": "https://doi.org/10.1073/pnas.0909353106",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1073/pnas.0909353106",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S125754415",
+        "display_name": "Proceedings of the National Academy of Sciences",
+        "issn_l": "0027-8424",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "doyens",
+          "erih-plus",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320052",
+        "host_organization_name": "National Academy of Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320052"
+        ],
+        "host_organization_lineage_names": [
+          "National Academy of Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2764905",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5110137173",
+          "display_name": "KangAe Lee",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2799853436",
+            "display_name": "Johns Hopkins Medicine",
+            "ror": "https://ror.org/037zgn354",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I2799853436"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "KangAe Lee",
+        "raw_affiliation_strings": [
+          "McKusick\u2013Nathans Institute of Genetic Medicine,",
+          "Vascular Program, Institute for Cell Engineering,",
+          "Vascular Program, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "McKusick\u2013Nathans Institute of Genetic Medicine,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Vascular Program, Institute for Cell Engineering,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Vascular Program, Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA",
+            "institution_ids": [
+              "https://openalex.org/I145311948",
+              "https://openalex.org/I2799853436"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100603592",
+          "display_name": "Huafeng Zhang",
+          "orcid": "https://orcid.org/0000-0001-9923-7531",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9923-7531"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Huafeng Zhang",
+        "raw_affiliation_strings": [
+          "Departments of cOncology,",
+          "Vascular Program, Institute for Cell Engineering,",
+          "Johns Hopkins University ("
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Departments of cOncology,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Vascular Program, Institute for Cell Engineering,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Johns Hopkins University (",
+            "institution_ids": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5028510625",
+          "display_name": "David Z. Qian",
+          "orcid": "https://orcid.org/0000-0002-5532-2432",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-5532-2432"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "David Z. Qian",
+        "raw_affiliation_strings": [
+          "Departments of cOncology,",
+          "Vascular Program, Institute for Cell Engineering,",
+          "Johns Hopkins University ("
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Departments of cOncology,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Vascular Program, Institute for Cell Engineering,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Johns Hopkins University (",
+            "institution_ids": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5031707961",
+          "display_name": "Sergio Rey",
+          "orcid": "https://orcid.org/0000-0001-8954-7712",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8954-7712"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sergio Rey",
+        "raw_affiliation_strings": [
+          "McKusick\u2013Nathans Institute of Genetic Medicine,",
+          "Vascular Program, Institute for Cell Engineering,",
+          "Johns Hopkins University ("
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "McKusick\u2013Nathans Institute of Genetic Medicine,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Vascular Program, Institute for Cell Engineering,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Johns Hopkins University (",
+            "institution_ids": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015479608",
+          "display_name": "Jun O. Liu",
+          "orcid": "https://orcid.org/0000-0003-3842-9841",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3842-9841"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jun O. Liu",
+        "raw_affiliation_strings": [
+          "Departments of cOncology,",
+          "Pharmacology, and",
+          "Johns Hopkins University ("
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Departments of cOncology,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Pharmacology, and",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Johns Hopkins University (",
+            "institution_ids": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5051276665",
+          "display_name": "Gregg L. Semenza",
+          "orcid": "https://orcid.org/0000-0002-0913-211X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0913-211X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2799853436",
+            "display_name": "Johns Hopkins Medicine",
+            "ror": "https://ror.org/037zgn354",
+            "country_code": "US",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I2799853436"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Gregg L. Semenza",
+        "raw_affiliation_strings": [
+          "Departments of cOncology,",
+          "McKusick\u2013Nathans Institute of Genetic Medicine,",
+          "Pediatrics, Medicine, Radiation Oncology, and Biological Chemistry, The Johns Hopkins University School of Medicine, Baltimore, MD 21205",
+          "Vascular Program, Institute for Cell Engineering,"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Departments of cOncology,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "McKusick\u2013Nathans Institute of Genetic Medicine,",
+            "institution_ids": []
+          },
+          {
+            "raw_affiliation_string": "Pediatrics, Medicine, Radiation Oncology, and Biological Chemistry, The Johns Hopkins University School of Medicine, Baltimore, MD 21205",
+            "institution_ids": [
+              "https://openalex.org/I145311948",
+              "https://openalex.org/I2799853436"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Vascular Program, Institute for Cell Engineering,",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 6.1423,
+    "has_fulltext": false,
+    "cited_by_count": 451,
+    "citation_normalized_percentile": {
+      "value": 0.96561563,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 98,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "106",
+      "issue": "42",
+      "first_page": "17910",
+      "last_page": "17915"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10631",
+      "display_name": "Cancer, Hypoxia, and Metabolism",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10631",
+        "display_name": "Cancer, Hypoxia, and Metabolism",
+        "score": 0.9940999746322632,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1306",
+          "display_name": "Cancer Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10422",
+        "display_name": "Angiogenesis and VEGF in Cancer",
+        "score": 0.003100000089034438,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13426",
+        "display_name": "Kruppel-like factors research",
+        "score": 0.00019999999494757503,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/acriflavine",
+        "display_name": "acriflavine",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/hypoxia-inducible-factor-1",
+        "display_name": "HIF-1",
+        "score": 0.9200000166893005
+      },
+      {
+        "id": "https://openalex.org/keywords/hif-1alpha",
+        "display_name": "HIF-1\u03b1",
+        "score": 0.8659999966621399
+      },
+      {
+        "id": "https://openalex.org/keywords/hif-2alpha",
+        "display_name": "HIF-2\u03b1",
+        "score": 0.9980000257492065
+      },
+      {
+        "id": "https://openalex.org/keywords/protein-dimerization",
+        "display_name": "protein dimerization",
+        "score": 0.7120000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/hypoxia",
+        "display_name": "hypoxia",
+        "score": 0.7360000014305115
+      },
+      {
+        "id": "https://openalex.org/keywords/prostate-cancer",
+        "display_name": "prostate cancer",
+        "score": 0.7419999837875366
+      },
+      {
+        "id": "https://openalex.org/keywords/tumor-growth",
+        "display_name": "tumor growth",
+        "score": 0.6610000133514404
+      },
+      {
+        "id": "https://openalex.org/keywords/tumor-vascularization",
+        "display_name": "tumor vascularization",
+        "score": 0.8539999723434448
+      },
+      {
+        "id": "https://openalex.org/keywords/angiogenesis",
+        "display_name": "angiogenesis",
+        "score": 0.9649999737739563
+      },
+      {
+        "id": "https://openalex.org/keywords/angiogenic-cytokines",
+        "display_name": "angiogenic cytokines",
+        "score": 0.9120000004768372
+      },
+      {
+        "id": "https://openalex.org/keywords/small-molecule-inhibitors",
+        "display_name": "small molecule inhibitors",
+        "score": 0.7039999961853027
+      },
+      {
+        "id": "https://openalex.org/keywords/transcriptional-activity",
+        "display_name": "transcriptional activity",
+        "score": 0.7170000076293945
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2775942383",
+        "wikidata": "https://www.wikidata.org/wiki/Q225854",
+        "display_name": "Acriflavine",
+        "level": 2,
+        "score": 0.9742313623428345
+      },
+      {
+        "id": "https://openalex.org/C502942594",
+        "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+        "display_name": "Cancer research",
+        "level": 1,
+        "score": 0.5749217867851257
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.48025277256965637
+      },
+      {
+        "id": "https://openalex.org/C86339819",
+        "wikidata": "https://www.wikidata.org/wiki/Q407384",
+        "display_name": "Transcription factor",
+        "level": 3,
+        "score": 0.4586932063102722
+      },
+      {
+        "id": "https://openalex.org/C7836513",
+        "wikidata": "https://www.wikidata.org/wiki/Q1641506",
+        "display_name": "Hypoxia (environmental)",
+        "level": 3,
+        "score": 0.45584338903427124
+      },
+      {
+        "id": "https://openalex.org/C179926584",
+        "wikidata": "https://www.wikidata.org/wiki/Q207714",
+        "display_name": "Transcription (linguistics)",
+        "level": 2,
+        "score": 0.4287177622318268
+      },
+      {
+        "id": "https://openalex.org/C62112901",
+        "wikidata": "https://www.wikidata.org/wiki/Q189159",
+        "display_name": "Cell growth",
+        "level": 2,
+        "score": 0.4286278486251831
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "wikidata": "https://www.wikidata.org/wiki/Q7141",
+        "display_name": "Cell biology",
+        "level": 1,
+        "score": 0.3831446170806885
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.3608468472957611
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.20715659856796265
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.1442171037197113
+      },
+      {
+        "id": "https://openalex.org/C540031477",
+        "wikidata": "https://www.wikidata.org/wiki/Q629",
+        "display_name": "Oxygen",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "wikidata": "https://www.wikidata.org/wiki/Q11351",
+        "display_name": "Organic chemistry",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000167",
+        "descriptor_name": "Acriflavine",
+        "qualifier_ui": "Q000493",
+        "qualifier_name": "pharmacokinetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000167",
+        "descriptor_name": "Acriflavine",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000970",
+        "descriptor_name": "Antineoplastic Agents",
+        "qualifier_ui": "Q000493",
+        "qualifier_name": "pharmacokinetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D000970",
+        "descriptor_name": "Antineoplastic Agents",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001483",
+        "descriptor_name": "Base Sequence",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001665",
+        "descriptor_name": "Binding Sites",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D002460",
+        "descriptor_name": "Cell Line",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D004273",
+        "descriptor_name": "DNA, Neoplasm",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D004273",
+        "descriptor_name": "DNA, Neoplasm",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006367",
+        "descriptor_name": "HeLa Cells",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009363",
+        "descriptor_name": "Neoplasm Proteins",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009363",
+        "descriptor_name": "Neoplasm Proteins",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009368",
+        "descriptor_name": "Neoplasm Transplantation",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D009389",
+        "descriptor_name": "Neovascularization, Pathologic",
+        "qualifier_ui": "Q000517",
+        "qualifier_name": "prevention & control",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011471",
+        "descriptor_name": "Prostatic Neoplasms",
+        "qualifier_ui": "Q000098",
+        "qualifier_name": "blood supply",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011471",
+        "descriptor_name": "Prostatic Neoplasms",
+        "qualifier_ui": "Q000188",
+        "qualifier_name": "drug therapy",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D011471",
+        "descriptor_name": "Prostatic Neoplasms",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D011471",
+        "descriptor_name": "Prostatic Neoplasms",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011994",
+        "descriptor_name": "Recombinant Proteins",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011994",
+        "descriptor_name": "Recombinant Proteins",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011994",
+        "descriptor_name": "Recombinant Proteins",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D014158",
+        "descriptor_name": "Transcription, Genetic",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D014183",
+        "descriptor_name": "Transplantation, Heterologous",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016513",
+        "descriptor_name": "Mice, SCID",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019281",
+        "descriptor_name": "Dimerization",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019943",
+        "descriptor_name": "Amino Acid Substitution",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D020533",
+        "descriptor_name": "Angiogenesis Inhibitors",
+        "qualifier_ui": "Q000493",
+        "qualifier_name": "pharmacokinetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D020533",
+        "descriptor_name": "Angiogenesis Inhibitors",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D020836",
+        "descriptor_name": "Protein Structure, Quaternary",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D051379",
+        "descriptor_name": "Mice",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D051784",
+        "descriptor_name": "Aryl Hydrocarbon Receptor Nuclear Translocator",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D051784",
+        "descriptor_name": "Aryl Hydrocarbon Receptor Nuclear Translocator",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D051795",
+        "descriptor_name": "Hypoxia-Inducible Factor 1, alpha Subunit",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D051795",
+        "descriptor_name": "Hypoxia-Inducible Factor 1, alpha Subunit",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D051795",
+        "descriptor_name": "Hypoxia-Inducible Factor 1, alpha Subunit",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D066298",
+        "descriptor_name": "In Vitro Techniques",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1073/pnas.0909353106",
+        "doi": "https://doi.org/10.1073/pnas.0909353106",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1073/pnas.0909353106",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S125754415",
+          "display_name": "Proceedings of the National Academy of Sciences",
+          "issn_l": "0027-8424",
+          "issn": [
+            "0027-8424",
+            "1091-6490"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "doyens",
+            "erih-plus",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320052",
+          "host_organization_name": "National Academy of Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320052"
+          ],
+          "host_organization_lineage_names": [
+            "National Academy of Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the National Academy of Sciences",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:2764905",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2764905",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proc Natl Acad Sci U S A",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:19805192",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/19805192",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the National Academy of Sciences of the United States of America",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:pubmedcentral.nih.gov:2764905",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2764905",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proc Natl Acad Sci U S A",
+      "raw_type": "Text"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Good health and well-being",
+        "score": 0.9537000060081482,
+        "id": "https://metadata.un.org/sdg/3"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 16,
+    "referenced_works": [
+      "https://openalex.org/W1988377666",
+      "https://openalex.org/W2009777487",
+      "https://openalex.org/W2011810742",
+      "https://openalex.org/W2016861891",
+      "https://openalex.org/W2022471909",
+      "https://openalex.org/W2041259973",
+      "https://openalex.org/W2046440184",
+      "https://openalex.org/W2085609942",
+      "https://openalex.org/W2088397778",
+      "https://openalex.org/W2092409918",
+      "https://openalex.org/W2124001200",
+      "https://openalex.org/W2135664375",
+      "https://openalex.org/W2143182501",
+      "https://openalex.org/W2153125207",
+      "https://openalex.org/W2164210517",
+      "https://openalex.org/W2473930603"
+    ],
+    "related_works": [
+      "https://openalex.org/W2411903531",
+      "https://openalex.org/W2042278725",
+      "https://openalex.org/W3117994191",
+      "https://openalex.org/W4252916116",
+      "https://openalex.org/W2139303217",
+      "https://openalex.org/W2764809472",
+      "https://openalex.org/W3032244497",
+      "https://openalex.org/W4236324769",
+      "https://openalex.org/W2766320516",
+      "https://openalex.org/W6988948318"
+    ],
+    "abstract_inverted_index": {
+      "HIF-1": [
+        0,
+        40,
+        99
+      ],
+      "is": [
+        1
+      ],
+      "a": [
+        2,
+        20,
+        29
+      ],
+      "heterodimeric": [
+        3
+      ],
+      "transcription": [
+        4
+      ],
+      "factor": [
+        5
+      ],
+      "that": [
+        6,
+        31,
+        92
+      ],
+      "mediates": [
+        7
+      ],
+      "adaptive": [
+        8
+      ],
+      "responses": [
+        9
+      ],
+      "to": [
+        10,
+        34
+      ],
+      "hypoxia": [
+        11
+      ],
+      "and": [
+        12,
+        36,
+        38,
+        42,
+        57,
+        83,
+        100,
+        108
+      ],
+      "plays": [
+        13
+      ],
+      "critical": [
+        14
+      ],
+      "roles": [
+        15
+      ],
+      "in": [
+        16,
+        65
+      ],
+      "cancer": [
+        17,
+        50
+      ],
+      "progression.": [
+        18
+      ],
+      "Using": [
+        19
+      ],
+      "cell-based": [
+        21
+      ],
+      "screening": [
+        22
+      ],
+      "assay": [
+        23
+      ],
+      "we": [
+        24
+      ],
+      "have": [
+        25,
+        101
+      ],
+      "identified": [
+        26
+      ],
+      "acriflavine": [
+        27,
+        53
+      ],
+      "as": [
+        28
+      ],
+      "drug": [
+        30
+      ],
+      "binds": [
+        32
+      ],
+      "directly": [
+        33
+      ],
+      "HIF-1alpha": [
+        35
+      ],
+      "HIF-2alpha": [
+        37
+      ],
+      "inhibits": [
+        39
+      ],
+      "dimerization": [
+        41,
+        97
+      ],
+      "transcriptional": [
+        43
+      ],
+      "activity.": [
+        44
+      ],
+      "Pretreatment": [
+        45
+      ],
+      "of": [
+        46,
+        59,
+        73,
+        77,
+        90,
+        98
+      ],
+      "mice": [
+        47,
+        60
+      ],
+      "bearing": [
+        48,
+        61
+      ],
+      "prostate": [
+        49
+      ],
+      "xenografts": [
+        51
+      ],
+      "with": [
+        52
+      ],
+      "prevented": [
+        54
+      ],
+      "tumor": [
+        55,
+        84,
+        106
+      ],
+      "growth": [
+        56,
+        66,
+        107
+      ],
+      "treatment": [
+        58,
+        69
+      ],
+      "established": [
+        62
+      ],
+      "tumors": [
+        63
+      ],
+      "resulted": [
+        64
+      ],
+      "arrest.": [
+        67
+      ],
+      "Acriflavine": [
+        68
+      ],
+      "inhibited": [
+        70
+      ],
+      "intratumoral": [
+        71
+      ],
+      "expression": [
+        72
+      ],
+      "angiogenic": [
+        74,
+        78
+      ],
+      "cytokines,": [
+        75
+      ],
+      "mobilization": [
+        76
+      ],
+      "cells": [
+        79
+      ],
+      "into": [
+        80
+      ],
+      "peripheral": [
+        81
+      ],
+      "blood,": [
+        82
+      ],
+      "vascularization.": [
+        85,
+        109
+      ],
+      "These": [
+        86
+      ],
+      "results": [
+        87
+      ],
+      "provide": [
+        88
+      ],
+      "proof": [
+        89
+      ],
+      "principle": [
+        91
+      ],
+      "small": [
+        93
+      ],
+      "molecules": [
+        94
+      ],
+      "can": [
+        95
+      ],
+      "inhibit": [
+        96
+      ],
+      "potent": [
+        102
+      ],
+      "inhibitory": [
+        103
+      ],
+      "effects": [
+        104
+      ],
+      "on": [
+        105
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 32
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 43
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 59
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 35
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 26
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 31
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 29
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 27
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 30
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 37
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 26
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 29
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

@@ -1,0 +1,1962 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1371/journal.pone.0261127",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1371%2Fjournal.pone.0261127",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:38.166630+00:00",
+  "record": {
+    "id": "https://openalex.org/W4200330806",
+    "doi": "https://doi.org/10.1371/journal.pone.0261127",
+    "title": "Metformin attenuates osteoclast-mediated abnormal subchondral bone remodeling and alleviates osteoarthritis via AMPK/NF-\u03baB/ERK signaling pathway",
+    "display_name": "Metformin attenuates osteoclast-mediated abnormal subchondral bone remodeling and alleviates osteoarthritis via AMPK/NF-\u03baB/ERK signaling pathway",
+    "publication_year": 2021,
+    "publication_date": "2021-12-16",
+    "ids": {
+      "openalex": "https://openalex.org/W4200330806",
+      "doi": "https://doi.org/10.1371/journal.pone.0261127",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/34914744",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/8675877"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1371/journal.pone.0261127",
+      "doi": "https://doi.org/10.1371/journal.pone.0261127",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0261127",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0261127&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS ONE",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0261127&type=printable",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101049265",
+          "display_name": "Haohui Guo",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127460",
+            "display_name": "Ningxia Medical University",
+            "ror": "https://ror.org/02h8a1848",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210127460"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210139449",
+            "display_name": "Ningxia Medical University General Hospital",
+            "ror": "https://ror.org/049dkqr57",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210139449"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Haohui Guo",
+        "raw_affiliation_strings": [
+          "Orthopedics Ward 3, The General Hospital of Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Orthopedics Ward 3, The General Hospital of Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I4210127460",
+              "https://openalex.org/I4210139449"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103126778",
+          "display_name": "Dong Ding",
+          "orcid": "https://orcid.org/0000-0001-5232-7396",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5232-7396"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127460",
+            "display_name": "Ningxia Medical University",
+            "ror": "https://ror.org/02h8a1848",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210127460"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dong Ding",
+        "raw_affiliation_strings": [
+          "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I4210127460"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100695804",
+          "display_name": "Limei Wang",
+          "orcid": "https://orcid.org/0000-0002-5041-2287",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-5041-2287",
+            "https://orcid.org/0009-0001-1824-6020"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I186691195",
+            "display_name": "Qingdao Binhai University",
+            "ror": "https://ror.org/023er3e86",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I186691195"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210127460",
+            "display_name": "Ningxia Medical University",
+            "ror": "https://ror.org/02h8a1848",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210127460"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Limei Wang",
+        "raw_affiliation_strings": [
+          "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+          "Medical College, Qingdao Binhai University, West Coast New District, Qingdao, Shandong, P.R. China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I4210127460"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Medical College, Qingdao Binhai University, West Coast New District, Qingdao, Shandong, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I186691195"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5051340643",
+          "display_name": "Jiangbo Yan",
+          "orcid": "https://orcid.org/0000-0001-5019-346X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5019-346X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127460",
+            "display_name": "Ningxia Medical University",
+            "ror": "https://ror.org/02h8a1848",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210127460"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jiangbo Yan",
+        "raw_affiliation_strings": [
+          "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I4210127460"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5088278644",
+          "display_name": "Long Ma",
+          "orcid": "https://orcid.org/0000-0001-8479-2663",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8479-2663"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127460",
+            "display_name": "Ningxia Medical University",
+            "ror": "https://ror.org/02h8a1848",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210127460"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210139449",
+            "display_name": "Ningxia Medical University General Hospital",
+            "ror": "https://ror.org/049dkqr57",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210139449"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Long Ma",
+        "raw_affiliation_strings": [
+          "Orthopedics Ward 3, The General Hospital of Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Orthopedics Ward 3, The General Hospital of Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I4210127460",
+              "https://openalex.org/I4210139449"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5027381543",
+          "display_name": "Qunhua Jin",
+          "orcid": "https://orcid.org/0000-0001-7616-3357",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7616-3357",
+            "https://orcid.org/0000-0003-1901-7905",
+            "https://orcid.org/0009-0006-4714-9621",
+            "https://orcid.org/0009-0007-1249-4879",
+            "https://orcid.org/0009-0008-6582-4197",
+            "https://orcid.org/0000-0002-5409-1986"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210127460",
+            "display_name": "Ningxia Medical University",
+            "ror": "https://ror.org/02h8a1848",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210127460"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210139449",
+            "display_name": "Ningxia Medical University General Hospital",
+            "ror": "https://ror.org/049dkqr57",
+            "country_code": "CN",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4210139449"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Qunhua Jin",
+        "raw_affiliation_strings": [
+          "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+          "Orthopedics Ward 3, The General Hospital of Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-7616-3357",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Clinical College, Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I4210127460"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Orthopedics Ward 3, The General Hospital of Ningxia Medical University, Yinchuan, Ningxia Hui Autonomous Region, P.R. China",
+            "institution_ids": [
+              "https://openalex.org/I4210127460",
+              "https://openalex.org/I4210139449"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5027381543",
+      "https://openalex.org/A5088278644"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210127460",
+      "https://openalex.org/I4210139449"
+    ],
+    "apc_list": {
+      "value": 1749,
+      "currency": "USD",
+      "value_usd": 1749
+    },
+    "apc_paid": {
+      "value": 1749,
+      "currency": "USD",
+      "value_usd": 1749
+    },
+    "fwci": 3.138,
+    "has_fulltext": true,
+    "cited_by_count": 57,
+    "citation_normalized_percentile": {
+      "value": 0.94299444,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 98,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "16",
+      "issue": "12",
+      "first_page": "e0261127",
+      "last_page": "e0261127"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11219",
+      "display_name": "Bone Metabolism and Diseases",
+      "score": 0.6211000084877014,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11219",
+        "display_name": "Bone Metabolism and Diseases",
+        "score": 0.6211000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10105",
+        "display_name": "Osteoarthritis Treatment and Mechanisms",
+        "score": 0.3666999936103821,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2745",
+          "display_name": "Rheumatology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10200",
+        "display_name": "Rheumatoid Arthritis Research and Therapies",
+        "score": 0.0017000000225380063,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2745",
+          "display_name": "Rheumatology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/metformin",
+        "display_name": "metformin",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/osteoarthritis",
+        "display_name": "osteoarthritis",
+        "score": 0.9919999837875366
+      },
+      {
+        "id": "https://openalex.org/keywords/osteoclastogenesis",
+        "display_name": "osteoclastogenesis",
+        "score": 0.9470000267028809
+      },
+      {
+        "id": "https://openalex.org/keywords/subchondral-bone-remodeling",
+        "display_name": "subchondral bone remodeling",
+        "score": 0.968999981880188
+      },
+      {
+        "id": "https://openalex.org/keywords/ampk",
+        "display_name": "AMPK",
+        "score": 0.6639999747276306
+      },
+      {
+        "id": "https://openalex.org/keywords/nf-kappab",
+        "display_name": "NF-\u03baB",
+        "score": 0.9959999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/erk-signaling",
+        "display_name": "ERK signaling",
+        "score": 0.8159999847412109
+      },
+      {
+        "id": "https://openalex.org/keywords/rankl",
+        "display_name": "RANKL",
+        "score": 0.9629999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/bone-resorption",
+        "display_name": "bone resorption",
+        "score": 0.6840000152587891
+      },
+      {
+        "id": "https://openalex.org/keywords/destabilization-of-the-medial-meniscus",
+        "display_name": "destabilization of the medial meniscus",
+        "score": 0.8389999866485596
+      },
+      {
+        "id": "https://openalex.org/keywords/cartilage-degeneration",
+        "display_name": "cartilage degeneration",
+        "score": 0.7630000114440918
+      },
+      {
+        "id": "https://openalex.org/keywords/bone-marrow-derived-macrophages",
+        "display_name": "bone marrow-derived macrophages",
+        "score": 0.7829999923706055
+      },
+      {
+        "id": "https://openalex.org/keywords/drug-repurposing",
+        "display_name": "drug repurposing",
+        "score": 0.5479999780654907
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779428903",
+        "wikidata": "https://www.wikidata.org/wiki/Q418934",
+        "display_name": "RANKL",
+        "level": 4,
+        "score": 0.714421272277832
+      },
+      {
+        "id": "https://openalex.org/C2776033226",
+        "wikidata": "https://www.wikidata.org/wiki/Q828410",
+        "display_name": "Osteoclast",
+        "level": 3,
+        "score": 0.6919134855270386
+      },
+      {
+        "id": "https://openalex.org/C2780124434",
+        "wikidata": "https://www.wikidata.org/wiki/Q12357464",
+        "display_name": "AMPK",
+        "level": 4,
+        "score": 0.5698260068893433
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.5500024557113647
+      },
+      {
+        "id": "https://openalex.org/C57074206",
+        "wikidata": "https://www.wikidata.org/wiki/Q14197552",
+        "display_name": "MAPK/ERK pathway",
+        "level": 3,
+        "score": 0.5326582789421082
+      },
+      {
+        "id": "https://openalex.org/C673006",
+        "wikidata": "https://www.wikidata.org/wiki/Q4941581",
+        "display_name": "Bone resorption",
+        "level": 2,
+        "score": 0.5262141227722168
+      },
+      {
+        "id": "https://openalex.org/C2777730290",
+        "wikidata": "https://www.wikidata.org/wiki/Q411114",
+        "display_name": "NF-\u03baB",
+        "level": 3,
+        "score": 0.4306907057762146
+      },
+      {
+        "id": "https://openalex.org/C180675623",
+        "wikidata": "https://www.wikidata.org/wiki/Q14907831",
+        "display_name": "Tartrate-resistant acid phosphatase",
+        "level": 4,
+        "score": 0.41224658489227295
+      },
+      {
+        "id": "https://openalex.org/C97029542",
+        "wikidata": "https://www.wikidata.org/wiki/Q281417",
+        "display_name": "Protein kinase A",
+        "level": 3,
+        "score": 0.4032742381095886
+      },
+      {
+        "id": "https://openalex.org/C62478195",
+        "wikidata": "https://www.wikidata.org/wiki/Q828130",
+        "display_name": "Signal transduction",
+        "level": 2,
+        "score": 0.37785518169403076
+      },
+      {
+        "id": "https://openalex.org/C134018914",
+        "wikidata": "https://www.wikidata.org/wiki/Q162606",
+        "display_name": "Endocrinology",
+        "level": 1,
+        "score": 0.3628600835800171
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "wikidata": "https://www.wikidata.org/wiki/Q7141",
+        "display_name": "Cell biology",
+        "level": 1,
+        "score": 0.3597814440727234
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.3501628637313843
+      },
+      {
+        "id": "https://openalex.org/C153911025",
+        "wikidata": "https://www.wikidata.org/wiki/Q7202",
+        "display_name": "Molecular biology",
+        "level": 1,
+        "score": 0.3441990613937378
+      },
+      {
+        "id": "https://openalex.org/C184235292",
+        "wikidata": "https://www.wikidata.org/wiki/Q421851",
+        "display_name": "Kinase",
+        "level": 2,
+        "score": 0.33644431829452515
+      },
+      {
+        "id": "https://openalex.org/C88045685",
+        "wikidata": "https://www.wikidata.org/wiki/Q174576",
+        "display_name": "Activator (genetics)",
+        "level": 3,
+        "score": 0.27054324746131897
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.25387728214263916
+      },
+      {
+        "id": "https://openalex.org/C170493617",
+        "wikidata": "https://www.wikidata.org/wiki/Q208467",
+        "display_name": "Receptor",
+        "level": 2,
+        "score": 0.24367880821228027
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.21114015579223633
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.11691287159919739
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001854",
+        "descriptor_name": "Bone Marrow Cells",
+        "qualifier_ui": "Q000166",
+        "qualifier_name": "cytology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001854",
+        "descriptor_name": "Bone Marrow Cells",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001862",
+        "descriptor_name": "Bone Resorption",
+        "qualifier_ui": "Q000139",
+        "qualifier_name": "chemically induced",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001862",
+        "descriptor_name": "Bone Resorption",
+        "qualifier_ui": "Q000188",
+        "qualifier_name": "drug therapy",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D001862",
+        "descriptor_name": "Bone Resorption",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001862",
+        "descriptor_name": "Bone Resorption",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D005786",
+        "descriptor_name": "Gene Expression Regulation",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D007004",
+        "descriptor_name": "Hypoglycemic Agents",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008264",
+        "descriptor_name": "Macrophages",
+        "qualifier_ui": "Q000166",
+        "qualifier_name": "cytology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008264",
+        "descriptor_name": "Macrophages",
+        "qualifier_ui": "Q000187",
+        "qualifier_name": "drug effects",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008297",
+        "descriptor_name": "Male",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008687",
+        "descriptor_name": "Metformin",
+        "qualifier_ui": "Q000494",
+        "qualifier_name": "pharmacology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D008810",
+        "descriptor_name": "Mice, Inbred C57BL",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010003",
+        "descriptor_name": "Osteoarthritis",
+        "qualifier_ui": "Q000139",
+        "qualifier_name": "chemically induced",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010003",
+        "descriptor_name": "Osteoarthritis",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010003",
+        "descriptor_name": "Osteoarthritis",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D010003",
+        "descriptor_name": "Osteoarthritis",
+        "qualifier_ui": "Q000517",
+        "qualifier_name": "prevention & control",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D010010",
+        "descriptor_name": "Osteoclasts",
+        "qualifier_ui": "Q000473",
+        "qualifier_name": "pathology",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D016328",
+        "descriptor_name": "NF-kappa B",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016328",
+        "descriptor_name": "NF-kappa B",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D016723",
+        "descriptor_name": "Bone Remodeling",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D048049",
+        "descriptor_name": "Extracellular Signal-Regulated MAP Kinases",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D048049",
+        "descriptor_name": "Extracellular Signal-Regulated MAP Kinases",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D051379",
+        "descriptor_name": "Mice",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D055372",
+        "descriptor_name": "AMP-Activated Protein Kinases",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D055372",
+        "descriptor_name": "AMP-Activated Protein Kinases",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 4,
+    "locations": [
+      {
+        "id": "doi:10.1371/journal.pone.0261127",
+        "doi": "https://doi.org/10.1371/journal.pone.0261127",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1371/journal.pone.0261127",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0261127&type=printable",
+        "source": {
+          "id": "https://openalex.org/S202381698",
+          "display_name": "PLoS ONE",
+          "issn_l": "1932-6203",
+          "issn": [
+            "1932-6203"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315706",
+          "host_organization_name": "Public Library of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315706"
+          ],
+          "host_organization_lineage_names": [
+            "Public Library of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLOS ONE",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:8675877",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8675877",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS One",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:34914744",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34914744",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PloS one",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:3e49638637d44d839e010f7b6b1ca2cb",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/3e49638637d44d839e010f7b6b1ca2cb",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PLoS ONE, Vol 16, Iss 12, p e0261127 (2021)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1371/journal.pone.0261127",
+      "doi": "https://doi.org/10.1371/journal.pone.0261127",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0261127",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0261127&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS ONE",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Good health and well-being",
+        "id": "https://metadata.un.org/sdg/3",
+        "score": 0.9763000011444092
+      }
+    ],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G1652506492",
+        "display_name": null,
+        "funder_award_id": "2018BEG02005",
+        "funder_id": "https://openalex.org/F4320334010",
+        "funder_display_name": "Key Research and Development Program of Ningxia"
+      },
+      {
+        "id": "https://openalex.org/G4856773348",
+        "display_name": "Wnt/\u03b2-catenin\u4fe1\u53f7\u901a\u8def\u5bf9\u8f6f\u9aa8\u548c\u8f6f\u9aa8\u4e0b\u9aa8\u76f8\u4e92\u4f5c\u7528\u81f4\u9aa8\u5173\u8282\u708e\u53d1\u751f\u3001\u53d1\u5c55\u7684\u8c03\u8282\u673a\u5236\u7814\u7a76",
+        "funder_award_id": "81660373",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320321001",
+        "display_name": "National Natural Science Foundation of China",
+        "ror": "https://ror.org/01h0zpd94"
+      },
+      {
+        "id": "https://openalex.org/F4320322425",
+        "display_name": "Ningxia Medical University",
+        "ror": "https://ror.org/02h8a1848"
+      },
+      {
+        "id": "https://openalex.org/F4320334010",
+        "display_name": "Key Research and Development Program of Ningxia",
+        "ror": null
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4200330806.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4200330806.grobid-xml"
+    },
+    "referenced_works_count": 51,
+    "referenced_works": [
+      "https://openalex.org/W146101091",
+      "https://openalex.org/W1978321388",
+      "https://openalex.org/W2002251686",
+      "https://openalex.org/W2005576117",
+      "https://openalex.org/W2061261019",
+      "https://openalex.org/W2074894911",
+      "https://openalex.org/W2081528622",
+      "https://openalex.org/W2083485452",
+      "https://openalex.org/W2107399483",
+      "https://openalex.org/W2124193944",
+      "https://openalex.org/W2170551352",
+      "https://openalex.org/W2226301192",
+      "https://openalex.org/W2269139557",
+      "https://openalex.org/W2289120809",
+      "https://openalex.org/W2415177601",
+      "https://openalex.org/W2417858417",
+      "https://openalex.org/W2424659657",
+      "https://openalex.org/W2473668993",
+      "https://openalex.org/W2522694580",
+      "https://openalex.org/W2522849079",
+      "https://openalex.org/W2543904698",
+      "https://openalex.org/W2589445559",
+      "https://openalex.org/W2590689600",
+      "https://openalex.org/W2602000378",
+      "https://openalex.org/W2602377726",
+      "https://openalex.org/W2606039020",
+      "https://openalex.org/W2619754961",
+      "https://openalex.org/W2750144259",
+      "https://openalex.org/W2781709141",
+      "https://openalex.org/W2783668460",
+      "https://openalex.org/W2801777656",
+      "https://openalex.org/W2910669835",
+      "https://openalex.org/W2929227384",
+      "https://openalex.org/W2969924221",
+      "https://openalex.org/W2997664288",
+      "https://openalex.org/W3002492502",
+      "https://openalex.org/W3006354553",
+      "https://openalex.org/W3011875247",
+      "https://openalex.org/W3017197366",
+      "https://openalex.org/W3017327850",
+      "https://openalex.org/W3026594821",
+      "https://openalex.org/W3044660872",
+      "https://openalex.org/W3092671797",
+      "https://openalex.org/W3095012295",
+      "https://openalex.org/W3100822354",
+      "https://openalex.org/W3119127780",
+      "https://openalex.org/W3121608685",
+      "https://openalex.org/W3174691691",
+      "https://openalex.org/W3197058538",
+      "https://openalex.org/W4210254819",
+      "https://openalex.org/W4286851664"
+    ],
+    "related_works": [
+      "https://openalex.org/W3011875247",
+      "https://openalex.org/W4213435957",
+      "https://openalex.org/W3012196426",
+      "https://openalex.org/W4210872831",
+      "https://openalex.org/W7157023633",
+      "https://openalex.org/W4292363990",
+      "https://openalex.org/W3195582580",
+      "https://openalex.org/W3005480324",
+      "https://openalex.org/W2339409279",
+      "https://openalex.org/W3208259537"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "study": [
+        1
+      ],
+      "explored": [
+        2
+      ],
+      "the": [
+        3,
+        74,
+        117,
+        140,
+        162,
+        177
+      ],
+      "mechanism": [
+        4,
+        293
+      ],
+      "by": [
+        5,
+        44,
+        114,
+        205,
+        271,
+        294
+      ],
+      "which": [
+        6,
+        295
+      ],
+      "metformin": [
+        7
+      ],
+      "(Met)": [
+        8
+      ],
+      "inhibits": [
+        9,
+        297
+      ],
+      "osteoclast": [
+        10,
+        213,
+        298
+      ],
+      "activation": [
+        11,
+        227,
+        299
+      ],
+      "and": [
+        12,
+        47,
+        59,
+        73,
+        81,
+        129,
+        148,
+        166,
+        169,
+        184,
+        194,
+        215,
+        237,
+        251,
+        253,
+        266,
+        286
+      ],
+      "determined": [
+        13
+      ],
+      "its": [
+        14
+      ],
+      "effects": [
+        15
+      ],
+      "on": [
+        16,
+        275
+      ],
+      "osteoarthritis": [
+        17
+      ],
+      "(OA)": [
+        18
+      ],
+      "mice.": [
+        19
+      ],
+      "Bone": [
+        20
+      ],
+      "marrow-derived": [
+        21
+      ],
+      "macrophages": [
+        22
+      ],
+      "were": [
+        23,
+        42,
+        68,
+        88,
+        124,
+        173,
+        182,
+        196,
+        269
+      ],
+      "isolated.": [
+        24
+      ],
+      "Osteoclastogenesis": [
+        25
+      ],
+      "was": [
+        26,
+        36,
+        50,
+        100,
+        112,
+        137,
+        155,
+        202
+      ],
+      "detected": [
+        27,
+        43,
+        51,
+        69,
+        89,
+        197
+      ],
+      "using": [
+        28,
+        38,
+        52,
+        70,
+        90,
+        102,
+        198
+      ],
+      "tartrate-resistant": [
+        29
+      ],
+      "acid": [
+        30
+      ],
+      "phosphatase": [
+        31
+      ],
+      "(TRAP)": [
+        32
+      ],
+      "staining.": [
+        33
+      ],
+      "Cell": [
+        34
+      ],
+      "proliferation": [
+        35,
+        201
+      ],
+      "evaluated": [
+        37
+      ],
+      "CCK-8,": [
+        39
+      ],
+      "F-actin": [
+        40
+      ],
+      "rings": [
+        41
+      ],
+      "immunofluorescence": [
+        45
+      ],
+      "staining,": [
+        46
+      ],
+      "bone": [
+        48,
+        53,
+        216
+      ],
+      "resorption": [
+        49,
+        217
+      ],
+      "slices.": [
+        54
+      ],
+      "Nuclear": [
+        55
+      ],
+      "factor": [
+        56,
+        61,
+        189
+      ],
+      "kappa-B": [
+        57
+      ],
+      "(NF-\u03baB)": [
+        58
+      ],
+      "nuclear": [
+        60,
+        188
+      ],
+      "of": [
+        62,
+        95,
+        116,
+        187,
+        228,
+        239,
+        264
+      ],
+      "activated": [
+        63
+      ],
+      "T-cell": [
+        64
+      ],
+      "cytoplasmic": [
+        65
+      ],
+      "1": [
+        66
+      ],
+      "(NFATc1)": [
+        67
+      ],
+      "luciferase": [
+        71
+      ],
+      "assays,": [
+        72
+      ],
+      "adenosine": [
+        75
+      ],
+      "monophosphate-activated": [
+        76
+      ],
+      "protein": [
+        77,
+        83,
+        234
+      ],
+      "kinase": [
+        78,
+        84
+      ],
+      "(AMPK),": [
+        79
+      ],
+      "NF-\u03baB,": [
+        80,
+        230
+      ],
+      "mitogen-activated": [
+        82
+      ],
+      "(MAPK)": [
+        85
+      ],
+      "signaling": [
+        86,
+        305
+      ],
+      "pathways": [
+        87
+      ],
+      "western": [
+        91
+      ],
+      "blotting.": [
+        92
+      ],
+      "Finally,": [
+        93
+      ],
+      "expression": [
+        94,
+        288
+      ],
+      "genes": [
+        96,
+        240
+      ],
+      "involved": [
+        97,
+        241
+      ],
+      "in": [
+        98,
+        161,
+        218,
+        222,
+        242,
+        247,
+        256,
+        289
+      ],
+      "osteoclastogenesis": [
+        99
+      ],
+      "measured": [
+        101
+      ],
+      "quantitative": [
+        103
+      ],
+      "polymerase": [
+        104
+      ],
+      "chain": [
+        105
+      ],
+      "reaction.": [
+        106
+      ],
+      "A": [
+        107
+      ],
+      "knee": [
+        108
+      ],
+      "OA": [
+        109,
+        151,
+        312
+      ],
+      "mouse": [
+        110
+      ],
+      "model": [
+        111
+      ],
+      "established": [
+        113
+      ],
+      "destabilization": [
+        115
+      ],
+      "medial": [
+        118
+      ],
+      "meniscus": [
+        119
+      ],
+      "(DMM).": [
+        120
+      ],
+      "Male": [
+        121
+      ],
+      "C57BL/6J": [
+        122
+      ],
+      "mice": [
+        123
+      ],
+      "assigned": [
+        125
+      ],
+      "to": [
+        126,
+        157,
+        175
+      ],
+      "sham-operated,": [
+        127
+      ],
+      "DMM+vehicle,": [
+        128
+      ],
+      "DMM+Met": [
+        130
+      ],
+      "groups.": [
+        131
+      ],
+      "Met": [
+        132,
+        206,
+        211,
+        224,
+        244,
+        272,
+        282,
+        296
+      ],
+      "(100": [
+        133
+      ],
+      "mg/kg/d)": [
+        134
+      ],
+      "or": [
+        135,
+        278
+      ],
+      "vehicle": [
+        136
+      ],
+      "administered": [
+        138
+      ],
+      "from": [
+        139
+      ],
+      "first": [
+        141
+      ],
+      "day": [
+        142
+      ],
+      "postoperative": [
+        143
+      ],
+      "until": [
+        144
+      ],
+      "sacrifice.": [
+        145
+      ],
+      "At": [
+        146
+      ],
+      "4-": [
+        147
+      ],
+      "8-week": [
+        149
+      ],
+      "post": [
+        150
+      ],
+      "induction,": [
+        152
+      ],
+      "micro-computed": [
+        153
+      ],
+      "tomography": [
+        154
+      ],
+      "performed": [
+        156,
+        174
+      ],
+      "analyze": [
+        158
+      ],
+      "microstructural": [
+        159
+      ],
+      "changes": [
+        160
+      ],
+      "subchondral": [
+        163
+      ],
+      "bone,": [
+        164
+      ],
+      "hematoxylin": [
+        165
+      ],
+      "eosin": [
+        167
+      ],
+      "staining": [
+        168,
+        172
+      ],
+      "Safranin-O/Fast": [
+        170
+      ],
+      "Green": [
+        171
+      ],
+      "evaluate": [
+        176
+      ],
+      "degenerated": [
+        178
+      ],
+      "cartilage,": [
+        179
+      ],
+      "TRAP-stained": [
+        180
+      ],
+      "osteoclasts": [
+        181,
+        265
+      ],
+      "enumerated,": [
+        183
+      ],
+      "receptor": [
+        185
+      ],
+      "activator": [
+        186
+      ],
+      "\u03baB": [
+        190
+      ],
+      "ligand": [
+        191
+      ],
+      "(RANKL),": [
+        192
+      ],
+      "AMPK,": [
+        193
+      ],
+      "NF-\u03baB": [
+        195,
+        287
+      ],
+      "immunohistochemistry.": [
+        199
+      ],
+      "BMM": [
+        200
+      ],
+      "not": [
+        203
+      ],
+      "affected": [
+        204
+      ],
+      "treatment": [
+        207
+      ],
+      "below": [
+        208
+      ],
+      "2": [
+        209
+      ],
+      "mM.": [
+        210
+      ],
+      "inhibited": [
+        212,
+        283
+      ],
+      "formation": [
+        214
+      ],
+      "a": [
+        219,
+        308
+      ],
+      "dose-dependent": [
+        220
+      ],
+      "manner": [
+        221
+      ],
+      "vitro.": [
+        223
+      ],
+      "suppressed": [
+        225
+      ],
+      "RANKL-induced": [
+        226
+      ],
+      "p-AMPK,": [
+        229,
+        285
+      ],
+      "phosphorylated": [
+        231
+      ],
+      "extracellular": [
+        232
+      ],
+      "regulated": [
+        233
+      ],
+      "kinases": [
+        235
+      ],
+      "(p-ERK)": [
+        236
+      ],
+      "up-regulation": [
+        238
+      ],
+      "osteoclastogenesis.": [
+        243
+      ],
+      "reversed": [
+        245
+      ],
+      "decreases": [
+        246
+      ],
+      "BV/TV,": [
+        248
+      ],
+      "Tb.Th,": [
+        249
+      ],
+      "Tb.N,": [
+        250
+      ],
+      "CD,": [
+        252
+      ],
+      "an": [
+        254
+      ],
+      "increase": [
+        255
+      ],
+      "Tb.Sp": [
+        257
+      ],
+      "at": [
+        258
+      ],
+      "4": [
+        259
+      ],
+      "weeks": [
+        260
+      ],
+      "postoperatively.": [
+        261
+      ],
+      "The": [
+        262,
+        292
+      ],
+      "number": [
+        263
+      ],
+      "OARSI": [
+        267
+      ],
+      "score": [
+        268
+      ],
+      "decreased": [
+        270
+      ],
+      "without": [
+        273
+      ],
+      "effect": [
+        274
+      ],
+      "body": [
+        276
+      ],
+      "weight": [
+        277
+      ],
+      "blood": [
+        279
+      ],
+      "glucose": [
+        280
+      ],
+      "levels.": [
+        281
+      ],
+      "RANKL,": [
+        284
+      ],
+      "early": [
+        290
+      ],
+      "OA.": [
+        291
+      ],
+      "may": [
+        300
+      ],
+      "be": [
+        301
+      ],
+      "associated": [
+        302
+      ],
+      "with": [
+        303
+      ],
+      "AMPK/NF-\u03baB/ERK": [
+        304
+      ],
+      "pathway,": [
+        306
+      ],
+      "indicating": [
+        307
+      ],
+      "novel": [
+        309
+      ],
+      "strategy": [
+        310
+      ],
+      "for": [
+        311
+      ],
+      "treatment.": [
+        313
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 13
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2021-12-31T00:00:00"
+  }
+}

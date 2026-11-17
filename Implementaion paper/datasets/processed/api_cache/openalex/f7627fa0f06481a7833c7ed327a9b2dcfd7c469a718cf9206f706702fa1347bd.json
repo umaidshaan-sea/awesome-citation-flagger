@@ -1,0 +1,1547 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1016/j.cell.2013.02.044",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1016%2Fj.cell.2013.02.044",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:41.889491+00:00",
+  "record": {
+    "id": "https://openalex.org/W2153375254",
+    "doi": "https://doi.org/10.1016/j.cell.2013.02.044",
+    "title": "Protein Complexes Are under Evolutionary Selection to Assemble via Ordered Pathways",
+    "display_name": "Protein Complexes Are under Evolutionary Selection to Assemble via Ordered Pathways",
+    "publication_year": 2013,
+    "publication_date": "2013-04-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2153375254",
+      "doi": "https://doi.org/10.1016/j.cell.2013.02.044",
+      "mag": "2153375254",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/23582331",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/4009401"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.cell.2013.02.044",
+      "doi": "https://doi.org/10.1016/j.cell.2013.02.044",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2013.02.044",
+      "pdf_url": "http://www.cell.com/article/S009286741300278X/pdf",
+      "source": {
+        "id": "https://openalex.org/S110447773",
+        "display_name": "Cell",
+        "issn_l": "0092-8674",
+        "issn": [
+          "0092-8674",
+          "1097-4172"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "doyens",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "datacite",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "http://www.cell.com/article/S009286741300278X/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5002238592",
+          "display_name": "Joseph A. Marsh",
+          "orcid": "https://orcid.org/0000-0003-4132-0628",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4132-0628"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1303153112",
+            "display_name": "European Bioinformatics Institute",
+            "ror": "https://ror.org/02catss52",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I1303153112",
+              "https://openalex.org/I4210138560"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Joseph\u00a0A. Marsh",
+        "raw_affiliation_strings": [
+          "EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK",
+            "institution_ids": [
+              "https://openalex.org/I1303153112"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103404983",
+          "display_name": "Helena Hern\u00e1ndez",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I40120149",
+            "display_name": "University of Oxford",
+            "ror": "https://ror.org/052gg0110",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I40120149"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Helena Hern\u00e1ndez",
+        "raw_affiliation_strings": [
+          "Physical and Theoretical Chemistry Laboratory, Department of Chemistry, University of Oxford, South Parks Road, Oxford OX1 3QZ, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Physical and Theoretical Chemistry Laboratory, Department of Chemistry, University of Oxford, South Parks Road, Oxford OX1 3QZ, UK",
+            "institution_ids": [
+              "https://openalex.org/I40120149"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103142354",
+          "display_name": "Zoe Hall",
+          "orcid": "https://orcid.org/0000-0002-1434-8329",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1434-8329"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I40120149",
+            "display_name": "University of Oxford",
+            "ror": "https://ror.org/052gg0110",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I40120149"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zoe Hall",
+        "raw_affiliation_strings": [
+          "Physical and Theoretical Chemistry Laboratory, Department of Chemistry, University of Oxford, South Parks Road, Oxford OX1 3QZ, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Physical and Theoretical Chemistry Laboratory, Department of Chemistry, University of Oxford, South Parks Road, Oxford OX1 3QZ, UK",
+            "institution_ids": [
+              "https://openalex.org/I40120149"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5068484674",
+          "display_name": "Sebastian E. Ahnert",
+          "orcid": "https://orcid.org/0000-0003-2613-0041",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2613-0041"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I241749",
+            "display_name": "University of Cambridge",
+            "ror": "https://ror.org/013meh722",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I241749"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sebastian\u00a0E. Ahnert",
+        "raw_affiliation_strings": [
+          "Theory of Condensed Matter, Cavendish Laboratory, JJ Thomson Avenue, Cambridge CB3 0HE, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Theory of Condensed Matter, Cavendish Laboratory, JJ Thomson Avenue, Cambridge CB3 0HE, UK",
+            "institution_ids": [
+              "https://openalex.org/I241749"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5048337860",
+          "display_name": "Tina Perica",
+          "orcid": "https://orcid.org/0000-0003-3152-8425",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3152-8425"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I170203145",
+            "display_name": "MRC Laboratory of Molecular Biology",
+            "ror": "https://ror.org/00tw3jy02",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I170203145",
+              "https://openalex.org/I4210087105",
+              "https://openalex.org/I90344618"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tina Perica",
+        "raw_affiliation_strings": [
+          "MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 0QH, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 0QH, UK",
+            "institution_ids": [
+              "https://openalex.org/I170203145"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5003402066",
+          "display_name": "Carol V. Robinson",
+          "orcid": "https://orcid.org/0000-0001-7829-5505",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7829-5505"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I40120149",
+            "display_name": "University of Oxford",
+            "ror": "https://ror.org/052gg0110",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I40120149"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Carol\u00a0V. Robinson",
+        "raw_affiliation_strings": [
+          "Physical and Theoretical Chemistry Laboratory, Department of Chemistry, University of Oxford, South Parks Road, Oxford OX1 3QZ, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Physical and Theoretical Chemistry Laboratory, Department of Chemistry, University of Oxford, South Parks Road, Oxford OX1 3QZ, UK",
+            "institution_ids": [
+              "https://openalex.org/I40120149"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5028596003",
+          "display_name": "Sarah Amalia Teichmann",
+          "orcid": "https://orcid.org/0000-0002-6294-6366",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6294-6366"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1303153112",
+            "display_name": "European Bioinformatics Institute",
+            "ror": "https://ror.org/02catss52",
+            "country_code": "GB",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I1303153112",
+              "https://openalex.org/I4210138560"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2802476451",
+            "display_name": "Wellcome Sanger Institute",
+            "ror": "https://ror.org/05cy4wa09",
+            "country_code": "GB",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I2802476451",
+              "https://openalex.org/I87048295"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Sarah\u00a0A. Teichmann",
+        "raw_affiliation_strings": [
+          "EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK",
+          "Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SA, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK",
+            "institution_ids": [
+              "https://openalex.org/I1303153112"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SA, UK",
+            "institution_ids": [
+              "https://openalex.org/I2802476451"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 5,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5003402066",
+      "https://openalex.org/A5028596003"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I1303153112",
+      "https://openalex.org/I2802476451",
+      "https://openalex.org/I40120149"
+    ],
+    "apc_list": {
+      "value": 11400,
+      "currency": "USD",
+      "value_usd": 11400
+    },
+    "apc_paid": {
+      "value": 11400,
+      "currency": "USD",
+      "value_usd": 11400
+    },
+    "fwci": 10.8945,
+    "has_fulltext": true,
+    "cited_by_count": 245,
+    "citation_normalized_percentile": {
+      "value": 0.99090219,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 99,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "153",
+      "issue": "2",
+      "first_page": "461",
+      "last_page": "470"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10887",
+      "display_name": "Bioinformatics and Genomic Networks",
+      "score": 0.48730000853538513,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10887",
+        "display_name": "Bioinformatics and Genomic Networks",
+        "score": 0.48730000853538513,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10044",
+        "display_name": "Protein Structure and Dynamics",
+        "score": 0.18140000104904175,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11764",
+        "display_name": "Evolution and Genetic Dynamics",
+        "score": 0.06870000064373016,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1311",
+          "display_name": "Genetics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/protein-complex-assembly",
+        "display_name": "protein complex formation",
+        "score": 0.9869999885559082
+      },
+      {
+        "id": "https://openalex.org/keywords/heteromeric-protein-complexes",
+        "display_name": "heteromeric protein complexes",
+        "score": 0.8320000171661377
+      },
+      {
+        "id": "https://openalex.org/keywords/gene-fusion",
+        "display_name": "gene fusion",
+        "score": 0.9440000057220459
+      },
+      {
+        "id": "https://openalex.org/keywords/evolutionary-selection",
+        "display_name": "evolutionary selection",
+        "score": 0.5849999785423279
+      },
+      {
+        "id": "https://openalex.org/keywords/quaternary-structure",
+        "display_name": "quaternary structure",
+        "score": 0.9120000004768372
+      },
+      {
+        "id": "https://openalex.org/keywords/protein-protein-interaction",
+        "display_name": "protein-protein interaction",
+        "score": 0.7770000100135803
+      },
+      {
+        "id": "https://openalex.org/keywords/protein-structure",
+        "display_name": "protein structure",
+        "score": 0.527999997138977
+      },
+      {
+        "id": "https://openalex.org/keywords/gene-order",
+        "display_name": "gene order",
+        "score": 0.6919999718666077
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.9532714486122131
+      },
+      {
+        "id": "https://openalex.org/C81917197",
+        "wikidata": "https://www.wikidata.org/wiki/Q628760",
+        "display_name": "Selection (genetic algorithm)",
+        "level": 2,
+        "score": 0.6218963861465454
+      },
+      {
+        "id": "https://openalex.org/C78458016",
+        "wikidata": "https://www.wikidata.org/wiki/Q840400",
+        "display_name": "Evolutionary biology",
+        "level": 1,
+        "score": 0.5907520055770874
+      },
+      {
+        "id": "https://openalex.org/C70721500",
+        "wikidata": "https://www.wikidata.org/wiki/Q177005",
+        "display_name": "Computational biology",
+        "level": 1,
+        "score": 0.5422474145889282
+      },
+      {
+        "id": "https://openalex.org/C54355233",
+        "wikidata": "https://www.wikidata.org/wiki/Q7162",
+        "display_name": "Genetics",
+        "level": 1,
+        "score": 0.4540468454360962
+      },
+      {
+        "id": "https://openalex.org/C2986302931",
+        "wikidata": "https://www.wikidata.org/wiki/Q764759",
+        "display_name": "Positive selection",
+        "level": 3,
+        "score": 0.4200955927371979
+      },
+      {
+        "id": "https://openalex.org/C2988562018",
+        "wikidata": "https://www.wikidata.org/wiki/Q1063",
+        "display_name": "Biological evolution",
+        "level": 2,
+        "score": 0.41843000054359436
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.18526995182037354
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D001419",
+        "descriptor_name": "Bacteria",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D001419",
+        "descriptor_name": "Bacteria",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D001419",
+        "descriptor_name": "Bacteria",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011506",
+        "descriptor_name": "Proteins",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D011506",
+        "descriptor_name": "Proteins",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D013058",
+        "descriptor_name": "Mass Spectrometry",
+        "qualifier_ui": "Q000379",
+        "qualifier_name": "methods",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D019143",
+        "descriptor_name": "Evolution, Molecular",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D020836",
+        "descriptor_name": "Protein Structure, Quaternary",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D030562",
+        "descriptor_name": "Databases, Protein",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D046912",
+        "descriptor_name": "Multiprotein Complexes",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D046912",
+        "descriptor_name": "Multiprotein Complexes",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D050939",
+        "descriptor_name": "Gene Fusion",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D053858",
+        "descriptor_name": "Metabolic Networks and Pathways",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D056890",
+        "descriptor_name": "Eukaryota",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D056890",
+        "descriptor_name": "Eukaryota",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D056890",
+        "descriptor_name": "Eukaryota",
+        "qualifier_ui": "Q000737",
+        "qualifier_name": "chemistry",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D058105",
+        "descriptor_name": "Polymerization",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 8,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.cell.2013.02.044",
+        "doi": "https://doi.org/10.1016/j.cell.2013.02.044",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.cell.2013.02.044",
+        "pdf_url": "http://www.cell.com/article/S009286741300278X/pdf",
+        "source": {
+          "id": "https://openalex.org/S110447773",
+          "display_name": "Cell",
+          "issn_l": "0092-8674",
+          "issn": [
+            "0092-8674",
+            "1097-4172"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "doyens",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315673",
+          "host_organization_name": "Cell Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315673",
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Cell Press",
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cell",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:2990821",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4009401",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:4009401",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4009401",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cell",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:23582331",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/23582331",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cell",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:pure.ed.ac.uk:openaire/eba5f858-77c2-40ae-b0fc-5bc18d393ee0",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.research.ed.ac.uk/en/publications/eba5f858-77c2-40ae-b0fc-5bc18d393ee0",
+        "pdf_url": "https://www.research.ed.ac.uk/files/15133931/Protein_Complexes_Are_under_Evolutionary_Selection_to_Assemble_via_Ordered_Pathways.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400321",
+          "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I98677209",
+          "host_organization_name": "University of Edinburgh",
+          "host_organization_lineage": [
+            "https://openalex.org/I98677209"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Marsh, J A, Hern\u00e1ndez, H, Hall, Z, Ahnert, S E, Perica, T, Robinson, C V & Teichmann, S A 2013, 'Protein complexes are under evolutionary selection to assemble via ordered pathways', Cell, vol. 153, no. 2, pp. 461-70. https://doi.org/10.1016/j.cell.2013.02.044",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:www.zora.uzh.ch:261933",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.zora.uzh.ch/id/eprint/261933/1/ZORA261933.pdf",
+        "pdf_url": "https://www.zora.uzh.ch/id/eprint/261933/1/ZORA261933.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401281",
+          "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I202697423",
+          "host_organization_name": "University of Zurich",
+          "host_organization_lineage": [
+            "https://openalex.org/I202697423"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Marsh, Joseph A; Hern\u00e1ndez, Helena; Hall, Zoe; Ahnert, Sebastian E; Perica, Tina; Robinson, Carol V; Teichmann, Sarah A (2013). Protein complexes are under evolutionary selection to assemble via ordered pathways. Cell, 153(2):461-470.",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:www.zora.uzh.ch:20.500.14742/221036",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.zora.uzh.ch/handle/20.500.14742/221036",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401281",
+          "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I202697423",
+          "host_organization_name": "University of Zurich",
+          "host_organization_lineage": [
+            "https://openalex.org/I202697423"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Marsh, J. A., Hern\u00e1ndez, H., Hall, Z., Ahnert, S. E., Perica, T., Robinson, C. V., & Teichmann, S. A. (2013). Protein complexes are under evolutionary selection to assemble via ordered pathways. Cell, 153, 461\u2013470. https://doi.org/10.1016/j.cell.2013.02.044",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "doi:10.5167/uzh-261933",
+        "doi": "https://doi.org/10.5167/uzh-261933",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5167/uzh-261933",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401281",
+          "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I202697423",
+          "host_organization_name": "University of Zurich",
+          "host_organization_lineage": [
+            "https://openalex.org/I202697423"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "JournalArticle"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.cell.2013.02.044",
+      "doi": "https://doi.org/10.1016/j.cell.2013.02.044",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2013.02.044",
+      "pdf_url": "http://www.cell.com/article/S009286741300278X/pdf",
+      "source": {
+        "id": "https://openalex.org/S110447773",
+        "display_name": "Cell",
+        "issn_l": "0092-8674",
+        "issn": [
+          "0092-8674",
+          "1097-4172"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "doyens",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315673",
+        "host_organization_name": "Cell Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315673",
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Cell Press",
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cell",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2153375254.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2153375254.grobid-xml"
+    },
+    "referenced_works_count": 64,
+    "referenced_works": [
+      "https://openalex.org/W150114986",
+      "https://openalex.org/W1533936090",
+      "https://openalex.org/W1561548828",
+      "https://openalex.org/W1926568554",
+      "https://openalex.org/W1970746458",
+      "https://openalex.org/W1971034241",
+      "https://openalex.org/W1972699518",
+      "https://openalex.org/W1973897761",
+      "https://openalex.org/W1977266560",
+      "https://openalex.org/W1978668078",
+      "https://openalex.org/W1979031424",
+      "https://openalex.org/W1979824847",
+      "https://openalex.org/W1980800453",
+      "https://openalex.org/W1987515055",
+      "https://openalex.org/W1987983260",
+      "https://openalex.org/W1989005754",
+      "https://openalex.org/W1989509003",
+      "https://openalex.org/W1993506738",
+      "https://openalex.org/W1995908284",
+      "https://openalex.org/W2001457899",
+      "https://openalex.org/W2001641653",
+      "https://openalex.org/W2008102428",
+      "https://openalex.org/W2020582565",
+      "https://openalex.org/W2027320565",
+      "https://openalex.org/W2030889455",
+      "https://openalex.org/W2031304785",
+      "https://openalex.org/W2035503835",
+      "https://openalex.org/W2043092219",
+      "https://openalex.org/W2044322490",
+      "https://openalex.org/W2049079862",
+      "https://openalex.org/W2057545775",
+      "https://openalex.org/W2061439657",
+      "https://openalex.org/W2064491541",
+      "https://openalex.org/W2066011752",
+      "https://openalex.org/W2067236515",
+      "https://openalex.org/W2068722030",
+      "https://openalex.org/W2071288995",
+      "https://openalex.org/W2073785345",
+      "https://openalex.org/W2079552045",
+      "https://openalex.org/W2082419458",
+      "https://openalex.org/W2087744067",
+      "https://openalex.org/W2088477669",
+      "https://openalex.org/W2090615391",
+      "https://openalex.org/W2096990970",
+      "https://openalex.org/W2099946731",
+      "https://openalex.org/W2107644337",
+      "https://openalex.org/W2109715166",
+      "https://openalex.org/W2110949039",
+      "https://openalex.org/W2112792893",
+      "https://openalex.org/W2113495611",
+      "https://openalex.org/W2123634400",
+      "https://openalex.org/W2130479394",
+      "https://openalex.org/W2130581715",
+      "https://openalex.org/W2133070552",
+      "https://openalex.org/W2136087655",
+      "https://openalex.org/W2146312020",
+      "https://openalex.org/W2158714788",
+      "https://openalex.org/W2160565208",
+      "https://openalex.org/W2161033884",
+      "https://openalex.org/W2166564727",
+      "https://openalex.org/W2181054121",
+      "https://openalex.org/W2326232872",
+      "https://openalex.org/W2340616476",
+      "https://openalex.org/W4235238378"
+    ],
+    "related_works": [
+      "https://openalex.org/W7099195772",
+      "https://openalex.org/W2265278721",
+      "https://openalex.org/W2044322490",
+      "https://openalex.org/W1977978807",
+      "https://openalex.org/W2987748199",
+      "https://openalex.org/W4401759233",
+      "https://openalex.org/W2137986227",
+      "https://openalex.org/W2217389707",
+      "https://openalex.org/W2600435798",
+      "https://openalex.org/W2146051423"
+    ],
+    "abstract_inverted_index": {
+      "Is": [
+        0
+      ],
+      "the": [
+        1,
+        35,
+        106,
+        113,
+        124,
+        140
+      ],
+      "order": [
+        2,
+        108
+      ],
+      "in": [
+        3
+      ],
+      "which": [
+        4
+      ],
+      "proteins": [
+        5
+      ],
+      "assemble": [
+        6
+      ],
+      "into": [
+        7
+      ],
+      "complexes": [
+        8,
+        41
+      ],
+      "important": [
+        9
+      ],
+      "for": [
+        10,
+        21,
+        26,
+        74,
+        115
+      ],
+      "biological": [
+        11,
+        141
+      ],
+      "function?": [
+        12
+      ],
+      "Here,": [
+        13
+      ],
+      "we": [
+        14,
+        32,
+        70,
+        86,
+        100
+      ],
+      "seek": [
+        15
+      ],
+      "to": [
+        16,
+        91,
+        117
+      ],
+      "address": [
+        17
+      ],
+      "this": [
+        18
+      ],
+      "by": [
+        19,
+        55,
+        94
+      ],
+      "searching": [
+        20
+      ],
+      "evidence": [
+        22
+      ],
+      "of": [
+        23,
+        38,
+        76,
+        109,
+        143
+      ],
+      "evolutionary": [
+        24,
+        72
+      ],
+      "selection": [
+        25,
+        73
+      ],
+      "ordered": [
+        27,
+        144
+      ],
+      "protein": [
+        28,
+        66,
+        96,
+        102,
+        128
+      ],
+      "complex": [
+        29,
+        67,
+        97
+      ],
+      "assembly.": [
+        30,
+        119
+      ],
+      "First,": [
+        31
+      ],
+      "experimentally": [
+        33
+      ],
+      "characterize": [
+        34
+      ],
+      "assembly": [
+        36,
+        68,
+        77,
+        93,
+        145
+      ],
+      "pathways": [
+        37
+      ],
+      "several": [
+        39
+      ],
+      "heteromeric": [
+        40
+      ],
+      "and": [
+        42,
+        82,
+        132,
+        134
+      ],
+      "show": [
+        43,
+        87
+      ],
+      "that": [
+        44,
+        88,
+        111
+      ],
+      "they": [
+        45
+      ],
+      "can": [
+        46
+      ],
+      "be": [
+        47
+      ],
+      "simply": [
+        48
+      ],
+      "predicted": [
+        49
+      ],
+      "from": [
+        50,
+        61
+      ],
+      "their": [
+        51
+      ],
+      "three-dimensional": [
+        52
+      ],
+      "structures.": [
+        53
+      ],
+      "Then,": [
+        54
+      ],
+      "mapping": [
+        56
+      ],
+      "gene": [
+        57,
+        107
+      ],
+      "fusion": [
+        58,
+        89,
+        110,
+        116
+      ],
+      "events": [
+        59
+      ],
+      "identified": [
+        60
+      ],
+      "fully": [
+        62
+      ],
+      "sequenced": [
+        63
+      ],
+      "genomes": [
+        64
+      ],
+      "onto": [
+        65
+      ],
+      "pathways,": [
+        69
+      ],
+      "demonstrate": [
+        71,
+        135
+      ],
+      "conservation": [
+        75
+      ],
+      "order.": [
+        78
+      ],
+      "Furthermore,": [
+        79
+      ],
+      "using": [
+        80
+      ],
+      "structural": [
+        81,
+        103
+      ],
+      "high-throughput": [
+        83
+      ],
+      "interaction": [
+        84
+      ],
+      "data,": [
+        85
+      ],
+      "tends": [
+        90
+      ],
+      "optimize": [
+        92
+      ],
+      "simplifying": [
+        95
+      ],
+      "topologies.": [
+        98
+      ],
+      "Finally,": [
+        99
+      ],
+      "observe": [
+        101
+      ],
+      "constraints": [
+        104
+      ],
+      "on": [
+        105,
+        136
+      ],
+      "impact": [
+        112
+      ],
+      "potential": [
+        114
+      ],
+      "affect": [
+        118
+      ],
+      "Together,": [
+        120
+      ],
+      "these": [
+        121
+      ],
+      "results": [
+        122
+      ],
+      "reveal": [
+        123
+      ],
+      "intimate": [
+        125
+      ],
+      "relationships": [
+        126
+      ],
+      "among": [
+        127
+      ],
+      "assembly,": [
+        129
+      ],
+      "quaternary": [
+        130
+      ],
+      "structure,": [
+        131
+      ],
+      "evolution": [
+        133
+      ],
+      "a": [
+        137
+      ],
+      "genome-wide": [
+        138
+      ],
+      "scale": [
+        139
+      ],
+      "importance": [
+        142
+      ],
+      "pathways.": [
+        146
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 17
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 23
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 16
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 26
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 29
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 23
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 22
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 10
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

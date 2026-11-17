@@ -1,0 +1,379 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pcbi.1005871",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pcbi.1005871",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:10.136714+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2026-09-25T13:21:44Z",
+      "timestamp": 1790342504582,
+      "version": "4.1.0"
+    },
+    "reference-count": 19,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              4
+            ]
+          ],
+          "date-time": "2018-01-04T00:00:00Z",
+          "timestamp": 1515024000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.ploscompbiol.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS Comput Biol"
+    ],
+    "DOI": "10.1371/journal.pcbi.1005871",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          4
+        ]
+      ],
+      "date-time": "2018-01-04T13:29:36Z",
+      "timestamp": 1515072576000
+    },
+    "page": "e1005871",
+    "update-policy": "https://doi.org/10.1371/journal.pcbi.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 45,
+    "title": [
+      "Ten simple rules for biologists learning to program"
+    ],
+    "prefix": "10.1371",
+    "volume": "14",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2890-5445",
+        "authenticated-orcid": true,
+        "given": "Maureen A.",
+        "family": "Carey",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jason A.",
+        "family": "Papin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "article-title": "Integrating language and content: Lessons from immersion",
+        "author": "F Genesee",
+        "year": "1994"
+      },
+      {
+        "key": "ref2",
+        "article-title": "Second language learning in school settings: Lessons from immersion1991",
+        "author": "FH Genesee"
+      },
+      {
+        "key": "ref3",
+        "article-title": "Teaching programming by immersion, reading and writing2002",
+        "author": "W Campbell"
+      },
+      {
+        "key": "ref4",
+        "first-page": "127",
+        "article-title": "Programming environments for novices",
+        "volume": "2004",
+        "author": "M Guzdial",
+        "year": "2004",
+        "journal-title": "Computer science education research"
+      },
+      {
+        "issue": "1",
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1186/1471-2105-5-80",
+        "article-title": "Mistaken identifiers: gene name errors can be introduced inadvertently when using Excel in bioinformatics",
+        "volume": "5",
+        "author": "BR Zeeberg",
+        "year": "2004",
+        "journal-title": "BMC Bioinformatics"
+      },
+      {
+        "issue": "1",
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1186/s13059-016-1044-7",
+        "article-title": "Gene name errors are widespread in the scientific literature",
+        "volume": "17",
+        "author": "M Ziemann",
+        "year": "2016",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "issue": "6",
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1002/bmb.20340",
+        "article-title": "Commentary: Never trust your word processor",
+        "volume": "37",
+        "author": "D Linke",
+        "year": "2009",
+        "journal-title": "Biochemistry and Molecular Biology Education"
+      },
+      {
+        "key": "ref8",
+        "unstructured": "Collado-Torres L. Recent Posts [Internet]2017. [cited 2017]. Available from: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://lcolladotor.github.io/\" xlink:type=\"simple\">http://lcolladotor.github.io/</ext-link>. Posts. Accessed on 5 April 2017."
+      },
+      {
+        "issue": "12",
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1002802",
+        "DOI": "10.1371/journal.pcbi.1002802",
+        "article-title": "Ten simple rules for the open development of scientific software",
+        "volume": "8",
+        "author": "A Prli\u0107",
+        "year": "2012",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "issue": "11",
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1005128",
+        "DOI": "10.1371/journal.pcbi.1005128",
+        "article-title": "Ten Simple Rules for Developing Public Biological Databases",
+        "volume": "12",
+        "author": "M Helmy",
+        "year": "2016",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "issue": "9",
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1003244",
+        "DOI": "10.1371/journal.pcbi.1003244",
+        "article-title": "Ten simple rules for cultivating open science and collaborative R&amp;D",
+        "volume": "9",
+        "author": "H Masum",
+        "year": "2013",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "issue": "4",
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1000358",
+        "DOI": "10.1371/journal.pcbi.1000358",
+        "article-title": "Ten simple rules to combine teaching and research",
+        "volume": "5",
+        "author": "Q Vicens",
+        "year": "2009",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "issue": "9",
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1004385",
+        "DOI": "10.1371/journal.pcbi.1004385",
+        "article-title": "Ten Simple Rules for a Computational Biologist\u2019s Laboratory Notebook",
+        "volume": "11",
+        "author": "S Schnell",
+        "year": "2015",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "issue": "10",
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1003285",
+        "DOI": "10.1371/journal.pcbi.1003285",
+        "article-title": "Ten simple rules for reproducible computational research",
+        "volume": "9",
+        "author": "GK Sandve",
+        "year": "2013",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "issue": "7",
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1004947",
+        "DOI": "10.1371/journal.pcbi.1004947",
+        "article-title": "Ten Simple Rules for Taking Advantage of Git and GitHub",
+        "volume": "12",
+        "author": "Y Perez-Riverol",
+        "year": "2016",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "key": "ref16",
+        "author": "SHD Haddock",
+        "year": "2011"
+      },
+      {
+        "issue": "3",
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2002050",
+        "DOI": "10.1371/journal.pbio.2002050",
+        "article-title": "All biology is computational biology",
+        "volume": "15",
+        "author": "F Markowetz",
+        "year": "2017",
+        "journal-title": "PLoS Biol"
+      },
+      {
+        "key": "ref18",
+        "unstructured": "Bergman C. An Assembly of Fragments [Internet]. [cited 2017]. Available from: <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/\" xlink:type=\"simple\">https://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/</ext-link>. Accessed on 5 April 2017."
+      },
+      {
+        "key": "ref19",
+        "article-title": "Nature: Careers",
+        "author": "R Kwok",
+        "year": "2013"
+      }
+    ],
+    "container-title": [
+      "PLOS Computational Biology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pcbi.1005871",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2018-10-22T13:08:25Z",
+      "timestamp": 1540213705000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pcbi.1005871"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Scott",
+        "family": "Markel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          4
+        ]
+      ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            1,
+            4
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pcbi.1005871",
+    "relation": {},
+    "ISSN": [
+      "1553-7358"
+    ],
+    "issn-type": [
+      {
+        "value": "1553-7358",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          4
+        ]
+      ]
+    }
+  }
+}

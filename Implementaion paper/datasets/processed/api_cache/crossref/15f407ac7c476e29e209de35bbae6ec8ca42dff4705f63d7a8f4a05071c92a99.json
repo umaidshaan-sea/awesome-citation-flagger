@@ -1,0 +1,272 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1126/science.1127647",
+  "url": "https://api.crossref.org/works/10.1126%2Fscience.1127647",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:24.284209+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2026-11-04T12:58:54Z",
+      "timestamp": 1793797134625,
+      "version": "4.6.1"
+    },
+    "reference-count": 17,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "5786",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          7,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:p>High-dimensional data can be converted to low-dimensional codes by training a multilayer neural network with a small central layer to reconstruct high-dimensional input vectors. Gradient descent can be used for fine-tuning the weights in such \u201cautoencoder\u201d networks, but this works well only if the initial weights are close to a good solution. We describe an effective way of initializing the weights that allows deep autoencoder networks to learn low-dimensional codes that work much better than principal components analysis as a tool to reduce the dimensionality of data.</jats:p>",
+    "DOI": "10.1126/science.1127647",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          7,
+          27
+        ]
+      ],
+      "date-time": "2006-07-27T17:08:36Z",
+      "timestamp": 1154020116000
+    },
+    "page": "504-507",
+    "source": "Crossref",
+    "is-referenced-by-count": 17701,
+    "title": [
+      "Reducing the Dimensionality of Data with Neural Networks"
+    ],
+    "prefix": "10.1126",
+    "volume": "313",
+    "author": [
+      {
+        "given": "G. E.",
+        "family": "Hinton",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, Ontario M5S 3G4, Canada."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R. R.",
+        "family": "Salakhutdinov",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Toronto, 6 King's College Road, Toronto, Ontario M5S 3G4, Canada."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "221",
+    "reference": [
+      {
+        "key": "e_1_3_1_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0885-2308(87)90026-X"
+      },
+      {
+        "key": "e_1_3_1_3_2",
+        "first-page": "580",
+        "year": "1993",
+        "unstructured": "D. DeMers, G. Cottrell, Advances in Neural Information Processing Systems 5 (Morgan Kaufmann, San Mateo, CA, 1993), pp. 580\u2013587.",
+        "journal-title": "Advances in Neural Information Processing Systems 5"
+      },
+      {
+        "key": "e_1_3_1_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.269.5232.1860"
+      },
+      {
+        "key": "e_1_3_1_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.1997.9.7.1493"
+      },
+      {
+        "key": "e_1_3_1_6_2",
+        "first-page": "194",
+        "year": "1986",
+        "unstructured": "P. Smolensky, Parallel Distributed Processing: Volume 1: Foundations, D. E. Rumelhart, J. L. McClelland, Eds. (MIT Press, Cambridge, 1986), pp. 194\u2013281.",
+        "journal-title": "Parallel Distributed Processing: Volume 1: Foundations"
+      },
+      {
+        "key": "e_1_3_1_7_2",
+        "first-page": "1711",
+        "volume": "14",
+        "year": "2002",
+        "unstructured": "G. E. Hinton, Neural Comput.14, 1711 (2002).",
+        "journal-title": "Neural Comput."
+      },
+      {
+        "key": "e_1_3_1_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.79.8.2554"
+      },
+      {
+        "key": "e_1_3_1_9_2",
+        "unstructured": "See supporting material on Science Online."
+      },
+      {
+        "key": "e_1_3_1_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.2006.18.7.1527"
+      },
+      {
+        "key": "e_1_3_1_11_2",
+        "first-page": "1481",
+        "year": "2005",
+        "unstructured": "M. Welling, M. Rosen-Zvi, G. Hinton, Advances in Neural Information Processing Systems 17 (MIT Press, Cambridge, MA, 2005), pp. 1481\u20131488.",
+        "journal-title": "Advances in Neural Information Processing Systems 17"
+      },
+      {
+        "key": "e_1_3_1_12_2",
+        "unstructured": "The MNIST data set is available at http://yann.lecun.com/exdb/mnist/index.html."
+      },
+      {
+        "key": "e_1_3_1_13_2",
+        "unstructured": "The Olivetti face data set is available at www.cs.toronto.edu/roweis/data.html."
+      },
+      {
+        "key": "e_1_3_1_14_2",
+        "unstructured": "The Reuter Corpus Volume 2 is available at http://trec.nist.gov/data/reuters/reuters.html."
+      },
+      {
+        "key": "e_1_3_1_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9"
+      },
+      {
+        "key": "e_1_3_1_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.290.5500.2323"
+      },
+      {
+        "key": "e_1_3_1_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.290.5500.2319"
+      },
+      {
+        "key": "e_1_3_1_18_2",
+        "unstructured": "We thank D. Rumelhart M. Welling S. Osindero and S. Roweis for helpful discussions and the Natural Sciences and Engineering Research Council of Canada for funding. G.E.H. is a fellow of the Canadian Institute for Advanced Research."
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.science.org/doi/pdf/10.1126/science.1127647",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          9
+        ]
+      ],
+      "date-time": "2024-01-09T21:20:09Z",
+      "timestamp": 1704835209000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.science.org/doi/10.1126/science.1127647"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          7,
+          28
+        ]
+      ]
+    },
+    "references-count": 17,
+    "journal-issue": {
+      "issue": "5786",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            7,
+            28
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1126/science.1127647"
+    ],
+    "URL": "https://doi.org/10.1126/science.1127647",
+    "relation": {},
+    "ISSN": [
+      "0036-8075",
+      "1095-9203"
+    ],
+    "issn-type": [
+      {
+        "value": "0036-8075",
+        "type": "print"
+      },
+      {
+        "value": "1095-9203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          7,
+          28
+        ]
+      ]
+    }
+  }
+}

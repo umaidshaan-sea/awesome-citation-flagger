@@ -1,0 +1,1244 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1088/0957-4484/24/31/315701",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1088%2F0957-4484%2F24%2F31%2F315701",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:50.993787+00:00",
+  "record": {
+    "id": "https://openalex.org/W2052461942",
+    "doi": "https://doi.org/10.1088/0957-4484/24/31/315701",
+    "title": "Phosphorylated silica nanotubes: preparation and characterization",
+    "display_name": "Phosphorylated silica nanotubes: preparation and characterization",
+    "publication_year": 2013,
+    "publication_date": "2013-07-12",
+    "ids": {
+      "openalex": "https://openalex.org/W2052461942",
+      "doi": "https://doi.org/10.1088/0957-4484/24/31/315701",
+      "mag": "2052461942",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/23851944"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1088/0957-4484/24/31/315701",
+      "doi": "https://doi.org/10.1088/0957-4484/24/31/315701",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1088/0957-4484/24/31/315701",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S206811868",
+        "display_name": "Nanotechnology",
+        "issn_l": "0957-4484",
+        "issn": [
+          "0957-4484",
+          "1361-6528"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-c",
+          "jufo-2",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320083",
+        "host_organization_name": "IOP Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320083",
+          "https://openalex.org/P4310311669"
+        ],
+        "host_organization_lineage_names": [
+          "IOP Publishing",
+          "Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nanotechnology",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5100401892",
+          "display_name": "Yuqing Zhang",
+          "orcid": "https://orcid.org/0000-0002-0789-1374",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0789-1374"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I162868743",
+            "display_name": "Tianjin University",
+            "ror": "https://ror.org/012tb2g32",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I162868743"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yuqing Zhang",
+        "raw_affiliation_strings": [
+          "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People's Republic of China",
+          "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People\u2019s\u00a0Republic\u00a0of\u00a0China#N#"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I162868743"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People\u2019s\u00a0Republic\u00a0of\u00a0China#N#",
+            "institution_ids": [
+              "https://openalex.org/I162868743"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5063396498",
+          "display_name": "Yan Shen Xu",
+          "orcid": "https://orcid.org/0000-0002-7608-7013",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-7608-7013"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I162868743",
+            "display_name": "Tianjin University",
+            "ror": "https://ror.org/012tb2g32",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I162868743"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yan Xu",
+        "raw_affiliation_strings": [
+          "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People's Republic of China",
+          "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People\u2019s\u00a0Republic\u00a0of\u00a0China#N#"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I162868743"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, People\u2019s\u00a0Republic\u00a0of\u00a0China#N#",
+            "institution_ids": [
+              "https://openalex.org/I162868743"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5061100056",
+          "display_name": "Yiren Lu",
+          "orcid": "https://orcid.org/0000-0003-2302-1851",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2302-1851"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I162868743",
+            "display_name": "Tianjin University",
+            "ror": "https://ror.org/012tb2g32",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I162868743"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yiren Lu",
+        "raw_affiliation_strings": [
+          "School of Environmental Science and Engineering, Tianjin University, Tianjin 300072, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Environmental Science and Engineering, Tianjin University, Tianjin 300072, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I162868743"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101804609",
+          "display_name": "Lili Zhao",
+          "orcid": "https://orcid.org/0000-0001-7900-6904",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7900-6904"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I19820366",
+            "display_name": "Chinese Academy of Sciences",
+            "ror": "https://ror.org/034t30j35",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I19820366"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163874",
+            "display_name": "Shanghai Institute of Ceramics",
+            "ror": "https://ror.org/05etnz140",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210163874"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lili Zhao",
+        "raw_affiliation_strings": [
+          "The key Laboratory of Coating Materials, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 201800, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The key Laboratory of Coating Materials, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 201800, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210163874"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5075645045",
+          "display_name": "Lixin Song",
+          "orcid": "https://orcid.org/0000-0002-1425-2124",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1425-2124"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I19820366",
+            "display_name": "Chinese Academy of Sciences",
+            "ror": "https://ror.org/034t30j35",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I19820366"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210163874",
+            "display_name": "Shanghai Institute of Ceramics",
+            "ror": "https://ror.org/05etnz140",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210163874"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lixin Song",
+        "raw_affiliation_strings": [
+          "The key Laboratory of Coating Materials, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 201800, People's Republic of China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "The key Laboratory of Coating Materials, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 201800, People's Republic of China",
+            "institution_ids": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210163874"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": {
+      "value": 3325,
+      "currency": "USD",
+      "value_usd": 3325
+    },
+    "apc_paid": null,
+    "fwci": 1.5034,
+    "has_fulltext": false,
+    "cited_by_count": 13,
+    "citation_normalized_percentile": {
+      "value": 0.81235235,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "24",
+      "issue": "31",
+      "first_page": "315701",
+      "last_page": "315701"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10735",
+      "display_name": "Mesoporous Materials and Catalysis",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10735",
+        "display_name": "Mesoporous Materials and Catalysis",
+        "score": 0.9940999746322632,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11852",
+        "display_name": "Clay minerals and soil interactions",
+        "score": 0.001500000013038516,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2502",
+          "display_name": "Biomaterials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11362",
+        "display_name": "Membrane Separation and Gas Transport",
+        "score": 0.000699999975040555,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/silica-nanotubes",
+        "display_name": "silica nanotubes",
+        "score": 0.9980000257492065
+      },
+      {
+        "id": "https://openalex.org/keywords/silylation",
+        "display_name": "silylation",
+        "score": 0.6570000052452087
+      },
+      {
+        "id": "https://openalex.org/keywords/phosphorylation",
+        "display_name": "phosphorylation",
+        "score": 0.9890000224113464
+      },
+      {
+        "id": "https://openalex.org/keywords/tetraethyl-orthosilicate-hydrolysis",
+        "display_name": "tetraethoxysilane hydrolysis",
+        "score": 0.9390000104904175
+      },
+      {
+        "id": "https://openalex.org/keywords/mesopores",
+        "display_name": "mesopores",
+        "score": 0.7570000290870667
+      },
+      {
+        "id": "https://openalex.org/keywords/specific-surface-area",
+        "display_name": "specific surface area",
+        "score": 0.7919999957084656
+      },
+      {
+        "id": "https://openalex.org/keywords/length-to-diameter-ratio",
+        "display_name": "length-to-diameter ratio",
+        "score": 0.828000009059906
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C192562407",
+        "wikidata": "https://www.wikidata.org/wiki/Q228736",
+        "display_name": "Materials science",
+        "level": 0,
+        "score": 0.8652628064155579
+      },
+      {
+        "id": "https://openalex.org/C2777432599",
+        "wikidata": "https://www.wikidata.org/wiki/Q421458",
+        "display_name": "Tetraethyl orthosilicate",
+        "level": 2,
+        "score": 0.8094196319580078
+      },
+      {
+        "id": "https://openalex.org/C521977710",
+        "wikidata": "https://www.wikidata.org/wiki/Q81163",
+        "display_name": "Polymer",
+        "level": 2,
+        "score": 0.6887072324752808
+      },
+      {
+        "id": "https://openalex.org/C60100273",
+        "wikidata": "https://www.wikidata.org/wiki/Q902806",
+        "display_name": "Thermogravimetric analysis",
+        "level": 2,
+        "score": 0.6447510719299316
+      },
+      {
+        "id": "https://openalex.org/C42360764",
+        "wikidata": "https://www.wikidata.org/wiki/Q83588",
+        "display_name": "Chemical engineering",
+        "level": 1,
+        "score": 0.6178531646728516
+      },
+      {
+        "id": "https://openalex.org/C160892712",
+        "wikidata": "https://www.wikidata.org/wiki/Q901559",
+        "display_name": "Fourier transform infrared spectroscopy",
+        "level": 2,
+        "score": 0.5842472910881042
+      },
+      {
+        "id": "https://openalex.org/C82776694",
+        "wikidata": "https://www.wikidata.org/wiki/Q380049",
+        "display_name": "Mesoporous material",
+        "level": 3,
+        "score": 0.5286831259727478
+      },
+      {
+        "id": "https://openalex.org/C41625074",
+        "wikidata": "https://www.wikidata.org/wiki/Q176088",
+        "display_name": "Membrane",
+        "level": 2,
+        "score": 0.5276029706001282
+      },
+      {
+        "id": "https://openalex.org/C175708663",
+        "wikidata": "https://www.wikidata.org/wiki/Q899559",
+        "display_name": "X-ray photoelectron spectroscopy",
+        "level": 2,
+        "score": 0.5085831880569458
+      },
+      {
+        "id": "https://openalex.org/C94412978",
+        "wikidata": "https://www.wikidata.org/wiki/Q103135",
+        "display_name": "Hydrolysis",
+        "level": 2,
+        "score": 0.45813798904418945
+      },
+      {
+        "id": "https://openalex.org/C184651966",
+        "wikidata": "https://www.wikidata.org/wiki/Q906356",
+        "display_name": "Aqueous solution",
+        "level": 2,
+        "score": 0.45544078946113586
+      },
+      {
+        "id": "https://openalex.org/C115537861",
+        "wikidata": "https://www.wikidata.org/wiki/Q7645993",
+        "display_name": "Surface modification",
+        "level": 2,
+        "score": 0.41775739192962646
+      },
+      {
+        "id": "https://openalex.org/C146088050",
+        "wikidata": "https://www.wikidata.org/wiki/Q744818",
+        "display_name": "Transmission electron microscopy",
+        "level": 2,
+        "score": 0.4138278365135193
+      },
+      {
+        "id": "https://openalex.org/C171250308",
+        "wikidata": "https://www.wikidata.org/wiki/Q11468",
+        "display_name": "Nanotechnology",
+        "level": 1,
+        "score": 0.2745988368988037
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "wikidata": "https://www.wikidata.org/wiki/Q11351",
+        "display_name": "Organic chemistry",
+        "level": 1,
+        "score": 0.2340337336063385
+      },
+      {
+        "id": "https://openalex.org/C159985019",
+        "wikidata": "https://www.wikidata.org/wiki/Q181790",
+        "display_name": "Composite material",
+        "level": 1,
+        "score": 0.1590937376022339
+      },
+      {
+        "id": "https://openalex.org/C161790260",
+        "wikidata": "https://www.wikidata.org/wiki/Q82264",
+        "display_name": "Catalysis",
+        "level": 2,
+        "score": 0.15167051553726196
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.0588969886302948
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1088/0957-4484/24/31/315701",
+        "doi": "https://doi.org/10.1088/0957-4484/24/31/315701",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1088/0957-4484/24/31/315701",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S206811868",
+          "display_name": "Nanotechnology",
+          "issn_l": "0957-4484",
+          "issn": [
+            "0957-4484",
+            "1361-6528"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "jufo-2",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320083",
+          "host_organization_name": "IOP Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320083",
+            "https://openalex.org/P4310311669"
+          ],
+          "host_organization_lineage_names": [
+            "IOP Publishing",
+            "Institute of Physics"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nanotechnology",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:23851944",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/23851944",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nanotechnology",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 64,
+    "referenced_works": [
+      "https://openalex.org/W1495146461",
+      "https://openalex.org/W1581548735",
+      "https://openalex.org/W1968241153",
+      "https://openalex.org/W1968547744",
+      "https://openalex.org/W1978983577",
+      "https://openalex.org/W1979801558",
+      "https://openalex.org/W1981519960",
+      "https://openalex.org/W1987027360",
+      "https://openalex.org/W1987280028",
+      "https://openalex.org/W1998530283",
+      "https://openalex.org/W2001002461",
+      "https://openalex.org/W2003949496",
+      "https://openalex.org/W2004432273",
+      "https://openalex.org/W2006531691",
+      "https://openalex.org/W2008275093",
+      "https://openalex.org/W2008698790",
+      "https://openalex.org/W2009272453",
+      "https://openalex.org/W2014912020",
+      "https://openalex.org/W2015777781",
+      "https://openalex.org/W2015919895",
+      "https://openalex.org/W2016032890",
+      "https://openalex.org/W2018762259",
+      "https://openalex.org/W2018858346",
+      "https://openalex.org/W2020011132",
+      "https://openalex.org/W2021462601",
+      "https://openalex.org/W2021966298",
+      "https://openalex.org/W2021989193",
+      "https://openalex.org/W2025005734",
+      "https://openalex.org/W2026685869",
+      "https://openalex.org/W2027335547",
+      "https://openalex.org/W2028783005",
+      "https://openalex.org/W2029842967",
+      "https://openalex.org/W2032872185",
+      "https://openalex.org/W2036019810",
+      "https://openalex.org/W2043264835",
+      "https://openalex.org/W2050767659",
+      "https://openalex.org/W2050772162",
+      "https://openalex.org/W2050906267",
+      "https://openalex.org/W2054478417",
+      "https://openalex.org/W2056667587",
+      "https://openalex.org/W2058713133",
+      "https://openalex.org/W2060032297",
+      "https://openalex.org/W2061387348",
+      "https://openalex.org/W2062203705",
+      "https://openalex.org/W2063215475",
+      "https://openalex.org/W2069498987",
+      "https://openalex.org/W2074516193",
+      "https://openalex.org/W2076927423",
+      "https://openalex.org/W2083004372",
+      "https://openalex.org/W2083493811",
+      "https://openalex.org/W2088874969",
+      "https://openalex.org/W2089766868",
+      "https://openalex.org/W2093421311",
+      "https://openalex.org/W2095190716",
+      "https://openalex.org/W2106103672",
+      "https://openalex.org/W2107005703",
+      "https://openalex.org/W2113095835",
+      "https://openalex.org/W2131286481",
+      "https://openalex.org/W2144045807",
+      "https://openalex.org/W2151115437",
+      "https://openalex.org/W2151132680",
+      "https://openalex.org/W2160670416",
+      "https://openalex.org/W2161209152",
+      "https://openalex.org/W2330727590"
+    ],
+    "related_works": [
+      "https://openalex.org/W2243032035",
+      "https://openalex.org/W1520874777",
+      "https://openalex.org/W2087831239",
+      "https://openalex.org/W2552644464",
+      "https://openalex.org/W2137596672",
+      "https://openalex.org/W1971622984",
+      "https://openalex.org/W3144233281",
+      "https://openalex.org/W1836302035",
+      "https://openalex.org/W2089187383",
+      "https://openalex.org/W1980259009"
+    ],
+    "abstract_inverted_index": {
+      "Recently,": [
+        0
+      ],
+      "the": [
+        1,
+        30,
+        34,
+        61,
+        94,
+        118,
+        125,
+        130,
+        133,
+        139,
+        144,
+        150,
+        154,
+        164,
+        168,
+        171
+      ],
+      "strategy": [
+        2
+      ],
+      "of": [
+        3,
+        49,
+        63,
+        69,
+        88,
+        120,
+        124,
+        132,
+        143,
+        153,
+        167,
+        189
+      ],
+      "doping": [
+        4
+      ],
+      "inorganic": [
+        5,
+        19,
+        37
+      ],
+      "particles": [
+        6,
+        20,
+        38
+      ],
+      "into": [
+        7
+      ],
+      "polymer": [
+        8,
+        190
+      ],
+      "membranes": [
+        9
+      ],
+      "to": [
+        10,
+        51,
+        122
+      ],
+      "modify": [
+        11
+      ],
+      "them": [
+        12
+      ],
+      "has": [
+        13
+      ],
+      "been": [
+        14
+      ],
+      "studied": [
+        15
+      ],
+      "intensively.": [
+        16
+      ],
+      "However,": [
+        17
+      ],
+      "these": [
+        18
+      ],
+      "have": [
+        21,
+        173
+      ],
+      "a": [
+        22,
+        67
+      ],
+      "disadvantage": [
+        23
+      ],
+      "without": [
+        24
+      ],
+      "being": [
+        25
+      ],
+      "in": [
+        26,
+        66,
+        92,
+        163
+      ],
+      "good": [
+        27
+      ],
+      "compatibility": [
+        28,
+        35
+      ],
+      "with": [
+        29,
+        45
+      ],
+      "polymers.": [
+        31
+      ],
+      "To": [
+        32
+      ],
+      "enhance": [
+        33
+      ],
+      "between": [
+        36
+      ],
+      "and": [
+        39,
+        72,
+        81,
+        111,
+        170
+      ],
+      "polymers,": [
+        40
+      ],
+      "phosphorylated": [
+        41
+      ],
+      "silica": [
+        42
+      ],
+      "nanotubes": [
+        43,
+        56
+      ],
+      "(PSNTs)": [
+        44
+      ],
+      "specific": [
+        46,
+        140
+      ],
+      "high": [
+        47
+      ],
+      "ratios": [
+        48
+      ],
+      "length": [
+        50,
+        121,
+        180
+      ],
+      "diameter": [
+        52,
+        123,
+        152
+      ],
+      "are": [
+        53,
+        58,
+        77,
+        90,
+        97,
+        161,
+        184
+      ],
+      "prepared.": [
+        54
+      ],
+      "Silica": [
+        55
+      ],
+      "(SNTs)": [
+        57
+      ],
+      "prepared": [
+        59
+      ],
+      "through": [
+        60
+      ],
+      "hydrolysis": [
+        62
+      ],
+      "tetraethyl": [
+        64
+      ],
+      "orthosilicate": [
+        65
+      ],
+      "mixture": [
+        68
+      ],
+      "aqueous": [
+        70
+      ],
+      "ammonia": [
+        71
+      ],
+      "dl-tartaric": [
+        73
+      ],
+      "acid,": [
+        74
+      ],
+      "then": [
+        75
+      ],
+      "PSNTs": [
+        76,
+        89,
+        96,
+        126,
+        145,
+        155,
+        172,
+        183
+      ],
+      "obtained": [
+        78
+      ],
+      "by": [
+        79,
+        99
+      ],
+      "silylation": [
+        80
+      ],
+      "phosphorylation": [
+        82
+      ],
+      "modifications.": [
+        83
+      ],
+      "The": [
+        84,
+        114
+      ],
+      "optimum": [
+        85
+      ],
+      "synthesis": [
+        86
+      ],
+      "conditions": [
+        87
+      ],
+      "explored;": [
+        91
+      ],
+      "addition,": [
+        93
+      ],
+      "as-prepared": [
+        95
+      ],
+      "characterized": [
+        98
+      ],
+      "Fourier": [
+        100
+      ],
+      "transform": [
+        101
+      ],
+      "infrared,": [
+        102
+      ],
+      "transmission": [
+        103
+      ],
+      "electron": [
+        104
+      ],
+      "microscope,": [
+        105
+      ],
+      "BET,": [
+        106
+      ],
+      "x-ray": [
+        107
+      ],
+      "photoelectron": [
+        108
+      ],
+      "spectroscopy": [
+        109
+      ],
+      "analysis": [
+        110
+      ],
+      "thermogravimetric": [
+        112
+      ],
+      "analysis.": [
+        113
+      ],
+      "results": [
+        115
+      ],
+      "indicate": [
+        116
+      ],
+      "that": [
+        117
+      ],
+      "ratio": [
+        119
+      ],
+      "is": [
+        127,
+        136,
+        146,
+        156
+      ],
+      "approximately": [
+        128
+      ],
+      "20,": [
+        129
+      ],
+      "thickness": [
+        131
+      ],
+      "tube": [
+        134,
+        165
+      ],
+      "wall": [
+        135
+      ],
+      "20": [
+        137
+      ],
+      "nm,": [
+        138,
+        158
+      ],
+      "surface": [
+        141
+      ],
+      "area": [
+        142
+      ],
+      "460.2": [
+        147
+      ],
+      "m(2)": [
+        148
+      ],
+      "g(-1),": [
+        149
+      ],
+      "inner": [
+        151
+      ],
+      "76": [
+        157
+      ],
+      "many": [
+        159
+      ],
+      "mesopores": [
+        160
+      ],
+      "distributed": [
+        162
+      ],
+      "walls": [
+        166
+      ],
+      "PSNTs,": [
+        169
+      ],
+      "numerous": [
+        174
+      ],
+      "hydroxyl": [
+        175
+      ],
+      "active": [
+        176
+      ],
+      "sites": [
+        177
+      ],
+      "along": [
+        178
+      ],
+      "their": [
+        179
+      ],
+      "direction.": [
+        181
+      ],
+      "Therefore,": [
+        182
+      ],
+      "desirable": [
+        185
+      ],
+      "as": [
+        186
+      ],
+      "suitable": [
+        187
+      ],
+      "fillers": [
+        188
+      ],
+      "membranes.": [
+        191
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2026-10-30T12:39:25.321706",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

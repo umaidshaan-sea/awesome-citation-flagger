@@ -1,0 +1,795 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1371/journal.pone.0101602",
+  "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0101602",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:43.363652+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T11:39:25Z",
+      "timestamp": 1767181165510,
+      "version": "build-2238731810"
+    },
+    "reference-count": 51,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              7,
+              22
+            ]
+          ],
+          "date-time": "2014-07-22T00:00:00Z",
+          "timestamp": 1405987200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "DOI": "10.1371/journal.pone.0101602",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          22
+        ]
+      ],
+      "date-time": "2014-07-22T15:32:35Z",
+      "timestamp": 1406043155000
+    },
+    "page": "e101602",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Nuclear Factor Kappa-B Signaling Is Integral to Ocular Neovascularization in Ischemia-Independent Microenvironment"
+    ],
+    "prefix": "10.1371",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "DeNiro",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Futwan A.",
+        "family": "Al-Mohanna",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "3",
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1016/S0039-6257(98)00035-6",
+        "article-title": "Ocular neovascularization: an epidemiologic review",
+        "volume": "43",
+        "author": "P Lee",
+        "year": "1998",
+        "journal-title": "Surv Ophthalmol"
+      },
+      {
+        "issue": "3",
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1002/1097-4652(200009)184:3<301::AID-JCP3>3.0.CO;2-H",
+        "article-title": "Retinal and choroidal neovascularization",
+        "volume": "184",
+        "author": "PA Campochiaro",
+        "year": "2000",
+        "journal-title": "J Cell Physiol"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1480",
+        "DOI": "10.1056/NEJM199412013312203",
+        "article-title": "Vascular endothelial growth factor in ocular fluid of patients with diabetic retinopathy and other retinal disorders",
+        "volume": "331",
+        "author": "LP Aiello",
+        "year": "1994",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "6",
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "380",
+        "DOI": "10.1006/mcbr.2000.0243",
+        "article-title": "Advanced glycation end products induce blood-retinal barrier dysfunction in normoglycemic rats",
+        "volume": "3",
+        "author": "AW Stitt",
+        "year": "2000",
+        "journal-title": "Mol Cell Biol Res Commun"
+      },
+      {
+        "issue": "1",
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.2337/diab.44.1.98",
+        "article-title": "Comparative analysis of vascular endothelial growth factor receptors on retinal and aortic vascular endothelial cells",
+        "volume": "44",
+        "author": "H Thieme",
+        "year": "1995",
+        "journal-title": "Diabetes"
+      },
+      {
+        "issue": "4",
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1016/S0002-9394(14)75794-0",
+        "article-title": "Increased vascular endothelial growth factor levels in the vitreous of eyes with proliferative diabetic retinopathy",
+        "volume": "118",
+        "author": "AP Adamis",
+        "year": "1994",
+        "journal-title": "Am J Ophthalmol"
+      },
+      {
+        "issue": "4",
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1038/nrc780",
+        "article-title": "NF-kappaB in cancer: from innocent bystander to major culprit",
+        "volume": "2",
+        "author": "M Karin",
+        "year": "2002",
+        "journal-title": "Nat Rev Cancer"
+      },
+      {
+        "issue": "4",
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "824",
+        "DOI": "10.1016/j.celrep.2012.08.042",
+        "article-title": "The transcriptional specificity of NF-\u03baB dimers is coded within the \u03baB DNA response elements",
+        "volume": "25;2",
+        "author": "VY Wang",
+        "year": "2012",
+        "journal-title": "Cell Rep"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "e59021",
+        "DOI": "10.1371/journal.pone.0059021",
+        "article-title": "The nexus between VEGF and NF\u03baB orchestrates a hypoxia-independent neovasculogenesis",
+        "volume": "3",
+        "author": "M DeNiro",
+        "year": "2013",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "4226",
+        "DOI": "10.1182/blood.V84.12.4226.bloodjournal84124226",
+        "article-title": "YC-1, a novel activator of platelet guanylate cyclase",
+        "volume": "84",
+        "author": "FN Ko",
+        "year": "1994",
+        "journal-title": "Blood"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1628",
+        "DOI": "10.1158/1535-7163.MCT-05-0090",
+        "article-title": "YC-1 suppresses constitutive nuclear factor-kappaB activation and induces apoptosis in human prostate cancer cells",
+        "volume": "10",
+        "author": "YT Huang",
+        "year": "2005",
+        "journal-title": "Mol Cancer Ther"
+      },
+      {
+        "issue": "1",
+        "key": "ref12",
+        "first-page": "281",
+        "article-title": "Transgenic mice with increased expression of vascular endothelial growth factor in the retina: a new model of intraretinal and subretinal neovascularization",
+        "volume": "151",
+        "author": "N Okamoto",
+        "year": "1997",
+        "journal-title": "Am J Pathol"
+      },
+      {
+        "key": "ref13",
+        "first-page": "180",
+        "article-title": "Evolution of neovascularization in mice with overexpression of vascular endothelial growth factor in photoreceptors",
+        "volume": "1",
+        "author": "T Tobe",
+        "year": "1998",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "711",
+        "DOI": "10.1016/S0002-9440(10)64891-2",
+        "article-title": "Inducible expression of vascular endothelial growth factor in adult mice causes severe proliferative retinopathy and retinal detachment",
+        "volume": "2",
+        "author": "K Ohno-Matsui",
+        "year": "2002",
+        "journal-title": "Am J Pathol"
+      },
+      {
+        "key": "ref15",
+        "first-page": "99",
+        "article-title": "Upregulation of vascular endothelial growth factor in ischemic and non-ischemic human and experimental retinal disease",
+        "volume": "1",
+        "author": "SA Vinores",
+        "year": "1997",
+        "journal-title": "Pistol Histopathology"
+      },
+      {
+        "issue": "3",
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1016/S0161-6420(98)93020-2",
+        "article-title": "Vascular endothelial growth factor upregulation in human central retinal vein occlusion",
+        "volume": "105",
+        "author": "J Pe'er",
+        "year": "1998",
+        "journal-title": "Ophthalmology"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "180",
+        "DOI": "10.1002/stem.150180",
+        "article-title": "The regulation of neovascularization of matrix metalloproteinases and their inhibitors",
+        "volume": "15",
+        "author": "MA Moses",
+        "year": "1997",
+        "journal-title": "Stem Cells"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1167/iovs.02-0180",
+        "article-title": "Reduced choroidal neovascular membrane formation in matrix metalloproteinase-2-deficient mice",
+        "volume": "1",
+        "author": "L Berglin",
+        "year": "2003",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.2174/1876524601104010075",
+        "article-title": "Reversal of Retinal Vascular Changes Associated with Ocular Neovascularization by Small Molecules: Progress toward Identifying Molecular Targets for Therapeutic Intervention",
+        "volume": "4",
+        "year": "2011",
+        "journal-title": "The Open Diabetes Journal"
+      },
+      {
+        "issue": "6",
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "723",
+        "DOI": "10.1096/fj.05-5046fje",
+        "article-title": "Vasohibin is up-regulated by VEGF in the retina and suppresses VEGF receptor 2 and retinal",
+        "volume": "20",
+        "author": "J Shen",
+        "year": "2006",
+        "journal-title": "FASEB J"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1131",
+        "DOI": "10.2337/diabetes.48.5.1131",
+        "article-title": "Vascular endothelial growth factor activates nuclear factor-kappa B and induces monocyte chemoattractant protein-1 in bovine retinal endothelial cells",
+        "volume": "5",
+        "author": "T Marumo",
+        "year": "1999",
+        "journal-title": "Diabetes"
+      },
+      {
+        "key": "ref22",
+        "first-page": "167",
+        "article-title": "The role of proteases in fibronectin matrix remodeling in thyroid epithelial cell monolayer cultures",
+        "volume": "1",
+        "author": "L Nezi",
+        "year": "2002",
+        "journal-title": "Biol Chem"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "7614",
+        "DOI": "10.1074/jbc.M009705200",
+        "article-title": "Vascular endothelial growth factor expression of intercellular adhesion molecule 1 (ICAM-1), vascular cell adhesion molecule 1 (VCAM-1), and E-selectin through nuclear factor-kappa B activation in endothelial cells",
+        "volume": "10",
+        "author": "I Kim",
+        "year": "2001",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref24",
+        "first-page": "2015",
+        "article-title": "Vascular endothelial growth factor effects on nuclear factor-kappa B activation in hematopoietic progenitor cells",
+        "volume": "5",
+        "author": "MM Dikov",
+        "year": "2001",
+        "journal-title": "Cancer Res"
+      },
+      {
+        "issue": "7",
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "e22244",
+        "DOI": "10.1371/journal.pone.0022244",
+        "article-title": "Inhibition of reactive gliosis prevents neovascular growth in the mouse model of oxygen-induced retinopathy",
+        "volume": "2011;6",
+        "author": "M DeNiro",
+        "year": "2011",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "5",
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "700",
+        "DOI": "10.1016/j.exer.2009.06.013",
+        "article-title": "Modulating the hypoxia-inducible factor signaling pathway as a therapeutic modality to regulate retinal angiogenesis",
+        "volume": "89",
+        "author": "M DeNiro",
+        "year": "2009",
+        "journal-title": "Exp Eye Res"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "348",
+        "DOI": "10.1124/mol.109.061366",
+        "article-title": "Pleiotropic Effects of YC-1 Selectively Inhibits Pathological Retinal Neovascularization and Promotes Physiological Revascularization in a Mouse Model of Oxygen-Induced Retinopathy",
+        "volume": "3",
+        "author": "M DeNiro",
+        "year": "2010",
+        "journal-title": "Mol Pharmacol"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1097/00006982-200206000-00023",
+        "article-title": "Retinal neovascularization in choroidal melanoma without retinal ischemia",
+        "volume": "3",
+        "author": "JE Keunen",
+        "year": "2002",
+        "journal-title": "Retina"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1553",
+        "DOI": "10.1097/IAE.0b013e318246912c",
+        "article-title": "Ocular neovascularization associated with central and hemicentral retinal vein occlusion",
+        "volume": "8",
+        "author": "SS Hayreh",
+        "year": "2012",
+        "journal-title": "Retina"
+      },
+      {
+        "issue": "5",
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "940",
+        "DOI": "10.1160/TH04-03-0195",
+        "article-title": "A potential role of YC-1 on the inhibition of cytokine release in peripheral blood mononuclear leukocytes and endotoxemic mouse models",
+        "volume": "93",
+        "author": "SL Pan",
+        "year": "2005",
+        "journal-title": "Thromb Haemost"
+      },
+      {
+        "key": "ref31",
+        "first-page": "449",
+        "article-title": "Improvement of retinopathy in the diabetic treated with an intraperitoneal insulin pump",
+        "volume": "8",
+        "author": "S Zaluski",
+        "year": "1985",
+        "journal-title": "J Fr Ophtalmol"
+      },
+      {
+        "key": "ref32",
+        "first-page": "291",
+        "article-title": "Treatment of diabetic cystoid macular edema by argon laser photocoagulation",
+        "volume": "4",
+        "author": "A Gaudric",
+        "year": "1984",
+        "journal-title": "J Fr Ophtalmol"
+      },
+      {
+        "key": "ref33",
+        "first-page": "CD009510",
+        "article-title": "Anti-vascular endothelial growth factor for macular oedema secondary to branch retinal vein occlusion",
+        "volume": "1",
+        "author": "D Mitry",
+        "year": "2013",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1111/j.1464-5491.1986.tb00709.x",
+        "article-title": "Beneficial effect of glycaemic improvement in non-ischaemic forms of diabetic retinopathy: a 3-year follow-up",
+        "volume": "1",
+        "author": "JL Selam",
+        "year": "1986",
+        "journal-title": "Diabet Med"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "1325",
+        "DOI": "10.1038/eye.2010.23",
+        "article-title": "Intravitreal bevacizumab vs intravitreal triamcinolone combined with macular laser grid for diffuse diabetic macular oedema",
+        "volume": "8",
+        "author": "R Forte",
+        "year": "2010",
+        "journal-title": "Eye (Lond)"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1111/j.1755-3768.2009.01854.x",
+        "article-title": "Study of clinical applications and safety for Pascal laser photocoagulation in retinal vascular disorders",
+        "volume": "2",
+        "author": "MM Muqit",
+        "year": "2012",
+        "journal-title": "Acta Ophthalmol"
+      },
+      {
+        "key": "ref37",
+        "article-title": "Retinal Vacuities",
+        "volume": "Chapter 47",
+        "author": "F Fontanilla",
+        "year": "2006",
+        "journal-title": "Duane's Ophtlamology"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "659",
+        "DOI": "10.1007/s11596-010-0560-z",
+        "article-title": "Blockade of the sonic hedgehog signalling pathway inhibits choroidal neovascularization in a laser-induced rat model",
+        "volume": "5",
+        "author": "H He",
+        "year": "2010",
+        "journal-title": "J Huazhong Univ Sci Technolog Med Sci"
+      },
+      {
+        "key": "ref39",
+        "first-page": "557",
+        "article-title": "Effects of nicotinic antagonists on ocular growth and experimental myopia",
+        "volume": "3",
+        "author": "RA Stone",
+        "year": "2001",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "1473",
+        "DOI": "10.2337/diab.46.9.1473",
+        "article-title": "Vascular endothelial growth factor-induced retinal permeability is mediated by protein kinase C in vivo and suppressed by an orally effective beta-isoform-selective inhibitor",
+        "volume": "9",
+        "author": "LP Aiello",
+        "year": "1997",
+        "journal-title": "Diabetes"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1007/s00417-009-1153-z",
+        "article-title": "Effect of multiple injections of small divided doses vs single injection of intravitreal bevacizumab on retinal neovascular model in rabbits",
+        "volume": "4",
+        "author": "S Saati",
+        "year": "2010",
+        "journal-title": "Graefes Arch Clin Exp Ophthalmol"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "crossref",
+        "first-page": "4142",
+        "DOI": "10.1182/blood.V96.13.4142",
+        "article-title": "Stromal derived factor-1 and thrombopoietin regulate distinct aspects of human megakaryopoiesis",
+        "volume": "96",
+        "author": "M Majka",
+        "year": "2000",
+        "journal-title": "Blood"
+      },
+      {
+        "issue": "3",
+        "key": "ref43",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.4248/IJOS.09059",
+        "article-title": "CXCL12/SDF-1\u03b1 Activates NF-\u03baB and Promotes Oral Cancer Invasion through the Carma3/Bcl10/Malt1 Complex",
+        "volume": "1",
+        "author": "AO Rehman",
+        "year": "2009",
+        "journal-title": "Int J Oral Sci"
+      },
+      {
+        "issue": "38",
+        "key": "ref44",
+        "doi-asserted-by": "crossref",
+        "first-page": "36661",
+        "DOI": "10.1074/jbc.M301253200",
+        "article-title": "Vascular endothelial growth factor regulates focal adhesion assembly in human brain microvascular endothelial cells through activation of the focal adhesion kinase and related adhesion focal tyrosine kinase",
+        "volume": "19;278",
+        "author": "HK Avraham",
+        "year": "2003",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "issue": "12",
+        "key": "ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "4463",
+        "DOI": "10.1167/iovs.03-1201",
+        "article-title": "Focal adhesion kinase overexpression induces enhanced pathological retinal angiogenesis",
+        "volume": "45",
+        "author": "LJ Kornberg",
+        "year": "2004",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "issue": "10",
+        "key": "ref46",
+        "first-page": "713",
+        "article-title": "Electronic anesthesia versus topical anesthesia for the control of injection pain",
+        "volume": "25",
+        "author": "F Quarnstrom",
+        "year": "1994",
+        "journal-title": "Quintessence Int"
+      },
+      {
+        "issue": "10",
+        "key": "ref47",
+        "doi-asserted-by": "crossref",
+        "first-page": "e48332",
+        "DOI": "10.1371/journal.pone.0048332",
+        "article-title": "\u03b21 integrin-focal adhesion kinase (FAK) signaling modulates retinal ganglion cell (RGC) survival",
+        "volume": "7",
+        "author": "AR Santos",
+        "year": "2012",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "4",
+        "key": "ref48",
+        "doi-asserted-by": "crossref",
+        "first-page": "505",
+        "DOI": "10.1006/exer.1996.0239",
+        "article-title": "Intravitreal sustained release of VEGF causes retinal neovascularization in rabbits and breakdown of the blood-retinal barrier in rabbits and primates",
+        "volume": "64",
+        "author": "H Ozaki",
+        "year": "1997",
+        "journal-title": "Exp Eye Res"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1023/A:1014819832003",
+        "article-title": "Reactive oxygen species and regulation of gene expression",
+        "volume": "3",
+        "author": "KT Turpaev",
+        "year": "2002",
+        "journal-title": "Biochemistry (Mosc)"
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "crossref",
+        "first-page": "1791",
+        "DOI": "10.1089/ars.2006.8.1791",
+        "article-title": "Redox-sensitive kinases of the nuclear factor-kappa B signaling pathway",
+        "volume": "9\u201310",
+        "author": "C Pantano",
+        "year": "2006",
+        "journal-title": "Antioxid Redox Signal"
+      },
+      {
+        "issue": "2",
+        "key": "ref51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1190",
+        "DOI": "10.1167/iovs.09-4144",
+        "article-title": "Vascular endothelial growth factor as an autocrine survival factor for retinal pigment epithelial cells under oxidative stress via the VEGF-R2/PI3K/Akt",
+        "volume": "51",
+        "author": "SH Byeon",
+        "year": "2010",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1371/journal.pone.0227327",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              30
+            ]
+          ],
+          "date-time": "2019-12-30T00:00:00Z",
+          "timestamp": 1577664000000
+        },
+        "record-id": "21868"
+      },
+      {
+        "DOI": "10.1371/journal.pone.0227327",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              30
+            ]
+          ],
+          "date-time": "2019-12-30T00:00:00Z",
+          "timestamp": 1577664000000
+        }
+      }
+    ],
+    "container-title": [
+      "PLoS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0101602",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2020-08-22T09:37:35Z",
+      "timestamp": 1598089055000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0101602"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Alexander V.",
+        "family": "Ljubimov",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          22
+        ]
+      ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+      "issue": "7",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            7,
+            22
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0101602",
+    "relation": {},
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          22
+        ]
+      ]
+    }
+  }
+}

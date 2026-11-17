@@ -1,0 +1,893 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1186/s12885-019-5593-5",
+  "url": "https://api.crossref.org/works/10.1186%2Fs12885-019-5593-5",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:15.130253+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2026-02-25T13:19:38Z",
+      "timestamp": 1772025578312,
+      "version": "3.50.1"
+    },
+    "reference-count": 36,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              29
+            ]
+          ],
+          "date-time": "2019-04-29T00:00:00Z",
+          "timestamp": 1556496000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              29
+            ]
+          ],
+          "date-time": "2019-04-29T00:00:00Z",
+          "timestamp": 1556496000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "81572654"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "81572654"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010877",
+        "name": "Shenzhen Science and Technology Innovation Commission",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "JCYJ20160428173933559, JCYJ20150403091443303"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "JCYJ20160428173933559, JCYJ20150403091443303"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010877",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100010877",
+        "name": "Shenzhen Science and Technology Innovation Commission",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "JCYJ20150403091443286 and SZBC2017023"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "JCYJ20150403091443286 and SZBC2017023"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100010877",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Cancer"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Oral squamous cell carcinoma (OSCC) is an oral and maxillofacial malignancy with a high incidence worldwide. Accumulating evidence indicates that circular RNAs (circRNAs) play a vital role in modulating tumor development. However, the mechanism of circRNA action in human OSCC remains largely unknown.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>By using high-throughput transcriptome sequencing technology, we conducted a comprehensive study of circRNAs in human OSCC. The effect of circRNA hsa_circ_0005379 on OSCC tissues and cell lines was monitored by qRT-PCR, Transwell assay, flow cytometry, and western blot analysis. Xenograft mouse models were used to assess tumor growth and animal survival.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>We found that circRNA hsa_circ_0005379 expression is significantly lower in OSCC tissue compared to paired non-cancerous matched tissue and is associated with tumor size and differentiation. Overexpression of hsa_circ_0005379 effectively inhibits migration, invasion, and proliferation of OSCC cells in vitro and suppresses OSCC growth in nude mice in vivo. Mechanistic studies revealed that hsa_circ_0005379 may be involved in the regulation of the epidermal growth factor receptor (EGFR) pathway. Furthermore, we found that high expression of hsa_circ_0005379 could significantly enhance the sensitivity of OSCC to the cetuximab drug.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>Our findings provide evidence that hsa_circ_0005379 regulates OSCC malignancy and may be a new therapeutic target for OSCC treatment.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1186/s12885-019-5593-5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2019-04-29T13:29:58Z",
+      "timestamp": 1556544598000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 34,
+    "title": [
+      "RETRACTED ARTICLE: Hsa_circ_0005379 regulates malignant behavior of oral squamous cell carcinoma through the EGFR pathway"
+    ],
+    "prefix": "10.1186",
+    "volume": "19",
+    "author": [
+      {
+        "given": "Wen",
+        "family": "Su",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yufan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Feng",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shuai",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Minghua",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8080-7039",
+        "authenticated-orcid": false,
+        "given": "Yuehong",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0367-4938",
+        "authenticated-orcid": false,
+        "given": "Hongyu",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "5593_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "395",
+        "DOI": "10.1007/s00268-015-3356-2",
+        "volume": "40",
+        "author": "PB Di",
+        "year": "2016",
+        "unstructured": "Di PB, Bronson NW, Diggs BS, Jr TC, Hunter JG, Dolan JP. The global burden of esophageal Cancer: a disability-adjusted life-year approach. World J Surg. 2016;40:395\u2013401. https://doi.org/10.1007/s00268-015-3356-2.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "key": "5593_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "74",
+        "DOI": "10.3322/canjclin.55.2.74",
+        "volume": "55",
+        "author": "DM Parkin",
+        "year": "2009",
+        "unstructured": "Parkin DM, Bray F, Ferlay J, Pisani P. Global Cancer statistics, 2002. CA Cancer J Clin. 2009;55:74\u2013108. https://doi.org/10.3322/canjclin.55.2.74.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "5593_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "225",
+        "DOI": "10.3322/caac.20006",
+        "volume": "59",
+        "author": "A Jemal",
+        "year": "2009",
+        "unstructured": "Jemal A, Siegel R, Ward E, Hao Y, Xu J, Thun MJ. Cancer statistics, 2009. CA Cancer J Clin. 2009;59:225\u201349. https://doi.org/10.3322/caac.20006.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "5593_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "423",
+        "DOI": "10.1007/s10147-014-0689-z",
+        "volume": "19",
+        "author": "K Omura",
+        "year": "2014",
+        "unstructured": "Omura K. Current status of oral cancer treatment strategies: surgical treatments for oral squamous cell carcinoma. Int J Clin Oncol. 2014;19:423\u201330. https://doi.org/10.1007/s10147-014-0689-z.",
+        "journal-title": "Int J Clin Oncol"
+      },
+      {
+        "key": "5593_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1003777",
+        "DOI": "10.1371/journal.pgen.1003777",
+        "volume": "9",
+        "author": "J Salzman",
+        "year": "2013",
+        "unstructured": "Salzman J, Chen RE, Olsen MN, Wang PL, Brown PO. Cell-type specific features of circular RNA expression. PLoS Genet. 2013;9:e1003777. https://doi.org/10.1371/journal.pgen.1003777.",
+        "journal-title": "PLoS Genet"
+      },
+      {
+        "key": "5593_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "141",
+        "DOI": "10.1261/rna.035667.112",
+        "volume": "19",
+        "author": "WR Jeck",
+        "year": "2013",
+        "unstructured": "Jeck WR, Sorrentino JA, Wang K, Slevin MK, Burd CE, Liu J, Marzluff WF, Sharpless NE. Circular RNAs are abundant, conserved, and associated with ALU repeats. RNA N Y N. 2013;19:141\u201357. https://doi.org/10.1261/rna.035667.112.",
+        "journal-title": "RNA N Y N"
+      },
+      {
+        "key": "5593_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "870",
+        "DOI": "10.1016/j.molcel.2015.03.027",
+        "volume": "58",
+        "author": "A Rybak-Wolf",
+        "year": "2015",
+        "unstructured": "Rybak-Wolf A, Stottmeister C, Gla\u017ear P, Jens M, Pino N, Giusti S, Hanan M, Behm M, Bartok O, Ashwal-Fluss R, Herzog M, Schreyer L, Papavasileiou P, Ivanov A, \u00d6hman M, Refojo D, Kadener S, Rajewsky N. Circular RNAs in the mammalian brain are highly abundant, conserved, and dynamically expressed. Mol Cell. 2015;58:870\u201385. https://doi.org/10.1016/j.molcel.2015.03.027.",
+        "journal-title": "Mol Cell"
+      },
+      {
+        "key": "5593_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "359",
+        "DOI": "10.1136/jmedgenet-2016-103758",
+        "volume": "53",
+        "author": "Y Chen",
+        "year": "2016",
+        "unstructured": "Chen Y, Li C, Tan C, Liu X. Circular RNAs: a new frontier in the study of human diseases. J Med Genet. 2016;53:359\u201365. https://doi.org/10.1136/jmedgenet-2016-103758.",
+        "journal-title": "J Med Genet"
+      },
+      {
+        "key": "5593_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1186/s13045-016-0370-2",
+        "volume": "10",
+        "author": "Y Dong",
+        "year": "2017",
+        "unstructured": "Dong Y, He D, Peng Z, Peng W, Shi W, Wang J, Li B, Zhang C, Duan C. Circular RNAs in cancer: an emerging key player. J. Hematol. Oncol. 2017;10:2. https://doi.org/10.1186/s13045-016-0370-2.",
+        "journal-title": "J. Hematol. Oncol"
+      },
+      {
+        "key": "5593_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "37982",
+        "DOI": "10.1038/srep37982",
+        "volume": "6",
+        "author": "Y Dou",
+        "year": "2016",
+        "unstructured": "Dou Y, Cha DJ, Franklin JL, Higginbotham JN, Jeppesen DK, Weaver AM, Prasad N, Levy S, Coffey RJ, Patton JG, Zhang B. Circular RNAs are down-regulated in KRAS mutant colon cancer cells and can be transferred to exosomes. Sci Rep. 2016;6:37982. https://doi.org/10.1038/srep37982.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "5593_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "208",
+        "DOI": "10.1016/j.canlet.2016.12.006",
+        "volume": "388",
+        "author": "J Chen",
+        "year": "2017",
+        "unstructured": "Chen J, Li Y, Zheng Q, Bao C, He J, Chen B, Lyu D, Zheng B, Xu Y, Long Z, Zhou Y, Zhu H, Wang Y, He X, Shi Y, Huang S. Circular RNA profile identifies circPVT1 as a proliferative factor and prognostic marker in gastric cancer. Cancer Lett. 2017;388:208\u201319. https://doi.org/10.1016/j.canlet.2016.12.006.",
+        "journal-title": "Cancer Lett"
+      },
+      {
+        "key": "5593_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "398",
+        "DOI": "10.3389/fonc.2018.00398",
+        "volume": "8",
+        "author": "Y Wang",
+        "year": "2018",
+        "unstructured": "Wang Y, Li B, Sun S, Li X, Su W, Wang Z, Wang F, Zhang W, Yang H. Circular\u2002RNA expression\u2002in\u2002Oral\u2002squamous cell carcinoma. Front Oncol. 2018;8:398. https://doi.org/10.3389/fonc.2018.00398.",
+        "journal-title": "Front Oncol"
+      },
+      {
+        "key": "5593_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "ZE18",
+        "DOI": "10.7860/JCDR/2016/19967.8565",
+        "volume": "10",
+        "author": "RM Bavle",
+        "year": "2016",
+        "unstructured": "Bavle RM, Venugopal R, Konda P, Muniswamappa S, Makarla S. Molecular classification of Oral squamous cell carcinoma. J Clin Diagn Res JCDR. 2016;10:ZE18\u201321. https://doi.org/10.7860/JCDR/2016/19967.8565.",
+        "journal-title": "J Clin Diagn Res JCDR"
+      },
+      {
+        "issue": "5",
+        "key": "5593_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "180002",
+        "DOI": "10.1098/rsob.180002",
+        "volume": "8",
+        "author": "Kirsteen J. Campbell",
+        "year": "2018",
+        "unstructured": "Campbell KJ, Tait SWG. Targeting BCL-2 regulated apoptosis in cancer. Open Biol. 2018;8. https://doi.org/10.1098/rsob.180002.",
+        "journal-title": "Open Biology"
+      },
+      {
+        "key": "5593_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "313",
+        "DOI": "10.1002/med.21379",
+        "volume": "36",
+        "author": "Z Liu",
+        "year": "2016",
+        "unstructured": "Liu Z, Ding Y, Ye N, Wild C, Chen H, Zhou J. Direct activation of Bax protein for Cancer therapy. Med Res Rev. 2016;36:313\u201341. https://doi.org/10.1002/med.21379.",
+        "journal-title": "Med Res Rev"
+      },
+      {
+        "key": "5593_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "4647",
+        "DOI": "10.1242/jcs.126573",
+        "volume": "126",
+        "author": "A Jacob",
+        "year": "2013",
+        "unstructured": "Jacob A, Jing J, Lee J, Schedin P, Gilbert SM, Peden AA, Junutula JR, Prekeris R. Rab40b regulates trafficking of MMP2 and MMP9 during invadopodia formation and invasion of breast cancer cells. J Cell Sci. 2013;126:4647\u201358. https://doi.org/10.1242/jcs.126573.",
+        "journal-title": "J Cell Sci"
+      },
+      {
+        "key": "5593_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "96",
+        "DOI": "10.1016/j.oraloncology.2018.06.007",
+        "volume": "83",
+        "author": "P Ramos-Garc\u00eda",
+        "year": "2018",
+        "unstructured": "Ramos-Garc\u00eda P, Gonz\u00e1lez-Moles M\u00c1, Gonz\u00e1lez-Ruiz L, Ruiz-\u00c1vila I, Ay\u00e9n \u00c1, Gil-Montoya JA. Prognostic and clinicopathological significance of cyclin D1 expression in oral squamous cell carcinoma: a systematic review and meta-analysis. Oral Oncol. 2018;83:96\u2013106. https://doi.org/10.1016/j.oraloncology.2018.06.007.",
+        "journal-title": "Oral Oncol"
+      },
+      {
+        "key": "5593_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "361",
+        "DOI": "10.1007/s11684-018-0656-6",
+        "volume": "12",
+        "author": "Y Zhang",
+        "year": "2018",
+        "unstructured": "Zhang Y, Weinberg RA. Epithelial-to-mesenchymal transition in cancer: complexity and opportunities. Front Med. 2018;12:361\u201373. https://doi.org/10.1007/s11684-018-0656-6.",
+        "journal-title": "Front Med"
+      },
+      {
+        "key": "5593_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "212",
+        "DOI": "10.3322/caac.20121",
+        "volume": "61",
+        "author": "R Siegel",
+        "year": "2011",
+        "unstructured": "Siegel R, Ward E, Brawley O, Jemal A. Cancer statistics, 2011: the impact of eliminating socioeconomic and racial disparities on premature cancer deaths. CA Cancer J Clin. 2011;61:212\u201336. https://doi.org/10.3322/caac.20121.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "5593_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "433",
+        "DOI": "10.1016/j.oraloncology.2003.09.013",
+        "volume": "40",
+        "author": "C La Vecchia",
+        "year": "2004",
+        "unstructured": "La Vecchia C, Lucchini F, Negri E, Levi F. Trends in oral cancer mortality in Europe. Oral Oncol. 2004;40:433\u20139. https://doi.org/10.1016/j.oraloncology.2003.09.013.",
+        "journal-title": "Oral Oncol"
+      },
+      {
+        "key": "5593_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "239",
+        "DOI": "10.1158/2159-8290.CD-14-1205",
+        "volume": "5",
+        "author": "PS Hammerman",
+        "year": "2015",
+        "unstructured": "Hammerman PS, Hayes DN, Grandis JR. Therapeutic insights from genomic studies of head and neck squamous cell carcinomas. Cancer Discov. 2015;5:239\u201344. https://doi.org/10.1158/2159-8290.CD-14-1205.",
+        "journal-title": "Cancer Discov."
+      },
+      {
+        "key": "5593_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1018",
+        "DOI": "10.1016/j.ijrobp.2004.01.021",
+        "volume": "59",
+        "author": "GA Plataniotis",
+        "year": "2004",
+        "unstructured": "Plataniotis GA, Theofanopoulou M-E, Kalogera-Fountzila A, Haritanti A, Ciuleanou E, Ghilezan N, Zamboglou N, Dimitriadis A, Sofroniadis I, Fountzilas G. Prognostic impact of tumor volumetry in patients with locally advanced head-and-neck carcinoma (non-nasopharyngeal) treated by radiotherapy alone or combined radiochemotherapy in a randomized trial. Int J Radiat Oncol Biol Phys. 2004;59:1018\u201326. https://doi.org/10.1016/j.ijrobp.2004.01.021.",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "5593_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "309",
+        "DOI": "10.1016/j.tig.2016.03.002",
+        "volume": "32",
+        "author": "J Salzman",
+        "year": "2016",
+        "unstructured": "Salzman J. Circular RNA expression: its potential regulation and function. Trends Genet TIG. 2016;32:309\u201316. https://doi.org/10.1016/j.tig.2016.03.002.",
+        "journal-title": "Trends Genet TIG"
+      },
+      {
+        "key": "5593_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "98",
+        "DOI": "10.1186/s13045-018-0643-z",
+        "volume": "11",
+        "author": "Y Geng",
+        "year": "2018",
+        "unstructured": "Geng Y, Jiang J, Wu C. Function and clinical significance of circRNAs in solid tumors. J Hematol Oncol. 2018;11:98. https://doi.org/10.1186/s13045-018-0643-z.",
+        "journal-title": "J Hematol Oncol"
+      },
+      {
+        "key": "5593_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1186/s12943-017-0598-7",
+        "volume": "16",
+        "author": "Y Wang",
+        "year": "2017",
+        "unstructured": "Wang Y, Mo Y, Gong Z, Yang X, Yang M, Zhang S, Xiong F, Xiang B, Zhou M, Liao Q, Zhang W, Li X, Li X, Li Y, Li G, Zeng Z, Xiong W. Circular RNAs in human cancer. Mol Cancer. 2017;16:25. https://doi.org/10.1186/s12943-017-0598-7.",
+        "journal-title": "Mol Cancer"
+      },
+      {
+        "key": "5593_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "3106",
+        "DOI": "10.7150/thno.19016",
+        "volume": "7",
+        "author": "Z Yang",
+        "year": "2017",
+        "unstructured": "Yang Z, Xie L, Han L, Qu X, Yang Y, Zhang Y, He Z, Wang Y, Li J. Circular RNAs: regulators of Cancer-related signaling pathways and potential diagnostic biomarkers for human cancers. Theranostics. 2017;7:3106\u201317. https://doi.org/10.7150/thno.19016.",
+        "journal-title": "Theranostics"
+      },
+      {
+        "key": "5593_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.1016/j.gde.2017.11.007",
+        "volume": "48",
+        "author": "IL Patop",
+        "year": "2018",
+        "unstructured": "Patop IL, Kadener S. circRNAs in Cancer. Curr Opin Genet Dev. 2018;48:121\u20137. https://doi.org/10.1016/j.gde.2017.11.007.",
+        "journal-title": "Curr Opin Genet Dev"
+      },
+      {
+        "key": "5593_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "134",
+        "DOI": "10.1016/j.cellsig.2017.10.009",
+        "volume": "42",
+        "author": "F Momen-Heravi",
+        "year": "2018",
+        "unstructured": "Momen-Heravi F, Bala S. Emerging role of non-coding RNA in oral cancer. Cell Signal. 2018;42:134\u201343. https://doi.org/10.1016/j.cellsig.2017.10.009.",
+        "journal-title": "Cell Signal"
+      },
+      {
+        "key": "5593_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "4551",
+        "DOI": "10.1038/onc.2017.89",
+        "volume": "36",
+        "author": "L Chen",
+        "year": "2017",
+        "unstructured": "Chen L, Zhang S, Wu J, Cui J, Zhong L, Zeng L, Ge S. circRNA_100290 plays a role in oral cancer by functioning as a sponge of the miR-29 family. Oncogene. 2017;36:4551\u201361. https://doi.org/10.1038/onc.2017.89.",
+        "journal-title": "Oncogene"
+      },
+      {
+        "key": "5593_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "696",
+        "DOI": "10.1158/2159-8290.CD-17-1260",
+        "volume": "8",
+        "author": "SB Maron",
+        "year": "2018",
+        "unstructured": "Maron SB, Alpert L, Kwak HA, Lomnicki S, Chase L, Xu D, O\u2019Day E, Nagy RJ, Lanman RB, Cecchi F, Hembrough T, Schrock A, Hart J, Xiao S-Y, Setia N, Catenacci DVT. Targeted therapies for targeted populations: anti-EGFR treatment for EGFR-amplified gastroesophageal adenocarcinoma. Cancer Discov. 2018;8:696\u2013713. https://doi.org/10.1158/2159-8290.CD-17-1260.",
+        "journal-title": "Cancer Discov"
+      },
+      {
+        "key": "5593_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "2233",
+        "DOI": "10.1158/0008-5472.CAN-17-2528",
+        "volume": "78",
+        "author": "K Daizumoto",
+        "year": "2018",
+        "unstructured": "Daizumoto K, Yoshimaru T, Matsushita Y, Fukawa T, Uehara H, Ono M, Komatsu M, Kanayama H-O, Katagiri T. A DDX31/mutant-p53/EGFR Axis promotes multistep progression of muscle-invasive bladder Cancer. Cancer Res. 2018;78:2233\u201347. https://doi.org/10.1158/0008-5472.CAN-17-2528.",
+        "journal-title": "Cancer Res"
+      },
+      {
+        "key": "5593_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1284",
+        "DOI": "10.1002/(SICI)1097-0142(19960915)78:6<1284::AID-CNCR17>3.0.CO;2-X",
+        "volume": "78",
+        "author": "J Rubin Grandis",
+        "year": "1996",
+        "unstructured": "Rubin Grandis J, Melhem MF, Barnes EL, Tweardy DJ. Quantitative immunohistochemical analysis of transforming growth factor-alpha and epidermal growth factor receptor in patients with squamous cell carcinoma of the head and neck. Cancer. 1996;78:1284\u201392. https://doi.org/10.1002/(SICI)1097-0142(19960915)78:6<1284::AID-CNCR17>3.0.CO;2-X.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "5593_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "794",
+        "DOI": "10.1093/annonc/mdy065",
+        "volume": "29",
+        "author": "V Vigneswara",
+        "year": "2018",
+        "unstructured": "Vigneswara V, Kong A. Predictive biomarkers and EGFR inhibitors in squamous cell carcinoma of head and neck (SCCHN). Ann Oncol Off J Eur Soc. Med Oncol. 2018;29:794\u20136. https://doi.org/10.1093/annonc/mdy065.",
+        "journal-title": "Ann Oncol Off J Eur Soc. Med Oncol"
+      },
+      {
+        "key": "5593_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "i10",
+        "DOI": "10.1093/annonc/mdx703",
+        "volume": "29",
+        "author": "D Westover",
+        "year": "2018",
+        "unstructured": "Westover D, Zugazagoitia J, Cho BC, Lovly CM, Paz-Ares L. Mechanisms of acquired resistance to first- and second-generation EGFR tyrosine kinase inhibitors. Ann Oncol Off J Eur Soc Med Oncol. 2018;29:i10\u20139. https://doi.org/10.1093/annonc/mdx703.",
+        "journal-title": "Ann Oncol Off J Eur Soc Med Oncol"
+      },
+      {
+        "key": "5593_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "250",
+        "DOI": "10.1111/jop.12116",
+        "volume": "43",
+        "author": "W Dai",
+        "year": "2014",
+        "unstructured": "Dai W, Li Y, Zhou Q, Xu Z, Sun C, Tan X, Lu L. Cetuximab inhibits Oral squamous cell carcinoma invasion and metastasis via degradation of epidermal growth factor receptor. J Oral Pathol Med Off Publ Int Assoc Oral Pathol Am Acad. Oral Pathol. 2014;43:250\u20137. https://doi.org/10.1111/jop.12116.",
+        "journal-title": "J Oral Pathol Med Off Publ Int Assoc Oral Pathol Am Acad. Oral Pathol"
+      },
+      {
+        "key": "5593_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "246",
+        "DOI": "10.3892/mco.2016.928",
+        "volume": "5",
+        "author": "T Naruse",
+        "year": "2016",
+        "unstructured": "Naruse T, Yanamoto S, Matsushita Y, Sakamoto Y, Morishita K, Ohba S, Shiraishi T, Yamada S-I, Asahina I, Umeda M. Cetuximab for the treatment of locally advanced and recurrent/metastatic oral cancer: an investigation of distant metastasis. Mol Clin Oncol. 2016;5:246\u201352. https://doi.org/10.3892/mco.2016.928.",
+        "journal-title": "Mol Clin Oncol"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1186/s12885-023-11178-6",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2023-07-17T00:00:00Z",
+          "timestamp": 1689552000000
+        },
+        "record-id": "46034"
+      },
+      {
+        "DOI": "10.1186/s12885-023-11178-6",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2023-07-17T00:00:00Z",
+          "timestamp": 1689552000000
+        }
+      }
+    ],
+    "container-title": [
+      "BMC Cancer"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12885-019-5593-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1186/s12885-019-5593-5/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12885-019-5593-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2023-07-17T15:03:00Z",
+      "timestamp": 1689606180000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://bmccancer.biomedcentral.com/articles/10.1186/s12885-019-5593-5"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          29
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "5593"
+    ],
+    "URL": "https://doi.org/10.1186/s12885-019-5593-5",
+    "relation": {},
+    "ISSN": [
+      "1471-2407"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2407",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          29
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "24 November 2018",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 April 2019",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "29 April 2019",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "17 July 2023",
+        "order": 4,
+        "name": "change_date",
+        "label": "Change Date",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Correction",
+        "order": 5,
+        "name": "change_type",
+        "label": "Change Type",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This article has been retracted. Please see the Retraction Notice for more detail:",
+        "order": 6,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "https://doi.org/10.1186/s12885-023-11178-6",
+        "URL": "https://doi.org/10.1186/s12885-023-11178-6",
+        "order": 7,
+        "name": "change_details",
+        "label": "Change Details",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "All patients were informed in accordance with the ethical guidelines of Peking University (Protocol No.37923/2-3-2012). This study was approved by the Ethics Committee of Peking University Health Science Center (IRB00001053\u201308043).",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval and consent to participate"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      },
+      {
+        "value": "The authors declare that they have no competing interests.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      },
+      {
+        "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Publisher\u2019s Note"
+        }
+      }
+    ],
+    "article-number": "400"
+  }
+}

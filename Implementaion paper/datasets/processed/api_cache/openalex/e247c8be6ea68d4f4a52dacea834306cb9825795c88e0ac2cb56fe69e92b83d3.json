@@ -1,0 +1,634 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1007/s13204-021-01976-4",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1007%2Fs13204-021-01976-4",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:37.664458+00:00",
+  "record": {
+    "id": "https://openalex.org/W3185310427",
+    "doi": "https://doi.org/10.1007/s13204-021-01976-4",
+    "title": "RETRACTED ARTICLE: Mathematical modeling of carbon nanotube nanofluid behavior within mechanical system considering gradient effects",
+    "display_name": "RETRACTED ARTICLE: Mathematical modeling of carbon nanotube nanofluid behavior within mechanical system considering gradient effects",
+    "publication_year": 2021,
+    "publication_date": "2021-07-19",
+    "ids": {
+      "openalex": "https://openalex.org/W3185310427",
+      "doi": "https://doi.org/10.1007/s13204-021-01976-4",
+      "mag": "3185310427"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1007/s13204-021-01976-4",
+      "doi": "https://doi.org/10.1007/s13204-021-01976-4",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s13204-021-01976-4",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13204-021-01976-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764818521",
+        "display_name": "Applied Nanoscience",
+        "issn_l": "2190-5509",
+        "issn": [
+          "2190-5509",
+          "2190-5517"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-20"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Nanoscience",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s13204-021-01976-4.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5057811487",
+          "display_name": "Nidal H. Abu\u2010Hamdeh",
+          "orcid": "https://orcid.org/0000-0002-4852-2217",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4852-2217",
+            "https://orcid.org/0000-0001-6380-3810"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I185163786",
+            "display_name": "King Abdulaziz University",
+            "ror": "https://ror.org/02ma4wv74",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I185163786"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nidal H. Abu-Hamdeh",
+        "raw_affiliation_strings": [
+          "Center of Research Excellence in Renewable Energy and Power Systems, and Department of Mechanical Engineering, Faculty of Engineering, K. A. CARE Energy Research and Innovation Center, King Abdulaziz University, Jeddah, Saudi Arabia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Center of Research Excellence in Renewable Energy and Power Systems, and Department of Mechanical Engineering, Faculty of Engineering, K. A. CARE Energy Research and Innovation Center, King Abdulaziz University, Jeddah, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I185163786"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046523560",
+          "display_name": "Khaled A. Alnefaie",
+          "orcid": "https://orcid.org/0000-0003-0639-1359",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0639-1359"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I185163786",
+            "display_name": "King Abdulaziz University",
+            "ror": "https://ror.org/02ma4wv74",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I185163786"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Khaled A. Alnefaie",
+        "raw_affiliation_strings": [
+          "Mechanical Engineering Department, Faculty of Engineering, King Abdulaziz University, Jeddah, Saudi Arabia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Mechanical Engineering Department, Faculty of Engineering, King Abdulaziz University, Jeddah, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I185163786"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5090729037",
+          "display_name": "Mahmoud Mohamed Selim",
+          "orcid": "https://orcid.org/0000-0002-9727-4520",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9727-4520"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130009713",
+            "display_name": "Suez University",
+            "ror": "https://ror.org/00ndhrx30",
+            "country_code": "EG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130009713"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I142608572",
+            "display_name": "Prince Sattam Bin Abdulaziz University",
+            "ror": "https://ror.org/04jt46d36",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I142608572"
+            ]
+          }
+        ],
+        "countries": [
+          "EG",
+          "SA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Mahmoud M. Selim",
+        "raw_affiliation_strings": [
+          "Department of Mathematics, Al-Aflaj College of Science and Humanities Studies, Prince Sattam Bin Abdulaziz University, Al-Aflaj, 710-11912, Saudi Arabia",
+          "Department of Mathematics, Suez Faculty of Science, Suez University, Suez, Egypt"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mathematics, Al-Aflaj College of Science and Humanities Studies, Prince Sattam Bin Abdulaziz University, Al-Aflaj, 710-11912, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I142608572"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Mathematics, Suez Faculty of Science, Suez University, Suez, Egypt",
+            "institution_ids": [
+              "https://openalex.org/I130009713"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5090729037"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I130009713",
+      "https://openalex.org/I142608572"
+    ],
+    "apc_list": {
+      "value": 3280,
+      "currency": "USD",
+      "value_usd": 3280
+    },
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": true,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.0733027,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "13",
+      "issue": "4",
+      "first_page": "3097",
+      "last_page": "3097"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10104",
+      "display_name": "Nanofluid Flow and Heat Transfer",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10104",
+        "display_name": "Nanofluid Flow and Heat Transfer",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2204",
+          "display_name": "Biomedical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12063",
+        "display_name": "Heat and Mass Transfer in Porous Media",
+        "score": 0.00039999998989515007,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2206",
+          "display_name": "Computational Mechanics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13116",
+        "display_name": "Heat Transfer and Numerical Methods",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2206",
+          "display_name": "Computational Mechanics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/carbon-nanotube-nanofluid",
+        "display_name": "carbon nanotube nanofluid",
+        "score": 0.9639999866485596
+      },
+      {
+        "id": "https://openalex.org/keywords/hybrid-nanofluid",
+        "display_name": "hybrid nanofluid",
+        "score": 0.7649999856948853
+      },
+      {
+        "id": "https://openalex.org/keywords/multi-walled-carbon-nanotubes",
+        "display_name": "multi-walled carbon nanotubes",
+        "score": 0.531000018119812
+      },
+      {
+        "id": "https://openalex.org/keywords/iron-oxide-nanoparticles",
+        "display_name": "iron oxide nanoparticles",
+        "score": 0.8769999742507935
+      },
+      {
+        "id": "https://openalex.org/keywords/magnetohydrodynamics",
+        "display_name": "magnetohydrodynamics",
+        "score": 0.8600000143051147
+      },
+      {
+        "id": "https://openalex.org/keywords/darcy-number",
+        "display_name": "Darcy number",
+        "score": 0.4620000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/permeability",
+        "display_name": "permeability",
+        "score": 0.5350000262260437
+      },
+      {
+        "id": "https://openalex.org/keywords/radiative-fluxes",
+        "display_name": "radiation flux",
+        "score": 0.5199999809265137
+      },
+      {
+        "id": "https://openalex.org/keywords/buoyancy",
+        "display_name": "buoyancy",
+        "score": 0.6880000233650208
+      },
+      {
+        "id": "https://openalex.org/keywords/eddy-formation",
+        "display_name": "eddy formation",
+        "score": 0.5509999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/heat-transfer",
+        "display_name": "heat transfer",
+        "score": 0.6290000081062317
+      },
+      {
+        "id": "https://openalex.org/keywords/nusselt-number",
+        "display_name": "Nusselt number",
+        "score": 0.6700000166893005
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C21946209",
+        "wikidata": "https://www.wikidata.org/wiki/Q1989679",
+        "display_name": "Nanofluid",
+        "level": 3,
+        "score": 0.9573565721511841
+      },
+      {
+        "id": "https://openalex.org/C180238147",
+        "wikidata": "https://www.wikidata.org/wiki/Q1443081",
+        "display_name": "Nanochemistry",
+        "level": 2,
+        "score": 0.9383912086486816
+      },
+      {
+        "id": "https://openalex.org/C513720949",
+        "wikidata": "https://www.wikidata.org/wiki/Q1778729",
+        "display_name": "Carbon nanotube",
+        "level": 2,
+        "score": 0.8528292179107666
+      },
+      {
+        "id": "https://openalex.org/C192562407",
+        "wikidata": "https://www.wikidata.org/wiki/Q228736",
+        "display_name": "Materials science",
+        "level": 0,
+        "score": 0.5405821204185486
+      },
+      {
+        "id": "https://openalex.org/C171250308",
+        "wikidata": "https://www.wikidata.org/wiki/Q11468",
+        "display_name": "Nanotechnology",
+        "level": 1,
+        "score": 0.5029730200767517
+      },
+      {
+        "id": "https://openalex.org/C2777619693",
+        "wikidata": "https://www.wikidata.org/wiki/Q539430",
+        "display_name": "Nanotube",
+        "level": 3,
+        "score": 0.450868159532547
+      },
+      {
+        "id": "https://openalex.org/C155672457",
+        "wikidata": "https://www.wikidata.org/wiki/Q61231",
+        "display_name": "Nanoparticle",
+        "level": 2,
+        "score": 0.21044066548347473
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1007/s13204-021-01976-4",
+        "doi": "https://doi.org/10.1007/s13204-021-01976-4",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13204-021-01976-4",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13204-021-01976-4.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764818521",
+          "display_name": "Applied Nanoscience",
+          "issn_l": "2190-5509",
+          "issn": [
+            "2190-5509",
+            "2190-5517"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-20"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Nanoscience",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1007/s13204-021-01976-4",
+      "doi": "https://doi.org/10.1007/s13204-021-01976-4",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s13204-021-01976-4",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13204-021-01976-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764818521",
+        "display_name": "Applied Nanoscience",
+        "issn_l": "2190-5509",
+        "issn": [
+          "2190-5509",
+          "2190-5517"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-20"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Nanoscience",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W3185310427.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W3185310427.grobid-xml"
+    },
+    "referenced_works_count": 76,
+    "referenced_works": [
+      "https://openalex.org/W1227374044",
+      "https://openalex.org/W2002531309",
+      "https://openalex.org/W2039310443",
+      "https://openalex.org/W2130259319",
+      "https://openalex.org/W2239030496",
+      "https://openalex.org/W2560986466",
+      "https://openalex.org/W2562829051",
+      "https://openalex.org/W2587476147",
+      "https://openalex.org/W2789329162",
+      "https://openalex.org/W2801914510",
+      "https://openalex.org/W2884211947",
+      "https://openalex.org/W2887274003",
+      "https://openalex.org/W2896124512",
+      "https://openalex.org/W2897718127",
+      "https://openalex.org/W2897790570",
+      "https://openalex.org/W2903175969",
+      "https://openalex.org/W2922377757",
+      "https://openalex.org/W2930786780",
+      "https://openalex.org/W2942564125",
+      "https://openalex.org/W2969788287",
+      "https://openalex.org/W2970641555",
+      "https://openalex.org/W2978145949",
+      "https://openalex.org/W2979935146",
+      "https://openalex.org/W2994249217",
+      "https://openalex.org/W3006428586",
+      "https://openalex.org/W3007091668",
+      "https://openalex.org/W3012900875",
+      "https://openalex.org/W3013362823",
+      "https://openalex.org/W3016114681",
+      "https://openalex.org/W3020896071",
+      "https://openalex.org/W3024595380",
+      "https://openalex.org/W3024962536",
+      "https://openalex.org/W3033261575",
+      "https://openalex.org/W3037099908",
+      "https://openalex.org/W3038310606",
+      "https://openalex.org/W3045597809",
+      "https://openalex.org/W3047546535",
+      "https://openalex.org/W3047926331",
+      "https://openalex.org/W3080702757",
+      "https://openalex.org/W3080899881",
+      "https://openalex.org/W3082191133",
+      "https://openalex.org/W3084513542",
+      "https://openalex.org/W3088454647",
+      "https://openalex.org/W3088917223",
+      "https://openalex.org/W3090224042",
+      "https://openalex.org/W3090773231",
+      "https://openalex.org/W3091284087",
+      "https://openalex.org/W3091710636",
+      "https://openalex.org/W3095529596",
+      "https://openalex.org/W3096151329",
+      "https://openalex.org/W3096824689",
+      "https://openalex.org/W3099177793",
+      "https://openalex.org/W3099660494",
+      "https://openalex.org/W3102283898",
+      "https://openalex.org/W3104403991",
+      "https://openalex.org/W3106328962",
+      "https://openalex.org/W3110196799",
+      "https://openalex.org/W3112321676",
+      "https://openalex.org/W3113124309",
+      "https://openalex.org/W3113505963",
+      "https://openalex.org/W3114533362",
+      "https://openalex.org/W3116528882",
+      "https://openalex.org/W3119022130",
+      "https://openalex.org/W3125775775",
+      "https://openalex.org/W3125959803",
+      "https://openalex.org/W3130833108",
+      "https://openalex.org/W3131914545",
+      "https://openalex.org/W3131991723",
+      "https://openalex.org/W3132291921",
+      "https://openalex.org/W3134879059",
+      "https://openalex.org/W3143173753",
+      "https://openalex.org/W3145583225",
+      "https://openalex.org/W3152223473",
+      "https://openalex.org/W3158986762",
+      "https://openalex.org/W3164440422",
+      "https://openalex.org/W3165203038"
+    ],
+    "related_works": [
+      "https://openalex.org/W4367549846",
+      "https://openalex.org/W3165196737",
+      "https://openalex.org/W3153721224",
+      "https://openalex.org/W3174079665",
+      "https://openalex.org/W2965932539",
+      "https://openalex.org/W4408254843",
+      "https://openalex.org/W4205122569",
+      "https://openalex.org/W2982831466",
+      "https://openalex.org/W4205494678",
+      "https://openalex.org/W4213177541"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2026-09-27T08:07:27.782135",
+    "created_date": "2021-08-02T00:00:00"
+  }
+}

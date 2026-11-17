@@ -1,0 +1,1481 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1002/gch2.202000076",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1002%2Fgch2.202000076",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:25.456754+00:00",
+  "record": {
+    "id": "https://openalex.org/W3127678998",
+    "doi": "https://doi.org/10.1002/gch2.202000076",
+    "title": "RETRACTED: Lopsided Blood\u2010Thinning Drug Increases the Risk of Internal Flow Choking Leading to Shock Wave Generation Causing Asymptomatic Cardiovascular Disease",
+    "display_name": "RETRACTED: Lopsided Blood\u2010Thinning Drug Increases the Risk of Internal Flow Choking Leading to Shock Wave Generation Causing Asymptomatic Cardiovascular Disease",
+    "publication_year": 2021,
+    "publication_date": "2021-01-29",
+    "ids": {
+      "openalex": "https://openalex.org/W3127678998",
+      "doi": "https://doi.org/10.1002/gch2.202000076",
+      "mag": "3127678998",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/33728053",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/7933821"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1002/gch2.202000076",
+      "doi": "https://doi.org/10.1002/gch2.202000076",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/gch2.202000076",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gch2.202000076",
+      "source": {
+        "id": "https://openalex.org/S4210214099",
+        "display_name": "Global Challenges",
+        "issn_l": "2056-6646",
+        "issn": [
+          "2056-6646"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "dongbi-d",
+          "jufo-1",
+          "norway-1",
+          "poland-40",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Global Challenges",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gch2.202000076",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5107910032",
+          "display_name": "Valsalayam Raghavapanicker Sanal Kumar",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1289461252",
+            "display_name": "Indian Space Research Organisation",
+            "ror": "https://ror.org/00cwrns71",
+            "country_code": "IN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1289461252",
+              "https://openalex.org/I3148377317"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I59270414",
+            "display_name": "Indian Institute of Science Bangalore",
+            "ror": "https://ror.org/04dese585",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I59270414"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I71374576",
+            "display_name": "Vikram Sarabhai Space Centre",
+            "ror": "https://ror.org/03trnsb56",
+            "country_code": "IN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I71374576"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I99942243",
+            "display_name": "Kumaraguru College of Technology",
+            "ror": "https://ror.org/05dvptm82",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I99942243"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Valsalayam Raghavapanicker Sanal Kumar",
+        "raw_affiliation_strings": [
+          "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India",
+          "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India",
+          "Vikram Sarabhai Space Centre (SC CA No.6301/2013), Indian Space Research Organisation, Thiruvananthapuram, Kerala, 695022 India"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5643-7223",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India",
+            "institution_ids": [
+              "https://openalex.org/I99942243"
+            ]
+          },
+          {
+            "raw_affiliation_string": "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India",
+            "institution_ids": [
+              "https://openalex.org/I59270414"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Vikram Sarabhai Space Centre (SC CA No.6301/2013), Indian Space Research Organisation, Thiruvananthapuram, Kerala, 695022 India",
+            "institution_ids": [
+              "https://openalex.org/I1289461252",
+              "https://openalex.org/I71374576"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5079001667",
+          "display_name": "Shiv Kumar Choudhary",
+          "orcid": "https://orcid.org/0000-0003-3260-7475",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3260-7475"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I63739035",
+            "display_name": "All India Institute of Medical Sciences",
+            "ror": "https://ror.org/02dwcqs71",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2799351866",
+              "https://openalex.org/I4210148677",
+              "https://openalex.org/I63739035"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shiv Kumar Choudhary",
+        "raw_affiliation_strings": [
+          "Department of Cardiothoracic and Vascular Surgery, All India Institute of Medical Sciences, New Delhi, 110029 India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Cardiothoracic and Vascular Surgery, All India Institute of Medical Sciences, New Delhi, 110029 India",
+            "institution_ids": [
+              "https://openalex.org/I63739035"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5058265516",
+          "display_name": "Pradeep Kumar Radhakrishnan",
+          "orcid": "https://orcid.org/0000-0003-0613-6606",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0613-6606"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I885392262",
+            "display_name": "GITAM University",
+            "ror": "https://ror.org/0440p1d37",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I885392262"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Pradeep Kumar Radhakrishnan",
+        "raw_affiliation_strings": [
+          "Chief Division of Cardiothoracic and Vascular Surgery, GITAM University, Visakhapatnam, Andhra Pradesh, 530045 India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Chief Division of Cardiothoracic and Vascular Surgery, GITAM University, Visakhapatnam, Andhra Pradesh, 530045 India",
+            "institution_ids": [
+              "https://openalex.org/I885392262"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5101930667",
+          "display_name": "Rajaghatta Sundararam Bharath",
+          "orcid": "https://orcid.org/0000-0002-0402-7695",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0402-7695"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I59270414",
+            "display_name": "Indian Institute of Science Bangalore",
+            "ror": "https://ror.org/04dese585",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I59270414"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rajaghatta Sundararam Bharath",
+        "raw_affiliation_strings": [
+          "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India",
+            "institution_ids": [
+              "https://openalex.org/I59270414"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5034131509",
+          "display_name": "Nichith Chandrasekaran",
+          "orcid": "https://orcid.org/0000-0003-4696-9995",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4696-9995"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I59270414",
+            "display_name": "Indian Institute of Science Bangalore",
+            "ror": "https://ror.org/04dese585",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I59270414"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I99942243",
+            "display_name": "Kumaraguru College of Technology",
+            "ror": "https://ror.org/05dvptm82",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I99942243"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nichith Chandrasekaran",
+        "raw_affiliation_strings": [
+          "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India",
+          "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India",
+            "institution_ids": [
+              "https://openalex.org/I99942243"
+            ]
+          },
+          {
+            "raw_affiliation_string": "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India",
+            "institution_ids": [
+              "https://openalex.org/I59270414"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5060246804",
+          "display_name": "Vigneshwaran Sankar",
+          "orcid": "https://orcid.org/0000-0002-9268-9647",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9268-9647"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I94234084",
+            "display_name": "Indian Institute of Technology Kanpur",
+            "ror": "https://ror.org/05pjsgx75",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I94234084"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I99942243",
+            "display_name": "Kumaraguru College of Technology",
+            "ror": "https://ror.org/05dvptm82",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I99942243"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Vigneshwaran Sankar",
+        "raw_affiliation_strings": [
+          "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India",
+          "Department of Aerospace Engineering, Indian Institute of Technology, Kanpur, Uttar Pradesh, 208016 India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India",
+            "institution_ids": [
+              "https://openalex.org/I99942243"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Aerospace Engineering, Indian Institute of Technology, Kanpur, Uttar Pradesh, 208016 India",
+            "institution_ids": [
+              "https://openalex.org/I94234084"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5056921087",
+          "display_name": "Ajith Sukumaran",
+          "orcid": "https://orcid.org/0000-0001-9418-4776",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9418-4776"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I99942243",
+            "display_name": "Kumaraguru College of Technology",
+            "ror": "https://ror.org/05dvptm82",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I99942243"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ajith Sukumaran",
+        "raw_affiliation_strings": [
+          "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Aeronautical Engineering, Kumaraguru College of Technology, Coimbatore, Tamil Nadu, 641049 India",
+            "institution_ids": [
+              "https://openalex.org/I99942243"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5057246401",
+          "display_name": "Charlie Oommen",
+          "orcid": "https://orcid.org/0000-0001-7160-4205",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7160-4205"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I59270414",
+            "display_name": "Indian Institute of Science Bangalore",
+            "ror": "https://ror.org/04dese585",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I59270414"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Charlie Oommen",
+        "raw_affiliation_strings": [
+          "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Centre for Combustion Research and Development, Indian Institute of Science, Bangalore, Karnataka, 560012 India",
+            "institution_ids": [
+              "https://openalex.org/I59270414"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 7,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5107910032"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I1289461252",
+      "https://openalex.org/I59270414",
+      "https://openalex.org/I71374576",
+      "https://openalex.org/I99942243"
+    ],
+    "apc_list": {
+      "value": 2500,
+      "currency": "USD",
+      "value_usd": 2500
+    },
+    "apc_paid": {
+      "value": 2500,
+      "currency": "USD",
+      "value_usd": 2500
+    },
+    "fwci": 2.7473,
+    "has_fulltext": true,
+    "cited_by_count": 17,
+    "citation_normalized_percentile": {
+      "value": 0.91050355,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 93,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "5",
+      "issue": "3",
+      "first_page": "2000076",
+      "last_page": "2000076"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11721",
+      "display_name": "Blood properties and coagulation",
+      "score": 0.8877000212669373,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11721",
+        "display_name": "Blood properties and coagulation",
+        "score": 0.8877000212669373,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2740",
+          "display_name": "Pulmonary and Respiratory Medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13951",
+        "display_name": "Fluid dynamics and aerodynamics studies",
+        "score": 0.033399999141693115,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2206",
+          "display_name": "Computational Mechanics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10675",
+        "display_name": "Mechanical Circulatory Support Devices",
+        "score": 0.011099999770522118,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2204",
+          "display_name": "Biomedical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/shock-formation",
+        "display_name": "shock formation",
+        "score": 0.9660000205039978
+      },
+      {
+        "id": "https://openalex.org/keywords/anticoagulants",
+        "display_name": "anticoagulants",
+        "score": 0.7580000162124634
+      },
+      {
+        "id": "https://openalex.org/keywords/asymptomatic-cardiovascular-disease",
+        "display_name": "asymptomatic cardiovascular disease",
+        "score": 0.859000027179718
+      },
+      {
+        "id": "https://openalex.org/keywords/blood-viscosity",
+        "display_name": "blood viscosity",
+        "score": 0.8709999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/flow-turbulence",
+        "display_name": "flow turbulence",
+        "score": 0.9300000071525574
+      },
+      {
+        "id": "https://openalex.org/keywords/reynolds-number",
+        "display_name": "Reynolds number",
+        "score": 0.9139999747276306
+      },
+      {
+        "id": "https://openalex.org/keywords/percutaneous-coronary-intervention",
+        "display_name": "percutaneous coronary intervention",
+        "score": 0.7950000166893005
+      },
+      {
+        "id": "https://openalex.org/keywords/cardiovascular-risk",
+        "display_name": "cardiovascular risk",
+        "score": 0.6190000176429749
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.6658424735069275
+      },
+      {
+        "id": "https://openalex.org/C2994203641",
+        "wikidata": "https://www.wikidata.org/wiki/Q5712543",
+        "display_name": "Blood viscosity",
+        "level": 2,
+        "score": 0.5565471649169922
+      },
+      {
+        "id": "https://openalex.org/C164705383",
+        "wikidata": "https://www.wikidata.org/wiki/Q10379",
+        "display_name": "Cardiology",
+        "level": 1,
+        "score": 0.492948055267334
+      },
+      {
+        "id": "https://openalex.org/C84393581",
+        "wikidata": "https://www.wikidata.org/wiki/Q82642",
+        "display_name": "Blood pressure",
+        "level": 2,
+        "score": 0.4504830837249756
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.42644429206848145
+      },
+      {
+        "id": "https://openalex.org/C2779630263",
+        "wikidata": "https://www.wikidata.org/wiki/Q19275831",
+        "display_name": "Choking",
+        "level": 2,
+        "score": 0.41074037551879883
+      },
+      {
+        "id": "https://openalex.org/C42219234",
+        "wikidata": "https://www.wikidata.org/wiki/Q131130",
+        "display_name": "Anesthesia",
+        "level": 1,
+        "score": 0.3688451945781708
+      },
+      {
+        "id": "https://openalex.org/C105702510",
+        "wikidata": "https://www.wikidata.org/wiki/Q514",
+        "display_name": "Anatomy",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 4,
+    "locations": [
+      {
+        "id": "doi:10.1002/gch2.202000076",
+        "doi": "https://doi.org/10.1002/gch2.202000076",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/gch2.202000076",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gch2.202000076",
+        "source": {
+          "id": "https://openalex.org/S4210214099",
+          "display_name": "Global Challenges",
+          "issn_l": "2056-6646",
+          "issn": [
+            "2056-6646"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global Challenges",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:7933821",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7933821",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Glob Chall",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:33728053",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33728053",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global challenges (Hoboken, NJ)",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:9fba93fec4404a14a654e442f149278d",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/9fba93fec4404a14a654e442f149278d",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Global Challenges, Vol 5, Iss 3, Pp n/a-n/a (2021)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1002/gch2.202000076",
+      "doi": "https://doi.org/10.1002/gch2.202000076",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/gch2.202000076",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gch2.202000076",
+      "source": {
+        "id": "https://openalex.org/S4210214099",
+        "display_name": "Global Challenges",
+        "issn_l": "2056-6646",
+        "issn": [
+          "2056-6646"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "dongbi-d",
+          "jufo-1",
+          "norway-1",
+          "poland-40",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Global Challenges",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Good health and well-being",
+        "score": 0.9537000060081482,
+        "id": "https://metadata.un.org/sdg/3"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320310071",
+        "display_name": "Indian Institute of Science",
+        "ror": "https://ror.org/04dese585"
+      },
+      {
+        "id": "https://openalex.org/F4320320719",
+        "display_name": "Department of Science and Technology, Ministry of Science and Technology, India",
+        "ror": "https://ror.org/0101xrq71"
+      },
+      {
+        "id": "https://openalex.org/F4320324337",
+        "display_name": "All-India Institute of Medical Sciences",
+        "ror": "https://ror.org/02dwcqs71"
+      },
+      {
+        "id": "https://openalex.org/F4320334771",
+        "display_name": "Science and Engineering Research Board",
+        "ror": "https://ror.org/03ffdsr55"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W3127678998.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W3127678998.grobid-xml"
+    },
+    "referenced_works_count": 68,
+    "referenced_works": [
+      "https://openalex.org/W97297318",
+      "https://openalex.org/W1670969069",
+      "https://openalex.org/W1900596405",
+      "https://openalex.org/W1988107722",
+      "https://openalex.org/W2001028449",
+      "https://openalex.org/W2003027769",
+      "https://openalex.org/W2022634919",
+      "https://openalex.org/W2025978846",
+      "https://openalex.org/W2041450888",
+      "https://openalex.org/W2041938961",
+      "https://openalex.org/W2055821804",
+      "https://openalex.org/W2058785146",
+      "https://openalex.org/W2067185658",
+      "https://openalex.org/W2072744156",
+      "https://openalex.org/W2077654305",
+      "https://openalex.org/W2085069224",
+      "https://openalex.org/W2088760296",
+      "https://openalex.org/W2091983820",
+      "https://openalex.org/W2107086950",
+      "https://openalex.org/W2119181511",
+      "https://openalex.org/W2128597526",
+      "https://openalex.org/W2141292300",
+      "https://openalex.org/W2306504501",
+      "https://openalex.org/W2325367723",
+      "https://openalex.org/W2329426963",
+      "https://openalex.org/W2334042141",
+      "https://openalex.org/W2408236984",
+      "https://openalex.org/W2480872114",
+      "https://openalex.org/W2507691007",
+      "https://openalex.org/W2615611660",
+      "https://openalex.org/W2746123351",
+      "https://openalex.org/W2756203218",
+      "https://openalex.org/W2760101477",
+      "https://openalex.org/W2760886327",
+      "https://openalex.org/W2766285083",
+      "https://openalex.org/W2777510536",
+      "https://openalex.org/W2780489505",
+      "https://openalex.org/W2783012609",
+      "https://openalex.org/W2788296694",
+      "https://openalex.org/W2790378327",
+      "https://openalex.org/W2793577196",
+      "https://openalex.org/W2891514442",
+      "https://openalex.org/W2896545929",
+      "https://openalex.org/W2912642946",
+      "https://openalex.org/W2924104858",
+      "https://openalex.org/W2944839418",
+      "https://openalex.org/W2945825099",
+      "https://openalex.org/W2950663303",
+      "https://openalex.org/W2951923805",
+      "https://openalex.org/W2957544571",
+      "https://openalex.org/W2962574897",
+      "https://openalex.org/W2979563966",
+      "https://openalex.org/W2979604013",
+      "https://openalex.org/W2983119182",
+      "https://openalex.org/W2990970133",
+      "https://openalex.org/W3001411974",
+      "https://openalex.org/W3001522162",
+      "https://openalex.org/W3007661515",
+      "https://openalex.org/W3013424755",
+      "https://openalex.org/W3014710092",
+      "https://openalex.org/W3021553322",
+      "https://openalex.org/W3023778586",
+      "https://openalex.org/W3030553177",
+      "https://openalex.org/W3031315698",
+      "https://openalex.org/W3038341522",
+      "https://openalex.org/W3092371431",
+      "https://openalex.org/W3092693577",
+      "https://openalex.org/W3098552323"
+    ],
+    "related_works": [
+      "https://openalex.org/W3136348842",
+      "https://openalex.org/W3138015213",
+      "https://openalex.org/W4245685457",
+      "https://openalex.org/W4255452948",
+      "https://openalex.org/W4390742833",
+      "https://openalex.org/W4246275163",
+      "https://openalex.org/W4241681866",
+      "https://openalex.org/W4404600976",
+      "https://openalex.org/W7017730232",
+      "https://openalex.org/W2406932131"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        167
+      ],
+      "discovery": [
+        1
+      ],
+      "of": [
+        2,
+        28,
+        96,
+        103,
+        136,
+        164,
+        177,
+        187
+      ],
+      "Sanal": [
+        3,
+        112
+      ],
+      "flow": [
+        4,
+        113
+      ],
+      "choking": [
+        5,
+        114
+      ],
+      "in": [
+        6,
+        49,
+        92,
+        107,
+        122,
+        148,
+        151,
+        158,
+        185
+      ],
+      "the": [
+        7,
+        26,
+        39,
+        50,
+        61,
+        68,
+        72,
+        111,
+        123,
+        134,
+        137,
+        141,
+        152,
+        175,
+        183,
+        193
+      ],
+      "cardiovascular-system": [
+        8
+      ],
+      "calls": [
+        9
+      ],
+      "for": [
+        10
+      ],
+      "multidisciplinary": [
+        11
+      ],
+      "and": [
+        12,
+        19,
+        43,
+        71,
+        86,
+        120,
+        179
+      ],
+      "global": [
+        13
+      ],
+      "action": [
+        14
+      ],
+      "to": [
+        15,
+        20,
+        24,
+        60,
+        117,
+        140
+      ],
+      "develop": [
+        16,
+        21
+      ],
+      "innovative": [
+        17
+      ],
+      "treatments": [
+        18
+      ],
+      "new": [
+        22
+      ],
+      "drugs": [
+        23
+      ],
+      "negate": [
+        25
+      ],
+      "risk": [
+        27,
+        135
+      ],
+      "asymptomatic-cardiovascular-diseases.": [
+        29
+      ],
+      "Herein,": [
+        30
+      ],
+      "it": [
+        31
+      ],
+      "is": [
+        32
+      ],
+      "shown": [
+        33,
+        82
+      ],
+      "that": [
+        34,
+        67,
+        83,
+        129
+      ],
+      "when": [
+        35
+      ],
+      "blood-pressure-ratio": [
+        36
+      ],
+      "(BPR)": [
+        37
+      ],
+      "reaches": [
+        38
+      ],
+      "lower-critical-hemorrhage-index": [
+        40
+      ],
+      "(LCHI)": [
+        41
+      ],
+      "internal-flow-choking": [
+        42,
+        138
+      ],
+      "shock": [
+        44
+      ],
+      "wave": [
+        45
+      ],
+      "generation": [
+        46,
+        119
+      ],
+      "can": [
+        47,
+        169
+      ],
+      "occur": [
+        48
+      ],
+      "cardiovascular-system,": [
+        51,
+        153
+      ],
+      "with": [
+        52
+      ],
+      "sudden": [
+        53
+      ],
+      "expansion/divergence/vasospasm": [
+        54
+      ],
+      "or": [
+        55
+      ],
+      "bifurcation": [
+        56
+      ],
+      "regions,": [
+        57
+      ],
+      "without": [
+        58
+      ],
+      "prejudice": [
+        59
+      ],
+      "percutaneous-coronary-intervention": [
+        62
+      ],
+      "(PCI).": [
+        63
+      ],
+      "Analytical": [
+        64
+      ],
+      "findings": [
+        65
+      ],
+      "reveal": [
+        66
+      ],
+      "relatively": [
+        69
+      ],
+      "high": [
+        70
+      ],
+      "low": [
+        73,
+        165
+      ],
+      "blood-viscosity": [
+        74
+      ],
+      "are": [
+        75,
+        90
+      ],
+      "cardiovascular-risk": [
+        76,
+        168
+      ],
+      "factors.": [
+        77
+      ],
+      "In": [
+        78
+      ],
+      "vitro": [
+        79
+      ],
+      "studies": [
+        80
+      ],
+      "have": [
+        81
+      ],
+      "nitrogen,": [
+        84
+      ],
+      "oxygen,": [
+        85
+      ],
+      "carbon": [
+        87
+      ],
+      "dioxide": [
+        88
+      ],
+      "gases": [
+        89
+      ],
+      "dominant": [
+        91
+      ],
+      "fresh": [
+        93
+      ],
+      "blood": [
+        94
+      ],
+      "samples": [
+        95
+      ],
+      "humans/guinea": [
+        97
+      ],
+      "pigs": [
+        98
+      ],
+      "at": [
+        99
+      ],
+      "a": [
+        100,
+        162
+      ],
+      "temperature": [
+        101
+      ],
+      "range": [
+        102
+      ],
+      "98.6-104": [
+        104
+      ],
+      "F.": [
+        105
+      ],
+      "An": [
+        106
+      ],
+      "silico": [
+        108
+      ],
+      "study": [
+        109
+      ],
+      "demonstrated": [
+        110
+      ],
+      "phenomenon": [
+        115
+      ],
+      "leading": [
+        116
+      ],
+      "shock-wave": [
+        118
+      ],
+      "pressure-overshoot": [
+        121
+      ],
+      "cardiovascular-system.": [
+        124
+      ],
+      "It": [
+        125
+      ],
+      "has": [
+        126
+      ],
+      "been": [
+        127
+      ],
+      "established": [
+        128
+      ],
+      "disproportionate": [
+        130
+      ],
+      "blood-thinning": [
+        131
+      ],
+      "treatment": [
+        132
+      ],
+      "increases": [
+        133
+      ],
+      "due": [
+        139
+      ],
+      "enhanced": [
+        142
+      ],
+      "boundary-layer-blockage-factor,": [
+        143
+      ],
+      "resulting": [
+        144
+      ],
+      "from": [
+        145
+      ],
+      "an": [
+        146,
+        156
+      ],
+      "increase": [
+        147,
+        157
+      ],
+      "flow-turbulence": [
+        149,
+        180
+      ],
+      "level": [
+        150
+      ],
+      "caused": [
+        154
+      ],
+      "by": [
+        155,
+        172,
+        181,
+        191
+      ],
+      "Reynolds": [
+        159
+      ],
+      "number": [
+        160
+      ],
+      "as": [
+        161
+      ],
+      "consequence": [
+        163
+      ],
+      "blood-viscosity.": [
+        166
+      ],
+      "be": [
+        170
+      ],
+      "diminished": [
+        171
+      ],
+      "concurrently": [
+        173
+      ],
+      "lessening": [
+        174
+      ],
+      "viscosity": [
+        176
+      ],
+      "biofluid/blood": [
+        178
+      ],
+      "raising": [
+        182
+      ],
+      "thermal-tolerance-level": [
+        184
+      ],
+      "terms": [
+        186
+      ],
+      "blood-heat-capacity-ratio": [
+        188
+      ],
+      "(BHCR)": [
+        189
+      ],
+      "and/or": [
+        190
+      ],
+      "decreasing": [
+        192
+      ],
+      "systolic-to-diastolic": [
+        194
+      ],
+      "blood-pressure-ratio.": [
+        195
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 8
+      }
+    ],
+    "updated_date": "2026-11-03T10:50:19.383937",
+    "created_date": "2021-02-15T00:00:00"
+  }
+}

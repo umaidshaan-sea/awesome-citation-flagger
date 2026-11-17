@@ -1,0 +1,1540 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.7759/cureus.91396",
+  "url": "https://api.openalex.org/works/https://doi.org/10.7759%2Fcureus.91396",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:53:53.587786+00:00",
+  "record": {
+    "id": "https://openalex.org/W4413913518",
+    "doi": "https://doi.org/10.7759/cureus.91396",
+    "title": "Hyponatremia in Acute Stroke: A Comparative Study of Ischemic and Hemorrhagic Stroke Subtypes",
+    "display_name": "Hyponatremia in Acute Stroke: A Comparative Study of Ischemic and Hemorrhagic Stroke Subtypes",
+    "publication_year": 2025,
+    "publication_date": "2025-09-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4413913518",
+      "doi": "https://doi.org/10.7759/cureus.91396",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/41040773",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/12486706"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.7759/cureus.91396",
+      "doi": "https://doi.org/10.7759/cureus.91396",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.91396",
+      "pdf_url": "https://www.cureus.com/articles/385856-hyponatremia-in-acute-stroke-a-comparative-study-of-ischemic-and-hemorrhagic-stroke-subtypes.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "poland-20",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://www.cureus.com/articles/385856-hyponatremia-in-acute-stroke-a-comparative-study-of-ischemic-and-hemorrhagic-stroke-subtypes.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5109903918",
+          "display_name": "Zahid Hasan",
+          "orcid": "https://orcid.org/0009-0004-4236-5451",
+          "observed_orcids": [
+            "https://orcid.org/0009-0004-4236-5451"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405258497",
+            "display_name": "Mardan Medical Complex, Mardan",
+            "ror": "https://ror.org/00rq9ec10",
+            "country_code": "PK",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4405258497"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zahid Hasan",
+        "raw_affiliation_strings": [
+          "Neurology, Mardan Medical Complex, Mardan, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Neurology, Mardan Medical Complex, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258497"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5016096521",
+          "display_name": "Murad Ali",
+          "orcid": "https://orcid.org/0000-0001-8910-8330",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8910-8330"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405258817",
+            "display_name": "Bacha Khan Medical College",
+            "ror": "https://ror.org/018c91412",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405258817"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Murad Ali",
+        "raw_affiliation_strings": [
+          "Medicine, Bacha Khan Medical College, Mardan, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Medicine, Bacha Khan Medical College, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258817"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Zia Ur-Rehman",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Zia Ur-Rehman",
+        "raw_affiliation_strings": [
+          "Pediatric Cardiology, Maqsood Medical Complex (MMC) General Hospital, Peshawar, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Pediatric Cardiology, Maqsood Medical Complex (MMC) General Hospital, Peshawar, PAK",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5029000731",
+          "display_name": "Imran Qadir Khattak",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2801036794",
+            "display_name": "Hayatabad Medical Complex",
+            "ror": "https://ror.org/03vpd6e34",
+            "country_code": "PK",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I2801036794"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Imran Qadar Khattak",
+        "raw_affiliation_strings": [
+          "Internal Medicine, Hayatabad Medical Complex Peshawar, Peshawar, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Internal Medicine, Hayatabad Medical Complex Peshawar, Peshawar, PAK",
+            "institution_ids": [
+              "https://openalex.org/I2801036794"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5119513174",
+          "display_name": "Hamza Israr",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405258497",
+            "display_name": "Mardan Medical Complex, Mardan",
+            "ror": "https://ror.org/00rq9ec10",
+            "country_code": "PK",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4405258497"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hamza Israr",
+        "raw_affiliation_strings": [
+          "General Internal Medicine, Mardan Medical Complex, Mardan, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "General Internal Medicine, Mardan Medical Complex, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258497"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Aansa Amin",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405258497",
+            "display_name": "Mardan Medical Complex, Mardan",
+            "ror": "https://ror.org/00rq9ec10",
+            "country_code": "PK",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4405258497"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Aansa Amin",
+        "raw_affiliation_strings": [
+          "General Internal Medicine, Mardan Medical Complex, Mardan, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "General Internal Medicine, Mardan Medical Complex, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258497"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100827874",
+          "display_name": "Asim Ali",
+          "orcid": "https://orcid.org/0009-0009-0599-2196",
+          "observed_orcids": [
+            "https://orcid.org/0009-0009-0599-2196"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405258497",
+            "display_name": "Mardan Medical Complex, Mardan",
+            "ror": "https://ror.org/00rq9ec10",
+            "country_code": "PK",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4405258497"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405258817",
+            "display_name": "Bacha Khan Medical College",
+            "ror": "https://ror.org/018c91412",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405258817"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Asim Ali",
+        "raw_affiliation_strings": [
+          "General Internal Medicine, Mardan Medical Complex, Mardan, PAK",
+          "Medicine, Bacha Khan Medical College, Mardan, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "General Internal Medicine, Mardan Medical Complex, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258497"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Medicine, Bacha Khan Medical College, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258817"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5001004081",
+          "display_name": "Amjad Ali",
+          "orcid": "https://orcid.org/0000-0002-0486-4661",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0486-4661"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405258497",
+            "display_name": "Mardan Medical Complex, Mardan",
+            "ror": "https://ror.org/00rq9ec10",
+            "country_code": "PK",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I4405258497"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4405258817",
+            "display_name": "Bacha Khan Medical College",
+            "ror": "https://ror.org/018c91412",
+            "country_code": "PK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405258817"
+            ]
+          }
+        ],
+        "countries": [
+          "PK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Amjad Ali",
+        "raw_affiliation_strings": [
+          "General Internal Medicine, Mardan Medical Complex, Mardan, PAK",
+          "Medicine, Bacha Khan Medical College, Mardan, PAK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "General Internal Medicine, Mardan Medical Complex, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258497"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Medicine, Bacha Khan Medical College, Mardan, PAK",
+            "institution_ids": [
+              "https://openalex.org/I4405258817"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.6574,
+    "has_fulltext": true,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.71325432,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 93,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "17",
+      "issue": "9",
+      "first_page": "e91396",
+      "last_page": "e91396"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11967",
+      "display_name": "Electrolyte and hormonal disorders",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11967",
+        "display_name": "Electrolyte and hormonal disorders",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2740",
+          "display_name": "Pulmonary and Respiratory Medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10227",
+        "display_name": "Acute Ischemic Stroke Management",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2713",
+          "display_name": "Epidemiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13966",
+        "display_name": "Neurological and metabolic disorders",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2712",
+          "display_name": "Endocrinology, Diabetes and Metabolism"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/hyponatremia",
+        "display_name": "hyponatremia",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/acute-stroke",
+        "display_name": "acute stroke",
+        "score": 0.9810000061988831
+      },
+      {
+        "id": "https://openalex.org/keywords/ischemic-stroke",
+        "display_name": "ischemic stroke",
+        "score": 0.9739999771118164
+      },
+      {
+        "id": "https://openalex.org/keywords/hemorrhagic-stroke",
+        "display_name": "hemorrhagic stroke",
+        "score": 0.996999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/stroke-subtypes",
+        "display_name": "stroke subtypes",
+        "score": 0.7549999952316284
+      },
+      {
+        "id": "https://openalex.org/keywords/serum-sodium",
+        "display_name": "serum sodium",
+        "score": 0.7850000262260437
+      },
+      {
+        "id": "https://openalex.org/keywords/cerebral-edema",
+        "display_name": "cerebral edema",
+        "score": 0.8560000061988831
+      },
+      {
+        "id": "https://openalex.org/keywords/electrolyte-imbalance",
+        "display_name": "electrolyte imbalance",
+        "score": 0.9570000171661377
+      },
+      {
+        "id": "https://openalex.org/keywords/prevalence",
+        "display_name": "prevalence",
+        "score": 0.6349999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/severity",
+        "display_name": "severity",
+        "score": 0.5550000071525574
+      },
+      {
+        "id": "https://openalex.org/keywords/resource-limited-settings",
+        "display_name": "resource-limited settings",
+        "score": 0.8009999990463257
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.9857826232910156
+      },
+      {
+        "id": "https://openalex.org/C2776703092",
+        "wikidata": "https://www.wikidata.org/wiki/Q824292",
+        "display_name": "Hyponatremia",
+        "level": 2,
+        "score": 0.6996160745620728
+      },
+      {
+        "id": "https://openalex.org/C2780645631",
+        "wikidata": "https://www.wikidata.org/wiki/Q671554",
+        "display_name": "Stroke (engine)",
+        "level": 2,
+        "score": 0.6799917221069336
+      },
+      {
+        "id": "https://openalex.org/C3020199598",
+        "wikidata": "https://www.wikidata.org/wiki/Q12202",
+        "display_name": "Ischemic stroke",
+        "level": 3,
+        "score": 0.5622248649597168
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.3900948166847229
+      },
+      {
+        "id": "https://openalex.org/C177713679",
+        "wikidata": "https://www.wikidata.org/wiki/Q679690",
+        "display_name": "Intensive care medicine",
+        "level": 1,
+        "score": 0.3735300898551941
+      },
+      {
+        "id": "https://openalex.org/C164705383",
+        "wikidata": "https://www.wikidata.org/wiki/Q10379",
+        "display_name": "Cardiology",
+        "level": 1,
+        "score": 0.345039963722229
+      },
+      {
+        "id": "https://openalex.org/C194828623",
+        "wikidata": "https://www.wikidata.org/wiki/Q2861470",
+        "display_name": "Emergency medicine",
+        "level": 1,
+        "score": 0.33346593379974365
+      },
+      {
+        "id": "https://openalex.org/C541997718",
+        "wikidata": "https://www.wikidata.org/wiki/Q188151",
+        "display_name": "Ischemia",
+        "level": 2,
+        "score": 0.18816858530044556
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C78519656",
+        "wikidata": "https://www.wikidata.org/wiki/Q101333",
+        "display_name": "Mechanical engineering",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 4,
+    "locations": [
+      {
+        "id": "doi:10.7759/cureus.91396",
+        "doi": "https://doi.org/10.7759/cureus.91396",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.7759/cureus.91396",
+        "pdf_url": "https://www.cureus.com/articles/385856-hyponatremia-in-acute-stroke-a-comparative-study-of-ischemic-and-hemorrhagic-stroke-subtypes.pdf",
+        "source": {
+          "id": "https://openalex.org/S2738950867",
+          "display_name": "Cureus",
+          "issn_l": "2168-8184",
+          "issn": [
+            "2168-8184"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "poland-20",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310316779",
+          "host_organization_name": "Cureus, Inc.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316779"
+          ],
+          "host_organization_lineage_names": [
+            "Cureus, Inc."
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cureus",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:11294973",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12486706",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:41040773",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41040773",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cureus",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:12486706",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12486706/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cureus",
+        "raw_type": "Text"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.7759/cureus.91396",
+      "doi": "https://doi.org/10.7759/cureus.91396",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.7759/cureus.91396",
+      "pdf_url": "https://www.cureus.com/articles/385856-hyponatremia-in-acute-stroke-a-comparative-study-of-ischemic-and-hemorrhagic-stroke-subtypes.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738950867",
+        "display_name": "Cureus",
+        "issn_l": "2168-8184",
+        "issn": [
+          "2168-8184"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "poland-20",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316779",
+        "host_organization_name": "Cureus, Inc.",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316779"
+        ],
+        "host_organization_lineage_names": [
+          "Cureus, Inc."
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cureus",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 1.0,
+        "display_name": "Good health and well-being",
+        "id": "https://metadata.un.org/sdg/3"
+      }
+    ],
+    "study_designs": [
+      {
+        "display_name": "Observational Study",
+        "id": "https://openalex.org/study-designs/observational-study"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4413913518.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4413913518.grobid-xml"
+    },
+    "referenced_works_count": 14,
+    "referenced_works": [
+      "https://openalex.org/W1964543111",
+      "https://openalex.org/W2060817651",
+      "https://openalex.org/W2099953546",
+      "https://openalex.org/W2139032898",
+      "https://openalex.org/W2908779657",
+      "https://openalex.org/W2940867698",
+      "https://openalex.org/W2986394047",
+      "https://openalex.org/W4200435003",
+      "https://openalex.org/W4205334454",
+      "https://openalex.org/W4286217205",
+      "https://openalex.org/W4362569529",
+      "https://openalex.org/W4380303354",
+      "https://openalex.org/W4385658812",
+      "https://openalex.org/W4407168025"
+    ],
+    "related_works": [
+      "https://openalex.org/W7216078348",
+      "https://openalex.org/W2966714939",
+      "https://openalex.org/W2963854367",
+      "https://openalex.org/W3092163130",
+      "https://openalex.org/W7134896011",
+      "https://openalex.org/W6930364786",
+      "https://openalex.org/W2908779657",
+      "https://openalex.org/W3013838402",
+      "https://openalex.org/W4310699935",
+      "https://openalex.org/W4310905487"
+    ],
+    "abstract_inverted_index": {
+      "BACKGROUND:": [
+        0
+      ],
+      "Hyponatremia,": [
+        1
+      ],
+      "an": [
+        2
+      ],
+      "often": [
+        3
+      ],
+      "underappreciated": [
+        4
+      ],
+      "electrolyte": [
+        5,
+        283
+      ],
+      "imbalance": [
+        6
+      ],
+      "in": [
+        7,
+        45,
+        60,
+        72,
+        104,
+        181,
+        190,
+        224,
+        245,
+        249,
+        262,
+        273,
+        282
+      ],
+      "acute": [
+        8,
+        92,
+        286
+      ],
+      "stroke,": [
+        9,
+        251
+      ],
+      "may": [
+        10
+      ],
+      "exacerbate": [
+        11
+      ],
+      "cerebral": [
+        12
+      ],
+      "edema": [
+        13
+      ],
+      "and": [
+        14,
+        22,
+        37,
+        56,
+        64,
+        67,
+        74,
+        109,
+        150,
+        161,
+        235,
+        257
+      ],
+      "negatively": [
+        15
+      ],
+      "impact": [
+        16
+      ],
+      "clinical": [
+        17,
+        73
+      ],
+      "outcomes.": [
+        18
+      ],
+      "Although": [
+        19
+      ],
+      "both": [
+        20
+      ],
+      "ischemic": [
+        21,
+        63,
+        116,
+        195,
+        250
+      ],
+      "hemorrhagic": [
+        23,
+        65,
+        118,
+        191,
+        199,
+        226,
+        246,
+        274
+      ],
+      "strokes": [
+        24,
+        66
+      ],
+      "can": [
+        25
+      ],
+      "be": [
+        26
+      ],
+      "affected,": [
+        27
+      ],
+      "there": [
+        28
+      ],
+      "is": [
+        29,
+        241
+      ],
+      "a": [
+        30,
+        100,
+        133,
+        186
+      ],
+      "paucity": [
+        31
+      ],
+      "of": [
+        32,
+        39,
+        58,
+        97,
+        183,
+        206,
+        210
+      ],
+      "studies": [
+        33
+      ],
+      "comparing": [
+        34
+      ],
+      "the": [
+        35,
+        54,
+        225,
+        266,
+        270,
+        277
+      ],
+      "prevalence": [
+        36,
+        55,
+        189
+      ],
+      "severity": [
+        38,
+        57,
+        212,
+        268
+      ],
+      "hyponatremia": [
+        40,
+        59,
+        211,
+        234
+      ],
+      "between": [
+        41,
+        106,
+        233
+      ],
+      "these": [
+        42,
+        263
+      ],
+      "subtypes,": [
+        43
+      ],
+      "particularly": [
+        44
+      ],
+      "resource-limited": [
+        46
+      ],
+      "settings.": [
+        47
+      ],
+      "OBJECTIVE:": [
+        48
+      ],
+      "This": [
+        49,
+        78
+      ],
+      "study": [
+        50,
+        81
+      ],
+      "aims": [
+        51
+      ],
+      "to": [
+        52,
+        68,
+        165,
+        194
+      ],
+      "ascertain": [
+        53
+      ],
+      "patients": [
+        61,
+        86
+      ],
+      "with": [
+        62,
+        89,
+        169,
+        185,
+        198
+      ],
+      "compare": [
+        69
+      ],
+      "subtype-specific": [
+        70,
+        280
+      ],
+      "differences": [
+        71
+      ],
+      "biochemical": [
+        75,
+        151
+      ],
+      "profiles.": [
+        76
+      ],
+      "METHODS:": [
+        77
+      ],
+      "descriptive": [
+        79
+      ],
+      "cross-sectional": [
+        80
+      ],
+      "involved": [
+        82
+      ],
+      "158": [
+        83
+      ],
+      "consecutive": [
+        84
+      ],
+      "adult": [
+        85
+      ],
+      "who": [
+        87
+      ],
+      "presented": [
+        88
+      ],
+      "radiologically": [
+        90
+      ],
+      "confirmed": [
+        91,
+        140
+      ],
+      "stroke": [
+        93,
+        119,
+        192,
+        200,
+        216,
+        247,
+        275,
+        287
+      ],
+      "within": [
+        94
+      ],
+      "24": [
+        95
+      ],
+      "hours": [
+        96,
+        146
+      ],
+      "onset": [
+        98
+      ],
+      "at": [
+        99,
+        173
+      ],
+      "tertiary": [
+        101
+      ],
+      "care": [
+        102
+      ],
+      "hospital": [
+        103
+      ],
+      "Pakistan": [
+        105
+      ],
+      "December": [
+        107
+      ],
+      "2023": [
+        108
+      ],
+      "March": [
+        110
+      ],
+      "2024.": [
+        111
+      ],
+      "Patients": [
+        112,
+        197
+      ],
+      "were": [
+        113,
+        153,
+        221,
+        231
+      ],
+      "categorized": [
+        114
+      ],
+      "into": [
+        115
+      ],
+      "or": [
+        117,
+        237
+      ],
+      "subtypes": [
+        120
+      ],
+      "based": [
+        121
+      ],
+      "on": [
+        122,
+        141
+      ],
+      "computed": [
+        123
+      ],
+      "tomography": [
+        124
+      ],
+      "(CT)/magnetic": [
+        125
+      ],
+      "resonance": [
+        126
+      ],
+      "imaging": [
+        127
+      ],
+      "(MRI)": [
+        128
+      ],
+      "findings.": [
+        129
+      ],
+      "Hyponatremia": [
+        130,
+        178,
+        240
+      ],
+      "was": [
+        131,
+        179,
+        213
+      ],
+      "considered": [
+        132
+      ],
+      "serum": [
+        134
+      ],
+      "sodium": [
+        135,
+        219
+      ],
+      "concentration": [
+        136
+      ],
+      "<": [
+        137,
+        175
+      ],
+      "135": [
+        138
+      ],
+      "mmol/L,": [
+        139
+      ],
+      "two": [
+        142
+      ],
+      "separate": [
+        143
+      ],
+      "occasions": [
+        144
+      ],
+      "12": [
+        145
+      ],
+      "apart.": [
+        147
+      ],
+      "Demographic,": [
+        148
+      ],
+      "clinical,": [
+        149
+      ],
+      "data": [
+        152
+      ],
+      "collected.": [
+        154
+      ],
+      "Statistical": [
+        155
+      ],
+      "analyses": [
+        156
+      ],
+      "included": [
+        157
+      ],
+      "chi-square": [
+        158
+      ],
+      "tests,": [
+        159
+      ],
+      "t-tests,": [
+        160
+      ],
+      "multivariable": [
+        162
+      ],
+      "logistic": [
+        163
+      ],
+      "regression": [
+        164
+      ],
+      "adjust": [
+        166
+      ],
+      "for": [
+        167,
+        279
+      ],
+      "confounders,": [
+        168
+      ],
+      "statistical": [
+        170
+      ],
+      "significance": [
+        171
+      ],
+      "set": [
+        172
+      ],
+      "p": [
+        174
+      ],
+      "0.05.": [
+        176
+      ],
+      "RESULTS:": [
+        177
+      ],
+      "observed": [
+        180
+      ],
+      "33%": [
+        182
+      ],
+      "patients,": [
+        184
+      ],
+      "significantly": [
+        187,
+        222,
+        242
+      ],
+      "higher": [
+        188
+      ],
+      "compared": [
+        193
+      ],
+      "stroke.": [
+        196
+      ],
+      "had": [
+        201
+      ],
+      "5.2": [
+        202
+      ],
+      "times": [
+        203
+      ],
+      "greater": [
+        204
+      ],
+      "odds": [
+        205
+      ],
+      "hyponatremia.": [
+        207
+      ],
+      "The": [
+        208
+      ],
+      "distribution": [
+        209
+      ],
+      "similar": [
+        214,
+        267
+      ],
+      "across": [
+        215
+      ],
+      "subtypes.": [
+        217
+      ],
+      "Serum": [
+        218
+      ],
+      "levels": [
+        220
+      ],
+      "lower": [
+        223
+      ],
+      "group.": [
+        227
+      ],
+      "No": [
+        228
+      ],
+      "significant": [
+        229
+      ],
+      "associations": [
+        230
+      ],
+      "found": [
+        232
+      ],
+      "age": [
+        236
+      ],
+      "sex.": [
+        238
+      ],
+      "CONCLUSION:": [
+        239
+      ],
+      "more": [
+        243
+      ],
+      "prevalent": [
+        244
+      ],
+      "than": [
+        248
+      ],
+      "which": [
+        252
+      ],
+      "indicates": [
+        253
+      ],
+      "that": [
+        254
+      ],
+      "close": [
+        255
+      ],
+      "monitoring": [
+        256
+      ],
+      "early": [
+        258
+      ],
+      "intervention": [
+        259
+      ],
+      "are": [
+        260
+      ],
+      "needed": [
+        261
+      ],
+      "patients.": [
+        264
+      ],
+      "Despite": [
+        265
+      ],
+      "distributions,": [
+        269
+      ],
+      "elevated": [
+        271
+      ],
+      "risk": [
+        272
+      ],
+      "highlights": [
+        276
+      ],
+      "need": [
+        278
+      ],
+      "strategies": [
+        281
+      ],
+      "management": [
+        284
+      ],
+      "during": [
+        285
+      ],
+      "care.": [
+        288
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-28T10:33:24.094632",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

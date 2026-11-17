@@ -1,0 +1,453 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1002/asi.23075",
+  "url": "https://api.crossref.org/works/10.1002%2Fasi.23075",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:56:24.046443+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2026-10-04T01:11:58Z",
+      "timestamp": 1791076318007,
+      "version": "4.1.0"
+    },
+    "reference-count": 35,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              11,
+              21
+            ]
+          ],
+          "date-time": "2013-11-21T00:00:00Z",
+          "timestamp": 1384992000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "71173187"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "71173187"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "National Social Science Foundation of China",
+        "award": [
+          "12&ZD221"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "12&ZD221"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Asso for Info Science &amp;amp; Tech"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The h\u2010index provides us with 9 natural classes which can be written as a matrix of 3 vectors. The 3 vectors are: X\u2009=\u2009(X<jats:sub>1</jats:sub>, X<jats:sub>2</jats:sub>, X<jats:sub>3</jats:sub>) and indicates publication distribution in the h\u2010core, the h\u2010tail, and the uncited ones, respectively; Y\u2009=\u2009(Y<jats:sub>1</jats:sub>, Y<jats:sub>2</jats:sub>, Y<jats:sub>3</jats:sub>) denotes the citation distribution of the h\u2010core, the h\u2010tail and the so\u2010called \u201cexcess\u201d citations (above the h\u2010threshold), respectively; and Z\u2009=\u2009(Z<jats:sub>1</jats:sub>, Z<jats:sub>2</jats:sub>, Z<jats:sub>3</jats:sub>)\u2009=\u2009(Y<jats:sub>1</jats:sub>\u2010X<jats:sub>1</jats:sub>, Y<jats:sub>2</jats:sub>\u2010X<jats:sub>2</jats:sub>, Y<jats:sub>3</jats:sub>\u2010X<jats:sub>3</jats:sub>). The matrix V\u2009=\u2009(X,Y,Z)<jats:sup>T</jats:sup> constructs a measure of academic performance, in which the 9 numbers can all be provided with meanings in different dimensions. The \u201cacademic trace\u201d tr(V) of this matrix follows naturally, and contributes a unique indicator for total academic achievements by summarizing and weighting the accumulation of publications and citations. This measure can also be used to combine the advantages of the h\u2010index and the integrated impact indicator (I3) into a single number with a meaningful interpretation of the values. We illustrate the use of tr(V) for the cases of 2 journal sets, 2 universities, and ourselves as 2 individual authors.</jats:p>",
+    "DOI": "10.1002/asi.23075",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2013-11-21T17:14:22Z",
+      "timestamp": 1385054062000
+    },
+    "page": "742-750",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "The \u201cacademic trace\u201d of the performance matrix: A mathematical synthesis of the h\u2010index and the integrated impact indicator (I3)"
+    ],
+    "prefix": "10.1002",
+    "volume": "65",
+    "author": [
+      {
+        "given": "Fred Y.",
+        "family": "Ye",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Information Management Nanjing University  22 Hankou Road Nanjing 210093 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Loet",
+        "family": "Leydesdorff",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Amsterdam School of Communication Research (ASCoR) University of Amsterdam  Kloveniersburgwal 48, 1012 CX Amsterdam The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          21
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_10_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2009.04.001"
+      },
+      {
+        "key": "e_1_2_10_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2011.11.006"
+      },
+      {
+        "key": "e_1_2_10_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2012.10.001"
+      },
+      {
+        "key": "e_1_2_10_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2010.10.009"
+      },
+      {
+        "key": "e_1_2_10_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2012.10.002"
+      },
+      {
+        "key": "e_1_2_10_7_1",
+        "first-page": "65",
+        "volume-title": "Annual review of information science and social science",
+        "author": "Egghe L.",
+        "year": "2010"
+      },
+      {
+        "key": "e_1_2_10_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.122.3159.108"
+      },
+      {
+        "key": "e_1_2_10_9_1",
+        "volume-title": "Citation indexing: Its theory and applications in science, technology, and humanities",
+        "author": "Garfield E.",
+        "year": "1979"
+      },
+      {
+        "key": "e_1_2_10_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0507655102"
+      },
+      {
+        "key": "e_1_2_10_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2011.01.002"
+      },
+      {
+        "key": "e_1_2_10_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2011.04.003"
+      },
+      {
+        "key": "e_1_2_10_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21609"
+      },
+      {
+        "key": "e_1_2_10_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21534"
+      },
+      {
+        "key": "e_1_2_10_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21511"
+      },
+      {
+        "key": "e_1_2_10_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2012.11.002"
+      },
+      {
+        "key": "e_1_2_10_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21059"
+      },
+      {
+        "key": "e_1_2_10_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0048-7333(83)90005-7"
+      },
+      {
+        "key": "e_1_2_10_19_1",
+        "volume-title": "Science and Engineering Indicators",
+        "author": "National Science Board",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_10_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5530/jscires.2012.1.10"
+      },
+      {
+        "key": "e_1_2_10_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21684"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_10_22_1",
+        "first-page": "10",
+        "article-title": "Simple arithmetic versus intuitive understanding: The case of the impact factor",
+        "volume": "7",
+        "author": "Rousseau R.",
+        "year": "2011",
+        "journal-title": "ISSI Newsletter"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_10_23_1",
+        "first-page": "1",
+        "article-title": "A simple impact measure and its evolution over time",
+        "volume": "9",
+        "author": "Rousseau R.",
+        "year": "2011",
+        "journal-title": "Journal of Library and Information Studies"
+      },
+      {
+        "key": "e_1_2_10_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.joi.2011.09.004"
+      },
+      {
+        "key": "e_1_2_10_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5530/jscires.2012.1.6"
+      },
+      {
+        "key": "e_1_2_10_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-4571(199210)43:9<628::AID-ASI5>3.0.CO;2-0"
+      },
+      {
+        "key": "e_1_2_10_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.314.7079.497"
+      },
+      {
+        "key": "e_1_2_10_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/14684521111128050"
+      },
+      {
+        "key": "e_1_2_10_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.22708"
+      },
+      {
+        "key": "e_1_2_10_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21678"
+      },
+      {
+        "key": "e_1_2_10_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/asi.21456"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_10_32_1",
+        "first-page": "22",
+        "article-title": "h\u2010inconsistency is not an issue in dynamical systems",
+        "volume": "8",
+        "author": "Ye F.Y.",
+        "year": "2012",
+        "journal-title": "ISSI Newsletter"
+      },
+      {
+        "key": "e_1_2_10_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11192-009-0099-6"
+      },
+      {
+        "key": "e_1_2_10_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0005429"
+      },
+      {
+        "issue": "1023",
+        "key": "e_1_2_10_35_1",
+        "first-page": "1",
+        "article-title": "A novel triangle mapping technique to study the h\u2010index based citation distribution",
+        "volume": "3",
+        "author": "Zhang C.T.",
+        "year": "2013",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "e_1_2_10_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0059912"
+      }
+    ],
+    "container-title": [
+      "Journal of the Association for Information Science and Technology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fasi.23075",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.23075",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          8
+        ]
+      ],
+      "date-time": "2025-10-08T19:04:54Z",
+      "timestamp": 1759950294000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23075"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          21
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/asi.23075"
+    ],
+    "URL": "https://doi.org/10.1002/asi.23075",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "2330-1635",
+      "2330-1643"
+    ],
+    "issn-type": [
+      {
+        "value": "2330-1635",
+        "type": "print"
+      },
+      {
+        "value": "2330-1643",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          21
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,151 @@
+\documentclass[10pt,a4paper,twocolumn]{article}
+\usepackage[margin=0.78in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern,microtype}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs,array}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{cite}
+\setlength{\columnsep}{0.23in}
+\setlength{\floatsep}{7pt plus 2pt minus 2pt}
+\setlength{\textfloatsep}{7pt plus 2pt minus 2pt}
+\setlength{\intextsep}{7pt plus 2pt minus 2pt}
+\hypersetup{colorlinks=true,linkcolor=blue!50!black,urlcolor=blue!50!black,citecolor=blue!50!black}
+\title{\bfseries Retraction Status versus Notice-Link Availability:\\ \large An Audited Reanalysis of Crossref and OpenAlex for Citation Verification}
+\author{Md Umaid Shaan\\ Department of Information Technology and Artificial Intelligence\\ MSE2026009}
+\date{17 November 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+AI-assisted literature discovery can recommend articles without checking their publication status. This study audits a supplied frozen benchmark of 80 DOIs (40 Retraction Watch-listed articles and 40 hand-selected presumed controls), using archived Crossref and OpenAlex API responses captured on 4 November 2026. Replaying the original code reveals a consequential evaluation error: its Crossref classifier treated any self-referential typed-retraction relation as ambiguous, overriding even a distinct notice DOI when both were present. This misclassified eight self-only and eight mixed-relation cases. The legacy rule labeled only 24 of 40 positives as retracted; the corrected status rule identifies 40 of 40 in the same archived Crossref responses, matching OpenAlex and the combined method. A separate notice DOI is present for 32 of 40 positives (80\%); eight have only self-referential typed retraction updates. Four presumed controls return HTTP 404 from both services. Additionally, 24 frozen titles conflict substantially with cached Crossref titles (one positive and 23 presumed controls); four more control records are unavailable. No complete set of independently adjudicated labels was supplied. The resulting scores are therefore \emph{agreement with benchmark labels}, not independently validated real-world accuracy. We provide executable corrections, reproducible figures, per-record evidence, and transparent limitations rather than claiming an unsupported detection improvement.
+\end{abstract}
+\noindent\textbf{Keywords:} Retraction status, Crossref, OpenAlex, Retraction Watch, citation verification, provenance, data quality.
+
+\section{Introduction}
+Citation recommendation and retrieval-augmented generation (RAG) can surface topically relevant but subsequently retracted articles. Citation-intent methods model how articles are referenced, not necessarily whether a cited work remains reliable \cite{cohan2019structural}. Earlier research documents inconsistencies in how retraction information is displayed across digital platforms \cite{frampton2021inconsistent}. This motivates a small, interpretable metadata-checking component before an AI system recommends a source as unqualified evidence.
+
+The crucial distinction is between a \emph{retraction status signal} and a \emph{distinct notice DOI}. A machine-readable retraction can be recorded without a separately linkable notice, and lack of such a link does not imply that the retraction is undetected. Crossref combines publisher metadata with Retraction Watch records \cite{crossref2025integration,crossrefdocs}; OpenAlex also uses Retraction Watch among its retraction inputs \cite{openalexdocs}. These services therefore cannot be assumed to provide independent ground truth.
+
+We answer three questions: (RQ1) Does a corrected Crossref typed-status classifier detect the same frozen positive cases as OpenAlex? (RQ2) What fraction has a distinct notice DOI, and how does this vary across groups? (RQ3) How do source overlap and benchmark-label limitations affect interpretation? This paper is explicitly a \textbf{post-hoc corrective reanalysis}, not a report of a newly pre-registered method.
+
+\section{Data and Evidence Basis}
+\subsection{Supplied snapshot}
+The archive contains the Retraction Watch CSV, a frozen split at \texttt{data/splits/benchmark\_80\_frozen.csv}, 80 cached OpenAlex responses, and 80 cached Crossref responses. The archived CSV has SHA-256\par\noindent{\footnotesize\ttfamily e5351ee51ab3f1da7fe98b3bd6c5c580\linebreak49b8bff4705949ef6fd4f1a1315dd0ea}\par\noindent The validation log reports 73,597 source rows and 67,628 eligible rows with a single original DOI. The split has 80 unique DOI strings: 40 marked \texttt{RETRACTED} from Retraction Watch and 40 chosen as \texttt{NOT\_RETRACTED} controls. The Retraction Watch source is available from the Crossref GitLab repository \cite{rwgitlab}; archived inputs and the authors' own derived files are distributed in the accompanying audit archive, not on that repository.
+
+\subsection{What the labels do and do not establish}
+A Retraction Watch entry is supporting evidence for a positive candidate, but it is not an independent test of two tools that ingest the same source. Control entries have DOI landing links, which do not prove a paper has never been retracted. We found no complete independent adjudication ledger for all 80 cases. The frozen set is therefore treated as a \emph{nominal benchmark}, and no claim of measured population-level accuracy, specificity, or publisher compliance is made.
+
+Crossref-title screening (normalized sequence similarity below 0.55) flags 24 frozen title/DOI mismatches: \textbf{one of 40 RW-listed positives and 23 of 40 presumed controls}. Four additional presumed controls have no Crossref record in the archive (HTTP 404). Table~\ref{tab:titleaudit} makes this imbalance explicit. Such mismatches are screening indicators, not conclusive evidence that the DOI or Crossref record is wrong. The frozen split is preserved unchanged; title comparisons and flags are saved separately.
+\input{tables/title_integrity_table.tex}
+
+\section{Methods}
+\begin{figure*}[t]
+\centering\includegraphics[width=.92\textwidth,height=5.0cm,keepaspectratio]{figures/system_architecture.pdf}
+\caption{The corrected audit separates binary status from optional distinct notice-link evidence. An unresolved DOI is \texttt{UNKNOWN}, not clean.}
+\label{fig:architecture}
+\end{figure*}
+\subsection{Status classifier and evidence link}
+The OpenAlex baseline $B_0$ maps its \texttt{is\_retracted} Boolean to a tri-state output; errors, missing records, and 404 responses yield \texttt{UNKNOWN} \cite{priem2022openalex,openalexdocs}. The corrected Crossref baseline $B_1^*$ examines \texttt{updated-by} relations and returns \texttt{RETRACTED} whenever it finds a syntactically valid, typed \texttt{retraction} relation for the requested article. It records \emph{separate notice evidence} only when the relation's DOI differs from the article DOI. Reinstate/withdrawal-of-retraction scenarios are routed to manual review. Crossref documents the role of linked updates and distinct update documents \cite{crossrefupdate}.
+
+\begin{equation}
+ B_1^*(d)=\begin{cases}
+   \mathrm{R},&\exists\;\mathrm{typed\;retraction}\;r,\\
+   \mathrm{U},&\mathrm{error/reinstatement},\\
+   \mathrm{N},&\mathrm{valid\;record;\;no\;retraction}.
+ \end{cases}
+ \label{eq:status}
+\end{equation}
+\noindent Here R, N and U abbreviate \texttt{RETRACTED}, \texttt{NOT\_RETRACTED} and \texttt{UNKNOWN}.
+A relation whose update DOI equals $d$ still provides a typed \emph{status} signal; it is not reported as an independent notice DOI. The historical implementation set an \texttt{ambiguous} flag whenever it encountered a typed retraction relation with a missing or self-referential notice DOI. Crucially, it returned \texttt{UNKNOWN} whenever this flag was set, \emph{even if a different retraction-notice DOI was also present}. Replaying that exact code gives 24 distinct-only cases classified \texttt{RETRACTED}, \textbf{eight self-only cases classified \texttt{UNKNOWN}}, and \textbf{eight mixed self-plus-distinct cases also classified \texttt{UNKNOWN}}. This is not the same as a simple rule requiring any distinct notice: that alternative would detect 32/40, not 24/40.
+
+The combined method $M^*$ returns \texttt{RETRACTED} if either baseline is positive (subject to the reinstatement-review rule), \texttt{NOT\_RETRACTED} if both are negative, and \texttt{UNKNOWN} otherwise. It attaches a Crossref notice DOI only when one is distinct from the article DOI. Figure~\ref{fig:architecture} shows the data flow. \emph{A status assertion without a notice link can still be a warning}, with the proof-level limitation made explicit.
+
+\subsection{Metrics and provenance}
+For labels $y_i$ and status predictions $\hat y_i$, we report positive recall with positive \texttt{UNKNOWN} counted as missed detections, plus determinate and end-to-end F1:
+\begin{equation}
+\begin{aligned}
+\mathrm{Recall}_{+}&=\frac{TP}{TP+FN+U_{+}},\\
+F1_{\mathrm{det}}&=\frac{2TP}{2TP+FP+FN},\\
+F1_{\mathrm{e2e}}&=\frac{2TP}{2TP+FP+FN+U_{+}}.
+\end{aligned}
+\label{eq:metric}
+\end{equation}
+Here $U_+$ is the number of abstentions among nominal positives; $U_-$ denotes abstentions among controls. Coverage is $1-(U_++U_-)/N$. The end-to-end F1 convention penalizes positive abstentions but not control abstentions; coverage is therefore reported separately. These are conditional \emph{label-agreement} metrics, since labels lack complete independent verification. Crossref \texttt{source} attributes are recorded separately as \texttt{publisher} or \texttt{retraction-watch}; a case may have both.
+
+\section{Results}
+\input{tables/comparative_metrics_table.tex}
+\begin{figure}[t]
+\centering\includegraphics[width=\columnwidth,height=3.5cm,keepaspectratio]{figures/metric_comparison.pdf}
+\caption{All three corrected methods have the same positive-label recall (40/40) and decision coverage (76/80).}
+\label{fig:metric}
+\end{figure}
+\subsection{Corrected classification}
+Table~\ref{tab:comparison} and Figure~\ref{fig:metric} show that $B_0$, $B_1^*$, and $M^*$ all identify 40/40 nominal positives and produce 36 negative decisions, with four abstentions among controls. Positive-label recall is 1.000 and end-to-end F1 is 1.000 in this selected sample. None demonstrates a detection gain over either of the others. The legacy rule produced 24/40 positive matches and 16 positive abstentions (eight self-only, eight mixed). Its 0.600 recall describes \emph{incorrect ambiguity handling when a self-DOI relation exists}, not the absence of typed Crossref retractions. The legacy determinate F1 is 1.000, end-to-end F1 is 0.750, and coverage is 60/80; the corresponding corrected coverage is 76/80.
+
+\begin{figure*}[t]
+\centering\includegraphics[width=.96\textwidth,height=4.0cm,keepaspectratio]{figures/confusion_matrices.pdf}
+\caption{Decision tables for the corrected methods; ``RW retraction'' and ``presumed control'' denote source labels, not independently adjudicated truth.}
+\label{fig:confusion}
+\end{figure*}
+Figure~\ref{fig:confusion} explicitly shows the four unresolved controls. All four correspond to 404 responses from both cached provider APIs; they cannot be counted as \texttt{NOT\_RETRACTED}. McNemar's paired discordance count between OpenAlex and the combined method is $b=c=0$, so this sample supplies no evidence that one has better classification accuracy. We do not present a meaningful superiority $p$-value for identical outcomes.
+
+\subsection{Distinct notice coverage}
+\begin{figure*}[t]
+\centering\includegraphics[width=.76\textwidth,height=6.1cm,keepaspectratio]{figures/publisher_coverage.pdf}
+\caption{All 40 nominal positives have typed Crossref retraction signals; 32 have a different notice DOI. Categories are descriptive, not a publisher-compliance ranking.}
+\label{fig:publisher}
+\end{figure*}
+\input{tables/publisher_compliance_table.tex}
+\input{tables/signal_evidence_table.tex}
+Table~\ref{tab:publisher} and Figure~\ref{fig:publisher} separate universal typed-status presence from variable availability of a distinct notice DOI. Overall, 32 of 40 retracted items (80\%) have a distinct notice, while eight have only self-referential updates. For IEEE in this small sample, typed retractions appear in all four cached Crossref records, but none supplies a distinct notice DOI. This is \emph{not} evidence that Crossref failed to mark those papers as retracted or that IEEE lacked publisher notices.
+
+\subsection{Overlapping metadata sources}
+\begin{figure}[t]
+\centering\includegraphics[width=\columnwidth,height=3.0cm,keepaspectratio]{figures/provenance_sources.pdf}
+\caption{Crossref retraction-source annotations overlap: three publisher-only, eleven Retraction Watch-only, and 26 with both.}
+\label{fig:source}
+\end{figure}
+Across the 40 positive cases, 29 have at least one publisher-attributed typed retraction entry and 37 have a Retraction Watch-attributed entry; the groups overlap in 26 cases (Figure~\ref{fig:source}). Publisher-attributed \emph{distinct notice} entries occur for 20/40 cases, but even those are metadata assertions, not independent inspection of notice landing pages. Shared inputs between OpenAlex, Crossref, and the benchmark make an independent-accuracy interpretation invalid.
+
+\input{tables/case_studies_table.tex}
+\subsection{Illustrative evidence traces}
+Table~\ref{tab:cases} gives four traceable DOI examples found in the frozen split and corresponding cached JSON. The first case has \textbf{two} typed self-DOI entries and no distinct notice. The second has \textbf{one} self-DOI entry and \textbf{two} distinct retraction entries; the legacy rule incorrectly abstained despite the available notice. The third has one self-referential and one distinct retraction entry alongside an \texttt{erratum}; an erratum does not automatically cancel a retraction. The fourth IEEE case has one self-DOI typed retraction entry and no distinct notice, so the corrected decision is \texttt{RETRACTED} with a missing-link qualification. All relation counts were read from the archived JSON, not inferred from publication titles.
+
+\section{Threats to Validity and Audit Findings}
+\textbf{Label circularity.} The positives originated from Retraction Watch; OpenAlex and Crossref ingest Retraction Watch records. Agreement is expected and is not independent validation. Independent publisher notice inspection must be performed and documented case by case before using these results as accuracy evidence.
+
+\textbf{Control fidelity.} The 40 manually selected controls were not supplied with independent negative adjudications. In particular, 23/40 control titles have substantial DOI-title mismatches, versus 1/40 positive titles, and four control DOIs return 404 from both services. Title mismatches do not alone prove the DOI is invalid, but they undermine the original claim of fully verified cases.
+
+\textbf{Post-hoc change.} The status/notice separation was corrected after reviewing the initial outcome. The original protocol remains in \texttt{configs/protocol\_v1.yaml}; this audit adds a dated amendment. The corrected outcomes cannot be portrayed as results of a frozen pre-registered classifier.
+
+\textbf{Runtime claims.} The original figure generator synthesized in-memory cache timings with \texttt{numpy.random.uniform}; the original paper also had inconsistent latency standard deviations. For this reason, synthetic cache-speedup and real-time-feasibility claims are removed. Archived network-timing fields are retained only as non-comparable historical instrumentation.
+
+\textbf{Generalization.} The sample of 80 is curated, small, and non-random; publisher strata are not population-representative. DOIs and API status can evolve after the cached 4 November 2026 snapshot. Direct fresh REST-API retrieval was attempted but was unavailable in this execution environment. No fresh live-API collection was completed or used as evaluation evidence. A standalone optional network check script and an adjudication queue are included for subsequent independent verification.
+
+\section{Reproducibility and Evaluation Guidance}
+The accompanying reproducibility archive supplies the raw CSV, unchanged frozen split, 160 cached provider responses, corrected rule implementation, a derived 80-row CSV, tests, figures, tables, and a dated discrepancy ledger. Coursework prompt outputs are kept in the archive but are not used as independent scientific evidence. All computations in this revision use \emph{local archived responses only}. Reproduction from the unzipped project root is:
+\begin{quote}\footnotesize\ttfamily
+python3 -m unittest discover -s tests -v\\
+python3 scripts/reanalyze\_cached.py\\
+python3 scripts/render\_corrected\_artifacts.py
+\end{quote}
+The first command checks edge cases; the second reconstructs predictions and metrics; the third regenerates tables and figures. A separate report records three \textbf{internal source, execution, and presentation consistency checks}; these are not three independent gold-standard validations. Remaining external-verification tasks are explicitly marked as unresolved.
+
+\section{Conclusion}
+On the supplied archived 80-DOI benchmark, the corrected Crossref typed-status baseline detects all 40 Retraction Watch-listed positives, equal to OpenAlex and the combined pipeline. Crossref supplies a different retraction-notice DOI for 32 of 40; eight typed retractions use only the article DOI. Therefore the original 40\% ``Crossref under-detection due to publisher omission'' claim was not supported by its own API evidence. The practical contribution is a reproducible distinction among status detection, notice-link evidence, and unresolved metadata, together with a more candid audit of label and citation integrity. Establishing actual accuracy or improved detection will require independently adjudicated positive and negative records and a fresh evaluation protocol.
+
+\begin{thebibliography}{9}
+\bibitem{cohan2019structural} A. Cohan, W. Ammar, M. van Zuylen, and F. Cady. Structural Scaffolds for Citation Intent Classification in Scientific Publications. \emph{NAACL-HLT}, pp. 3586--3596, 2019. DOI: \href{https://doi.org/10.18653/v1/N19-1361}{10.18653/v1/N19-1361}.
+\bibitem{frampton2021inconsistent} G. Frampton, L. Woods, and D. A. Scott. Inconsistent and incomplete retraction of published research: A cross-sectional study on Covid-19 retractions and recommendations to mitigate risks for research, policy and practice. \emph{PLOS ONE} 16(10):e0258935, 2021. DOI: \href{https://doi.org/10.1371/journal.pone.0258935}{10.1371/journal.pone.0258935}.
+\bibitem{priem2022openalex} J. Priem, H. Piwowar, and R. Orr. OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. arXiv:2205.01833, 2022.
+\bibitem{crossref2025integration} M. Rittman (Crossref). Retraction Watch retractions now in the Crossref API. 29 January 2025. \href{https://www.crossref.org/blog/retraction-watch-retractions-now-in-the-crossref-api/}{Crossref blog (2025)}.
+\bibitem{crossrefdocs} Crossref. Retraction Watch documentation. Accessed November 2026. \href{https://www.crossref.org/documentation/retrieve-metadata/retraction-watch/}{Crossref documentation}.
+\bibitem{openalexdocs} OpenAlex. Works attributes: is\_retracted. Accessed November 2026. \href{https://help.openalex.org/data/works/attributes/}{OpenAlex attributes documentation}.
+\bibitem{crossrefupdate} Crossref. Registering updates and Crossmark relations. Accessed November 2026. \href{https://www.crossref.org/documentation/register-maintain-records/maintaining-your-metadata/registering-updates/}{Crossref registering updates}.
+\bibitem{rwgitlab} Crossref and Retraction Watch. Public data GitLab repository. \href{https://gitlab.com/crossref/retraction-watch-data}{GitLab repository}. Archived copy in supporting package.
+\end{thebibliography}
+\end{document}

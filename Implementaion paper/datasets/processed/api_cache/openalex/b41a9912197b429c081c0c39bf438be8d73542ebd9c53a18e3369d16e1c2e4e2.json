@@ -1,0 +1,546 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1007/s12517-021-08071-6",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1007%2Fs12517-021-08071-6",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:12.008436+00:00",
+  "record": {
+    "id": "https://openalex.org/W3196106737",
+    "doi": "https://doi.org/10.1007/s12517-021-08071-6",
+    "title": "RETRACTED ARTICLE: Experimental study on the mechanical properties of unsaturated soils and the effects of dry-wet cycles\u2014taking coastal cities as examples",
+    "display_name": "RETRACTED ARTICLE: Experimental study on the mechanical properties of unsaturated soils and the effects of dry-wet cycles\u2014taking coastal cities as examples",
+    "publication_year": 2021,
+    "publication_date": "2021-08-13",
+    "ids": {
+      "openalex": "https://openalex.org/W3196106737",
+      "doi": "https://doi.org/10.1007/s12517-021-08071-6",
+      "mag": "3196106737"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1007/s12517-021-08071-6",
+      "doi": "https://doi.org/10.1007/s12517-021-08071-6",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s12517-021-08071-6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S38407038",
+        "display_name": "Arabian Journal of Geosciences",
+        "issn_l": "1866-7511",
+        "issn": [
+          "1866-7511",
+          "1866-7538"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "poland-20",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Arabian Journal of Geosciences",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101753414",
+          "display_name": "Qinghai Zhang",
+          "orcid": "https://orcid.org/0000-0002-4287-1205",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4287-1205"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210089639",
+            "display_name": "Suihua University",
+            "ror": "https://ror.org/009qwp447",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210089639"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Qinghai Zhang",
+        "raw_affiliation_strings": [
+          "Suihua School, Agriculture and Hydraulic Engineering University, Suihua, 152000, Heilongjiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Suihua School, Agriculture and Hydraulic Engineering University, Suihua, 152000, Heilongjiang, China",
+            "institution_ids": [
+              "https://openalex.org/I4210089639"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5023845126",
+          "display_name": "Mingbao Li",
+          "orcid": "https://orcid.org/0000-0002-4324-3884",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4324-3884"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I47689461",
+            "display_name": "Northeast Forestry University",
+            "ror": "https://ror.org/02yxnh564",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mingbao Li",
+        "raw_affiliation_strings": [
+          "School of Civil Engineering, Northeast Forestry University, Harbin, 150040, Heilongjiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Civil Engineering, Northeast Forestry University, Harbin, 150040, Heilongjiang, China",
+            "institution_ids": [
+              "https://openalex.org/I47689461"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5102630456",
+          "display_name": "Lihua Wu",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210089639",
+            "display_name": "Suihua University",
+            "ror": "https://ror.org/009qwp447",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210089639"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Lihua Wu",
+        "raw_affiliation_strings": [
+          "Suihua School, Agriculture and Hydraulic Engineering University, Suihua, 152000, Heilongjiang, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Suihua School, Agriculture and Hydraulic Engineering University, Suihua, 152000, Heilongjiang, China",
+            "institution_ids": [
+              "https://openalex.org/I4210089639"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5101753414"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I4210089639"
+    ],
+    "apc_list": {
+      "value": 2780,
+      "currency": "USD",
+      "value_usd": 2780
+    },
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.13483661,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "14",
+      "issue": "17",
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10716",
+      "display_name": "Soil and Unsaturated Flow",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2205",
+        "display_name": "Civil and Structural Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10716",
+        "display_name": "Soil and Unsaturated Flow",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2205",
+          "display_name": "Civil and Structural Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13236",
+        "display_name": "Geotechnical and construction materials studies",
+        "score": 0.00019999999494757503,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2205",
+          "display_name": "Civil and Structural Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11375",
+        "display_name": "Geotechnical Engineering and Soil Stabilization",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2205",
+          "display_name": "Civil and Structural Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/expansive-soil",
+        "display_name": "expansive soil",
+        "score": 0.9860000014305115
+      },
+      {
+        "id": "https://openalex.org/keywords/unsaturated-soil",
+        "display_name": "unsaturated soil",
+        "score": 0.8600000143051147
+      },
+      {
+        "id": "https://openalex.org/keywords/wet-dry-cycles",
+        "display_name": "wetting-drying cycles",
+        "score": 0.8500000238418579
+      },
+      {
+        "id": "https://openalex.org/keywords/soil-water-retention-curve",
+        "display_name": "soil water retention curve",
+        "score": 0.9169999957084656
+      },
+      {
+        "id": "https://openalex.org/keywords/soil-moisture",
+        "display_name": "soil moisture",
+        "score": 0.47699999809265137
+      },
+      {
+        "id": "https://openalex.org/keywords/external-pressure",
+        "display_name": "external pressure",
+        "score": 0.574999988079071
+      },
+      {
+        "id": "https://openalex.org/keywords/water-absorption-capacity",
+        "display_name": "water absorption capacity",
+        "score": 0.6589999794960022
+      },
+      {
+        "id": "https://openalex.org/keywords/coastal-cities",
+        "display_name": "coastal cities",
+        "score": 0.7820000052452087
+      },
+      {
+        "id": "https://openalex.org/keywords/retracted-article",
+        "display_name": "retracted article",
+        "score": 0.7419999837875366
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C1121360",
+        "wikidata": "https://www.wikidata.org/wiki/Q1626102",
+        "display_name": "Expansive clay",
+        "level": 3,
+        "score": 0.9562279582023621
+      },
+      {
+        "id": "https://openalex.org/C24939127",
+        "wikidata": "https://www.wikidata.org/wiki/Q373499",
+        "display_name": "Water content",
+        "level": 2,
+        "score": 0.7503634691238403
+      },
+      {
+        "id": "https://openalex.org/C153400128",
+        "wikidata": "https://www.wikidata.org/wiki/Q3150731",
+        "display_name": "Infiltration (HVAC)",
+        "level": 2,
+        "score": 0.6010025143623352
+      },
+      {
+        "id": "https://openalex.org/C159750122",
+        "wikidata": "https://www.wikidata.org/wiki/Q96621023",
+        "display_name": "Soil water",
+        "level": 2,
+        "score": 0.591200590133667
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "wikidata": "https://www.wikidata.org/wiki/Q188847",
+        "display_name": "Environmental science",
+        "level": 0,
+        "score": 0.569664716720581
+      },
+      {
+        "id": "https://openalex.org/C187320778",
+        "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+        "display_name": "Geotechnical engineering",
+        "level": 1,
+        "score": 0.5594200491905212
+      },
+      {
+        "id": "https://openalex.org/C13058974",
+        "wikidata": "https://www.wikidata.org/wiki/Q889790",
+        "display_name": "Water retention curve",
+        "level": 4,
+        "score": 0.5316434502601624
+      },
+      {
+        "id": "https://openalex.org/C76177295",
+        "wikidata": "https://www.wikidata.org/wiki/Q161598",
+        "display_name": "Groundwater",
+        "level": 2,
+        "score": 0.488102525472641
+      },
+      {
+        "id": "https://openalex.org/C159390177",
+        "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+        "display_name": "Soil science",
+        "level": 1,
+        "score": 0.47828182578086853
+      },
+      {
+        "id": "https://openalex.org/C2780502288",
+        "wikidata": "https://www.wikidata.org/wiki/Q28838156",
+        "display_name": "Expansive",
+        "level": 3,
+        "score": 0.438187837600708
+      },
+      {
+        "id": "https://openalex.org/C2776491529",
+        "wikidata": "https://www.wikidata.org/wiki/Q152234",
+        "display_name": "Water retention",
+        "level": 3,
+        "score": 0.3593927025794983
+      },
+      {
+        "id": "https://openalex.org/C127313418",
+        "wikidata": "https://www.wikidata.org/wiki/Q1069",
+        "display_name": "Geology",
+        "level": 0,
+        "score": 0.3081005811691284
+      },
+      {
+        "id": "https://openalex.org/C192562407",
+        "wikidata": "https://www.wikidata.org/wiki/Q228736",
+        "display_name": "Materials science",
+        "level": 0,
+        "score": 0.16240337491035461
+      },
+      {
+        "id": "https://openalex.org/C159985019",
+        "wikidata": "https://www.wikidata.org/wiki/Q181790",
+        "display_name": "Composite material",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C30407753",
+        "wikidata": "https://www.wikidata.org/wiki/Q186191",
+        "display_name": "Compressive strength",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1007/s12517-021-08071-6",
+        "doi": "https://doi.org/10.1007/s12517-021-08071-6",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s12517-021-08071-6",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S38407038",
+          "display_name": "Arabian Journal of Geosciences",
+          "issn_l": "1866-7511",
+          "issn": [
+            "1866-7511",
+            "1866-7538"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal of Geosciences",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 19,
+    "referenced_works": [
+      "https://openalex.org/W2000297660",
+      "https://openalex.org/W2063387472",
+      "https://openalex.org/W2147556469",
+      "https://openalex.org/W2166273428",
+      "https://openalex.org/W2186411498",
+      "https://openalex.org/W2274019113",
+      "https://openalex.org/W2421107024",
+      "https://openalex.org/W2501569924",
+      "https://openalex.org/W2504442591",
+      "https://openalex.org/W2518200968",
+      "https://openalex.org/W2542204422",
+      "https://openalex.org/W2565965024",
+      "https://openalex.org/W2740598342",
+      "https://openalex.org/W2749075453",
+      "https://openalex.org/W2754614637",
+      "https://openalex.org/W2774117551",
+      "https://openalex.org/W3003049129",
+      "https://openalex.org/W3011556618",
+      "https://openalex.org/W3013384074"
+    ],
+    "related_works": [
+      "https://openalex.org/W4225308625",
+      "https://openalex.org/W2381346701",
+      "https://openalex.org/W1951822311",
+      "https://openalex.org/W7156934974",
+      "https://openalex.org/W7065424741",
+      "https://openalex.org/W2372949153",
+      "https://openalex.org/W2368247277",
+      "https://openalex.org/W1977761291",
+      "https://openalex.org/W2468002837",
+      "https://openalex.org/W3108265975"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [],
+    "updated_date": "2026-09-29T14:09:16.559479",
+    "created_date": "2021-08-30T00:00:00"
+  }
+}

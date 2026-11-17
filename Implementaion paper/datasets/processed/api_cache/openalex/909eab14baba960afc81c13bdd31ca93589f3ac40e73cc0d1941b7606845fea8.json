@@ -1,0 +1,1576 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1371/journal.pone.0101602",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1371%2Fjournal.pone.0101602",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:42.158187+00:00",
+  "record": {
+    "id": "https://openalex.org/W2059286540",
+    "doi": "https://doi.org/10.1371/journal.pone.0101602",
+    "title": "Nuclear Factor Kappa-B Signaling Is Integral to Ocular Neovascularization in Ischemia-Independent Microenvironment",
+    "display_name": "Nuclear Factor Kappa-B Signaling Is Integral to Ocular Neovascularization in Ischemia-Independent Microenvironment",
+    "publication_year": 2014,
+    "publication_date": "2014-07-22",
+    "ids": {
+      "openalex": "https://openalex.org/W2059286540",
+      "doi": "https://doi.org/10.1371/journal.pone.0101602",
+      "mag": "2059286540",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/25050547",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/4106825"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1371/journal.pone.0101602",
+      "doi": "https://doi.org/10.1371/journal.pone.0101602",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0101602",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101602&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLoS ONE",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101602&type=printable",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5020679663",
+          "display_name": "Michael DeNiro",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2800965796",
+            "display_name": "King Faisal Specialist Hospital & Research Centre",
+            "ror": "https://ror.org/05n0wgt02",
+            "country_code": "SA",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I2800965796"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Michael DeNiro",
+        "raw_affiliation_strings": [
+          "Dept. of Cell Biology, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Dept. of Cell Biology, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I2800965796"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5004492595",
+          "display_name": "Futwan A Al-Mohanna",
+          "orcid": "https://orcid.org/0000-0001-5931-0837",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5931-0837"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I134359838",
+            "display_name": "Alfaisal University",
+            "ror": "https://ror.org/00cdrtq48",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I134359838"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2800965796",
+            "display_name": "King Faisal Specialist Hospital & Research Centre",
+            "ror": "https://ror.org/05n0wgt02",
+            "country_code": "SA",
+            "type": "healthcare",
+            "lineage": [
+              "https://openalex.org/I2800965796"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Futwan A. Al-Mohanna",
+        "raw_affiliation_strings": [
+          "Dept. of Cell Biology, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia; Al-Faisal University, Riyadh, Saudi Arabia",
+          "Al-Faisal University, Riyadh, Saudi Arabia",
+          "Dept. of Cell Biology, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Dept. of Cell Biology, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia; Al-Faisal University, Riyadh, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I134359838",
+              "https://openalex.org/I2800965796"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Al-Faisal University, Riyadh, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I134359838"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Dept. of Cell Biology, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I2800965796"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5020679663"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I2800965796"
+    ],
+    "apc_list": {
+      "value": 2382,
+      "currency": "USD",
+      "value_usd": 2382
+    },
+    "apc_paid": {
+      "value": 2382,
+      "currency": "USD",
+      "value_usd": 2382
+    },
+    "fwci": 1.2494,
+    "has_fulltext": false,
+    "cited_by_count": 12,
+    "citation_normalized_percentile": {
+      "value": 0.7935383,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "9",
+      "issue": "7",
+      "first_page": "e101602",
+      "last_page": "e101602"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10170",
+      "display_name": "Retinal Diseases and Treatments",
+      "score": 0.9189000129699707,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2731",
+        "display_name": "Ophthalmology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10170",
+        "display_name": "Retinal Diseases and Treatments",
+        "score": 0.9189000129699707,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2731",
+          "display_name": "Ophthalmology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10422",
+        "display_name": "Angiogenesis and VEGF in Cancer",
+        "score": 0.052799999713897705,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10691",
+        "display_name": "Retinal Development and Disorders",
+        "score": 0.0035000001080334187,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/nuclear-factor-kappab",
+        "display_name": "nuclear factor-kappaB",
+        "score": 0.7360000014305115
+      },
+      {
+        "id": "https://openalex.org/keywords/retinal-neovascularization",
+        "display_name": "retinal neovascularization",
+        "score": 0.8799999952316284
+      },
+      {
+        "id": "https://openalex.org/keywords/vegf-signaling",
+        "display_name": "VEGF signaling",
+        "score": 0.8859999775886536
+      },
+      {
+        "id": "https://openalex.org/keywords/hif-1alpha",
+        "display_name": "HIF-1\u03b1",
+        "score": 0.753000020980835
+      },
+      {
+        "id": "https://openalex.org/keywords/yc-1",
+        "display_name": "YC-1",
+        "score": 0.9700000286102295
+      },
+      {
+        "id": "https://openalex.org/keywords/angiogenesis",
+        "display_name": "angiogenesis",
+        "score": 0.6769999861717224
+      },
+      {
+        "id": "https://openalex.org/keywords/subretinal-neovascularization",
+        "display_name": "subretinal neovascularization",
+        "score": 0.8320000171661377
+      },
+      {
+        "id": "https://openalex.org/keywords/nf-kappab-p65",
+        "display_name": "NF-\u03baB p65",
+        "score": 0.7129999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/mmp-9",
+        "display_name": "MMP-9",
+        "score": 0.7239999771118164
+      },
+      {
+        "id": "https://openalex.org/keywords/endothelin-1",
+        "display_name": "endothelin-1",
+        "score": 0.7839999794960022
+      },
+      {
+        "id": "https://openalex.org/keywords/epidermal-growth-factor",
+        "display_name": "epidermal growth factor",
+        "score": 0.7670000195503235
+      },
+      {
+        "id": "https://openalex.org/keywords/focal-adhesion-kinase",
+        "display_name": "focal adhesion kinase",
+        "score": 0.9049999713897705
+      },
+      {
+        "id": "https://openalex.org/keywords/integrin-alpha5beta1",
+        "display_name": "alpha5beta1 integrin",
+        "score": 0.7620000243186951
+      },
+      {
+        "id": "https://openalex.org/keywords/diabetic-retinopathy",
+        "display_name": "diabetic retinopathy",
+        "score": 0.6119999885559082
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C541997718",
+        "wikidata": "https://www.wikidata.org/wiki/Q188151",
+        "display_name": "Ischemia",
+        "level": 2,
+        "score": 0.6566956639289856
+      },
+      {
+        "id": "https://openalex.org/C127561419",
+        "wikidata": "https://www.wikidata.org/wiki/Q224527",
+        "display_name": "Downregulation and upregulation",
+        "level": 3,
+        "score": 0.5730825662612915
+      },
+      {
+        "id": "https://openalex.org/C2777093970",
+        "wikidata": "https://www.wikidata.org/wiki/Q169342",
+        "display_name": "Retina",
+        "level": 2,
+        "score": 0.554056704044342
+      },
+      {
+        "id": "https://openalex.org/C62478195",
+        "wikidata": "https://www.wikidata.org/wiki/Q828130",
+        "display_name": "Signal transduction",
+        "level": 2,
+        "score": 0.5419162511825562
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "wikidata": "https://www.wikidata.org/wiki/Q7141",
+        "display_name": "Cell biology",
+        "level": 1,
+        "score": 0.5365327596664429
+      },
+      {
+        "id": "https://openalex.org/C2780827179",
+        "wikidata": "https://www.wikidata.org/wiki/Q422001",
+        "display_name": "Retinal",
+        "level": 2,
+        "score": 0.5286058783531189
+      },
+      {
+        "id": "https://openalex.org/C2778271429",
+        "wikidata": "https://www.wikidata.org/wiki/Q1281049",
+        "display_name": "Neovascularization",
+        "level": 3,
+        "score": 0.521291971206665
+      },
+      {
+        "id": "https://openalex.org/C2780942790",
+        "wikidata": "https://www.wikidata.org/wiki/Q372016",
+        "display_name": "Pathogenesis",
+        "level": 2,
+        "score": 0.488858163356781
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.4117639660835266
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.37596264481544495
+      },
+      {
+        "id": "https://openalex.org/C502942594",
+        "wikidata": "https://www.wikidata.org/wiki/Q3421914",
+        "display_name": "Cancer research",
+        "level": 1,
+        "score": 0.36442339420318604
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.2722461223602295
+      },
+      {
+        "id": "https://openalex.org/C2780394083",
+        "wikidata": "https://www.wikidata.org/wiki/Q539568",
+        "display_name": "Angiogenesis",
+        "level": 2,
+        "score": 0.27177494764328003
+      },
+      {
+        "id": "https://openalex.org/C203014093",
+        "wikidata": "https://www.wikidata.org/wiki/Q101929",
+        "display_name": "Immunology",
+        "level": 1,
+        "score": 0.26064836978912354
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.20028716325759888
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.1420014202594757
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.12694677710533142
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.06604179739952087
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D000818",
+        "descriptor_name": "Animals",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008810",
+        "descriptor_name": "Mice, Inbred C57BL",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D008822",
+        "descriptor_name": "Mice, Transgenic",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D014158",
+        "descriptor_name": "Transcription, Genetic",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015398",
+        "descriptor_name": "Signal Transduction",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015861",
+        "descriptor_name": "Retinal Neovascularization",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D016328",
+        "descriptor_name": "NF-kappa B",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D042461",
+        "descriptor_name": "Vascular Endothelial Growth Factor A",
+        "qualifier_ui": "Q000502",
+        "qualifier_name": "physiology",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D042501",
+        "descriptor_name": "Angiogenic Proteins",
+        "qualifier_ui": "Q000235",
+        "qualifier_name": "genetics",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D042501",
+        "descriptor_name": "Angiogenic Proteins",
+        "qualifier_ui": "Q000378",
+        "qualifier_name": "metabolism",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D059467",
+        "descriptor_name": "Transcriptome",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      }
+    ],
+    "locations_count": 5,
+    "locations": [
+      {
+        "id": "doi:10.1371/journal.pone.0101602",
+        "doi": "https://doi.org/10.1371/journal.pone.0101602",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1371/journal.pone.0101602",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101602&type=printable",
+        "source": {
+          "id": "https://openalex.org/S202381698",
+          "display_name": "PLoS ONE",
+          "issn_l": "1932-6203",
+          "issn": [
+            "1932-6203"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315706",
+          "host_organization_name": "Public Library of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315706"
+          ],
+          "host_organization_lineage_names": [
+            "Public Library of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS ONE",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:3076507",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4106825",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:4106825",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4106825",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLoS One",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:25050547",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/25050547",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PloS one",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:25360f75bcd746709df611fc8d099b83",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/25360f75bcd746709df611fc8d099b83",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PLoS ONE, Vol 9, Iss 7, p e101602 (2014)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1371/journal.pone.0101602",
+      "doi": "https://doi.org/10.1371/journal.pone.0101602",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0101602",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101602&type=printable",
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLoS ONE",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.9537000060081482,
+        "display_name": "Good health and well-being",
+        "id": "https://metadata.un.org/sdg/3"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320310145",
+        "display_name": "Johns Hopkins University",
+        "ror": "https://ror.org/00za53h95"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2059286540.pdf"
+    },
+    "referenced_works_count": 54,
+    "referenced_works": [
+      "https://openalex.org/W176812056",
+      "https://openalex.org/W183147717",
+      "https://openalex.org/W1506199975",
+      "https://openalex.org/W1510842546",
+      "https://openalex.org/W1563669812",
+      "https://openalex.org/W1565993258",
+      "https://openalex.org/W1572772426",
+      "https://openalex.org/W1575024358",
+      "https://openalex.org/W1579034041",
+      "https://openalex.org/W1878415294",
+      "https://openalex.org/W1971247785",
+      "https://openalex.org/W1979149433",
+      "https://openalex.org/W1980595348",
+      "https://openalex.org/W1988143227",
+      "https://openalex.org/W1994539588",
+      "https://openalex.org/W1998217029",
+      "https://openalex.org/W1999513201",
+      "https://openalex.org/W2007456673",
+      "https://openalex.org/W2009716896",
+      "https://openalex.org/W2012228693",
+      "https://openalex.org/W2012920016",
+      "https://openalex.org/W2017041417",
+      "https://openalex.org/W2020121459",
+      "https://openalex.org/W2022448992",
+      "https://openalex.org/W2029315212",
+      "https://openalex.org/W2029855144",
+      "https://openalex.org/W2037691492",
+      "https://openalex.org/W2041816417",
+      "https://openalex.org/W2049725677",
+      "https://openalex.org/W2052328871",
+      "https://openalex.org/W2053615344",
+      "https://openalex.org/W2056553905",
+      "https://openalex.org/W2063616299",
+      "https://openalex.org/W2066595687",
+      "https://openalex.org/W2068361762",
+      "https://openalex.org/W2114078036",
+      "https://openalex.org/W2117345944",
+      "https://openalex.org/W2120555366",
+      "https://openalex.org/W2125355416",
+      "https://openalex.org/W2132036488",
+      "https://openalex.org/W2133751949",
+      "https://openalex.org/W2137061409",
+      "https://openalex.org/W2137893922",
+      "https://openalex.org/W2142651474",
+      "https://openalex.org/W2164923772",
+      "https://openalex.org/W2317831656",
+      "https://openalex.org/W2324588265",
+      "https://openalex.org/W2399820486",
+      "https://openalex.org/W2412344095",
+      "https://openalex.org/W2412618876",
+      "https://openalex.org/W2426375034",
+      "https://openalex.org/W2467657054",
+      "https://openalex.org/W2949332406",
+      "https://openalex.org/W4242200303"
+    ],
+    "related_works": [
+      "https://openalex.org/W7099653043",
+      "https://openalex.org/W7099710248",
+      "https://openalex.org/W2132036488",
+      "https://openalex.org/W3031321018",
+      "https://openalex.org/W2151629413",
+      "https://openalex.org/W7096867982",
+      "https://openalex.org/W7100041441",
+      "https://openalex.org/W2140865401",
+      "https://openalex.org/W4282568708",
+      "https://openalex.org/W2057652942"
+    ],
+    "abstract_inverted_index": {
+      "Retinal": [
+        0
+      ],
+      "ischemia": [
+        1
+      ],
+      "promotes": [
+        2,
+        255
+      ],
+      "the": [
+        3,
+        21,
+        28,
+        33,
+        40,
+        58,
+        66,
+        73,
+        98,
+        108,
+        132,
+        135,
+        147,
+        152,
+        158,
+        168,
+        230,
+        241,
+        251,
+        260
+      ],
+      "upregulation": [
+        4
+      ],
+      "of": [
+        5,
+        14,
+        24,
+        30,
+        60,
+        69,
+        91,
+        100,
+        149,
+        154,
+        161,
+        170,
+        233,
+        279,
+        286
+      ],
+      "VEGF": [
+        6,
+        19,
+        171,
+        195,
+        244
+      ],
+      "expression": [
+        7,
+        130
+      ],
+      "and": [
+        8,
+        102,
+        121,
+        128,
+        134,
+        157,
+        245,
+        295
+      ],
+      "accounts": [
+        9
+      ],
+      "for": [
+        10,
+        293
+      ],
+      "most": [
+        11
+      ],
+      "pathological": [
+        12
+      ],
+      "features": [
+        13
+      ],
+      "retinal": [
+        15,
+        116,
+        218,
+        256
+      ],
+      "neovascularization": [
+        16
+      ],
+      "(NV).": [
+        17
+      ],
+      "Paradoxically,": [
+        18
+      ],
+      "remains": [
+        20
+      ],
+      "pivotal": [
+        22,
+        223
+      ],
+      "stimulator": [
+        23
+      ],
+      "ocular": [
+        25,
+        70,
+        272,
+        298
+      ],
+      "NV,": [
+        26
+      ],
+      "despite": [
+        27
+      ],
+      "absence": [
+        29
+      ],
+      "ischemia.": [
+        31
+      ],
+      "Therefore,": [
+        32
+      ],
+      "central": [
+        34
+      ],
+      "question": [
+        35
+      ],
+      "arises": [
+        36
+      ],
+      "as": [
+        37
+      ],
+      "to": [
+        38,
+        178,
+        224,
+        229,
+        270
+      ],
+      "how": [
+        39
+      ],
+      "various": [
+        41
+      ],
+      "molecular": [
+        42,
+        67
+      ],
+      "mechanisms": [
+        43
+      ],
+      "interplay": [
+        44
+      ],
+      "in": [
+        45,
+        57,
+        72,
+        82,
+        107,
+        187,
+        249,
+        265
+      ],
+      "ischemia-independent": [
+        46,
+        83,
+        189,
+        225
+      ],
+      "NV.": [
+        47,
+        257,
+        273
+      ],
+      "It's": [
+        48
+      ],
+      "been": [
+        49
+      ],
+      "suggested": [
+        50
+      ],
+      "that": [
+        51,
+        113,
+        180,
+        194,
+        217,
+        240,
+        254,
+        277
+      ],
+      "NF\u03baB": [
+        52,
+        101,
+        219,
+        246,
+        280
+      ],
+      "plays": [
+        53
+      ],
+      "a": [
+        54,
+        93,
+        266,
+        284,
+        289
+      ],
+      "crucial": [
+        55
+      ],
+      "role": [
+        56
+      ],
+      "pathogenesis": [
+        59
+      ],
+      "diabetic": [
+        61
+      ],
+      "vasculopathies.": [
+        62
+      ],
+      "Here,": [
+        63
+      ],
+      "we": [
+        64,
+        86
+      ],
+      "dissected": [
+        65
+      ],
+      "mechanism": [
+        68
+      ],
+      "NV": [
+        71,
+        81,
+        144,
+        162,
+        186
+      ],
+      "rho/VEGF": [
+        74
+      ],
+      "transgenic": [
+        75
+      ],
+      "mouse": [
+        76,
+        109,
+        182
+      ],
+      "model,": [
+        77
+      ],
+      "which": [
+        78,
+        227
+      ],
+      "develops": [
+        79,
+        184
+      ],
+      "subretinal": [
+        80,
+        143,
+        185
+      ],
+      "microenvironment.": [
+        84,
+        190
+      ],
+      "Furthermore,": [
+        85
+      ],
+      "examined": [
+        87
+      ],
+      "whether": [
+        88
+      ],
+      "intravitreal": [
+        89
+      ],
+      "administration": [
+        90
+      ],
+      "YC-1,": [
+        92
+      ],
+      "HIF-1": [
+        94,
+        212
+      ],
+      "inhibitor,": [
+        95
+      ],
+      "can": [
+        96
+      ],
+      "modulate": [
+        97
+      ],
+      "activation": [
+        99,
+        232,
+        281
+      ],
+      "its": [
+        103
+      ],
+      "downstream": [
+        104
+      ],
+      "angiogenic": [
+        105,
+        234,
+        252
+      ],
+      "signaling": [
+        106,
+        172
+      ],
+      "retina.": [
+        110,
+        164
+      ],
+      "We": [
+        111,
+        165
+      ],
+      "demonstrated": [
+        112,
+        193
+      ],
+      "YC-1": [
+        114,
+        140,
+        208
+      ],
+      "inhibited": [
+        115,
+        142,
+        210
+      ],
+      "NF\u03baB/p65": [
+        117
+      ],
+      "DNA": [
+        118
+      ],
+      "binding": [
+        119
+      ],
+      "activity": [
+        120,
+        177,
+        221
+      ],
+      "downregulated": [
+        122
+      ],
+      "NF\u03baB/p65,": [
+        123
+      ],
+      "FAK,": [
+        124
+      ],
+      "\u03b15\u03b21,": [
+        125
+      ],
+      "EPO,": [
+        126
+      ],
+      "ET-1,": [
+        127
+      ],
+      "MMP-9": [
+        129
+      ],
+      "at": [
+        131
+      ],
+      "message": [
+        133
+      ],
+      "protein": [
+        136
+      ],
+      "levels.": [
+        137
+      ],
+      "In": [
+        138
+      ],
+      "addition,": [
+        139
+      ],
+      "significantly": [
+        141,
+        209
+      ],
+      "by": [
+        145
+      ],
+      "reducing": [
+        146
+      ],
+      "number": [
+        148
+      ],
+      "neovascular": [
+        150
+      ],
+      "lesions,": [
+        151
+      ],
+      "area": [
+        153,
+        160
+      ],
+      "each": [
+        155
+      ],
+      "lesion": [
+        156
+      ],
+      "total": [
+        159
+      ],
+      "per": [
+        163
+      ],
+      "further": [
+        166
+      ],
+      "investigated": [
+        167
+      ],
+      "influence": [
+        169
+      ],
+      "pathway": [
+        173
+      ],
+      "on": [
+        174,
+        201
+      ],
+      "HIF-1\u03b1": [
+        175,
+        202
+      ],
+      "transcriptional": [
+        176,
+        203,
+        220
+      ],
+      "substantiate": [
+        179
+      ],
+      "this": [
+        181
+      ],
+      "model": [
+        183
+      ],
+      "an": [
+        188
+      ],
+      "Our": [
+        191,
+        214,
+        236
+      ],
+      "data": [
+        192,
+        237
+      ],
+      "overexpression": [
+        196
+      ],
+      "didn't": [
+        197
+      ],
+      "have": [
+        198
+      ],
+      "any": [
+        199
+      ],
+      "impact": [
+        200
+      ],
+      "activity,": [
+        204
+      ],
+      "whereas": [
+        205
+      ],
+      "treatment": [
+        206
+      ],
+      "with": [
+        207
+      ],
+      "endogenous": [
+        211
+      ],
+      "activity.": [
+        213
+      ],
+      "study": [
+        215,
+        275
+      ],
+      "suggests": [
+        216,
+        276
+      ],
+      "is": [
+        222,
+        247
+      ],
+      "mechanisms,": [
+        226
+      ],
+      "lead": [
+        228
+      ],
+      "local": [
+        231
+      ],
+      "cascades.": [
+        235
+      ],
+      "also": [
+        238
+      ],
+      "indicate": [
+        239
+      ],
+      "nexus": [
+        242
+      ],
+      "between": [
+        243
+      ],
+      "implicated": [
+        248
+      ],
+      "triggering": [
+        250
+      ],
+      "cascade": [
+        253
+      ],
+      "Hence,": [
+        258
+      ],
+      "targeting": [
+        259
+      ],
+      "VEGF/NF\u03baB": [
+        261
+      ],
+      "axis": [
+        262
+      ],
+      "may": [
+        263,
+        282
+      ],
+      "act": [
+        264
+      ],
+      "negative": [
+        267
+      ],
+      "feedback": [
+        268
+      ],
+      "loop": [
+        269
+      ],
+      "suppress": [
+        271
+      ],
+      "This": [
+        274
+      ],
+      "inhibition": [
+        278
+      ],
+      "be": [
+        283
+      ],
+      "means": [
+        285
+      ],
+      "turning": [
+        287
+      ],
+      "off": [
+        288
+      ],
+      "\"master": [
+        290
+      ],
+      "switch\"": [
+        291
+      ],
+      "responsible": [
+        292
+      ],
+      "initiating": [
+        294
+      ],
+      "perpetuating": [
+        296
+      ],
+      "these": [
+        297
+      ],
+      "pathologies.": [
+        299
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

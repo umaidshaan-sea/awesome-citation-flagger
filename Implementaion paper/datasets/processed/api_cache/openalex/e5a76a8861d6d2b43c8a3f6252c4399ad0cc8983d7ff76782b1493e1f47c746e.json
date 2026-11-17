@@ -1,0 +1,9 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1007/s10994-015-5488-z",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1007%2Fs10994-015-5488-z",
+  "status": "NOT_FOUND",
+  "http_status": 404,
+  "fetched_at_utc": "2026-11-04T16:56:00.324714+00:00",
+  "record": null
+}

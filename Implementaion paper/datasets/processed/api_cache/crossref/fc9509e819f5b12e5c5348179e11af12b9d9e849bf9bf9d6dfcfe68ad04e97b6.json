@@ -1,0 +1,858 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1002/gch2.202000076",
+  "url": "https://api.crossref.org/works/10.1002%2Fgch2.202000076",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:26.266933+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T17:57:49Z",
+      "timestamp": 1773338269745,
+      "version": "3.50.1"
+    },
+    "reference-count": 87,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              29
+            ]
+          ],
+          "date-time": "2021-01-29T00:00:00Z",
+          "timestamp": 1611878400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001843",
+        "name": "Science and Engineering Research Board",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001843",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Global Challenges"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The discovery of Sanal flow choking in the cardiovascular\u2010system calls for multidisciplinary and global action to develop innovative treatments and to develop new drugs to negate the risk of asymptomatic\u2010cardiovascular\u2010diseases. Herein, it is shown that when blood\u2010pressure\u2010ratio (BPR) reaches the lower\u2010critical\u2010hemorrhage\u2010index (LCHI) internal\u2010flow\u2010choking and shock wave generation can occur in the cardiovascular\u2010system, with sudden expansion/divergence/vasospasm or bifurcation regions, without prejudice to the percutaneous\u2010coronary\u2010intervention (PCI). Analytical findings reveal that the relatively high and the low blood\u2010viscosity are cardiovascular\u2010risk factors. In vitro studies have shown that nitrogen, oxygen, and carbon dioxide gases are dominant in fresh blood samples of humans/guinea pigs at a temperature range of 98.6\u2013104 F. An in silico study demonstrated the Sanal flow choking phenomenon leading to shock\u2010wave generation and pressure\u2010overshoot in the cardiovascular\u2010system. It has been established that disproportionate blood\u2010thinning treatment increases the risk of the internal\u2010flow\u2010choking due to the enhanced boundary\u2010layer\u2010blockage\u2010factor, resulting from an increase in flow\u2010turbulence level in the cardiovascular\u2010system, caused by an increase in Reynolds number as a consequence of low blood\u2010viscosity. The cardiovascular\u2010risk can be diminished by concurrently lessening the viscosity of biofluid/blood and flow\u2010turbulence by raising the thermal\u2010tolerance\u2010level in terms of blood\u2010heat\u2010capacity\u2010ratio (BHCR) and/or by decreasing the systolic\u2010to\u2010diastolic blood\u2010pressure\u2010ratio.</jats:p>",
+    "DOI": "10.1002/gch2.202000076",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2021-01-29T08:12:28Z",
+      "timestamp": 1611907948000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "RETRACTED: Lopsided Blood\u2010Thinning Drug Increases the Risk of Internal Flow Choking Leading to Shock Wave Generation Causing Asymptomatic Cardiovascular Disease"
+    ],
+    "prefix": "10.1002",
+    "volume": "5",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5643-7223",
+        "authenticated-orcid": false,
+        "given": "Valsalayam Raghavapanicker Sanal",
+        "family": "Kumar",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Vikram Sarabhai Space Centre (SC CA No.6301/2013) Indian Space Research Organisation  Thiruvananthapuram Kerala 695022 India"
+          },
+          {
+            "name": "National Centre for Combustion Research and Development Indian Institute of Science  Bangalore Karnataka 560012 India"
+          },
+          {
+            "name": "Department of Aeronautical Engineering Kumaraguru College of Technology  Coimbatore Tamil Nadu 641049 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shiv Kumar",
+        "family": "Choudhary",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Cardiothoracic and Vascular Surgery All India Institute of Medical Sciences  New Delhi 110029 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pradeep Kumar",
+        "family": "Radhakrishnan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chief Division of Cardiothoracic and Vascular Surgery GITAM University  Visakhapatnam Andhra Pradesh 530045 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rajaghatta Sundararam",
+        "family": "Bharath",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National Centre for Combustion Research and Development Indian Institute of Science  Bangalore Karnataka 560012 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nichith",
+        "family": "Chandrasekaran",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National Centre for Combustion Research and Development Indian Institute of Science  Bangalore Karnataka 560012 India"
+          },
+          {
+            "name": "Department of Aeronautical Engineering Kumaraguru College of Technology  Coimbatore Tamil Nadu 641049 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vigneshwaran",
+        "family": "Sankar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Aeronautical Engineering Kumaraguru College of Technology  Coimbatore Tamil Nadu 641049 India"
+          },
+          {
+            "name": "Department of Aerospace Engineering Indian Institute of Technology  Kanpur Uttar Pradesh 208016 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ajith",
+        "family": "Sukumaran",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Aeronautical Engineering Kumaraguru College of Technology  Coimbatore Tamil Nadu 641049 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Charlie",
+        "family": "Oommen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National Centre for Combustion Research and Development Indian Institute of Science  Bangalore Karnataka 560012 India"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_10_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/gch2.202000012"
+      },
+      {
+        "key": "e_1_2_10_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehv004"
+      },
+      {
+        "key": "e_1_2_10_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0095277"
+      },
+      {
+        "key": "e_1_2_10_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00380-015-0657-1"
+      },
+      {
+        "key": "e_1_2_10_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCRESAHA.117.311059"
+      },
+      {
+        "key": "e_1_2_10_6_1",
+        "unstructured": "WHO Mortality Database. Geneva: World Health Organization 2018 http://www.who.int/healthinfo/mortality_data/en/ https://openwho.org/courses/pandemic\u2010epidemic\u2010diseases(accessed: December 2019)."
+      },
+      {
+        "key": "e_1_2_10_7_1",
+        "first-page": "1",
+        "volume": "12",
+        "author": "Nowbar A. N.",
+        "journal-title": "Circ. Cardiovasc. Qual. Outcome"
+      },
+      {
+        "key": "e_1_2_10_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jchf.2017.05.008"
+      },
+      {
+        "key": "e_1_2_10_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jchf.2017.09.012"
+      },
+      {
+        "key": "e_1_2_10_10_1",
+        "unstructured": "V. R. S.Kumar V.Sankar N.Chandrasekaran V.Natarajan V.Saravanan A.Sukumaran S.Mani T. R.Kumar S.Padmanabhan H. S. N.Doddi K.Vysaprasad S.Sharan P.Murugesh G. S.Shankar V.Srinivasan M. N.Nejaamtheen R. V.Baskaran S. A. R. M.Rafic U.Harisrinivasan C. J.Rajshree A.Krishnan A.Pal G. V.Panicker A.Rajesh presented at AIAA\u20102018\u20103962 Atlanta GA June2018."
+      },
+      {
+        "key": "e_1_2_10_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.5020333"
+      },
+      {
+        "key": "e_1_2_10_12_1",
+        "first-page": "41",
+        "volume": "1",
+        "author": "Kumar V. R. S.",
+        "year": "2018",
+        "journal-title": "J. Biol. Med."
+      },
+      {
+        "key": "e_1_2_10_13_1",
+        "unstructured": "V. R. S.Kumar V.Sankar N.Chandrasekaran S. A. R. M.Rafic India Patent No. 201841049355 2019."
+      },
+      {
+        "key": "e_1_2_10_14_1",
+        "unstructured": "V. R. S.Kumar R. S.Bharath P. K.Radhakrishnan N.Chandrasekaran S. K.Choudhary C.Oommen B. N.Raghunandan presented at The Asian Society for Cardiovascular and Thoracic Surgery (IACTSCON2019) Chennai India 21\u201324 February2019."
+      },
+      {
+        "key": "e_1_2_10_15_1",
+        "unstructured": "V. R. S.Kumar OSF Preprints https://doi.org/10.31219/osf.io/bce2n(accessed: February2020)."
+      },
+      {
+        "key": "e_1_2_10_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrcardio.2017.118"
+      },
+      {
+        "key": "e_1_2_10_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrcardio.2017.76"
+      },
+      {
+        "key": "e_1_2_10_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0113500"
+      },
+      {
+        "key": "e_1_2_10_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000665"
+      },
+      {
+        "key": "e_1_2_10_20_1",
+        "unstructured": "S.Shikdar P. T.Bhattacharya StatPearls https://www.ncbi.nlm.nih.gov/books/NBK507707/(accessed: October2019)."
+      },
+      {
+        "key": "e_1_2_10_21_1",
+        "first-page": "301",
+        "volume": "2",
+        "author": "Nwose E. U.",
+        "year": "2010",
+        "journal-title": "N. Am. J. Med. Sci."
+      },
+      {
+        "key": "e_1_2_10_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.110.078305"
+      },
+      {
+        "key": "e_1_2_10_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/C8SM00061A"
+      },
+      {
+        "key": "e_1_2_10_24_1",
+        "volume-title": "Proc. Quantum Sensing and Nano Electronics and Photonics XVI",
+        "author": "Tao R.",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_10_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevE.84.011905"
+      },
+      {
+        "key": "e_1_2_10_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1813959"
+      },
+      {
+        "key": "e_1_2_10_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMclde1903004"
+      },
+      {
+        "key": "e_1_2_10_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000564"
+      },
+      {
+        "key": "e_1_2_10_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2016.10026"
+      },
+      {
+        "key": "e_1_2_10_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.88.22.10362"
+      },
+      {
+        "key": "e_1_2_10_31_1",
+        "unstructured": "E.vanSebille M.Doblin Figshare.https://doi.org/10.6084/m9.figshare.3178534.v2(accessed: April2016)."
+      },
+      {
+        "key": "e_1_2_10_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-84622-9_33"
+      },
+      {
+        "key": "e_1_2_10_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1406997111"
+      },
+      {
+        "key": "e_1_2_10_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1900152116"
+      },
+      {
+        "key": "e_1_2_10_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature10145"
+      },
+      {
+        "key": "e_1_2_10_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1913716117"
+      },
+      {
+        "key": "e_1_2_10_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1814392115"
+      },
+      {
+        "key": "e_1_2_10_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature10145"
+      },
+      {
+        "key": "e_1_2_10_39_1",
+        "unstructured": "V. R.Sanal Kumar N.Chandrasekaran V.Sankar A.Sukumaran M. N.Nejaamtheen H. S. N.Doddi M.Sulthan Ariff Rahman R. V.Baskaran A.Moorthi E.Mohan A.Mariappan U. K.Thianesh R.Pradeep M.Ajay presented at AIAA Propulsion and Energy Forum (AIAA 2020\u20103520) Virtual Conference August2020."
+      },
+      {
+        "key": "e_1_2_10_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCHEARTFAILURE.119.006667"
+      },
+      {
+        "key": "e_1_2_10_41_1",
+        "unstructured": "ESC Guidance for the Diagnosis and Management of CV Disease during the COVID\u201019 Pandemic https://www.escardio.org/Education/COVID\u201019\u2010and\u2010Cardiology/ESC\u2010COVID\u201019\u2010Guidance(accessed: June 2020)."
+      },
+      {
+        "key": "e_1_2_10_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.RES.8.3.622"
+      },
+      {
+        "key": "e_1_2_10_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.RES.23.1.111"
+      },
+      {
+        "key": "e_1_2_10_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-018-32704-8"
+      },
+      {
+        "key": "e_1_2_10_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0021-9290(70)90036-9"
+      },
+      {
+        "key": "e_1_2_10_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.110.078305"
+      },
+      {
+        "key": "e_1_2_10_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/C8SM00061A"
+      },
+      {
+        "key": "e_1_2_10_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15761/BHC.1000110"
+      },
+      {
+        "key": "e_1_2_10_49_1",
+        "volume-title": "Viscoelastic and Viscoplastic Material",
+        "author": "Wang Z.",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_10_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10439-007-9372-0"
+      },
+      {
+        "key": "e_1_2_10_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1115/1.4043290"
+      },
+      {
+        "key": "e_1_2_10_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cpf.12359"
+      },
+      {
+        "key": "e_1_2_10_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrcardio.2017.155"
+      },
+      {
+        "key": "e_1_2_10_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.112.122093"
+      },
+      {
+        "key": "e_1_2_10_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41371-019-0173-3"
+      },
+      {
+        "key": "e_1_2_10_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/HYPERTENSIONAHA.111.00315"
+      },
+      {
+        "key": "e_1_2_10_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/189235a0"
+      },
+      {
+        "key": "e_1_2_10_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.285.6346.919"
+      },
+      {
+        "key": "e_1_2_10_59_1",
+        "first-page": "397",
+        "volume": "19",
+        "author": "Sanalkumar V. R.",
+        "year": "2013",
+        "journal-title": "J. Propul. Power"
+      },
+      {
+        "key": "e_1_2_10_60_1",
+        "first-page": "425",
+        "volume": "12",
+        "author": "Shadiow J.",
+        "year": "2019",
+        "journal-title": "Int. J. Exercise Sci."
+      },
+      {
+        "key": "e_1_2_10_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCRESAHA.115.304351"
+      },
+      {
+        "key": "e_1_2_10_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-019-1454-y"
+      },
+      {
+        "key": "e_1_2_10_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-019-1480-9"
+      },
+      {
+        "key": "e_1_2_10_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-019-1355-0"
+      },
+      {
+        "key": "e_1_2_10_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/2049-3258-73-S1-P9"
+      },
+      {
+        "key": "e_1_2_10_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1532-429X-12-S1-P193"
+      },
+      {
+        "key": "e_1_2_10_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2210-9-S1-S13"
+      },
+      {
+        "key": "e_1_2_10_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12872-019-01318-x"
+      },
+      {
+        "key": "e_1_2_10_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-020-01616-8"
+      },
+      {
+        "key": "e_1_2_10_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-020-1499-y"
+      },
+      {
+        "key": "e_1_2_10_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569\u2010020\u201000445\u20109"
+      },
+      {
+        "key": "e_1_2_10_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569\u2010020\u201000457\u20105"
+      },
+      {
+        "key": "e_1_2_10_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569-020-0403-y"
+      },
+      {
+        "key": "e_1_2_10_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569-020-0372-1"
+      },
+      {
+        "key": "e_1_2_10_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569-019-0315-x"
+      },
+      {
+        "key": "e_1_2_10_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41569-019-0284-0"
+      },
+      {
+        "key": "e_1_2_10_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrcardio.2016.84"
+      },
+      {
+        "key": "e_1_2_10_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrcardio.2017.138"
+      },
+      {
+        "key": "e_1_2_10_79_1",
+        "unstructured": "V. R.Sanal Kumar S. K.Choudhary P. K.Radhakrishnan R. S.Bharath N.Chandrasekaran C.Oommen V.Sankar S.Ajith M.Amrith U. K.Thianesh K.Deviparameswari unpublished."
+      },
+      {
+        "key": "e_1_2_10_80_1",
+        "unstructured": "V. R.Sanal Kumar S. K.Choudhary P. K.Radhakrishnan S.Menon V.Raghav K. K. N.Namboodiri S. E.Sreedharan R. S.Bharath C.Nichith C.Oommen V.Sankar A.Sukumaran K.Arun A.Pal R. K.Tharikaa R.Abhirami presented at the ISC21 Virtual Event March 2021 American Stroke Association."
+      },
+      {
+        "key": "e_1_2_10_81_1",
+        "author": "Sanal Kumar V. R.",
+        "journal-title": "ACS Omega"
+      },
+      {
+        "key": "e_1_2_10_82_1",
+        "author": "Sanal Kumar V. R.",
+        "journal-title": "Nat. Res."
+      },
+      {
+        "key": "e_1_2_10_83_1",
+        "author": "Sanal Kumar V. R.",
+        "journal-title": "Eur. Heart J."
+      },
+      {
+        "key": "e_1_2_10_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/eng2.12317"
+      },
+      {
+        "key": "e_1_2_10_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep29901"
+      },
+      {
+        "key": "e_1_2_10_86_1",
+        "author": "Wilson C.",
+        "year": "2019",
+        "journal-title": "New Sci."
+      },
+      {
+        "key": "e_1_2_10_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2019.15011"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1002/gch2.202470083",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2024-03-25T00:00:00Z",
+          "timestamp": 1711324800000
+        },
+        "record-id": "58252"
+      },
+      {
+        "DOI": "10.1002/gch2.202470083",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2024-03-25T00:00:00Z",
+          "timestamp": 1711324800000
+        }
+      }
+    ],
+    "container-title": [
+      "Global Challenges"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/gch2.202000076",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/gch2.202000076",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/gch2.202000076",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2024-03-19T16:45:53Z",
+      "timestamp": 1710866753000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/gch2.202000076"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          29
+        ]
+      ]
+    },
+    "references-count": 87,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/gch2.202000076"
+    ],
+    "URL": "https://doi.org/10.1002/gch2.202000076",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {
+      "retraction": [
+        {
+          "id-type": "doi",
+          "id": "10.1002/gch2.202470083",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2056-6646",
+      "2056-6646"
+    ],
+    "issn-type": [
+      {
+        "value": "2056-6646",
+        "type": "print"
+      },
+      {
+        "value": "2056-6646",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          29
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2020-08-21",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-01-29",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "2000076"
+  }
+}

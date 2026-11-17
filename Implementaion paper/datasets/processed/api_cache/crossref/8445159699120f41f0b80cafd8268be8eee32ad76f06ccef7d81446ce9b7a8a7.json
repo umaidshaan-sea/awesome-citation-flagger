@@ -1,0 +1,1030 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1088/0957-4484/24/31/315701",
+  "url": "https://api.crossref.org/works/10.1088%2F0957-4484%2F24%2F31%2F315701",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:51.850683+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2026-10-21T21:28:28Z",
+      "timestamp": 1792618108502,
+      "version": "4.5.0"
+    },
+    "reference-count": 63,
+    "publisher": "IOP Publishing",
+    "issue": "31",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2013-07-12T00:00:00Z",
+          "timestamp": 1373587200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://iopscience.iop.org/page/copyright"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2013-07-12T00:00:00Z",
+          "timestamp": 1373587200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://iopscience.iop.org/info/page/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "iopscience.iop.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nanotechnology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Recently,  the strategy of doping inorganic particles into polymer membranes to modify them has been studied intensively. However, these inorganic particles have a disadvantage without being  in good compatibility with the polymers. To enhance the compatibility between inorganic particles and polymers, phosphorylated silica nanotubes (PSNTs) with specific high ratios of length to diameter are prepared. Silica nanotubes (SNTs) are prepared through the hydrolysis of tetraethyl orthosilicate in a mixture of aqueous ammonia and dl-tartaric acid, then PSNTs are obtained by silylation and phosphorylation modifications. The optimum synthesis conditions of PSNTs are explored; in addition, the as-prepared PSNTs are characterized by Fourier transform infrared, transmission electron microscope, BET, x-ray photoelectron spectroscopy analysis and thermogravimetric analysis. The results indicate that the ratio of length to diameter of the PSNTs is approximately 20, the thickness of the tube wall is 20\u00a0nm, the specific surface area of the PSNTs is 460.2\u00a0m<jats:sup>2</jats:sup>\u00a0g<jats:sup>\u22121</jats:sup>, the inner diameter of the PSNTs is 76\u00a0nm, many mesopores are distributed in the tube walls of the PSNTs, and the PSNTs have numerous hydroxyl active sites along their length direction. Therefore, PSNTs are desirable as suitable fillers of polymer membranes.</jats:p>",
+    "DOI": "10.1088/0957-4484/24/31/315701",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2013-07-12T14:13:10Z",
+      "timestamp": 1373638390000
+    },
+    "page": "315701",
+    "update-policy": "https://doi.org/10.1088/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Phosphorylated silica nanotubes: preparation and characterization"
+    ],
+    "prefix": "10.1088",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Yuqing",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yan",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yiren",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lili",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lixin",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "266",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          7,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "nano466159bib1",
+        "doi-asserted-by": "publisher",
+        "first-page": "519",
+        "DOI": "10.1126/science.1069580",
+        "volume": "296",
+        "author": "Merkel",
+        "year": "2002",
+        "journal-title": "Science"
+      },
+      {
+        "key": "nano466159bib2",
+        "doi-asserted-by": "publisher",
+        "first-page": "522",
+        "DOI": "10.1016/j.memsci.2011.11.022",
+        "volume": "389",
+        "author": "Shi",
+        "year": "2012",
+        "journal-title": "J. Membr. Sci."
+      },
+      {
+        "key": "nano466159bib3",
+        "doi-asserted-by": "publisher",
+        "first-page": "559",
+        "DOI": "10.1016/j.jhazmat.2011.05.058",
+        "volume": "192",
+        "author": "Zhang",
+        "year": "2011",
+        "journal-title": "J. Hazard. Mater."
+      },
+      {
+        "key": "nano466159bib4a",
+        "doi-asserted-by": "publisher",
+        "first-page": "353",
+        "DOI": "10.1002/adma.200390087",
+        "volume": "15",
+        "author": "Xia",
+        "year": "2003",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib4b",
+        "doi-asserted-by": "publisher",
+        "first-page": "1583",
+        "DOI": "10.1002/adma.200300382",
+        "volume": "15",
+        "author": "Lazzari",
+        "year": "2003",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib4c",
+        "doi-asserted-by": "publisher",
+        "first-page": "1295",
+        "DOI": "10.1002/1521-4095(200009)12:17<1295::AID-ADMA1295>3.0.CO;2-B",
+        "volume": "12",
+        "author": "Wang",
+        "year": "2000",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib4d",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1021/ar9700365",
+        "volume": "32",
+        "author": "Hu",
+        "year": "1999",
+        "journal-title": "Acc. Chem. Res."
+      },
+      {
+        "key": "nano466159bib4e",
+        "doi-asserted-by": "publisher",
+        "first-page": "83",
+        "DOI": "10.1039/b006197m",
+        "author": "Jang",
+        "year": "2001",
+        "journal-title": "Chem. Commun."
+      },
+      {
+        "key": "nano466159bib5",
+        "doi-asserted-by": "publisher",
+        "first-page": "56",
+        "DOI": "10.1038/354056a0",
+        "volume": "354",
+        "author": "Iijima",
+        "year": "1991",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "nano466159bib6a",
+        "doi-asserted-by": "publisher",
+        "first-page": "1199",
+        "DOI": "10.1126/science.1124594",
+        "volume": "312",
+        "author": "Sun",
+        "year": "2006",
+        "journal-title": "Science"
+      },
+      {
+        "key": "nano466159bib6b",
+        "doi-asserted-by": "publisher",
+        "first-page": "2056",
+        "DOI": "10.1126/science.286.5447.2056b",
+        "volume": "286",
+        "author": "Normile",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "key": "nano466159bib6c",
+        "doi-asserted-by": "publisher",
+        "first-page": "755",
+        "DOI": "10.1002/anie.200502815",
+        "volume": "45",
+        "author": "Hasobe",
+        "year": "2006",
+        "journal-title": "Angew. Chem. Int. Edn"
+      },
+      {
+        "key": "nano466159bib6d",
+        "doi-asserted-by": "publisher",
+        "first-page": "1974",
+        "DOI": "10.1002/anie.200462448",
+        "volume": "44",
+        "author": "Tokudome",
+        "year": "2005",
+        "journal-title": "Angew. Chem. Int. Edn"
+      },
+      {
+        "key": "nano466159bib6e",
+        "doi-asserted-by": "publisher",
+        "first-page": "2198",
+        "DOI": "10.1126/science.1071396",
+        "volume": "296",
+        "author": "Lee",
+        "year": "2002",
+        "journal-title": "Science"
+      },
+      {
+        "key": "nano466159bib6f",
+        "doi-asserted-by": "publisher",
+        "first-page": "1689",
+        "DOI": "10.1063/1.1605808",
+        "volume": "83",
+        "author": "Xing",
+        "year": "2003",
+        "journal-title": "Appl. Phys. Lett."
+      },
+      {
+        "key": "nano466159bib6g",
+        "doi-asserted-by": "publisher",
+        "first-page": "582",
+        "DOI": "10.1002/adma.200401101",
+        "volume": "17",
+        "author": "Chen",
+        "year": "2005",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib6h",
+        "doi-asserted-by": "publisher",
+        "first-page": "346",
+        "DOI": "10.1038/30694",
+        "volume": "393",
+        "author": "Che",
+        "year": "1998",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "nano466159bib7a",
+        "first-page": "348",
+        "volume": "355",
+        "author": "Mekawy",
+        "year": "2011",
+        "journal-title": "Nature Mater."
+      },
+      {
+        "key": "nano466159bib7b",
+        "doi-asserted-by": "publisher",
+        "first-page": "3917",
+        "DOI": "10.1039/c001654c",
+        "volume": "46",
+        "author": "El-Safty",
+        "year": "2010",
+        "journal-title": "Chem. Commun."
+      },
+      {
+        "key": "nano466159bib8",
+        "doi-asserted-by": "publisher",
+        "first-page": "337",
+        "DOI": "10.1038/nmat1107",
+        "volume": "3",
+        "author": "Yamaguchi",
+        "year": "2004",
+        "journal-title": "Nature Mater."
+      },
+      {
+        "key": "nano466159bib9a",
+        "doi-asserted-by": "publisher",
+        "first-page": "1839",
+        "DOI": "10.1021/la052529l",
+        "volume": "22",
+        "author": "Yoo",
+        "year": "2006",
+        "journal-title": "Langmiur"
+      },
+      {
+        "key": "nano466159bib9b",
+        "doi-asserted-by": "publisher",
+        "first-page": "15974",
+        "DOI": "10.1021/ja0663632",
+        "volume": "128",
+        "author": "Son",
+        "year": "2006",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "nano466159bib9c",
+        "doi-asserted-by": "publisher",
+        "first-page": "5476",
+        "DOI": "10.1021/jp0760096",
+        "volume": "112",
+        "author": "El-Safty",
+        "year": "2008",
+        "journal-title": "J. Phys. Chem. C"
+      },
+      {
+        "key": "nano466159bib9d",
+        "doi-asserted-by": "publisher",
+        "first-page": "2644",
+        "DOI": "10.1021/cm701966c",
+        "volume": "20",
+        "author": "El-Safty",
+        "year": "2008",
+        "journal-title": "Chem. Mater."
+      },
+      {
+        "key": "nano466159bib10a",
+        "doi-asserted-by": "publisher",
+        "first-page": "4851",
+        "DOI": "10.1021/cm0487425",
+        "volume": "16",
+        "author": "Yao",
+        "year": "2004",
+        "journal-title": "Chem. Mater."
+      },
+      {
+        "key": "nano466159bib10b",
+        "doi-asserted-by": "publisher",
+        "first-page": "816",
+        "DOI": "10.1038/nmat1230",
+        "volume": "3",
+        "author": "Wu",
+        "year": "2004",
+        "journal-title": "Nature Mater."
+      },
+      {
+        "key": "nano466159bib10c",
+        "doi-asserted-by": "publisher",
+        "first-page": "2337",
+        "DOI": "10.1021/nl048653r",
+        "volume": "4",
+        "author": "Wu",
+        "year": "2004",
+        "journal-title": "Nano Lett."
+      },
+      {
+        "key": "nano466159bib11",
+        "doi-asserted-by": "publisher",
+        "first-page": "780",
+        "DOI": "10.1002/adma.200304701",
+        "volume": "15",
+        "author": "Kovtyukhova",
+        "year": "2003",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1134",
+        "DOI": "10.1002/anie.200503301",
+        "volume": "45",
+        "author": "Platschek",
+        "year": "2006",
+        "journal-title": "Angew. Chem. Int. Edn Engl."
+      },
+      {
+        "key": "nano466159bib13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1034",
+        "DOI": "10.1002/adma.200701368",
+        "volume": "20",
+        "author": "Yamaguchi",
+        "year": "2008",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib14a",
+        "doi-asserted-by": "publisher",
+        "first-page": "980",
+        "DOI": "10.1002/anie.200390284",
+        "volume": "42",
+        "author": "van Bommel",
+        "year": "2003",
+        "journal-title": "Angew. Chem. Int. Edn"
+      },
+      {
+        "key": "nano466159bib14b",
+        "doi-asserted-by": "publisher",
+        "first-page": "586",
+        "DOI": "10.1103/PhysRevB.45.586",
+        "volume": "45",
+        "author": "Nishikawa",
+        "year": "1992",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "nano466159bib14c",
+        "doi-asserted-by": "publisher",
+        "first-page": "5600",
+        "DOI": "10.1002/anie.200352113",
+        "volume": "42",
+        "author": "Jang",
+        "year": "2003",
+        "journal-title": "Angew. Chem. Int. Edn"
+      },
+      {
+        "key": "nano466159bib14d",
+        "doi-asserted-by": "publisher",
+        "first-page": "1390",
+        "DOI": "10.1002/1521-4095(20021002)14:19<1390::AID-ADMA1390>3.0.CO;2-T",
+        "volume": "14",
+        "author": "Jang",
+        "year": "2002",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib15",
+        "doi-asserted-by": "publisher",
+        "first-page": "2139",
+        "DOI": "10.1039/b923029g",
+        "volume": "20",
+        "author": "Kim",
+        "year": "2010",
+        "journal-title": "J. Mater. Chem."
+      },
+      {
+        "key": "nano466159bib16",
+        "doi-asserted-by": "publisher",
+        "first-page": "6104",
+        "DOI": "10.1021/es060092d",
+        "volume": "40",
+        "author": "Zhang",
+        "year": "2006",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "nano466159bib17",
+        "doi-asserted-by": "publisher",
+        "first-page": "4713",
+        "DOI": "10.1021/cm061160y",
+        "volume": "18",
+        "author": "Lee",
+        "year": "2006",
+        "journal-title": "Chem. Mater."
+      },
+      {
+        "key": "nano466159bib18",
+        "doi-asserted-by": "publisher",
+        "first-page": "4286",
+        "DOI": "10.1039/c002959a",
+        "volume": "39",
+        "author": "Jung",
+        "year": "2010",
+        "journal-title": "Chem. Soc. Rev."
+      },
+      {
+        "key": "nano466159bib19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1961",
+        "DOI": "10.1016/S0266-3538(98)00033-5",
+        "volume": "58",
+        "author": "Fu",
+        "year": "1998",
+        "journal-title": "Compos. Sci. Technol."
+      },
+      {
+        "key": "nano466159bib20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1533",
+        "DOI": "10.1016/S0266-3538(99)00022-6",
+        "volume": "59",
+        "author": "Fu",
+        "year": "1999",
+        "journal-title": "Compos. Sci. Technol."
+      },
+      {
+        "key": "nano466159bib21",
+        "doi-asserted-by": "publisher",
+        "first-page": "1497",
+        "DOI": "10.1002/app.11864",
+        "volume": "88",
+        "author": "Fu",
+        "year": "2003",
+        "journal-title": "J. Appl. Polym. Sci."
+      },
+      {
+        "key": "nano466159bib22a",
+        "doi-asserted-by": "publisher",
+        "first-page": "1725",
+        "DOI": "10.1039/b000525h",
+        "volume": "10",
+        "author": "Clavier",
+        "year": "2000",
+        "journal-title": "J. Mater. Chem."
+      },
+      {
+        "key": "nano466159bib22b",
+        "doi-asserted-by": "publisher",
+        "first-page": "7375",
+        "DOI": "10.1016/j.tet.2007.02.008",
+        "volume": "63",
+        "author": "Huang",
+        "year": "2007",
+        "journal-title": "Tetrahedron"
+      },
+      {
+        "key": "nano466159bib22c",
+        "doi-asserted-by": "publisher",
+        "first-page": "782",
+        "DOI": "10.1021/cm702141e",
+        "volume": "20",
+        "author": "Llusar",
+        "year": "2008",
+        "journal-title": "Chem. Mater."
+      },
+      {
+        "key": "nano466159bib23a",
+        "doi-asserted-by": "publisher",
+        "first-page": "2118",
+        "DOI": "10.1039/b304007k",
+        "volume": "13",
+        "author": "Gundiah",
+        "year": "2003",
+        "journal-title": "J. Mater. Chem."
+      },
+      {
+        "key": "nano466159bib23b",
+        "doi-asserted-by": "publisher",
+        "first-page": "4935",
+        "DOI": "10.1021/cr8002328",
+        "volume": "108",
+        "author": "Dickerson",
+        "year": "2008",
+        "journal-title": "Chem. Rev."
+      },
+      {
+        "key": "nano466159bib23c",
+        "doi-asserted-by": "publisher",
+        "first-page": "1929",
+        "DOI": "10.1021/nl080664n",
+        "volume": "8",
+        "author": "Delclos",
+        "year": "2008",
+        "journal-title": "Nano Lett."
+      },
+      {
+        "key": "nano466159bib24a",
+        "doi-asserted-by": "publisher",
+        "first-page": "2115",
+        "DOI": "10.1039/b002868l",
+        "volume": "10",
+        "author": "Satishkumar",
+        "year": "2000",
+        "journal-title": "J. Mater. Chem."
+      },
+      {
+        "key": "nano466159bib24b",
+        "doi-asserted-by": "publisher",
+        "first-page": "3272",
+        "DOI": "10.1021/cm001257z",
+        "volume": "13",
+        "author": "Caruso",
+        "year": "2001",
+        "journal-title": "Chem. Mater."
+      },
+      {
+        "key": "nano466159bib24c",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1039/b208990b",
+        "volume": "1",
+        "author": "Rao",
+        "year": "2003",
+        "journal-title": "J. Chem. Soc. Dalton. Trans."
+      },
+      {
+        "key": "nano466159bib25a",
+        "doi-asserted-by": "publisher",
+        "first-page": "1938",
+        "DOI": "10.1002/1521-4095(200012)12:24<1938::AID-ADMA1938>3.0.CO;2-4",
+        "volume": "12",
+        "author": "Wang",
+        "year": "2000",
+        "journal-title": "Adv. Mater."
+      },
+      {
+        "key": "nano466159bib25b",
+        "doi-asserted-by": "publisher",
+        "first-page": "5254",
+        "DOI": "10.1021/ja034163+",
+        "volume": "125",
+        "author": "Fan",
+        "year": "2003",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "nano466159bib25c",
+        "doi-asserted-by": "publisher",
+        "first-page": "673",
+        "DOI": "10.1016/S1388-2481(03)00149-8",
+        "volume": "5",
+        "author": "Xu",
+        "year": "2003",
+        "journal-title": "Electrochem. Commun."
+      },
+      {
+        "key": "nano466159bib26",
+        "doi-asserted-by": "publisher",
+        "first-page": "414",
+        "DOI": "10.1016/j.nantod.2012.08.004",
+        "volume": "7",
+        "author": "Wu",
+        "year": "2012",
+        "journal-title": "Nano Today"
+      },
+      {
+        "key": "nano466159bib27",
+        "doi-asserted-by": "publisher",
+        "first-page": "491",
+        "DOI": "10.1063/1.1434309",
+        "volume": "80",
+        "author": "Zhang",
+        "year": "2002",
+        "journal-title": "Appl. Phys. Lett."
+      },
+      {
+        "key": "nano466159bib28",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1021/nl000190b",
+        "volume": "1",
+        "author": "Jung",
+        "year": "2001",
+        "journal-title": "Nano Lett."
+      },
+      {
+        "key": "nano466159bib29",
+        "doi-asserted-by": "publisher",
+        "first-page": "2343",
+        "DOI": "10.1039/b007218o",
+        "volume": "23",
+        "author": "Jung",
+        "year": "2000",
+        "journal-title": "Chem. Commun."
+      },
+      {
+        "key": "nano466159bib30",
+        "doi-asserted-by": "publisher",
+        "first-page": "1329",
+        "DOI": "10.1021/cm0625124",
+        "volume": "19",
+        "author": "Ji",
+        "year": "2007",
+        "journal-title": "Chem. Mater."
+      },
+      {
+        "key": "nano466159bib31",
+        "doi-asserted-by": "publisher",
+        "first-page": "20661",
+        "DOI": "10.1021/jp0547156",
+        "volume": "109",
+        "author": "Han",
+        "year": "2005",
+        "journal-title": "J. Phys. Chem. B"
+      },
+      {
+        "key": "nano466159bib32",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1016/j.cej.2011.03.008",
+        "volume": "170",
+        "author": "Zhang",
+        "year": "2011",
+        "journal-title": "Chem. Eng. J."
+      },
+      {
+        "key": "nano466159bib33",
+        "doi-asserted-by": "publisher",
+        "first-page": "390",
+        "DOI": "10.1016/j.jhazmat.2010.11.016",
+        "volume": "186",
+        "author": "Zhang",
+        "year": "2011",
+        "journal-title": "J. Hazard. Mater."
+      },
+      {
+        "key": "nano466159bib34",
+        "doi-asserted-by": "publisher",
+        "first-page": "2812",
+        "DOI": "10.1021/jp310596c",
+        "volume": "117",
+        "author": "Nagy",
+        "year": "2013",
+        "journal-title": "J. Phys. Chem."
+      },
+      {
+        "key": "nano466159bib35",
+        "doi-asserted-by": "publisher",
+        "first-page": "3021",
+        "DOI": "10.1021/cm990449v",
+        "volume": "11",
+        "author": "Miyaji",
+        "year": "1999",
+        "journal-title": "Chem. Mater."
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1088/1361-6528/ac3e71",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              14
+            ]
+          ],
+          "date-time": "2022-01-14T00:00:00Z",
+          "timestamp": 1642118400000
+        },
+        "record-id": "35007"
+      },
+      {
+        "DOI": "10.1088/1361-6528/ac3e71",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              14
+            ]
+          ],
+          "date-time": "2022-01-14T00:00:00Z",
+          "timestamp": 1642118400000
+        }
+      }
+    ],
+    "container-title": [
+      "Nanotechnology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://stacks.iop.org/0957-4484/24/i=31/a=315701/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://stacks.iop.org/0957-4484/24/i=31/a=315701?key=crossref.6470e33266c6bb76c5821baa937b44fa",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/0957-4484/24/31/315701",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/0957-4484/24/31/315701/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/0957-4484/24/31/315701/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://stacks.iop.org/0957-4484/24/i=31/a=315701/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://stacks.iop.org/0957-4484/24/i=31/a=315701/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://stacks.iop.org/0957-4484/24/i=31/a=315701?key=crossref.6470e33266c6bb76c5821baa937b44fa",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "https://iopscience.iop.org/article/10.1088/0957-4484/24/31/315701/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2022-02-21T10:42:10Z",
+      "timestamp": 1645440130000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://iopscience.iop.org/article/10.1088/0957-4484/24/31/315701"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          7,
+          12
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "31",
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            7,
+            12
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            8,
+            9
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1088/0957-4484/24/31/315701",
+    "relation": {
+      "retraction": [
+        {
+          "id-type": "doi",
+          "id": "10.1088/1361-6528/ac3e71",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0957-4484",
+      "1361-6528"
+    ],
+    "issn-type": [
+      {
+        "value": "0957-4484",
+        "type": "print"
+      },
+      {
+        "value": "1361-6528",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          7,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Phosphorylated silica nanotubes: preparation and characterization",
+        "name": "article_title",
+        "label": "Article Title"
+      },
+      {
+        "value": "Nanotechnology",
+        "name": "journal_title",
+        "label": "Journal Title"
+      },
+      {
+        "value": "paper",
+        "name": "article_type",
+        "label": "Article Type"
+      },
+      {
+        "value": "\u00a9 2013 IOP Publishing Ltd",
+        "name": "copyright_information",
+        "label": "Copyright Information"
+      },
+      {
+        "value": "2013-03-03",
+        "name": "date_received",
+        "label": "Date Received",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "name": "date_accepted",
+        "label": "Date Accepted",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      },
+      {
+        "value": "2013-07-12",
+        "name": "date_epub",
+        "label": "Online publication date",
+        "group": {
+          "name": "publication_dates",
+          "label": "Publication dates"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1002/14651858.cd001364",
+  "url": "https://api.crossref.org/works/10.1002%2F14651858.cd001364",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:33.132127+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          30
+        ]
+      ],
+      "date-time": "2025-12-30T22:45:45Z",
+      "timestamp": 1767134745881,
+      "version": "build-2238731810"
+    },
+    "publisher-location": "Chichester, UK",
+    "reference-count": 11,
+    "publisher": "John Wiley & Sons, Ltd",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "DOI": "10.1002/14651858.cd001364",
+    "type": "reference-entry",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          11,
+          20
+        ]
+      ],
+      "date-time": "2003-11-20T22:16:04Z",
+      "timestamp": 1069366564000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Zinc for the common cold"
+    ],
+    "prefix": "10.1002",
+    "author": [
+      {
+        "given": "I",
+        "family": "Marshall",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          1999,
+          4,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "10.1002/14651858.CD001364-BIB1|cit1",
+        "first-page": "234",
+        "article-title": "Zinc gluconate and the common cold: A controlled clinical study. The Journal of International Medical Research",
+        "volume": "20",
+        "author": "Godfrey",
+        "year": "1992"
+      },
+      {
+        "key": "10.1002/14651858.CD001364-BIB2|cit2",
+        "first-page": "279",
+        "article-title": "Zinc gluconate lozenges for common cold. Danish Medical Journal",
+        "volume": "37",
+        "author": "Weismann",
+        "year": "1990"
+      },
+      {
+        "issue": "2",
+        "key": "10.1002/14651858.CD001364-BIB3|cit3",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.7326/0003-4819-125-2-199607150-00001",
+        "article-title": "Zinc gluconate lozenges for treating the common cold",
+        "volume": "125",
+        "author": "Mossad",
+        "year": "1996",
+        "journal-title": "Annals of Internal Medicine"
+      },
+      {
+        "key": "10.1002/14651858.CD001364-BIB4|cit4",
+        "article-title": "Two randomised controled trials of Zinc Gluconate lozenge therapy of experimentally induced rhinovirus colds",
+        "volume": "1183-1187",
+        "author": "Farr",
+        "year": "1987",
+        "journal-title": "Antimicrobial Agents and Chemotherapy"
+      },
+      {
+        "key": "10.1002/14651858.CD001364-BIB5|cit5",
+        "doi-asserted-by": "crossref",
+        "first-page": "893",
+        "DOI": "10.1093/jac/20.6.893",
+        "article-title": "Prophylaxis and treatment of rhinovirus colds with zinc gluconate lozenges",
+        "volume": "20",
+        "author": "Al-Nakib",
+        "year": "1987",
+        "journal-title": "Journal of Antimicrobial Chemotherapy"
+      },
+      {
+        "key": "10.1002/14651858.CD001364-BIB6|cit6",
+        "article-title": "C. Failure of effervescent zinc acetate lozenges to alter the course of upper respiratory tract infections in Australian adults",
+        "volume": "1263-1265",
+        "author": "Douglas",
+        "year": "1987",
+        "journal-title": "Antimicrobial Agents and Chemotherapy"
+      },
+      {
+        "key": "10.1002/14651858.CD001364-BIB7|cit7",
+        "article-title": "Failure of zinc gluconate in treatment of acute upper respiratory tract infections",
+        "volume": "646 - 648",
+        "author": "Smith",
+        "year": "1989",
+        "journal-title": "Antimicrobial Agents and Chemotherapy"
+      },
+      {
+        "key": "10.1002/14651858.CD001364-BIB8|cit8",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1128/AAC.25.1.20",
+        "article-title": "Reduction in duration of common colds by zinc gluconate lozenges in a double blind study",
+        "author": "Eby",
+        "year": "1984",
+        "journal-title": "Antimicrobial Agents and Chemotherapy"
+      },
+      {
+        "issue": "9",
+        "key": "10.1002/14651858.CD001364-BIB9|cit9",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1016/0021-9681(87)90187-1",
+        "article-title": "The problems of taste in placebo matching: An evaluation of zinc gluconate for the common cold",
+        "volume": "40",
+        "author": "Farr",
+        "year": "1987",
+        "journal-title": "Journal of Chronic Disease"
+      },
+      {
+        "key": "10.1002/14651858.CD001364-BIB10|cit10",
+        "first-page": "607",
+        "article-title": "Letter to the Editor",
+        "volume": "32",
+        "author": "Farr",
+        "year": "1988",
+        "journal-title": "Antimicrobial Agents and Chemotherapy"
+      },
+      {
+        "issue": "2",
+        "key": "10.1002/14651858.CD001364-BIB11|cit11",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1002/jps.2600810205",
+        "article-title": "Zinc(II) in Saliva: Determination of concentrations produced by different formulations of zinc gluconate lozenges containing common excipients",
+        "volume": "81",
+        "author": "Zarembo",
+        "year": "1992",
+        "journal-title": "Journal of Pharmaceutical Sciences"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1002/14651858.cd001364.pub5",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              30
+            ]
+          ],
+          "date-time": "2015-04-30T00:00:00Z",
+          "timestamp": 1430352000000
+        },
+        "record-id": "32242"
+      }
+    ],
+    "container-title": [
+      "Cochrane Database of Systematic Reviews"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD001364",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          9
+        ]
+      ],
+      "date-time": "2021-08-09T17:02:24Z",
+      "timestamp": 1628528544000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.wiley.com/10.1002/14651858.CD001364"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Ian",
+        "family": "Marshall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "editor",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          4,
+          26
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1002/14651858.cd001364",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1999,
+          4,
+          26
+        ]
+      ]
+    }
+  }
+}

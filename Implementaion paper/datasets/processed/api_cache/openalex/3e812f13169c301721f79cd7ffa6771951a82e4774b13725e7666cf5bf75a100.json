@@ -1,0 +1,1766 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1038/ncomms15192",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1038%2Fncomms15192",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:16.304579+00:00",
+  "record": {
+    "id": "https://openalex.org/W2613310013",
+    "doi": "https://doi.org/10.1038/ncomms15192",
+    "title": "RETRACTED ARTICLE: Precise determination of graphene functionalization by in situ Raman spectroscopy",
+    "display_name": "RETRACTED ARTICLE: Precise determination of graphene functionalization by in situ Raman spectroscopy",
+    "publication_year": 2017,
+    "publication_date": "2017-05-08",
+    "ids": {
+      "openalex": "https://openalex.org/W2613310013",
+      "doi": "https://doi.org/10.1038/ncomms15192",
+      "mag": "2613310013",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/28480893",
+      "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/5424145"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1038/ncomms15192",
+      "doi": "https://doi.org/10.1038/ncomms15192",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/ncomms15192",
+      "pdf_url": "https://www.nature.com/articles/ncomms15192.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-a",
+          "doyens",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "oarl",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "arxiv",
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/ncomms15192.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5017261856",
+          "display_name": "Philipp Vecera",
+          "orcid": "https://orcid.org/0000-0002-0399-5096",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-0399-5096"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181369854",
+            "display_name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "ror": "https://ror.org/00f7hpc57",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Philipp Vecera",
+        "raw_affiliation_strings": [
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5075296574",
+          "display_name": "Julio C. Chac\u00f3n\u2010Torres",
+          "orcid": "https://orcid.org/0000-0002-1833-504X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1833-504X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I3130401523",
+            "display_name": "Universidad Yachay Tech",
+            "ror": "https://ror.org/04jjswc10",
+            "country_code": "EC",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I3130401523"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I75951250",
+            "display_name": "Freie Universit\u00e4t Berlin",
+            "ror": "https://ror.org/046ak2485",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75951250"
+            ]
+          }
+        ],
+        "countries": [
+          "DE",
+          "EC"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Julio C. Chac\u00f3n-Torres",
+        "raw_affiliation_strings": [
+          "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, 14195 Berlin, Germany",
+          "Yachay Tech University, School of Physical Sciences and Nanotechnology, Urcuqu\u00ed 100119, Ecuador",
+          "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, Berlin, 14195, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, 14195 Berlin, Germany",
+            "institution_ids": [
+              "https://openalex.org/I75951250"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Yachay Tech University, School of Physical Sciences and Nanotechnology, Urcuqu\u00ed 100119, Ecuador",
+            "institution_ids": [
+              "https://openalex.org/I3130401523"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, Berlin, 14195, Germany",
+            "institution_ids": [
+              "https://openalex.org/I75951250"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5042394938",
+          "display_name": "Thomas Pichler",
+          "orcid": "https://orcid.org/0000-0001-5377-9896",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5377-9896"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I129774422",
+            "display_name": "University of Vienna",
+            "ror": "https://ror.org/03prydq77",
+            "country_code": "AT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I129774422"
+            ]
+          }
+        ],
+        "countries": [
+          "AT"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Thomas Pichler",
+        "raw_affiliation_strings": [
+          "Faculty of Physics, University of Vienna, Strudlhofgasse 4, A-1090 Vienna, Austria",
+          "Faculty of Physics, University of Vienna, Strudlhofgasse 4, Vienna, A-1090, Austria"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-5377-9896",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Faculty of Physics, University of Vienna, Strudlhofgasse 4, A-1090 Vienna, Austria",
+            "institution_ids": [
+              "https://openalex.org/I129774422"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Faculty of Physics, University of Vienna, Strudlhofgasse 4, Vienna, A-1090, Austria",
+            "institution_ids": [
+              "https://openalex.org/I129774422"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5045431784",
+          "display_name": "Stephanie Reich",
+          "orcid": "https://orcid.org/0000-0002-2391-0256",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2391-0256"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I75951250",
+            "display_name": "Freie Universit\u00e4t Berlin",
+            "ror": "https://ror.org/046ak2485",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I75951250"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Stephanie Reich",
+        "raw_affiliation_strings": [
+          "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, 14195 Berlin, Germany",
+          "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, Berlin, 14195, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, 14195 Berlin, Germany",
+            "institution_ids": [
+              "https://openalex.org/I75951250"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Institut f\u00fcr Experimental Physik, Freie Universit\u00e4t Berlin, Arnimallee 14, Berlin, 14195, Germany",
+            "institution_ids": [
+              "https://openalex.org/I75951250"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5021788466",
+          "display_name": "Himadri R. Soni",
+          "orcid": "https://orcid.org/0000-0002-2497-9351",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2497-9351"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181369854",
+            "display_name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "ror": "https://ror.org/00f7hpc57",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Himadri R. Soni",
+        "raw_affiliation_strings": [
+          "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, 91058 Erlangen, Germany",
+          "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, Erlangen, 91058, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, 91058 Erlangen, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, Erlangen, 91058, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5067224843",
+          "display_name": "Andreas G\u00f6rling",
+          "orcid": "https://orcid.org/0000-0002-1831-3318",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1831-3318"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181369854",
+            "display_name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "ror": "https://ror.org/00f7hpc57",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Andreas G\u00f6rling",
+        "raw_affiliation_strings": [
+          "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, 91058 Erlangen, Germany",
+          "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, Erlangen, 91058, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, 91058 Erlangen, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Chair of Theoretical Chemistry, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU), Egerlandstra\u00dfe 3, Erlangen, 91058, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5082689975",
+          "display_name": "Konstantin Felix Edelthalhammer",
+          "orcid": "https://orcid.org/0000-0003-3510-5964",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3510-5964"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181369854",
+            "display_name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "ror": "https://ror.org/00f7hpc57",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Konstantin Edelthalhammer",
+        "raw_affiliation_strings": [
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5078788765",
+          "display_name": "Herwig Peterlik",
+          "orcid": "https://orcid.org/0000-0002-2113-9920",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2113-9920"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I129774422",
+            "display_name": "University of Vienna",
+            "ror": "https://ror.org/03prydq77",
+            "country_code": "AT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I129774422"
+            ]
+          }
+        ],
+        "countries": [
+          "AT"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Herwig Peterlik",
+        "raw_affiliation_strings": [
+          "Faculty of Physics, University of Vienna, Strudlhofgasse 4, A-1090 Vienna, Austria",
+          "Faculty of Physics, University of Vienna, Strudlhofgasse 4, Vienna, A-1090, Austria"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2113-9920",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Faculty of Physics, University of Vienna, Strudlhofgasse 4, A-1090 Vienna, Austria",
+            "institution_ids": [
+              "https://openalex.org/I129774422"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Faculty of Physics, University of Vienna, Strudlhofgasse 4, Vienna, A-1090, Austria",
+            "institution_ids": [
+              "https://openalex.org/I129774422"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5001725286",
+          "display_name": "Frank Hauke",
+          "orcid": "https://orcid.org/0000-0001-9637-7299",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9637-7299"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181369854",
+            "display_name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "ror": "https://ror.org/00f7hpc57",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Frank Hauke",
+        "raw_affiliation_strings": [
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5019368171",
+          "display_name": "Andreas Hirsch",
+          "orcid": "https://orcid.org/0000-0003-1458-8872",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1458-8872",
+            "https://orcid.org/0000-0002-0399-5096"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181369854",
+            "display_name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+            "ror": "https://ror.org/00f7hpc57",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Andreas Hirsch",
+        "raw_affiliation_strings": [
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+          "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-0399-5096",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, 91054 Erlangen, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Chair of Organic Chemistry II and Joint Institute of Advanced Materials and Processes (ZMP), Friedrich-Alexander University of Erlangen-Nuremberg, Henkestrasse 42, Erlangen, 91054, Germany",
+            "institution_ids": [
+              "https://openalex.org/I181369854"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 3,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5019368171"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I181369854"
+    ],
+    "apc_list": {
+      "value": 6990,
+      "currency": "USD",
+      "value_usd": 6990
+    },
+    "apc_paid": {
+      "value": 6990,
+      "currency": "USD",
+      "value_usd": 6990
+    },
+    "fwci": 9.1007,
+    "has_fulltext": true,
+    "cited_by_count": 153,
+    "citation_normalized_percentile": {
+      "value": 0.98842204,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 97,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "8",
+      "issue": "1",
+      "first_page": "15192",
+      "last_page": "15192"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10083",
+      "display_name": "Graphene research and applications",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10083",
+        "display_name": "Graphene research and applications",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13465",
+        "display_name": "Graphite, nuclear technology, radiation studies",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10478",
+        "display_name": "Diamond and Carbon-based Materials Research",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2505",
+          "display_name": "Materials Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/graphene-functionalization",
+        "display_name": "graphene functionalization",
+        "score": 0.9750000238418579
+      },
+      {
+        "id": "https://openalex.org/keywords/covalent-functionalization",
+        "display_name": "covalent functionalization",
+        "score": 0.9269999861717224
+      },
+      {
+        "id": "https://openalex.org/keywords/potassium-intercalation",
+        "display_name": "potassium intercalation",
+        "score": 0.8320000171661377
+      },
+      {
+        "id": "https://openalex.org/keywords/graphite",
+        "display_name": "graphite",
+        "score": 0.7850000262260437
+      },
+      {
+        "id": "https://openalex.org/keywords/raman-spectroscopy",
+        "display_name": "Raman spectroscopy",
+        "score": 0.7089999914169312
+      },
+      {
+        "id": "https://openalex.org/keywords/d-band",
+        "display_name": "D-band",
+        "score": 0.5920000076293945
+      },
+      {
+        "id": "https://openalex.org/keywords/vibrational-assignment",
+        "display_name": "vibrational assignment",
+        "score": 0.6629999876022339
+      },
+      {
+        "id": "https://openalex.org/keywords/reoxidation",
+        "display_name": "reoxidation",
+        "score": 0.6570000052452087
+      },
+      {
+        "id": "https://openalex.org/keywords/carbon-allotropes",
+        "display_name": "carbon allotropes",
+        "score": 0.7590000033378601
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C115537861",
+        "wikidata": "https://www.wikidata.org/wiki/Q7645993",
+        "display_name": "Surface modification",
+        "level": 2,
+        "score": 0.9189804196357727
+      },
+      {
+        "id": "https://openalex.org/C30080830",
+        "wikidata": "https://www.wikidata.org/wiki/Q169917",
+        "display_name": "Graphene",
+        "level": 2,
+        "score": 0.852753221988678
+      },
+      {
+        "id": "https://openalex.org/C40003534",
+        "wikidata": "https://www.wikidata.org/wiki/Q862228",
+        "display_name": "Raman spectroscopy",
+        "level": 2,
+        "score": 0.8421199321746826
+      },
+      {
+        "id": "https://openalex.org/C2779698641",
+        "wikidata": "https://www.wikidata.org/wiki/Q5309",
+        "display_name": "Graphite",
+        "level": 2,
+        "score": 0.7173316478729248
+      },
+      {
+        "id": "https://openalex.org/C192562407",
+        "wikidata": "https://www.wikidata.org/wiki/Q228736",
+        "display_name": "Materials science",
+        "level": 0,
+        "score": 0.5668190717697144
+      },
+      {
+        "id": "https://openalex.org/C180577832",
+        "wikidata": "https://www.wikidata.org/wiki/Q127920",
+        "display_name": "Covalent bond",
+        "level": 2,
+        "score": 0.5499082803726196
+      },
+      {
+        "id": "https://openalex.org/C140205800",
+        "wikidata": "https://www.wikidata.org/wiki/Q5860",
+        "display_name": "Carbon fibers",
+        "level": 3,
+        "score": 0.43335235118865967
+      },
+      {
+        "id": "https://openalex.org/C171250308",
+        "wikidata": "https://www.wikidata.org/wiki/Q11468",
+        "display_name": "Nanotechnology",
+        "level": 1,
+        "score": 0.42378613352775574
+      },
+      {
+        "id": "https://openalex.org/C2777822432",
+        "wikidata": "https://www.wikidata.org/wiki/Q216681",
+        "display_name": "In situ",
+        "level": 2,
+        "score": 0.4148298501968384
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.34018266201019287
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "wikidata": "https://www.wikidata.org/wiki/Q11351",
+        "display_name": "Organic chemistry",
+        "level": 1,
+        "score": 0.15442118048667908
+      },
+      {
+        "id": "https://openalex.org/C147789679",
+        "wikidata": "https://www.wikidata.org/wiki/Q11372",
+        "display_name": "Physical chemistry",
+        "level": 1,
+        "score": 0.14560741186141968
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.10835042595863342
+      },
+      {
+        "id": "https://openalex.org/C120665830",
+        "wikidata": "https://www.wikidata.org/wiki/Q14620",
+        "display_name": "Optics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C104779481",
+        "wikidata": "https://www.wikidata.org/wiki/Q50707",
+        "display_name": "Composite number",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C159985019",
+        "wikidata": "https://www.wikidata.org/wiki/Q181790",
+        "display_name": "Composite material",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 8,
+    "locations": [
+      {
+        "id": "doi:10.1038/ncomms15192",
+        "doi": "https://doi.org/10.1038/ncomms15192",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/ncomms15192",
+        "pdf_url": "https://www.nature.com/articles/ncomms15192.pdf",
+        "source": {
+          "id": "https://openalex.org/S64187185",
+          "display_name": "Nature Communications",
+          "issn_l": "2041-1723",
+          "issn": [
+            "2041-1723"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-a",
+            "doyens",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "oarl",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nature Communications",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:europepmc.org:4290682",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5424145",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400806",
+          "display_name": "Europe PMC (PubMed Central)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1303153112",
+          "host_organization_name": "European Bioinformatics Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/I1303153112"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:5424145",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5424145",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nat Commun",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmid:28480893",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/28480893",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nature communications",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:arXiv.org:1703.02498",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/1703.02498",
+        "pdf_url": "https://arxiv.org/pdf/1703.02498",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      {
+        "id": "pmh:info:fedora/oai:univie.ac.at:o:912142",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://phaidra.univie.ac.at/o:912142",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401993",
+          "display_name": "Phaidra (Universit\u00e4t Wien)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I129774422",
+          "host_organization_name": "University of Vienna",
+          "host_organization_lineage": [
+            "https://openalex.org/I129774422"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "ISSN:2041-1723",
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:RePEc:nat:natcom:v:8:y:2017:i:1:d:10.1038_ncomms15192",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.nature.com/articles/ncomms15192",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:a4278655812843d8bd7c2b28112a0b3f",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/a4278655812843d8bd7c2b28112a0b3f",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Nature Communications, Vol 8, Iss 1, Pp 1-9 (2017)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1038/ncomms15192",
+      "doi": "https://doi.org/10.1038/ncomms15192",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/ncomms15192",
+      "pdf_url": "https://www.nature.com/articles/ncomms15192.pdf",
+      "source": {
+        "id": "https://openalex.org/S64187185",
+        "display_name": "Nature Communications",
+        "issn_l": "2041-1723",
+        "issn": [
+          "2041-1723"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-a",
+          "doyens",
+          "jufo-3",
+          "ki-jl-3",
+          "medline",
+          "norway-2",
+          "oarl",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Nature Communications",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G354984597",
+        "display_name": null,
+        "funder_award_id": "SFB953",
+        "funder_id": "https://openalex.org/F4320320879",
+        "funder_display_name": "Deutsche Forschungsgemeinschaft"
+      },
+      {
+        "id": "https://openalex.org/G3947749337",
+        "display_name": "Graphene-Based Revolutions in ICT And Beyond",
+        "funder_award_id": "604391",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G4937468798",
+        "display_name": null,
+        "funder_award_id": "H2020",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G5657833652",
+        "display_name": null,
+        "funder_award_id": "604391",
+        "funder_id": "https://openalex.org/F4320317583",
+        "funder_display_name": "Graphene Flagship"
+      },
+      {
+        "id": "https://openalex.org/G6203591085",
+        "display_name": null,
+        "funder_award_id": "664878",
+        "funder_id": "https://openalex.org/F4320332999",
+        "funder_display_name": "Horizon 2020 Framework Programme"
+      },
+      {
+        "id": "https://openalex.org/G7123683057",
+        "display_name": null,
+        "funder_award_id": "H2020 FET",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G7310867467",
+        "display_name": null,
+        "funder_award_id": "Project C2",
+        "funder_id": "https://openalex.org/F4320320879",
+        "funder_display_name": "Deutsche Forschungsgemeinschaft"
+      },
+      {
+        "id": "https://openalex.org/G8275283015",
+        "display_name": null,
+        "funder_award_id": "604391",
+        "funder_id": "https://openalex.org/F4320332999",
+        "funder_display_name": "Horizon 2020 Framework Programme"
+      },
+      {
+        "id": "https://openalex.org/G8569093623",
+        "display_name": "Redesigning 2D Materials for the Formulation of Semiconducting Inks",
+        "funder_award_id": "664878",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G864108668",
+        "display_name": null,
+        "funder_award_id": "DFG-SFB953",
+        "funder_id": "https://openalex.org/F4320320879",
+        "funder_display_name": "Deutsche Forschungsgemeinschaft"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320317583",
+        "display_name": "Graphene Flagship",
+        "ror": null
+      },
+      {
+        "id": "https://openalex.org/F4320320300",
+        "display_name": "European Commission",
+        "ror": "https://ror.org/00k4n6c32"
+      },
+      {
+        "id": "https://openalex.org/F4320320879",
+        "display_name": "Deutsche Forschungsgemeinschaft",
+        "ror": "https://ror.org/018mejw64"
+      },
+      {
+        "id": "https://openalex.org/F4320332999",
+        "display_name": "Horizon 2020 Framework Programme",
+        "ror": "https://ror.org/00k4n6c32"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2613310013.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2613310013.grobid-xml"
+    },
+    "referenced_works_count": 54,
+    "referenced_works": [
+      "https://openalex.org/W1504215634",
+      "https://openalex.org/W1578142492",
+      "https://openalex.org/W1973566553",
+      "https://openalex.org/W1981368803",
+      "https://openalex.org/W1985881684",
+      "https://openalex.org/W1999773779",
+      "https://openalex.org/W2002075916",
+      "https://openalex.org/W2007395042",
+      "https://openalex.org/W2017701531",
+      "https://openalex.org/W2021399517",
+      "https://openalex.org/W2024261075",
+      "https://openalex.org/W2029239040",
+      "https://openalex.org/W2035497069",
+      "https://openalex.org/W2036113194",
+      "https://openalex.org/W2042454875",
+      "https://openalex.org/W2043454542",
+      "https://openalex.org/W2049586685",
+      "https://openalex.org/W2054765464",
+      "https://openalex.org/W2060009331",
+      "https://openalex.org/W2067924579",
+      "https://openalex.org/W2070682899",
+      "https://openalex.org/W2071899984",
+      "https://openalex.org/W2072361013",
+      "https://openalex.org/W2074880343",
+      "https://openalex.org/W2075862341",
+      "https://openalex.org/W2083222334",
+      "https://openalex.org/W2084503804",
+      "https://openalex.org/W2089220528",
+      "https://openalex.org/W2093483444",
+      "https://openalex.org/W2100555554",
+      "https://openalex.org/W2110835769",
+      "https://openalex.org/W2114665511",
+      "https://openalex.org/W2121810196",
+      "https://openalex.org/W2129649623",
+      "https://openalex.org/W2133061058",
+      "https://openalex.org/W2135580922",
+      "https://openalex.org/W2136334331",
+      "https://openalex.org/W2149835931",
+      "https://openalex.org/W2235679284",
+      "https://openalex.org/W2273441470",
+      "https://openalex.org/W2300850202",
+      "https://openalex.org/W2312355907",
+      "https://openalex.org/W2314002279",
+      "https://openalex.org/W2315142802",
+      "https://openalex.org/W2318790962",
+      "https://openalex.org/W2321278161",
+      "https://openalex.org/W2321950858",
+      "https://openalex.org/W2325110773",
+      "https://openalex.org/W2329083572",
+      "https://openalex.org/W2333717298",
+      "https://openalex.org/W2338847494",
+      "https://openalex.org/W2488048162",
+      "https://openalex.org/W2598106653",
+      "https://openalex.org/W4205249978"
+    ],
+    "related_works": [
+      "https://openalex.org/W2961803145",
+      "https://openalex.org/W6910451244",
+      "https://openalex.org/W2967981384",
+      "https://openalex.org/W2598106653",
+      "https://openalex.org/W2325110773",
+      "https://openalex.org/W2304780721",
+      "https://openalex.org/W4412630179",
+      "https://openalex.org/W3048383746",
+      "https://openalex.org/W7095585220",
+      "https://openalex.org/W2055641698"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        70,
+        132
+      ],
+      "verification": [
+        1
+      ],
+      "of": [
+        2,
+        7,
+        27,
+        36,
+        51,
+        55,
+        67,
+        72,
+        78,
+        91,
+        99,
+        117,
+        137,
+        145,
+        157,
+        160
+      ],
+      "a": [
+        3,
+        52,
+        86
+      ],
+      "successful": [
+        4
+      ],
+      "covalent": [
+        5,
+        34
+      ],
+      "functionalization": [
+        6,
+        54,
+        79,
+        140
+      ],
+      "graphene": [
+        8
+      ],
+      "and": [
+        9,
+        25,
+        124
+      ],
+      "related": [
+        10
+      ],
+      "carbon": [
+        11,
+        122
+      ],
+      "allotropes": [
+        12
+      ],
+      "can": [
+        13
+      ],
+      "easily": [
+        14
+      ],
+      "be": [
+        15
+      ],
+      "carried": [
+        16
+      ],
+      "out": [
+        17
+      ],
+      "by": [
+        18
+      ],
+      "Raman": [
+        19,
+        49,
+        130
+      ],
+      "spectroscopy.": [
+        20
+      ],
+      "Nevertheless,": [
+        21
+      ],
+      "the": [
+        22,
+        33,
+        65,
+        68,
+        89,
+        92,
+        97,
+        110,
+        114,
+        118,
+        138,
+        143,
+        146,
+        158
+      ],
+      "unequivocal": [
+        23
+      ],
+      "assignment": [
+        24
+      ],
+      "resolution": [
+        26
+      ],
+      "individual": [
+        28
+      ],
+      "lattice": [
+        29,
+        121
+      ],
+      "modes": [
+        30
+      ],
+      "associated": [
+        31
+      ],
+      "with": [
+        32,
+        75,
+        142
+      ],
+      "binding": [
+        35
+      ],
+      "addends": [
+        37
+      ],
+      "was": [
+        38
+      ],
+      "elusive": [
+        39
+      ],
+      "up": [
+        40
+      ],
+      "to": [
+        41,
+        82,
+        108,
+        125,
+        128
+      ],
+      "now.": [
+        42
+      ],
+      "Here": [
+        43
+      ],
+      "we": [
+        44,
+        105
+      ],
+      "present": [
+        45
+      ],
+      "an": [
+        46,
+        150,
+        154
+      ],
+      "in": [
+        47,
+        64,
+        113,
+        134
+      ],
+      "situ": [
+        48,
+        135
+      ],
+      "study": [
+        50
+      ],
+      "controlled": [
+        53
+      ],
+      "potassium": [
+        56
+      ],
+      "intercalated": [
+        57,
+        147
+      ],
+      "graphite,": [
+        58
+      ],
+      "revealing": [
+        59
+      ],
+      "several": [
+        60
+      ],
+      "new": [
+        61
+      ],
+      "bands": [
+        62,
+        74
+      ],
+      "appearing": [
+        63
+      ],
+      "D-region": [
+        66
+      ],
+      "spectrum.": [
+        69
+      ],
+      "evolution": [
+        71
+      ],
+      "these": [
+        73
+      ],
+      "increasing": [
+        76
+      ],
+      "degree": [
+        77
+      ],
+      "from": [
+        80
+      ],
+      "low": [
+        81
+      ],
+      "moderate": [
+        83
+      ],
+      "levels": [
+        84
+      ],
+      "provides": [
+        85
+      ],
+      "basis": [
+        87
+      ],
+      "for": [
+        88
+      ],
+      "deconvolution": [
+        90
+      ],
+      "different": [
+        93
+      ],
+      "components": [
+        94
+      ],
+      "towards": [
+        95,
+        153
+      ],
+      "quantifying": [
+        96
+      ],
+      "extent": [
+        98
+      ],
+      "functionalization.": [
+        100
+      ],
+      "By": [
+        101
+      ],
+      "complementary": [
+        102
+      ],
+      "DFT": [
+        103
+      ],
+      "calculations": [
+        104
+      ],
+      "were": [
+        106
+      ],
+      "able": [
+        107
+      ],
+      "identify": [
+        109
+      ],
+      "vibrational": [
+        111
+      ],
+      "changes": [
+        112
+      ],
+      "close": [
+        115
+      ],
+      "proximity": [
+        116
+      ],
+      "addend": [
+        119
+      ],
+      "bearing": [
+        120
+      ],
+      "atoms": [
+        123
+      ],
+      "assign": [
+        126
+      ],
+      "them": [
+        127
+      ],
+      "specific": [
+        129
+      ],
+      "modes.": [
+        131
+      ],
+      "experimental": [
+        133
+      ],
+      "observation": [
+        136
+      ],
+      "developing": [
+        139
+      ],
+      "along": [
+        141
+      ],
+      "reoxidation": [
+        144
+      ],
+      "graphite": [
+        148
+      ],
+      "represents": [
+        149
+      ],
+      "important": [
+        151
+      ],
+      "step": [
+        152
+      ],
+      "improved": [
+        155
+      ],
+      "understanding": [
+        156
+      ],
+      "chemistry": [
+        159
+      ],
+      "graphene.": [
+        161
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 21
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 29
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 24
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 24
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 20
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 11
+      }
+    ],
+    "updated_date": "2026-11-03T10:50:19.383937",
+    "created_date": "2017-05-19T00:00:00"
+  }
+}

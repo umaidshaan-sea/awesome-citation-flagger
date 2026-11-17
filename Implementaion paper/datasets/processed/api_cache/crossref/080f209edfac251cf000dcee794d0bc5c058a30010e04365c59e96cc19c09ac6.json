@@ -1,0 +1,265 @@
+{
+  "provider": "crossref",
+  "original_doi": "10.1109/cctae.2010.5544611",
+  "url": "https://api.crossref.org/works/10.1109%2Fcctae.2010.5544611",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:55.386653+00:00",
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T07:13:23Z",
+      "timestamp": 1767165203603,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1109/cctae.2010.5544611",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              12
+            ]
+          ],
+          "date-time": "2010-08-12T00:00:00Z",
+          "timestamp": 1281571200000
+        },
+        "record-id": "13031"
+      }
+    ],
+    "reference-count": 9,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1109/cctae.2010.5544611",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2010-08-18T14:15:55Z",
+      "timestamp": 1282140955000
+    },
+    "page": "319-322",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Notice of Retraction: Strategy analysis of self-brand car in China"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "family": "Yali Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "family": "Hao Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "family": "Lihua Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref4",
+        "author": "bian",
+        "year": "2008",
+        "journal-title": "Marketing strategy for Chery Auto"
+      },
+      {
+        "key": "ref3",
+        "year": "0"
+      },
+      {
+        "key": "ref6",
+        "article-title": "The Growth of Independent Chinese Automotive Companies",
+        "author": "luo",
+        "year": "2005",
+        "journal-title": "International Motor Vehicle Program"
+      },
+      {
+        "key": "ref5",
+        "article-title": "Product development strategy of Chery Auto",
+        "author": "huang",
+        "year": "2007",
+        "journal-title": "Shandong University"
+      },
+      {
+        "key": "ref8",
+        "article-title": "The past, present and future of China's auto industry: A value chain perspective",
+        "author": "holweg",
+        "year": "2005",
+        "journal-title": "paper for UNIDO's global value chain project Center of Competitiveness and innovation"
+      },
+      {
+        "key": "ref7",
+        "article-title": "The Policy Options for China to Develop The Automotive Industry With Independent Intellectual Property",
+        "author": "lu",
+        "year": "2004",
+        "journal-title": "School of government management"
+      },
+      {
+        "key": "ref2",
+        "year": "0",
+        "journal-title": "Statistics from China Association of Automobile Manufactures"
+      },
+      {
+        "key": "ref9",
+        "first-page": "99",
+        "article-title": "Five Competitive Forces in China's Automobile Industry",
+        "volume": "7",
+        "author": "zhao",
+        "year": "2005",
+        "journal-title": "The Journal of American Academy of Business Cambridge"
+      },
+      {
+        "key": "ref1",
+        "year": "2009",
+        "journal-title": "Annual Report on Automotive Industry in China"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1109/cctae.2010.5544611",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2010,
+              8,
+              12
+            ]
+          ],
+          "date-time": "2010-08-12T00:00:00Z",
+          "timestamp": 1281571200000
+        },
+        "record-id": "13031"
+      }
+    ],
+    "event": {
+      "name": "2010 International Conference on Computer and Communication Technologies in Agriculture Engineering (CCTAE 2010)",
+      "location": "Chengdu",
+      "start": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            12
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            13
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2010 International Conference on Computer and Communication Technologies in Agriculture Engineering"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/5523764/5543116/05544611.pdf?arnumber=5544611",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2019-06-10T21:20:55Z",
+      "timestamp": 1560201655000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/5544611/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    },
+    "references-count": 9,
+    "URL": "https://doi.org/10.1109/cctae.2010.5544611",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    }
+  }
+}

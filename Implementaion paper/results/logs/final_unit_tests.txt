@@ -1,0 +1,26 @@
+test_cached_case_relation_counts (test_archived_invariants_v2.ArchivedEvidenceTests.test_cached_case_relation_counts) ... ok
+test_exact_legacy_failure_subtypes (test_archived_invariants_v2.ArchivedEvidenceTests.test_exact_legacy_failure_subtypes) ... ok
+test_title_flags_are_not_balanced_by_label (test_archived_invariants_v2.ArchivedEvidenceTests.test_title_flags_are_not_balanced_by_label) ... ok
+test_abstention_cannot_inflate_f1_end_to_end (test_audit_edges.AuditEdges.test_abstention_cannot_inflate_f1_end_to_end) ... ok
+test_missing_source_unknown (test_audit_edges.AuditEdges.test_missing_source_unknown) ... ok
+test_multi_doi_not_selected_even_when_regex_matches (test_audit_edges.AuditEdges.test_multi_doi_not_selected_even_when_regex_matches) ... ok
+test_reinstatement_requires_review (test_audit_edges.AuditEdges.test_reinstatement_requires_review) ... ok
+test_unverified_scoring_refused (test_audit_edges.AuditEdges.test_unverified_scoring_refused) ... ok
+test_crossref (test_core.Rules.test_crossref) ... ok
+test_doi (test_core.Rules.test_doi) ... ok
+test_oa (test_core.Rules.test_oa) ... ok
+test_score_refusal (test_core.Rules.test_score_refusal) ... ok
+test_union (test_core.Rules.test_union) ... ok
+test_distinct_notice_explanation (test_correction_2026.CorrectionAuditTests.test_distinct_notice_explanation) ... ok
+test_invalid_compound_doi (test_correction_2026.CorrectionAuditTests.test_invalid_compound_doi) ... ok
+test_mixed_self_and_notice_retains_notice (test_correction_2026.CorrectionAuditTests.test_mixed_self_and_notice_retains_notice) ... ok
+test_reinstatement_overrides_signal (test_correction_2026.CorrectionAuditTests.test_reinstatement_overrides_signal) ... ok
+test_self_referencing_typed_retraction_is_detected (test_correction_2026.CorrectionAuditTests.test_self_referencing_typed_retraction_is_detected) ... ok
+test_missing_columns_fails (test_validate_rw.CSVValidationTests.test_missing_columns_fails) ... ok
+test_missing_file_fails (test_validate_rw.CSVValidationTests.test_missing_file_fails) ... ok
+test_valid_fixture_counts_and_no_ground_truth_claim (test_validate_rw.CSVValidationTests.test_valid_fixture_counts_and_no_ground_truth_claim) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.025s
+
+OK

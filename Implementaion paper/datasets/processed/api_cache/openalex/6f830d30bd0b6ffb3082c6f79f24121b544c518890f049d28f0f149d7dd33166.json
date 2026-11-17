@@ -1,0 +1,1175 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1002/14651858.cd001364",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1002%2F14651858.cd001364",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:54:32.066928+00:00",
+  "record": {
+    "id": "https://openalex.org/W1727089362",
+    "doi": "https://doi.org/10.1002/14651858.cd001364",
+    "title": "Zinc for the common cold",
+    "display_name": "Zinc for the common cold",
+    "publication_year": 1999,
+    "publication_date": "1999-04-26",
+    "ids": {
+      "openalex": "https://openalex.org/W1727089362",
+      "doi": "https://doi.org/10.1002/14651858.cd001364",
+      "mag": "1727089362",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/10796643"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1002/14651858.cd001364",
+      "doi": "https://doi.org/10.1002/14651858.cd001364",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1002/14651858.cd001364",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172715",
+        "display_name": "Cochrane Database of Systematic Reviews",
+        "issn_l": "1361-6137",
+        "issn": [
+          "1361-6137",
+          "1464-780X",
+          "1465-184X",
+          "1465-1858",
+          "1469-493X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "doyens",
+          "jufo-1",
+          "jufo-2",
+          "ki-jl-2",
+          "medline",
+          "norway-1",
+          "norway-2",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cochrane Database of Systematic Reviews",
+      "raw_type": "reference-entry"
+    },
+    "volume": null,
+    "type": "reference-entry",
+    "indexed_in": [
+      "crossref",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5036860076",
+          "display_name": "Iain James Marshall",
+          "orcid": "https://orcid.org/0000-0003-2594-2654",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2594-2654"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I118347636",
+            "display_name": "Australian National University",
+            "ror": "https://ror.org/019wvm592",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I118347636"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "I Marshall",
+        "raw_affiliation_strings": [
+          "National Center of Epidemiology and Population Health, Australian National University, Canberra, Australia, 0200. marshali@health.qld.gov.au",
+          "Bellbowrie, QLD, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Center of Epidemiology and Population Health, Australian National University, Canberra, Australia, 0200. marshali@health.qld.gov.au",
+            "institution_ids": [
+              "https://openalex.org/I118347636"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Bellbowrie, QLD, Australia",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5036860076"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I118347636"
+    ],
+    "apc_list": {
+      "value": 5100,
+      "currency": "USD",
+      "value_usd": 5100
+    },
+    "apc_paid": null,
+    "fwci": null,
+    "has_fulltext": false,
+    "cited_by_count": 91,
+    "citation_normalized_percentile": null,
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": "2",
+      "first_page": "CD001364",
+      "last_page": "CD001364"
+    },
+    "is_retracted": true,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13483",
+      "display_name": "Herbal Medicine Research Studies",
+      "score": 0.8827999830245972,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2707",
+        "display_name": "Complementary and alternative medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13483",
+        "display_name": "Herbal Medicine Research Studies",
+        "score": 0.8827999830245972,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2707",
+          "display_name": "Complementary and alternative medicine"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10915",
+        "display_name": "Trace Elements in Health",
+        "score": 0.03310000151395798,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2916",
+          "display_name": "Nutrition and Dietetics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/29",
+          "display_name": "Nursing"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11243",
+        "display_name": "Respiratory viral infections research",
+        "score": 0.02759999968111515,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2713",
+          "display_name": "Epidemiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/zinc-lozenges",
+        "display_name": "zinc lozenges",
+        "score": 0.9559999704360962
+      },
+      {
+        "id": "https://openalex.org/keywords/common-cold",
+        "display_name": "common cold",
+        "score": 0.9869999885559082
+      },
+      {
+        "id": "https://openalex.org/keywords/acute-upper-respiratory-tract-infection",
+        "display_name": "acute upper respiratory tract infection",
+        "score": 0.9430000185966492
+      },
+      {
+        "id": "https://openalex.org/keywords/zinc-supplementation",
+        "display_name": "zinc supplementation",
+        "score": 0.47600001096725464
+      },
+      {
+        "id": "https://openalex.org/keywords/treatment-side-effects",
+        "display_name": "treatment side effects",
+        "score": 0.5640000104904175
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C158245101",
+        "wikidata": "https://www.wikidata.org/wiki/Q13127755",
+        "display_name": "Lozenge",
+        "level": 2,
+        "score": 0.9275464415550232
+      },
+      {
+        "id": "https://openalex.org/C2778136109",
+        "wikidata": "https://www.wikidata.org/wiki/Q12125",
+        "display_name": "Common cold",
+        "level": 2,
+        "score": 0.8976970911026001
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.8339112997055054
+      },
+      {
+        "id": "https://openalex.org/C27081682",
+        "wikidata": "https://www.wikidata.org/wiki/Q269829",
+        "display_name": "Placebo",
+        "level": 3,
+        "score": 0.7846328020095825
+      },
+      {
+        "id": "https://openalex.org/C95190672",
+        "wikidata": "https://www.wikidata.org/wiki/Q815382",
+        "display_name": "Meta-analysis",
+        "level": 2,
+        "score": 0.6026171445846558
+      },
+      {
+        "id": "https://openalex.org/C168563851",
+        "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+        "display_name": "Randomized controlled trial",
+        "level": 2,
+        "score": 0.5513675808906555
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+        "display_name": "MEDLINE",
+        "level": 2,
+        "score": 0.4757254421710968
+      },
+      {
+        "id": "https://openalex.org/C2776478404",
+        "wikidata": "https://www.wikidata.org/wiki/Q1105187",
+        "display_name": "Cochrane Library",
+        "level": 3,
+        "score": 0.4654926061630249
+      },
+      {
+        "id": "https://openalex.org/C535046627",
+        "wikidata": "https://www.wikidata.org/wiki/Q30612",
+        "display_name": "Clinical trial",
+        "level": 2,
+        "score": 0.4567095637321472
+      },
+      {
+        "id": "https://openalex.org/C61511704",
+        "wikidata": "https://www.wikidata.org/wiki/Q1671857",
+        "display_name": "Incidence (geometry)",
+        "level": 2,
+        "score": 0.43699929118156433
+      },
+      {
+        "id": "https://openalex.org/C2780805593",
+        "wikidata": "https://www.wikidata.org/wiki/Q2622199",
+        "display_name": "Upper respiratory tract infection",
+        "level": 2,
+        "score": 0.4317168593406677
+      },
+      {
+        "id": "https://openalex.org/C126322002",
+        "wikidata": "https://www.wikidata.org/wiki/Q11180",
+        "display_name": "Internal medicine",
+        "level": 1,
+        "score": 0.3857833743095398
+      },
+      {
+        "id": "https://openalex.org/C177713679",
+        "wikidata": "https://www.wikidata.org/wiki/Q679690",
+        "display_name": "Intensive care medicine",
+        "level": 1,
+        "score": 0.34955549240112305
+      },
+      {
+        "id": "https://openalex.org/C204787440",
+        "wikidata": "https://www.wikidata.org/wiki/Q188504",
+        "display_name": "Alternative medicine",
+        "level": 2,
+        "score": 0.14458519220352173
+      },
+      {
+        "id": "https://openalex.org/C142724271",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208",
+        "display_name": "Pathology",
+        "level": 1,
+        "score": 0.08334600925445557
+      },
+      {
+        "id": "https://openalex.org/C203014093",
+        "wikidata": "https://www.wikidata.org/wiki/Q101929",
+        "display_name": "Immunology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C120665830",
+        "wikidata": "https://www.wikidata.org/wiki/Q14620",
+        "display_name": "Optics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C166957645",
+        "wikidata": "https://www.wikidata.org/wiki/Q23498",
+        "display_name": "Archaeology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [
+      {
+        "descriptor_ui": "D003139",
+        "descriptor_name": "Common Cold",
+        "qualifier_ui": "Q000188",
+        "qualifier_name": "drug therapy",
+        "is_major_topic": true
+      },
+      {
+        "descriptor_ui": "D004304",
+        "descriptor_name": "Dosage Forms",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D006801",
+        "descriptor_name": "Humans",
+        "qualifier_ui": null,
+        "qualifier_name": null,
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015032",
+        "descriptor_name": "Zinc",
+        "qualifier_ui": "Q000008",
+        "qualifier_name": "administration & dosage",
+        "is_major_topic": false
+      },
+      {
+        "descriptor_ui": "D015032",
+        "descriptor_name": "Zinc",
+        "qualifier_ui": "Q000627",
+        "qualifier_name": "therapeutic use",
+        "is_major_topic": true
+      }
+    ],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1002/14651858.cd001364",
+        "doi": "https://doi.org/10.1002/14651858.cd001364",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1002/14651858.cd001364",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172715",
+          "display_name": "Cochrane Database of Systematic Reviews",
+          "issn_l": "1361-6137",
+          "issn": [
+            "1361-6137",
+            "1464-780X",
+            "1465-184X",
+            "1465-1858",
+            "1469-493X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "doyens",
+            "jufo-1",
+            "jufo-2",
+            "ki-jl-2",
+            "medline",
+            "norway-1",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cochrane Database of Systematic Reviews",
+        "raw_type": "reference-entry"
+      },
+      {
+        "id": "pmid:10796643",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/10796643",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Cochrane database of systematic reviews",
+        "raw_type": "Journal Article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.9907000064849854,
+        "id": "https://metadata.un.org/sdg/3",
+        "display_name": "Good health and well-being"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 7,
+    "referenced_works": [
+      "https://openalex.org/W2032842024",
+      "https://openalex.org/W2072060208",
+      "https://openalex.org/W2080891954",
+      "https://openalex.org/W2083340644",
+      "https://openalex.org/W2122771797",
+      "https://openalex.org/W2153720904",
+      "https://openalex.org/W6813407886"
+    ],
+    "related_works": [
+      "https://openalex.org/W7098595490",
+      "https://openalex.org/W2141478695",
+      "https://openalex.org/W4212797652",
+      "https://openalex.org/W1568841878",
+      "https://openalex.org/W4416646330",
+      "https://openalex.org/W4403476413",
+      "https://openalex.org/W2147124067",
+      "https://openalex.org/W2036834396",
+      "https://openalex.org/W1558891374",
+      "https://openalex.org/W4244473797"
+    ],
+    "abstract_inverted_index": {
+      "OBJECTIVES:": [
+        0
+      ],
+      "Interest": [
+        1
+      ],
+      "in": [
+        2
+      ],
+      "zinc": [
+        3,
+        32,
+        72,
+        158,
+        191,
+        208,
+        229
+      ],
+      "as": [
+        4,
+        114
+      ],
+      "a": [
+        5
+      ],
+      "treatment": [
+        6,
+        189,
+        221
+      ],
+      "for": [
+        7,
+        34,
+        73,
+        173,
+        210,
+        220
+      ],
+      "the": [
+        8,
+        14,
+        29,
+        44,
+        60,
+        104,
+        109,
+        128,
+        132,
+        142,
+        161,
+        185,
+        196,
+        205,
+        212,
+        218,
+        226
+      ],
+      "common": [
+        9,
+        213
+      ],
+      "cold": [
+        10,
+        35,
+        166,
+        199,
+        214,
+        233
+      ],
+      "has": [
+        11
+      ],
+      "grown": [
+        12
+      ],
+      "following": [
+        13
+      ],
+      "recent": [
+        15
+      ],
+      "publication": [
+        16
+      ],
+      "of": [
+        17,
+        23,
+        31,
+        43,
+        54,
+        62,
+        71,
+        106,
+        137,
+        165,
+        198,
+        204,
+        207,
+        228
+      ],
+      "several": [
+        18
+      ],
+      "controlled": [
+        19
+      ],
+      "trials.": [
+        20
+      ],
+      "The": [
+        21
+      ],
+      "objective": [
+        22
+      ],
+      "this": [
+        24
+      ],
+      "review": [
+        25
+      ],
+      "was": [
+        26,
+        41,
+        112,
+        170
+      ],
+      "to": [
+        27,
+        59,
+        116,
+        130,
+        144,
+        180,
+        222,
+        231
+      ],
+      "assess": [
+        28
+      ],
+      "effects": [
+        30,
+        206
+      ],
+      "lozenges": [
+        33,
+        159,
+        192,
+        209,
+        230
+      ],
+      "symptoms.": [
+        36,
+        139,
+        167,
+        200
+      ],
+      "SEARCH": [
+        37
+      ],
+      "STRATEGY:": [
+        38
+      ],
+      "A": [
+        39
+      ],
+      "search": [
+        40
+      ],
+      "made": [
+        42
+      ],
+      "Cochrane": [
+        45
+      ],
+      "Controlled": [
+        46
+      ],
+      "Trials": [
+        47
+      ],
+      "Register,": [
+        48
+      ],
+      "MEDLINE,": [
+        49
+      ],
+      "EMBASE": [
+        50
+      ],
+      "and": [
+        51,
+        90,
+        135,
+        163,
+        175
+      ],
+      "reference": [
+        52
+      ],
+      "lists": [
+        53
+      ],
+      "articles.": [
+        55
+      ],
+      "Searches": [
+        56
+      ],
+      "were": [
+        57,
+        101,
+        125
+      ],
+      "run": [
+        58
+      ],
+      "end": [
+        61
+      ],
+      "1997.": [
+        63
+      ],
+      "SELECTION": [
+        64
+      ],
+      "CRITERIA:": [
+        65
+      ],
+      "Randomised": [
+        66
+      ],
+      "double": [
+        67
+      ],
+      "blind": [
+        68
+      ],
+      "placebo-controlled": [
+        69
+      ],
+      "trials": [
+        70,
+        97,
+        150
+      ],
+      "acute": [
+        74
+      ],
+      "upper": [
+        75
+      ],
+      "respiratory": [
+        76,
+        138
+      ],
+      "tract": [
+        77
+      ],
+      "infection": [
+        78
+      ],
+      "or": [
+        79
+      ],
+      "cold.": [
+        80
+      ],
+      "DATA": [
+        81
+      ],
+      "COLLECTION": [
+        82
+      ],
+      "AND": [
+        83
+      ],
+      "ANALYSIS:": [
+        84
+      ],
+      "Two": [
+        85
+      ],
+      "reviewers": [
+        86
+      ],
+      "independently": [
+        87
+      ],
+      "extracted": [
+        88
+      ],
+      "data": [
+        89
+      ],
+      "assessed": [
+        91
+      ],
+      "trial": [
+        92
+      ],
+      "quality.": [
+        93
+      ],
+      "MAIN": [
+        94
+      ],
+      "RESULTS:": [
+        95
+      ],
+      "Seven": [
+        96
+      ],
+      "involving": [
+        98
+      ],
+      "754": [
+        99
+      ],
+      "cases": [
+        100
+      ],
+      "included.": [
+        102
+      ],
+      "With": [
+        103
+      ],
+      "exception": [
+        105
+      ],
+      "one": [
+        107
+      ],
+      "study,": [
+        108
+      ],
+      "methodological": [
+        110
+      ],
+      "quality": [
+        111
+      ],
+      "rated": [
+        113
+      ],
+      "medium": [
+        115
+      ],
+      "high.": [
+        117
+      ],
+      "For": [
+        118
+      ],
+      "most": [
+        119
+      ],
+      "outcome": [
+        120
+      ],
+      "measures": [
+        121
+      ],
+      "different": [
+        122
+      ],
+      "summary": [
+        123
+      ],
+      "estimates": [
+        124
+      ],
+      "used": [
+        126
+      ],
+      "across": [
+        127
+      ],
+      "studies": [
+        129
+      ],
+      "describe": [
+        131
+      ],
+      "duration,": [
+        133
+      ],
+      "incidence": [
+        134
+      ],
+      "severity": [
+        136,
+        162
+      ],
+      "This": [
+        140
+      ],
+      "limited": [
+        141
+      ],
+      "ability": [
+        143
+      ],
+      "pool": [
+        145
+      ],
+      "results.": [
+        146
+      ],
+      "Results": [
+        147
+      ],
+      "from": [
+        148
+      ],
+      "two": [
+        149
+      ],
+      "(04": [
+        151
+      ],
+      "-": [
+        152,
+        155
+      ],
+      "Mossad;": [
+        153
+      ],
+      "08": [
+        154
+      ],
+      "Smith)": [
+        156
+      ],
+      "suggested": [
+        157
+      ],
+      "reduced": [
+        160
+      ],
+      "duration": [
+        164,
+        197
+      ],
+      "However,": [
+        168
+      ],
+      "there": [
+        169
+      ],
+      "significant": [
+        171
+      ],
+      "potential": [
+        172,
+        219
+      ],
+      "bias,": [
+        174
+      ],
+      "further": [
+        176,
+        236
+      ],
+      "research": [
+        177
+      ],
+      "is": [
+        178,
+        215
+      ],
+      "required": [
+        179
+      ],
+      "substantiate": [
+        181
+      ],
+      "these": [
+        182
+      ],
+      "findings.": [
+        183
+      ],
+      "Overall,": [
+        184
+      ],
+      "results": [
+        186
+      ],
+      "suggest": [
+        187
+      ],
+      "that": [
+        188
+      ],
+      "with": [
+        190
+      ],
+      "did": [
+        193
+      ],
+      "not": [
+        194
+      ],
+      "reduce": [
+        195
+      ],
+      "REVIEWER'S": [
+        201
+      ],
+      "CONCLUSIONS:": [
+        202
+      ],
+      "Evidence": [
+        203
+      ],
+      "treating": [
+        211
+      ],
+      "inconclusive.": [
+        216
+      ],
+      "Given": [
+        217
+      ],
+      "produce": [
+        223
+      ],
+      "side": [
+        224
+      ],
+      "effects,": [
+        225
+      ],
+      "use": [
+        227
+      ],
+      "treat": [
+        232
+      ],
+      "symptoms": [
+        234
+      ],
+      "deserves": [
+        235
+      ],
+      "study.": [
+        237
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 10
+      }
+    ],
+    "updated_date": "2026-10-31T12:09:11.096373",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}

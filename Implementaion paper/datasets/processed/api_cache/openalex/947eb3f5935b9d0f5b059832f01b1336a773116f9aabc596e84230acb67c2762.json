@@ -1,0 +1,594 @@
+{
+  "provider": "openalex",
+  "original_doi": "10.1007/bf00993078",
+  "url": "https://api.openalex.org/works/https://doi.org/10.1007%2Fbf00993078",
+  "status": "OK",
+  "http_status": 200,
+  "fetched_at_utc": "2026-11-04T16:55:57.488726+00:00",
+  "record": {
+    "id": "https://openalex.org/W2112529578",
+    "doi": "https://doi.org/10.1007/bf00993078",
+    "title": "Balanced cooperative modeling",
+    "display_name": "Balanced cooperative modeling",
+    "publication_year": 1993,
+    "publication_date": "1993-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2112529578",
+      "doi": "https://doi.org/10.1007/bf00993078",
+      "mag": "2112529578"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1007/bf00993078",
+      "doi": "https://doi.org/10.1007/bf00993078",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/bf00993078",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/BF00993078.pdf",
+      "source": {
+        "id": "https://openalex.org/S62148650",
+        "display_name": "Machine Learning",
+        "issn_l": "0885-6125",
+        "issn": [
+          "0885-6125",
+          "1573-0565"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "ccf-b",
+          "cwts-core",
+          "dongbi-b",
+          "jufo-3",
+          "norway-2",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Machine Learning",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/BF00993078.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5065328227",
+          "display_name": "Katharina J. Morik",
+          "orcid": "https://orcid.org/0000-0003-1153-5986",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1153-5986"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I200332995",
+            "display_name": "TU Dortmund University",
+            "ror": "https://ror.org/01k97gp34",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I200332995"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Katharina Morik",
+        "raw_affiliation_strings": [
+          "Dept. Computer Science VIII, University of Dortmund, P.O. Box 500 500, 44227, Dortmund, Germany",
+          "University of Dortmund, Dept. Computer Science VIII, P.O. Box 500 500, 44227 Dortmund, Germany. MORIK@KILO.INFORMATIK.UNI-DORTMUND.DE#TAB#"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Dept. Computer Science VIII, University of Dortmund, P.O. Box 500 500, 44227, Dortmund, Germany",
+            "institution_ids": [
+              "https://openalex.org/I200332995"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of Dortmund, Dept. Computer Science VIII, P.O. Box 500 500, 44227 Dortmund, Germany. MORIK@KILO.INFORMATIK.UNI-DORTMUND.DE#TAB#",
+            "institution_ids": [
+              "https://openalex.org/I200332995"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5065328227"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I200332995"
+    ],
+    "apc_list": {
+      "value": 3290,
+      "currency": "USD",
+      "value_usd": 3290
+    },
+    "apc_paid": null,
+    "fwci": 11.813,
+    "has_fulltext": true,
+    "cited_by_count": 64,
+    "citation_normalized_percentile": {
+      "value": 0.98827412,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "11",
+      "issue": "2-3",
+      "first_page": "217",
+      "last_page": "235"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12072",
+      "display_name": "Machine Learning and Algorithms",
+      "score": 0.5971999764442444,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12072",
+        "display_name": "Machine Learning and Algorithms",
+        "score": 0.5971999764442444,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10538",
+        "display_name": "Data Mining Algorithms and Applications",
+        "score": 0.06889999657869339,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12535",
+        "display_name": "Machine Learning and Data Classification",
+        "score": 0.05079999938607216,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/knowledge-engineering",
+        "display_name": "knowledge engineering",
+        "score": 0.722000002861023
+      },
+      {
+        "id": "https://openalex.org/keywords/learning-algorithms",
+        "display_name": "learning algorithms",
+        "score": 0.36899998784065247
+      },
+      {
+        "id": "https://openalex.org/keywords/knowledge-acquisition",
+        "display_name": "knowledge acquisition",
+        "score": 0.41499999165534973
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.8109644651412964
+      },
+      {
+        "id": "https://openalex.org/C192209626",
+        "wikidata": "https://www.wikidata.org/wiki/Q190909",
+        "display_name": "Focus (optics)",
+        "level": 2,
+        "score": 0.6056680679321289
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.6037789583206177
+      },
+      {
+        "id": "https://openalex.org/C2780451532",
+        "wikidata": "https://www.wikidata.org/wiki/Q759676",
+        "display_name": "Task (project management)",
+        "level": 2,
+        "score": 0.5977853536605835
+      },
+      {
+        "id": "https://openalex.org/C98045186",
+        "wikidata": "https://www.wikidata.org/wiki/Q205663",
+        "display_name": "Process (computing)",
+        "level": 2,
+        "score": 0.5961773991584778
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.5950585603713989
+      },
+      {
+        "id": "https://openalex.org/C2776359362",
+        "wikidata": "https://www.wikidata.org/wiki/Q2145286",
+        "display_name": "Representation (politics)",
+        "level": 3,
+        "score": 0.533488392829895
+      },
+      {
+        "id": "https://openalex.org/C24138899",
+        "wikidata": "https://www.wikidata.org/wiki/Q17141258",
+        "display_name": "Instance-based learning",
+        "level": 3,
+        "score": 0.5160129070281982
+      },
+      {
+        "id": "https://openalex.org/C28006648",
+        "wikidata": "https://www.wikidata.org/wiki/Q6934509",
+        "display_name": "Multi-task learning",
+        "level": 3,
+        "score": 0.448900431394577
+      },
+      {
+        "id": "https://openalex.org/C77967617",
+        "wikidata": "https://www.wikidata.org/wiki/Q4677561",
+        "display_name": "Active learning (machine learning)",
+        "level": 2,
+        "score": 0.4069993793964386
+      },
+      {
+        "id": "https://openalex.org/C107457646",
+        "wikidata": "https://www.wikidata.org/wiki/Q207434",
+        "display_name": "Human\u2013computer interaction",
+        "level": 1,
+        "score": 0.3628618121147156
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.11039295792579651
+      },
+      {
+        "id": "https://openalex.org/C199360897",
+        "wikidata": "https://www.wikidata.org/wiki/Q9143",
+        "display_name": "Programming language",
+        "level": 1,
+        "score": 0.09934341907501221
+      },
+      {
+        "id": "https://openalex.org/C201995342",
+        "wikidata": "https://www.wikidata.org/wiki/Q682496",
+        "display_name": "Systems engineering",
+        "level": 1,
+        "score": 0.09248757362365723
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C94625758",
+        "wikidata": "https://www.wikidata.org/wiki/Q7163",
+        "display_name": "Politics",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C120665830",
+        "wikidata": "https://www.wikidata.org/wiki/Q14620",
+        "display_name": "Optics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "wikidata": "https://www.wikidata.org/wiki/Q413",
+        "display_name": "Physics",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1007/bf00993078",
+        "doi": "https://doi.org/10.1007/bf00993078",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/bf00993078",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/BF00993078.pdf",
+        "source": {
+          "id": "https://openalex.org/S62148650",
+          "display_name": "Machine Learning",
+          "issn_l": "0885-6125",
+          "issn": [
+            "0885-6125",
+            "1573-0565"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "ccf-b",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Machine Learning",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:CiteSeerX.psu:10.1.1.57.480",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.480",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://www-ai.informatik.uni-dortmund.de/DOKUMENTE/Morik_94a.ps.gz",
+        "raw_type": "text"
+      },
+      {
+        "id": "pmh:oai:CiteSeerX.psu:10.1.1.71.7362",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.71.7362",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://www-ai.informatik.uni-dortmund.de/DOKUMENTE/morik_94a.pdf",
+        "raw_type": "text"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1007/bf00993078",
+      "doi": "https://doi.org/10.1007/bf00993078",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/bf00993078",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/BF00993078.pdf",
+      "source": {
+        "id": "https://openalex.org/S62148650",
+        "display_name": "Machine Learning",
+        "issn_l": "0885-6125",
+        "issn": [
+          "0885-6125",
+          "1573-0565"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "ccf-b",
+          "cwts-core",
+          "dongbi-b",
+          "jufo-3",
+          "norway-2",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Machine Learning",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2112529578.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2112529578.grobid-xml"
+    },
+    "referenced_works_count": 24,
+    "referenced_works": [
+      "https://openalex.org/W25491312",
+      "https://openalex.org/W41262972",
+      "https://openalex.org/W1509783324",
+      "https://openalex.org/W1585363700",
+      "https://openalex.org/W1589622756",
+      "https://openalex.org/W1591425412",
+      "https://openalex.org/W1592888257",
+      "https://openalex.org/W1596324102",
+      "https://openalex.org/W1603569969",
+      "https://openalex.org/W1980316809",
+      "https://openalex.org/W1984328371",
+      "https://openalex.org/W1999138184",
+      "https://openalex.org/W2041049045",
+      "https://openalex.org/W2159047538",
+      "https://openalex.org/W2483438496",
+      "https://openalex.org/W2520858206",
+      "https://openalex.org/W2914032229",
+      "https://openalex.org/W3123149970",
+      "https://openalex.org/W6635675930",
+      "https://openalex.org/W6645200871",
+      "https://openalex.org/W6990072097",
+      "https://openalex.org/W7010337102",
+      "https://openalex.org/W7018120619",
+      "https://openalex.org/W7058293238"
+    ],
+    "related_works": [
+      "https://openalex.org/W1988418269",
+      "https://openalex.org/W117777712",
+      "https://openalex.org/W3007763925",
+      "https://openalex.org/W1977623151",
+      "https://openalex.org/W7115403755",
+      "https://openalex.org/W2765466900",
+      "https://openalex.org/W2401651341",
+      "https://openalex.org/W1792357815",
+      "https://openalex.org/W3153047243",
+      "https://openalex.org/W2750612041"
+    ],
+    "abstract_inverted_index": null,
+    "counts_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2026-10-16T09:59:22.235173",
+    "created_date": "2016-06-24T00:00:00"
+  }
+}
