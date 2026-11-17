@@ -23,8 +23,9 @@ The replay writes CSV/JSON outputs to `results/processed/`. The rendering step w
 - `codes/src/`: DOI normalization, classifiers, metrics, data validation and the previous classifier used for the diagnostic comparison.
 - `codes/scripts/`: benchmark replay and figure/table generation.
 - `codes/tests/`: rule, input-validation and frozen-benchmark regression tests.
-- `datasets/`: frozen benchmark and cached API evidence.
+- `datasets/`: original Retraction Watch snapshot, frozen benchmark and cached API evidence.
 - `results/`: reproducible metrics, evidence, figures and tables.
+- `paper/`: final `manuscript.pdf`, supplied `main.tex` PDF-import wrapper, and `bib.tex` LaTeX bibliography companion. The final PDF already contains references; the wrapper imports that PDF without adding a second bibliography.
 
 The `codes/data` and `codes/results` relative symlinks preserve script paths. Clone with symlink support, available by default on macOS/Linux.
 
